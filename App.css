@@ -1,0 +1,76 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  position: relative;
+  height: 190px;
+  z-index: 0;
+  top: -20px;
+}
+
+.App-header {
+
+  background-color: #1E2A59;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+nav ul {
+  position: relative;
+  top: -23px;
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  overflow: hidden;
+  background-color: #DE6F6F;
+}
+
+nav li {
+  float: left;
+}
+
+nav li a {
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+nav li a:hover {
+  background-color: #1E2A59;
+  color: white;
+}
+
+main article {
+  padding: 0 20px 5px 20px;
+}
+
+main h4 {
+  position: relative;
+  top: -15px;
+}
+
+main article p {
+  position: relative;
+  top: -20px;
+}
+
+article footer p {
+  font-size: 10px;
+}
+
+article img {
+  display: block;
+  height: 350px;
+  margin: auto;
+}
+
+footer h1 {
+  font-size: 15px;
+  background-color: #DE6F6F;
+}
