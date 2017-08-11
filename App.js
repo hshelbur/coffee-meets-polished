@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { BrowserRouter as Router, Route, Link} from 'react-router-dom';
 import './App.css';
 
 class Header extends Component {
@@ -12,9 +13,9 @@ class Header extends Component {
         </header>
         <nav className="Nav-bar">
           <ul>
-            <li><a href="home">Home</a></li>
-            <li><a href="bio">Bio</a></li>
-            <li><a href="singup">Sign Up</a></li>
+            <li><Link to="/">Home</Link></li>
+            <li><Link to={{pathname: "/aboutme"}}>About Me</Link></li>
+            <li><Link to={{pathname: "/subscribe"}}>Subscribe</Link></li>
           </ul>
         </nav>
       </div>
@@ -84,17 +85,49 @@ class Footer extends Component {
   }
 }
 
-class App extends Component {
-  render() {
-    return(
+class AboutMe extends Component {
+    render() {
+      return(
+        <article>
+          <h2>About Me</h2>
+          <p>Welcome to CoffeeMeetsPolished, a forum to share everything from what we enjoy when we are our bare-it-all selves with our first coffee of the day on the couch, to when we have to go out into the world pressured to be more polished.</p>
+          <p>My name is Erin and I'm an introvert, millenial, and self-proclaimed feminist with a career as a healthcare professional and leader. In June 2017, I completed a residency program that was an ironic experience where you're too swamped to focus on yourself but get broken to the point where you learn a lot about who you are. Through the serial burnout and rising from the ashes I was empowered to embrace my strengths (and many quirks), seek and accept help, and pursue personal passions - not just professional ones.</p>
+          <p>I created this blog in my late-20's to share my continuous quest for the appropriate level of integration of personal and professional life. It’s my hope that you may be able to relate or find tools that will work for you. Thanks for joining, and welcome!</p> 
+        </article>
+      );
+    }
+}
+
+const App = () => (
+  <Router>
+    <div>
+      
+      <Route exact path="/" render={() =>           
+        <div>
+            <Header />
+            <Main />
+            <Footer />
+          </div> 
+        } />
+
+      <Route path="/subscribe" render={() =>
         <div>
           <Header />
-          <Main />
           <ContactForm />
           <Footer />
         </div> 
-      )
-  }
-}
+        } />
+
+      <Route path="/aboutme" render={() =>
+        <div>
+          <Header />
+          <AboutMe />
+          <Footer />
+        </div>
+        } />
+
+    </div>
+  </Router>
+);
 
 export default App;
