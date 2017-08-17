@@ -1,76 +1,254 @@
-.App {
+/* Header Styles */
+
+.header header{
   text-align: center;
 }
 
-.App-logo {
-  position: relative;
-  height: 190px;
-  z-index: 0;
-  top: -20px;
+.header img{
+  width: 66%;
+  max-width: 500px;
+  max-height: 250px;
 }
 
-.App-header {
-
-  background-color: #1E2A59;
-  height: 150px;
-  padding: 20px;
-  color: white;
-}
-
-.App-intro {
-  font-size: large;
-}
-
-nav ul {
-  position: relative;
-  top: -23px;
-  padding: 0;
-  margin: 0;
+.header ul{
+  border: 1px solid #ccc;
+  border-width: 1px 0;
   list-style-type: none;
-  overflow: hidden;
-  background-color: #DE6F6F;
-}
-
-nav li {
-  float: left;
-}
-
-nav li a {
   text-align: center;
+}
+
+.header li{
+  display: inline;
+}
+
+.header li a{
+  display: inline-block;
   padding: 14px 16px;
   text-decoration: none;
+  font-family: Lato;
+  font-weight: 100;
+  color: #555;
+  font-size: 14px;
 }
 
-nav li a:hover {
-  background-color: #1E2A59;
+.header li a:hover {
+  background-color: #ccc;
   color: white;
 }
 
-main article {
-  padding: 0 20px 5px 20px;
+
+/* Footer Styles */
+
+.footer {
+  border: 1px solid #ccc;
+  border-width: 1px 0 0 0;
 }
 
-main h4 {
-  position: relative;
-  top: -15px;
+.footer h4 {
+  text-align: center;
 }
 
-main article p {
-  position: relative;
-  top: -20px;
+.footer form {
+  text-align: center;
 }
 
-article footer p {
-  font-size: 10px;
+.footer label {
+  padding: 0 0 0 10px;
 }
 
-article img {
+.footer section{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer img{
+  width: 35px;
+}
+
+.footer .instagram-icon{
+  width: 14px;
+}
+
+.footer .pinterest-icon{
+  width: 15px;
+  padding-left: 11px;
+}
+
+.footer .bloglovin-icon {
+  width: 26px;
+  padding-left: 3px;
+}
+
+/* Article Styles */
+
+.article img {
   display: block;
-  height: 350px;
+  width: 45%;
+  margin: auto;
+  padding-bottom: 10px;
+}
+
+.article {
+  padding: 0 20px 5px 20px;
+  border: 1px solid #ccc;
+  border-width: 0 0 1px 0;
+  width: 90%;
   margin: auto;
 }
 
-footer h1 {
-  font-size: 15px;
-  background-color: #DE6F6F;
+.article:last-of-type {
+  border-width: 0 0 0 0;
 }
+
+.article h1 {
+  font-size: 25px;
+  font-family: Palatino;
+  color: #213960; 
+}
+
+.article h2 {
+  position: relative;
+  font-size: 10px;
+  top: -20px;
+  font-weight: 100;
+  font-family: helvetica;
+}
+
+.article p {
+  font-size: 14px;
+  color: #4a5050;
+  position: relative;
+  top: -10px;
+  font-family: 'Lato', helvetica;
+  font-weight: 100;
+  line-height: 200%;
+}
+
+.article .tabbed {
+  margin: 20px 60px 20px 40px;
+  line-height: 150%;
+}
+
+.article footer p {
+  font-size: 10px;
+}
+
+/* Side Bar Styles */
+
+.side-bar {
+  text-align: center;
+}
+
+.side-bar input {
+  display: block;
+  margin: auto;
+}
+
+.side-bar .contact-form button {
+  margin: auto;
+}
+
+.side-bar .profile-picture {
+  width: 55%;
+  border-radius: 20%;
+  -webkit-box-shadow: -12px 12px 37px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: -12px 12px 37px 0px rgba(0,0,0,0.75);
+  box-shadow: -12px 12px 37px 0px rgba(0,0,0,0.75);
+}
+
+.side-bar p {
+  margin: 10%;
+  font-family: helvetica;
+  font-size: 14px;
+  font-weight: 200;
+}
+
+.side-bar .about {
+  border: 1px solid #ccc;
+  border-width: 0 0 1px 0;
+}
+
+.side-bar .footer {
+  border: 1px solid #ccc;
+  border-width: 0 0 1px 0;
+}
+
+/* InstagramPhotos Styles https://www.instagram.com/{username}/media/ */
+
+.instagram-photos h1 {
+  font-family: helvetica;
+  font-size: 16px;
+  color: #213960;
+  padding: 10px 0 3px 0;
+}
+
+.instagram-photos ul {
+  padding-left: 0;
+  margin-left: 0;
+}
+
+.instagram-photos li {
+  display: inline;
+  list-style-type: none;
+  margin: auto;
+}
+
+.instagram-photos img {
+  width: 33%;
+  float: left;
+}
+
+/* MISC Styles */
+
+.contact-info p {
+  text-align: center;
+}
+
+.contact-form h4 {
+  font-family: helvetica;
+  color: #213960;
+  margin-bottom: 6px;
+}
+
+
+/* Pages Styles */
+
+.about-me h1, .beauty h1, .life h1, .contact-info h1, .career h1 {
+  font-family: Palatino;
+  color: #213960; 
+  text-align: center;
+}
+
+.about-me p {
+  font-family: helvetica;
+  font-size: 14px;
+  font-weight: 200;
+  line-height: 200%;
+  margin: auto;
+  width: 80%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+
+
+/* RESPONSIVE DESIGN LAYOUT */
+
+@media (min-width: 750px) {
+  
+  .home, .life, .beauty, .about-me, .contact-info, .career {
+    float: left;
+    width: 70%;
+  }
+  .side-bar {
+    float: right;
+    width: 30%;
+  }
+  .footer {
+    clear: both;
+  }
+}
+
