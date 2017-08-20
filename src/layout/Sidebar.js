@@ -1,17 +1,17 @@
 import React, {Component} from 'react'
-import Footer from './Footer.js'
+import SocialForm from './SocialForm.js'
 
 class Sidebar extends Component {
   render() {
     return(
-        <aside className="side-bar">
+        <div>
             <section className="about">
-              <img className="profile-picture" src="/images/farting-cat.jpg" alt="I Farted"/>
+              <img className="profile-picture" src="/images/sidebar-about.jpg" alt="Erin"/>
               <p>Coffee Meets Polished is a lifestyle + career blog written by me, Erin. I'm an introvert, millenial, and self-proclaimed feminist. Through this blog I want us to celebrate who we are, from our first coffee of the day to our more polished selves.</p>
             </section>
-            <Footer />
+            <SocialForm />
             <InstagramPhotos />
-        </aside>
+        </div>
       );
   }
 }

@@ -1,53 +1,65 @@
-import React, { Component } from 'react';
+import React from 'react';
 import { BrowserRouter as Router, Route} from 'react-router-dom';
 import './App.css';
 import Header from './layout/Header.js';
-import Footer from './layout/Footer.js';
+import SocialForm from './layout/SocialForm.js';
 import Sidebar from './layout/Sidebar.js';
-import Home from './pages/Home.js';
-import LifeArticles from './pages/Life.js';
-import BeautyArticles from './pages/Beauty.js';
 import AboutMe from './pages/About.js';
 import ContactInfo from './pages/Contact.js';
-import CareerArticles from './pages/Career.js';
+import ArticlePage from './pages/ArticlePage.js';
+import ARTICLES from './data/Articles.js';
 
 const App = () => (
   <Router>
     <div>
 
       <Header />
+      <body className="container">
 
-      <Route exact path="/" render={() =>           
+        <div className="row">
+          <main className="col-md-8 col-lg-9">
 
-              <Home />
-        } />
+            <Route exact path="/" render={() =>           
+                <ArticlePage articles={ARTICLES} />
+              } />
 
-      <Route path="/contact" render={() =>
-          <ContactInfo />
-        } />
+            <Route path="/contact" render={() =>
+                <ContactInfo />
+              } />
 
-      <Route path="/about" render={() =>
-          <AboutMe />
-        } />
+            <Route path="/about" render={() =>
+                <AboutMe />
+              } />
 
-      <Route path="/life" render={() =>           
-          <LifeArticles />
-        } />
+            <Route path="/life" render={() =>           
+                <ArticlePage articles={ARTICLES.filter((article) => article.category === 'Life')} />
+              } />
 
-      <Route path="/career" render={() =>           
-          <CareerArticles />
-        } />
+            <Route path="/career" render={() =>           
+                <ArticlePage articles={ARTICLES.filter((article) => article.category === 'Career')} />
+              } />
 
-      <Route path="/beauty" render={() =>           
-          <BeautyArticles />
-        } />
+            <Route path="/beauty" render={() =>           
+                <ArticlePage articles={ARTICLES.filter((article) => article.category === 'Beauty')} />
+              } />
 
-      <Route path="/food" render={() =>           
-          <AboutMe />
-        } />
+            <Route path="/food" render={() =>           
+                <ArticlePage articles={ARTICLES.filter((article) => article.category === 'Food')} />
+              } />
+            </main>
+          
+          <aside className="col-md-4 col-lg-3 side-bar">
+            <Sidebar />
+          </aside>
 
-      <Sidebar />
-      <Footer />
+        </div>
+
+
+      </body>
+
+      <footer>
+        <SocialForm />
+      </footer>
 
     </div>
   </Router>
