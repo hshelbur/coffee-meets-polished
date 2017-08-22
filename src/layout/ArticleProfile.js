@@ -2,16 +2,19 @@ import React, { Component } from 'react';
 
 class ArticleProfile extends Component {
   render() {
+
+    const {title, date, post, category} = this.props
+
     return(
         <article className="article">
-          <header>
-            <h1>{this.props.title}</h1>
-            <h2>Published <time>{this.props.date}</time></h2>
-          </header>
-          <p>{this.props.post}</p>
-          <footer>
-            <p>A post about {this.props.category}</p>
-          </footer>
+          <h2 className="article-title">{title}</h2>
+          <h3 className="article-timestamp"><time>{date}</time></h3>
+          <div className="article-copy">
+            <p>{post}</p>
+          </div>
+          <div className="article-footer">
+            <p>A post about <a href={`/${category.toLowerCase()}`}>{category}</a></p>
+          </div>
         </article>
     );
   }
