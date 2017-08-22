@@ -59,6 +59,7 @@ const App = () => (
 
       <footer>
         <SocialForm />
+        <p className="developed-by">Designed and Developed by Howard Shelburne, Freelance Web Developer</p>
       </footer>
 
     </div>

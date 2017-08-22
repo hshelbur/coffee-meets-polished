@@ -599,6 +599,10 @@ footer .social-icons li {
   transition: all .2s ease;
 }
 
+footer .developed-by {
+  text-align: center;
+}
+
 .social-icons a:hover {
   transform: scale(.9);
 }
@@ -646,12 +650,13 @@ footer .social-icons li {
   background-color: #e5cbac;
 }
 
+
 .social-form section{
   display: flex;
   text-align: center;
   justify-content: center;
   align-items: center;
-  padding-bottom: 10px;
+  padding-bottom: 20px;
 }
 
 .social-form .instagram-icon {
