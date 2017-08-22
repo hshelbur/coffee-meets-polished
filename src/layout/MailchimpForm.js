@@ -9,12 +9,12 @@ class MailchimpForm extends Component {
         <form action="//coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" className="validate" target="_blank" noValidate>
           <div id="mc_embed_signup_scroll">
 
-            
+            <h2>Sign Up to Receive Updates!</h2>
             <div className="mc-field-group">
               <input type="email" placeholder="Email" name="EMAIL" className="required email" id="mce-EMAIL" />
             </div>
             <div className="mc-field-group">
-              <input type="text" placeholder="First Name" name="FNAME" className id="mce-FNAME" />
+              <input type="text" placeholder="First Name" name="FNAME" className="first-name" id="mce-FNAME" />
             </div>
           
             <div id="mce-responses" className="clear">

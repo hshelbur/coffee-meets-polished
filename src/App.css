@@ -616,9 +616,16 @@ footer .developed-by {
   border-bottom: 1px solid #ccc;
 }
 
+#mc_embed_signup h2 {
+  text-align: center;
+  margin-bottom: 15px;
+}
+
 #mc_embed_signup input {
   margin-bottom: 10px;
+  width: 100%;
 }
+
 
 #mc_embed_signup label {
   font-family: Lato, helvetica, serif;
@@ -627,12 +634,10 @@ footer .developed-by {
 #mc_embed_signup .clear {
   text-align: center;
   margin-bottom: 10px;
+  margin-top: 20px;
 }
 
-.social-form input::placeholder {
-  font-family: Lato, helvetica, serif;
-  font-size: 12px;
-}
+
 
 #mc_embed_signup input.button {
   width: 100%;
