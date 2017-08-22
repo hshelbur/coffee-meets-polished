@@ -612,20 +612,21 @@ footer .developed-by {
   width: 15px;
 }
 
-.social-form h4 {
-  text-align: center;
+#mc_embed_signup {
+  border-bottom: 1px solid #ccc;
 }
 
-.social-form form {
-  text-align: center;
-}
-
-.social-form .subscribe-inputs {
+#mc_embed_signup input {
   margin-bottom: 10px;
 }
 
-.social-form input:first-of-type {
-  margin-bottom: 10px; 
+#mc_embed_signup label {
+  font-family: Lato, helvetica, serif;
+}
+
+#mc_embed_signup .clear {
+  text-align: center;
+  margin-bottom: 10px;
 }
 
 .social-form input::placeholder {
@@ -633,10 +634,10 @@ footer .developed-by {
   font-size: 12px;
 }
 
-.social-form .main-button {
+#mc_embed_signup input.button {
   width: 100%;
   background-color: #f5dbbc;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
   padding: 15px 0 15px 0;
   font-family: Lato, helvetica, serif;
   font-size: 14px;
@@ -645,7 +646,7 @@ footer .developed-by {
   transition: all .2s ease;
 }
 
-.social-form button:hover {
+#mc_embed_signup input.button:hover {
   cursor: pointer;
   background-color: #e5cbac;
 }
@@ -748,6 +749,7 @@ footer .developed-by {
 /* Side Bar Styles */
 
 .side-bar {
+  margin-top: 30px;
   text-align: left;
 }
 
@@ -763,6 +765,7 @@ footer .developed-by {
 
 
 .about .profile-picture {
+  width: 85%;
   margin-left: auto;
   margin-right:auto;
   margin-bottom: 25px;

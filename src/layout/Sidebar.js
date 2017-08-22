@@ -1,5 +1,6 @@
 import React, {Component} from 'react'
 import SocialForm from './SocialForm.js'
+import MailchimpForm from  './MailchimpForm';
 
 class Sidebar extends Component {
   render() {
@@ -10,6 +11,7 @@ class Sidebar extends Component {
               <p>Coffee Meets Polished is a lifestyle + career blog written by me, Erin. I'm an introvert, millenial, and self-proclaimed feminist. Through this blog I want us to celebrate who we are, from our first coffee of the day to our more polished selves.</p>
             </section>
             <SocialForm />
+            <MailchimpForm />
             <InstagramPhotos />
         </div>
       );
