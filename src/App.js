@@ -23,6 +23,10 @@ const App = () => (
                 <ArticlePage articles={ARTICLES} />
               } />
 
+            <Route path="/home" render={() =>           
+                <ArticlePage articles={ARTICLES} />
+              } />
+
             <Route path="/contact" render={() =>
                 <ContactInfo />
               } />
@@ -59,7 +63,7 @@ const App = () => (
 
       <footer>
         <SocialForm />
-        <p className="developed-by">Designed and Developed by Howard Shelburne, Freelance Web Developer</p>
+        <p className="developed-by">Designed and Developed by <a href="https://www.linkedin.com/in/howard-shelburne/" target="_blank" rel="noopener noreferrer">Howard Shelburne</a>, Freelance Web Developer</p>
       </footer>
 
     </div>

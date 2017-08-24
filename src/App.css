@@ -565,10 +565,6 @@ img {
   transition: all .3s ease;
 }
 
-.header .nav-bar li:first-of-type a.active {
-  background-color: white;
-}
-
 .header li a:hover {
   background-color: #ccc !important;
   color: white;
