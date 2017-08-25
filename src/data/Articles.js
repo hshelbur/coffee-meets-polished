@@ -1,6 +1,17 @@
 import React from 'react';
 
 const ARTICLES = [
+{id: "8", title: "Seeing Good in the Next Generation", date: "August 25, 2017", category: "Life", post: 
+<div>
+<img src="/images/next-generation.jpg" alt="Next Generation" />
+<p>My boyfriend and I went to a <a href="https://www.nycfc.com/" target="_blank" rel="noopener noreferrer"> New York City FC </a>
+ soccer match in Yankee Stadium, and on the subway back home we had chatted with a small group of kids ranging from 4 to 10 years old (my guess). They started chatting with us asking if we went to a soccer game based on the crowd and our attire. We talked about the game and they asked how much it was. When we said some seats were only $10-15 they looked at each other in excitement and one said, “We can save up our money and go to one of those!” They were so curious about sports, who we were, what we were doing there.</p>
+<p>With every response it seemed they realized we weren’t distant adults with no possible things in common, but rather were giving them glimpses of hope that they could be doing things just like us. Riding the train with these kids even just for a few minutes I felt happiness in their curiosity and hopeful in their untainted attitudes toward what was around them.</p>
+<p>We reached the stop where we would transfer trains, which was the same stop these kids were getting off to go home. Our next train was already at the station and we eagerly pushed our way through the crowd to try to make it. When we made it across to the next train, we saw the oldest kid there keeping the door open for us! “I got you,” he said. He had our backs, and it was SO awesome.</p>
+<p>The first thing my boyfriend said when we sat on our next train home was, “Those kids need to go to a soccer game.”</p>
+<p>It was such a refreshing interaction to speak to these kids. In the whirlwind of politics, career, and trying to get our own sh*t together, we can forget that we have to foster the next generation, too. We have to make our surroundings better than how we found it (or made it) so that kids like the ones we met never lose hope in their own possibilities.</p>
+</div>
+},
 {id: "7", title: "5 Things I Learned On YouTube", date: "August 24, 2017", category: "Life", post: 
 <div>
 <img src="/images/youtube-lessons.jpg" alt="YouTube Lessons" />
