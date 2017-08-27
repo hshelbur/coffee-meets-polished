@@ -6,13 +6,14 @@ class Header extends Component {
     return (
       <div className="header">
         <header>
-            <a href="/"><img src="images/cmp-logo.jpg" alt="logo" /></a>
+            <a href="/home"><img src="images/cmp-logo.jpg" alt="logo" /></a>
         </header>
         <nav className="nav-bar">
           <ul>
-            <li><NavLink to="/">HOME</NavLink></li>
+            <li><NavLink to={{pathname: "/home"}}>HOME</NavLink></li>
             <li><NavLink to={{pathname: "/about"}}>ABOUT</NavLink></li>
             <li><NavLink to={{pathname: "/life"}}>LIFE</NavLink></li>
+            <li><NavLink to={{pathname: "/wellness"}}>WELLNESS</NavLink></li>
             <li><NavLink to={{pathname: "/career"}}>CAREER</NavLink></li>
             <li><NavLink to={{pathname: "/beauty"}}>BEAUTY</NavLink></li>
             <li><NavLink to={{pathname: "/food"}}>FOOD</NavLink></li>

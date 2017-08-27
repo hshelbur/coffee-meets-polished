@@ -551,7 +551,7 @@ img {
   display: inline-block;
   padding: 14px 16px;
   text-decoration: none;
-  font-family: Lato;
+  font-family: Lato, helvetica, sans-serif;
   font-weight: 100;
   color: #555;
   font-size: 14px;
@@ -563,10 +563,6 @@ img {
 
 .header .nav-bar a {
   transition: all .3s ease;
-}
-
-.header .nav-bar li:first-of-type a.active {
-  background-color: white;
 }
 
 .header li a:hover {
@@ -628,7 +624,7 @@ footer .developed-by {
 
 
 #mc_embed_signup label {
-  font-family: Lato, helvetica, serif;
+  font-family: Lato, helvetica, sans-serif;
 }
 
 #mc_embed_signup .clear {
@@ -644,7 +640,7 @@ footer .developed-by {
   background-color: #f5dbbc;
   margin-bottom: 20px;
   padding: 15px 0 15px 0;
-  font-family: Lato, helvetica, serif;
+  font-family: Lato, helvetica, sans-serif;
   font-size: 14px;
   color: #444;
   border: none;
@@ -715,7 +711,7 @@ footer .developed-by {
 }
 
 .article-title {
-  font-family: Palatino, serif;
+  font-family: helvetica, sans-serif;
   color: #213960; 
   font-size: 34px;
   font-weight: 100;
@@ -741,7 +737,7 @@ footer .developed-by {
 }
 
 .article .tabbed {
-  margin: 20px 60px 20px 40px;
+  margin: 20px 0px 20px 40px;
 }
 
 .article-footer {
@@ -796,8 +792,10 @@ footer .developed-by {
 .instagram-photos h1 {
   font-family: Lato, helvetica;
   font-size: 16px;
+  text-decoration: none;
   color: #213960;
   padding: 10px 0 3px 0;
+  text-align: center;
 }
 
 .instagram-photos ul {
@@ -846,7 +844,6 @@ footer .developed-by {
   width: 80%;
   margin-top: 20px;
   margin-bottom: 20px;
-  text-align: center;
 }
 
 .contact-info .email {
