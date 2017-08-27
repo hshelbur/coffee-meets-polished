@@ -1,6 +1,32 @@
 import React from 'react';
 
 const ARTICLES = [
+{id: "10", title: "5 Ways to Sunday Self-Care That Doesn’t Break the Bank", date: "August 26, 2017", category: "Wellness", post: 
+<div>
+<img src="/images/sunday-self-care.jpg" alt="Sunday Self Care" />
+<p>Sundays are really important for me to feel I can tackle the week ahead. When I was a resident, the Sundays I wasn’t working were the days I felt I had control of my life. As transient as that feeling was once Monday hit, I still saw Sundays as a chance to start fresh. With the limited time to re-group, I developed the essential habits I continue to do now. Some of these may seem a bit *basic*, but I’ve learned that a compilation of what seem like little things become significant for self-care. You don’t need to spend hundreds of dollars for a massage and spa to reap the benefits (although, more power to you if can!). </p>
+<p className="tabbed">1. <b>Tidy the house.</b> It really is true that a tidy space helps develop a healthy mind. Don’t get me wrong, I am NOT a neat freak. I leave my clothes on the floor and don’t wash dishes immediately and never make my bed. But when clutter comes at the cost of not knowing where your essential things are and you create obstacle courses in your room, it can deter from the focus of your self-care routine. You can control the cleanliness of your environment, so take advantage of it and tidy up. I make it a Sunday morning ritual after breakfast and it sets a great stage for the rest of the day.</p>
+<p className="tabbed">2. <b> Meal prep.</b> Monday mornings are tough. Tuesday mornings are tough. Let’s face it, if you’re not a morning person then most of them are tough. I do as much as I can on Sunday’s to minimize the thinking I have to do each the morning. Sundays are usually one of my grocery days and it gives me a fighting chance to actually bring my lunch to work. In addition to preparing lunch, I also take the opportunity to cook a nice Sunday night meal. It’s a good mindfulness activity for me.</p>
+<p className="tabbed">3. <b>Weekly goals.</b> By the late afternoon I’m ready to check my work email and calendar. It’s important to be able to see the week’s landscape on Sunday while your mind has rested than on Monday morning when you’re expected to be “on” from the moment you step into the office. See what fires may be brewing for the week and what tasks must get done. By preparing on Sunday you’re able to be less reactionary to what is happening around you and take control of whatever situations arise.</p>
+<p className="tabbed">4. <b>Nail care.</b> This is an example of one #treatyoself I like to do on Sundays when I have the time to paint my nails and not do anything for a while as they dry. Nail care is something that helps me to feel polished and confident. Treat yourself to what you enjoy to feel pampered and polished.</p>
+<p className="tabbed">5. <b>Skin care.</b> This is another example of my self-pamper regimen. I like to mask either with clay or a sheet depending on what I think my skin needs are. Putting on a mask is a mindfulness activity for me while doubling as skin care. It also helps me not look so tired on Monday morning (but coffee does this, too!). If you’re looking for a great, affordable, heavy duty clay mask, try out <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/B0014P8L9W/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0014P8L9W&linkCode=as2&tag=offeeeetsolis-20&linkId=2cfe5b6a34a4eb1d543e9a60860fe801">Aztec Secret Indian Healing Clay</a>. My boyfriend and I will do these masks together and our faces feel so soft and clean afterwards!</p>
+<p>These are a few examples of little things you can do to feel empowered to kick ass and take names at work this week. The important thing is to find what works for you and dedicate to self-care.</p>
+</div>
+},
+{id: "9", title: "Taste of Microadventures", date: "August 26, 2017", category: "Life", post: 
+<div>
+<p>I just finished my third week on the job. One thing I’m still getting used to transitioning from resident to full-fledged pharmacist is not feeling guilty about taking time to do things other than work. As a resident, there were usually so many things to get done that you didn’t know how to take a mental break. And if you made the choice to not work, many would feel odd about it knowing that there was someone else still working.</p>
+<p>But now, living in New York City there is always so much to do right outside your door. I have no choice but to disconnect from work and enjoy everything around me. Here’s a taste of microadventures of the week.</p>
+<p><img src="/images/nycfc.jpg" alt="NYCFC" /></p>
+<p>My boyfriend and I were given some tickets to a New York City FC soccer game in Yankee Stadium. It was a lot of fun! And I got to see the Bronx for the first time.</p>
+<p><img src="/images/salmon-don.jpg" alt="Salmon Don" /></p>
+<p>We also tried a new spot on 82nd St. and Amsterdam Ave. called <a href="http://www.jinramen.com/uws_menu" target="_blank" rel="noopener noreferrer" > Jin Ramen</a>. I didn’t get ramen, I got the Sake Ikura Don (marinated salmon sashimi, salmon roe, daikon, kaiware, shiso leaf, shredded egg, nori, and zuke sauce). It was delicious! But I’m biased... I love raw salmon.</p>
+<p><img src="/images/eclipse.jpg" alt="Eclipse" /></p>
+<p>We weren’t in the “path of totality” here in New York, but we got to see a part of the eclipse! I was able to borrow someone’s eclipse glasses at work to see it. Seeing the totality videos were truly amazing.</p>
+<p><img src="/images/evening-walk.jpg" alt="Evening Walk" /></p>
+<p>After happy hour one night this week, the weather was perfect for a walk in Central Park. Made for a great photo, don’t you think?</p>
+</div>
+},
 {id: "8", title: "Seeing Good in the Next Generation", date: "August 25, 2017", category: "Life", post: 
 <div>
 <img src="/images/next-generation.jpg" alt="Next Generation" />

@@ -39,6 +39,10 @@ const App = () => (
                 <ArticlePage articles={ARTICLES.filter((article) => article.category === 'Life')} />
               } />
 
+            <Route path="/wellness" render={() =>           
+                <ArticlePage articles={ARTICLES.filter((article) => article.category === 'Wellness')} />
+              } />
+
             <Route path="/career" render={() =>           
                 <ArticlePage articles={ARTICLES.filter((article) => article.category === 'Career')} />
               } />

@@ -13,6 +13,7 @@ class Header extends Component {
             <li><NavLink to={{pathname: "/home"}}>HOME</NavLink></li>
             <li><NavLink to={{pathname: "/about"}}>ABOUT</NavLink></li>
             <li><NavLink to={{pathname: "/life"}}>LIFE</NavLink></li>
+            <li><NavLink to={{pathname: "/wellness"}}>WELLNESS</NavLink></li>
             <li><NavLink to={{pathname: "/career"}}>CAREER</NavLink></li>
             <li><NavLink to={{pathname: "/beauty"}}>BEAUTY</NavLink></li>
             <li><NavLink to={{pathname: "/food"}}>FOOD</NavLink></li>
