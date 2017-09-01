@@ -24,6 +24,7 @@ class InstagramPhotos extends Component {
         <section className="instagram-photos"> 
           <h1><a href="https://www.instagram.com/coffeemeetspolished/" target="_blank" rel="noopener noreferrer">CMP on Instagram</a></h1>
           <ul>
+            <li><a href="https://www.instagram.com/p/BYewUyMFJDl/" target="_blank" rel="noopener noreferrer"><img src="https://scontent-iad3-1.cdninstagram.com/t51.2885-15/s320x320/e35/21224088_1508530189186380_6920067572356349952_n.jpg" alt="August Favorites" /></a></li>
             <li><a href="https://www.instagram.com/p/BYdPGnGFz_T/" target="_blank" rel="noopener noreferrer"><img src="https://scontent-iad3-1.cdninstagram.com/t51.2885-15/s320x320/e35/21147890_891788184307130_4383195596526190592_n.jpg" alt="FemThings Thigh Gap" /></a></li>
             <li><a href="https://www.instagram.com/p/BYbuRA2FdJZ/" target="_blank" rel="noopener noreferrer"><img src="https://scontent-iad3-1.cdninstagram.com/t51.2885-15/s320x320/e35/21148011_1101996869930610_4884461508815224832_n.jpg" alt="Exist To Be Happy" /></a></li>           
             <li><a href="https://www.instagram.com/p/BYVviXolbEV/" target="_blank" rel="noopener noreferrer"><img src="https://scontent-iad3-1.cdninstagram.com/t51.2885-15/s320x320/e35/21042863_268857223617795_4280809039387951104_n.jpg" alt="Morning Coffee" /></a></li>
