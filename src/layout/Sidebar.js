@@ -22,11 +22,13 @@ class InstagramPhotos extends Component {
   render() {
     return(
         <section className="instagram-photos"> 
-          <h1><a href="https://www.instagram.com/coffeemeetspolished/" target="_blank" rel="noopener noreferrer">#coffeemeetspolished</a></h1>
+          <h1><a href="https://www.instagram.com/coffeemeetspolished/" target="_blank" rel="noopener noreferrer">CMP on Instagram</a></h1>
           <ul>
-            <li><a href="http://www.instagram.com/p/BXBxHIfD4cG/?taken-by=blurrdboundaries" target="_blank" rel="noopener noreferrer"><img src="https://scontent-iad3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20347407_350409855392858_6269222461842128896_n.jpg" alt="Moving to NYC" /></a></li>
-            <li><a href="https://www.instagram.com/p/BW53iWTjost/?taken-by=blurrdboundaries" target="_blank" rel="noopener noreferrer"><img src="https://scontent-iad3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/17077226_1358302127571369_585387932022472704_n.jpg" alt="Groundhog Day" /></a></li>           
-            <li><a href="https://www.instagram.com/p/BWq-TAljqlU/?taken-by=blurrdboundaries" target="_blank" rel="noopener noreferrer"><img src="https://scontent-iad3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20066893_1911088232464944_7147206612862631936_n.jpg" alt="The Big Move" /></a></li>
+            <li><a href="https://www.instagram.com/p/BYdPGnGFz_T/" target="_blank" rel="noopener noreferrer"><img src="https://scontent-iad3-1.cdninstagram.com/t51.2885-15/s320x320/e35/21147890_891788184307130_4383195596526190592_n.jpg" alt="FemThings Thigh Gap" /></a></li>
+            <li><a href="https://www.instagram.com/p/BYbuRA2FdJZ/" target="_blank" rel="noopener noreferrer"><img src="https://scontent-iad3-1.cdninstagram.com/t51.2885-15/s320x320/e35/21148011_1101996869930610_4884461508815224832_n.jpg" alt="Exist To Be Happy" /></a></li>           
+            <li><a href="https://www.instagram.com/p/BYVviXolbEV/" target="_blank" rel="noopener noreferrer"><img src="https://scontent-iad3-1.cdninstagram.com/t51.2885-15/s320x320/e35/21042863_268857223617795_4280809039387951104_n.jpg" alt="Morning Coffee" /></a></li>
+            <li><a href="https://www.instagram.com/p/BYTpNsMlCCw/" target="_blank" rel="noopener noreferrer"><img src="https://scontent-iad3-1.cdninstagram.com/t51.2885-15/s320x320/e35/21041596_319542045123421_8424633910800941056_n.jpg" alt="Sunday Self-Care" /></a></li>
+            <li><a href="https://www.instagram.com/p/BYRpQ8JlWsc/" target="_blank" rel="noopener noreferrer"><img src="https://scontent-iad3-1.cdninstagram.com/t51.2885-15/s320x320/e35/21107613_1909038832646983_8527901090853683200_n.jpg" alt="Welcome" /></a></li>
           </ul>  
 
         </section>

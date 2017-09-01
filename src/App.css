@@ -652,7 +652,6 @@ footer .developed-by {
   background-color: #e5cbac;
 }
 
-
 .social-form section{
   display: flex;
   text-align: center;
@@ -721,6 +720,8 @@ footer .developed-by {
 
 .article-timestamp {
   font-size: 12px;
+  color: #4a5050;
+  text-align: center;
   margin-bottom: 20px;
 }
 
@@ -745,6 +746,12 @@ footer .developed-by {
   display: inline-block;
   border-left: 4px solid #f5dbbc;
   padding: 5px;
+}
+
+.article h4 {
+  text-align: center;
+  font-size: 18px;
+  margin-bottom: 20px;
 }
 
 /* Side Bar Styles */
@@ -774,7 +781,7 @@ footer .developed-by {
 
 .about {
   line-height: 150%;
-  font-size: 14px;
+  font-size: 15px;
   font-weight: 100;
   color: #4a5050;
   border-bottom: 1px solid #ccc;
@@ -787,7 +794,7 @@ footer .developed-by {
   margin-bottom: 25px;
 }
 
-/* InstagramPhotos Styles https://www.instagram.com/{username}/media/ */
+/* InstagramPhotos Styles https://www.instagram.com/coffeemeetspolished/media/ */
 
 .instagram-photos h1 {
   font-family: Lato, helvetica;
@@ -796,6 +803,8 @@ footer .developed-by {
   color: #213960;
   padding: 10px 0 3px 0;
   text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .instagram-photos ul {
@@ -836,10 +845,15 @@ footer .developed-by {
   display: none;
 }
 
+.about-me img, .contact-info img {
+  margin-top: 30px;
+}
+
 .about-me p, .contact-info p {
-  font-size: 14px;
+  font-size: 15px;
   font-weight: 200;
   line-height: 200%;
+  color: #4a5050;
   margin: auto;
   width: 80%;
   margin-top: 20px;

@@ -1,6 +1,46 @@
 import React from 'react';
 
 const ARTICLES = [
+{id: "12", title: "5 Things I Loved in August", date: "August 31, 2017", category: "Life", post: 
+<div>
+<p>I can’t believe it’s already the end of August. I know I’m in the majority of people feeling this way, but this has been a pretty big month for me with starting my first training-wheels-off job since residency. I’ve been learning to orient myself in a brand new environment and learning a new frontier in my pursuit of work-life integration. As I reflect on the past month before embarking on September, here are five things I loved in August.</p>
+<h4><b>roses.</b></h4>
+<img src="/images/anniversary-roses.jpg" alt="Anniversary Roses" />
+<p>This August was my boyfriend and my two-year dating anniversary! I came home to beautiful roses and it reminded me of the roses he would get me on his walks home in our North Carolina neighborhood. We've had a lot of experiences in the past two years and he's put up with a lot of my stress during residency. Now that I'm into the next phase of my career and our lives in New York City I'm so excited for the future with my best friend.</p>
+<h4><b>unlimited metrocard pass.</b></h4>
+<img src="/images/metro-card.jpg" alt="MetroCard" />
+<p>Once my job started I bought a 30-unlimited <a href="http://web.mta.info/metrocard/mcgtreng.htm" target="_blank" rel="noopener noreferrer">MetroCard</a> since I take a train to work every day. I'm grateful for the world of exploration the train opens for me. I'm able to get from one end to Manhattan to another in less than 30 minutes on a direct line and check out different boroughs. I love being able to ride the train to new adventures.</p>
+<h4><b>citi bike.</b></h4>
+<img src="/images/citi-bike.jpg" alt="Citi Bike" />
+<p>Once I got a <a href="https://www.citibikenyc.com/" target="_blank" rel="noopener noreferrer">Citi Bike</a> subscription the possibilities to explore grew even more. The bike allows us to go places that trains don't as conveniently (I.e, across Central Park) and with distances greater than I feel like walking in the New York City summer heat. At only $163/year for unlimited 45-minute rides, I can't NOT participate.</p>
+<h4><b>clinique cheek pop in berry pop.</b></h4>
+<img src="/images/clinique-pop.jpg" alt="Clinique Pop" />
+<p>I've been experimenting with different parts of my makeup routine that I didn't used to do and now there are some I can't feel complete without. One of them is <b>blush</b>. I've had this product since my initial makeup-loving/self-empowerment phase began a few years ago and would use it sometimes but wasn't comfortable with it. Now that I've had more experience with different formulations I realize why it gets such good reviews. I love how buildable it is and lasts all day. Not to mention a gorgeous color!</p>
+<h4><b>central park in the summer.</b></h4>
+<img src="/images/central-park-summer.jpg" alt="Central Park Summer" />
+<p>This place will forever have a special spot in my heart. I call it our back yard for good reason - it's a half an avenue away from our door. We've had access to it since the day we moved and it’s been a beautiful escape from our otherwise urban environment. The views, the bike rides, the fresh air, the free music, the free performances. I wanted to capture this moment because it represents our beginning here.</p>
+<p>All in all, August was an amazing month. I started my career and this blog, I started a new life in a brand new place, and I'm continuing to find my ever-evolving sense of self. Thank you for embarking on this journey with me!</p>
+</div>
+},
+{id: "11", title: "Everyday Neutral Eyeshadows for Medium Skin", date: "August 29, 2017", category: "Beauty", post: 
+<div>
+<p>One of my favorite parts of any makeup routine is eyeshadow. I don’t consider myself creative or artistic, but with eyeshadows I feel that I’m able to completely transform my look and feel more confident. Whether it’s a simple look while still half-asleep in the morning or ultra glam for a night out, I have a lot of fun doing it. <b>Remember: makeup should first and foremost be applied for you, not anyone else.</b></p>
+<p>Here are my essential, everyday eyeshadows. These are the ones that I travel with and reach for with almost every look. These are basically my default shadows when I’m on autopilot. For reference, I’m a Filipina and have medium brown skin with neutral undertones (Mac NW44, Revlon Colorstay Combination/Oily in Toast, Maybelline Matte Fit Me Matte + Poreless Foundation in Natural Tan). I have very dark brown eyes and my eyelids get oily so I prime and set with a base every time.</p>
+<p><img src="/images/neutral-eyeshadow-arrangement.jpg" alt="Neutral Eyeshadows Arrangement" /></p>
+<p className="tabbed"><b>Base:</b> <a href="https://www.makeupgeek.com/makeup-geek-eyeshadow-pan-beaches-and-cream.html" target="_blank" rel="noopener noreferrer">Beaches and Cream</a> (MUG)</p>
+<p className="tabbed"><b>Transition:</b> <a href="https://www.makeupgeek.com/makeup-geek-eyeshadow-pan-frappe.html" target="_blank" rel="noopener noreferrer">Frappe</a> (MUG), <a href="https://www.makeupgeek.com/makeup-geek-eyeshadow-pan-unexpected.html" target="_blank" rel="noopener noreferrer">Unexpected</a> (MUG)</p>
+<p className="tabbed"><b>Crease:</b> <a href="http://www.anastasiabeverlyhills.com/eyeshadow-singles/eyeshadow-singles.html#q=fudge&lang=default&start=2" target="_blank" rel="noopener noreferrer">Fudge</a> (ABH), <a href="https://www.makeupgeek.com/makeup-geek-eyeshadow-pan-vintage.html" target="_blank" rel="noopener noreferrer">Vintage</a> (MUG)</p>
+<p className="tabbed"><b>Outer V:</b> <a href="https://www.makeupgeek.com/makeup-geek-eyeshadow-pan-americano.html" target="_blank" rel="noopener noreferrer">Americano</a> (MUG), <a href="https://www.urbandecay.com/on/demandware.store/Sites-urbandecay-us-Site/default/Product-Variation?pid=328&dwvar_328_color=Darkhorse" target="_blank" rel="noopener noreferrer">Darkhorse</a> (UD, individual or in Naked Palette)</p>
+<p className="tabbed"><b>Lid Shimmers:</b> <a href="https://www.urbandecay.com/on/demandware.store/Sites-urbandecay-us-Site/default/Product-Variation?pid=328&dwvar_328_color=Toasted" target="_blank" rel="noopener noreferrer">Toasted</a> (UD, individual or in Naked Palette), <a href="https://www.urbandecay.com/on/demandware.store/Sites-urbandecay-us-Site/default/Product-Variation?pid=328&dwvar_328_color=Smog" target="_blank" rel="noopener noreferrer">Smog</a> (UD, individual or in Naked Palette)</p>
+<p className="tabbed"><b>Brow/Inner Corner Highlight:</b> <a href="https://www.makeupgeek.com/makeup-geek-eyeshadow-pan-shimma-shimma.html" target="_blank" rel="noopener noreferrer">Shimma Shimma</a>(MUG)</p>
+<p className="tabbed">Legend: MUG = Makeup Geek; ABH = Anastasia Beverly Hills; UD = Urban Decay</p>
+<p>These are the swatches on my skin tone, with flash (top) and without flash (bottom):</p>
+<p><img src="/images/neutral-eyeshadow-swatch-flash-noflash.png" alt="Neutral Eyeshadow Swatch Flash No Flash" /></p>
+<p>From left to right, they are: Beaches and Cream (MUG), Frappe (MUG), Unexpected (MUG), Fudge (ABG), Unexpected (MUG), Americano (MUG), Shimma Shimma (MUG), Toasted (UD), Smog (UD), Darkhorse (UD)</p>
+<p>I have them organized in a <a href="https://www.makeupgeek.com/makeup-geek-travel-vault-palette.html" target="_blank" rel="noopener noreferrer"> Makeup Geek Travel Vault Palette</a>. I love it because it has a mirror, matted bottom to grip, and PERFECT size for travel. I plan to get another one for blush/highlight/contour in the future. I hope these give you some ideas for everyday eyeshadow essentials.</p>
+<p><img src="/images/neutral-eyeshadows-travel-palette.jpg" alt="Neutral Eyeshadows Travel Palette" /></p>
+</div>
+},
 {id: "10", title: "5 Ways to Sunday Self-Care That Doesn’t Break the Bank", date: "August 26, 2017", category: "Wellness", post: 
 <div>
 <img src="/images/sunday-self-care.jpg" alt="Sunday Self Care" />
@@ -17,13 +57,13 @@ const ARTICLES = [
 <div>
 <p>I just finished my third week on the job. One thing I’m still getting used to transitioning from resident to full-fledged pharmacist is not feeling guilty about taking time to do things other than work. As a resident, there were usually so many things to get done that you didn’t know how to take a mental break. And if you made the choice to not work, many would feel odd about it knowing that there was someone else still working.</p>
 <p>But now, living in New York City there is always so much to do right outside your door. I have no choice but to disconnect from work and enjoy everything around me. Here’s a taste of microadventures of the week.</p>
-<p><img src="/images/nycfc.jpg" alt="NYCFC" /></p>
+<img src="/images/nycfc.jpg" alt="NYCFC" />
 <p>My boyfriend and I were given some tickets to a New York City FC soccer game in Yankee Stadium. It was a lot of fun! And I got to see the Bronx for the first time.</p>
-<p><img src="/images/salmon-don.jpg" alt="Salmon Don" /></p>
+<img src="/images/salmon-don.jpg" alt="Salmon Don" />
 <p>We also tried a new spot on 82nd St. and Amsterdam Ave. called <a href="http://www.jinramen.com/uws_menu" target="_blank" rel="noopener noreferrer" > Jin Ramen</a>. I didn’t get ramen, I got the Sake Ikura Don (marinated salmon sashimi, salmon roe, daikon, kaiware, shiso leaf, shredded egg, nori, and zuke sauce). It was delicious! But I’m biased... I love raw salmon.</p>
-<p><img src="/images/eclipse.jpg" alt="Eclipse" /></p>
+<img src="/images/eclipse.jpg" alt="Eclipse" />
 <p>We weren’t in the “path of totality” here in New York, but we got to see a part of the eclipse! I was able to borrow someone’s eclipse glasses at work to see it. Seeing the totality videos were truly amazing.</p>
-<p><img src="/images/evening-walk.jpg" alt="Evening Walk" /></p>
+<img src="/images/evening-walk.jpg" alt="Evening Walk" />
 <p>After happy hour one night this week, the weather was perfect for a walk in Central Park. Made for a great photo, don’t you think?</p>
 </div>
 },
