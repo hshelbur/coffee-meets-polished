@@ -54,6 +54,15 @@ const App = () => (
             <Route path="/food" render={() =>           
                 <ArticlePage articles={ARTICLES.filter((article) => article.category === 'Food')} />
               } />
+
+            <Route path="/articles/:id" render={({match}) => {
+              const {id} = match.params
+              const matches = ARTICLES.filter(article => article.id === id)
+              return matches.length > 0 
+                ? <ArticlePage articles={matches} />
+                : <h1>Sorry, Article Not Found</h1>
+            }} />
+
             </main>
           
           <aside className="col-md-4 col-lg-3 side-bar">

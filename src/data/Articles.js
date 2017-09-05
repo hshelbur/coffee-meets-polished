@@ -1,6 +1,30 @@
 import React from 'react';
 
 const ARTICLES = [
+{id: "13", title: "How To Set Smart Goals For Yourself", date: "September 5, 2017", category: "Career", post: 
+<div>
+<img src="/images/goals.jpg" alt="Setting Goals" />
+<p>We all have goals for ourselves but many of us find ourselves unable to achieve them and feel too discouraged to persevere. I’ve been in that boat so many times. Each time I’ve not achieved a goal and reflect as to why, I realize that the reasons for not reaching my goals are not because of our innate skills but rather how we set our goals. Many of us set lofty goals for ourselves assuming setting a goal is all that's needed and the rest will naturally fall into place. “Dream big”, “Reach for the stars!” we hear.</p>
+<p>I’m not saying not to reach for the highest heights in ourselves. However, setting goals that are actually achievable is vital for long term resilience and morale to reach the next one. One tool I was taught and now been using throughout my career for yearly evaluations is setting S.M.A.R.T. goals. Specific, measurable, achievable, relevant, and time-based.</p>
+<p className="tabbed">1. <b>Specific.</b> This is the What, Why, and How of your goal.</p>
+<p className="tabbed">2. <b>Measurable.</b> Goals need to be measurable so you know that you have actually accomplished them.</p>
+<p className="tabbed">3. <b>Achievable.</b> You should stretch your limits with your goals but also set them with the appropriate level of knowledge and abilities to achieve them.</p>
+<p className="tabbed">4. <b>Relevant.</b> We can set goals that can be specific, measurable, and achievable, but without a strategic direction for ourselves, then we are treading water.</p>
+<p className="tabbed">5. <b>Time-Based.</b> Setting a timeframe creates a pragmatic sense of urgency between current reality and the goal.</p>
+<p>To see the tool used through an example, we'll have one goal said with and without SMART methodology.</p>
+<p className="tabbed"><b>Without SMART:</b> Read for pleasure more often.</p>
+<p>What books define “reading for pleasure”? How will I know I’ve accomplished this? How many books in what frequency defines “more often”? Let’s try this again.</p>
+<p className="tabbed"><b>With SMART:</b> Read <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/0307352153/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307352153&linkCode=as2&tag=offeeeetsolis-20&linkId=f67145ea9f2514d0cb2424ffdab01772">Quiet: The Power of Introverts in a World That Can't Stop Talking</a> by the end of the September.</p>
+<p>Here, you can see I’ve set a specific book and timeframe. Now that I’ve set this, I can figure out my pace to set sub-goals and make sure I’m keeping on track each week.</p>
+<p>Once you set your goals, it's important to reflect at the end of each time period. Ask yourself these questions:</p>
+<p className="tabbed">1. What goals did I achieve? Celebrate these!</p>
+<p className="tabbed">2. What goals did I not achieve?</p>
+<p className="tabbed">3. Of the goals I did not achieve, what progress did I make towards them? Acknowledge and appreciate your progress.</p>
+<p className="tabbed">4. Of the reasons why a goal did not get accomplished, which reasons were under my own control?</p>
+<p className="tabbed">5. Of the reasons that were under my own control, how can I improve for the next time to get closer to my goal?</p>
+<p>Achieving our goals is an iterative process. Remember, life is a marathon, not a sprint. Don't beat yourself down if a goal isn't achieved at the exact time you allotted. Instead, see it as an opportunity to learn and grow.</p>
+</div>
+},
 {id: "12", title: "5 Things I Loved in August", date: "August 31, 2017", category: "Life", post: 
 <div>
 <p>I can’t believe it’s already the end of August. I know I’m in the majority of people feeling this way, but this has been a pretty big month for me with starting my first training-wheels-off job since residency. I’ve been learning to orient myself in a brand new environment and learning a new frontier in my pursuit of work-life integration. As I reflect on the past month before embarking on September, here are five things I loved in August.</p>
