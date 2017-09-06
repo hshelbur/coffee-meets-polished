@@ -58,6 +58,15 @@ const App = () => (
               } />
 
             <Route path="/articles/:id" render={({match}) => {
+
+              const {id} = match.params
+              const matches = ARTICLES.filter(article => article.id === id)
+              return matches.length > 0 
+                ? <ArticlePage articles={matches} />
+                : <h1>Sorry, Article Not Found</h1>
+            }} />
+
+
                 const {id} = match.params
                 const matches = ARTICLES.filter(article => article.id === id)
                 return matches.length > 0 
