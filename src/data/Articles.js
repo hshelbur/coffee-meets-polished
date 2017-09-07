@@ -1,6 +1,17 @@
 import React from 'react';
 
 const ARTICLES = [
+{id: "14", title: "Four Nutrient-Filled Products to Sneak Into Your Smoothies", date: "September 7, 2017", category: "Food", post: 
+<div>
+<img src="/images/smoothie-nutrients.jpg" alt="Smoothie Nutrients" />
+<p>Smoothies are one of my favorite ways to sneak nutrients into my body that I may otherwise not want to have by themselves because of taste, texture, etc. Here are 4 things I add into every smoothie I make that I don’t even notice are there but give me tons of added benefits.</p>
+<p className="tabbed">1. <b>Spinach.</b> I used to hate spinach, but now I love it. I get bags of them for salads, in sandwiches, cooked in pasta, and more. For smoothies, I’ll even use frozen spinach because I get some more bang for my buck that way. Spinach is an awesome source of vitamin K, vitamin A, iron, folate, vitamin B’s, fiber, and more. Pharmacist note: if you’re on warfarin, don’t change your spinach intake without letting your physician know because it may change your INR levels.</p>
+<p className="tabbed">2. <b>Flaxseed.</b> A bag of ground flaxseed lasts so for many smoothies. This is a great source of omega-3 essential fatty acids, fiber, and vitamin B1. Adding this to my morning smoothies definitely gets the intestines moving. One option is <a target="_blank" href="https://www.amazon.com/gp/product/B00DOKFLYI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DOKFLYI&linkCode=as2&tag=offeeeetsolis-20&linkId=c838e1986c6cf71ab89daf8347e46d5d" rel="noopener noreferrer">Spectrum Essentials Organic Ground Flaxseed, 24 Ounce</a>.</p>
+<p className="tabbed">3. <b>Chia seeds.</b> These are full of antioxidants, fiber, and protein. And they help thicken your smoothie, too! One option is <a target="_blank" href="https://www.amazon.com/gp/product/B00AQFGL3O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00AQFGL3O&linkCode=as2&tag=offeeeetsolis-20&linkId=e9af5418f1a48916678a5bbbef92d5a7" rel="noopener noreferrer">Nutiva Organic Chia Seed, Black, 32 Ounce</a>.</p>
+<p className="tabbed">4. <b>Kefir/Greek yogurt.</b> Kefir looks like milk but it’s so much more. It’s filled with nutrients (protein, calcium, vitamin B12, vitamin D) and probiotics that aid in digestion and the health of your gastrointestinal (GI) tract. Greek yogurt has similar benefits.</p>
+<p>With these I get in a lot of nutrients and fiber I (unfortunately) don't in other meals of the day. I can't taste the difference except with the seeds but it doesn't feel any different than having some strawberries or kiwi. I hope you give these a try!</p>
+</div>
+},
 {id: "13", title: "How To Set Smart Goals For Yourself", date: "September 5, 2017", category: "Career", post: 
 <div>
 <img src="/images/goals.jpg" alt="Setting Goals" />
