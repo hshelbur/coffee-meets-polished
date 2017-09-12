@@ -7,6 +7,7 @@ import Sidebar from './layout/Sidebar.js';
 import AboutMe from './pages/About.js';
 import ContactInfo from './pages/Contact.js';
 import ArticlePage from './pages/ArticlePage.js';
+import ArticleList from './pages/ArticleList.js';
 import ARTICLES from './data/Articles.js';
 
 const App = () => (
@@ -20,11 +21,11 @@ const App = () => (
           <main className="col-md-8 col-lg-9">
 
             <Route exact path="/" render={() =>           
-                <ArticlePage articles={ARTICLES} />
+                <ArticleList articles={ARTICLES} />
               } />
 
             <Route path="/home" render={() =>           
-                <ArticlePage articles={ARTICLES} />
+                <ArticleList articles={ARTICLES} />
               } />
 
             <Route path="/contact" render={() =>
@@ -36,23 +37,23 @@ const App = () => (
               } />
 
             <Route path="/life" render={() =>           
-                <ArticlePage articles={ARTICLES.filter((article) => article.category === 'Life')} />
+                <ArticleList articles={ARTICLES.filter((article) => article.category === 'Life')} />
               } />
 
             <Route path="/wellness" render={() =>           
-                <ArticlePage articles={ARTICLES.filter((article) => article.category === 'Wellness')} />
+                <ArticleList articles={ARTICLES.filter((article) => article.category === 'Wellness')} />
               } />
 
             <Route path="/career" render={() =>           
-                <ArticlePage articles={ARTICLES.filter((article) => article.category === 'Career')} />
+                <ArticleList articles={ARTICLES.filter((article) => article.category === 'Career')} />
               } />
 
             <Route path="/beauty" render={() =>           
-                <ArticlePage articles={ARTICLES.filter((article) => article.category === 'Beauty')} />
+                <ArticleList articles={ARTICLES.filter((article) => article.category === 'Beauty')} />
               } />
 
-            <Route path="/food" render={() =>           
-                <ArticlePage articles={ARTICLES.filter((article) => article.category === 'Food')} />
+            <Route path="/activism" render={() =>           
+                <ArticleList articles={ARTICLES.filter((article) => article.category === 'Activism')} />
               } />
 
             <Route path="/articles/:id" render={({match}) => {

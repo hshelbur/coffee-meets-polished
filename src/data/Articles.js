@@ -1,7 +1,34 @@
 import React from 'react';
 
 const ARTICLES = [
-{id: "14", title: "Four Nutrient-Filled Products to Sneak Into Your Smoothies", date: "September 7, 2017", category: "Food", post: 
+{id: "15", title: "Where I Was on September 11, 2001", date: "September 11, 2017", category: "Activism", photo: "/images/911_memorial.jpg", description: "We all remember where we were that day. I learned what terrorism was. And today, the threat of terrorism still exists but it has also empowered and strengthened the activism against it. With diversity of culture, race, gender, sexual orientation, comes a beautiful synergy of innovation and strength that the world needs more than ever. [...]", post: 
+<div>
+<img src="/images/911_memorial.jpg" alt="911 Memorial" />
+<p>Photo Credit: <a href="https://www.911memorial.org/blog/lens-capturing-life-and-events-911-memorial-and-museum-6" target="_blank" rel="noopener noreferrer">Jin Lee</a></p>
+<p>We all remember where we were that day. I was in 8th grade and had gotten to school early for a meeting for the Yearbook Club before first period. I did not see the first plane, but I did see the second plane because all of the TV’s in the school turned on immediately. And I remember watching the towers fall. Honestly, that’s all I can remember specifically. I don’t remember what I learned in school that day, or anything else afterwards.</p>
+<p>If you’re like me, here’s a <a href="https://en.wikipedia.org/wiki/Timeline_for_the_day_of_the_September_11_attacks" target="_blank" rel="noopener noreferrer">timeline</a> to serve as a reminder as we honor the lives who were lost, heroes who saved helped save lives by sacrificing their own, and citizens and leaders who helped rebuild the nation thereafter.</p>
+<p>7:59 a.m.: American Airlines Flight 11, a Boeing 767 carrying 81 passengers and 11 crew members, departs 14 minutes late from Logan International Airport in Boston, bound for Los Angeles International Airport. Five hijackers are aboard.</p>
+<p>8:14: United Airlines Flight 175, a Boeing 767, carrying 56 passengers and nine crew members, departs 14 minutes late from Logan International Airport in Boston, bound for Los Angeles International Airport. Five hijackers are aboard.</p>
+<p>8:14: Flight 11 is hijacked over central Massachusetts, turning southwest.</p>
+<p>8:20: American Airlines Flight 77, a Boeing 757 with 58 passengers and six crew members, departs 10 minutes late from Washington Dulles International Airport, for Los Angeles International Airport. Five hijackers are aboard.</p>
+<p>8:42: United Airlines Flight 93, a Boeing 757 with 37 passengers and seven crew members, departs 42 minutes late from Newark International Airport, bound for San Francisco International Airport. Four hijackers are aboard.</p>
+<p>8:42–8:46 (approx.): Flight 175 is hijacked above Albany, New York, about 140 miles north of New York City, turning south.</p>
+<p>8:46:40: Flight 11 crashes into the north face of the North Tower (1 WTC) of the World Trade Center, between floors 93 and 99. The aircraft enters the tower intact.</p>
+<p>8:50–8:54 (approx.): Flight 77 is hijacked above southern Ohio, turning to the southeast.</p>
+<p>9:03:00: Flight 175 crashes into the south face of the South Tower (2 WTC) of the World Trade Center, between floors 77 and 85. Parts of the plane, including the starboard engine, leave the building from its east and north sides, falling to the ground six blocks away.</p>
+<p>9:28: Flight 93 is hijacked above northern Ohio, turning to the southeast.</p>
+<p>9:37:46: Flight 77 crashes into the western side of The Pentagon and starts a violent fire.</p>
+<p>9:59:00: The South Tower of the World Trade Center collapses, 56 minutes after the impact of Flight 175.</p>
+<p>10:03:11: Flight 93 is crashed by its hijackers and passengers, due to fighting in the cockpit 80 miles (129 km) southeast of Pittsburgh in Somerset County, Pennsylvania. Later reports indicate that passengers had learned about the World Trade Center and Pentagon crashes and were resisting the hijackers. The 9/11 Commission believed that Flight 93's target was either the United States Capitol building or the White House in Washington, D.C.</p>
+<p>10:28:22: The North Tower of the World Trade Center collapses, 1 hour, 42 minutes after the impact of Flight 11. The Marriott Hotel, located at the base of the two towers, is also destroyed.</p>
+<p>10:50:19: Five stories of part of the Pentagon collapse due to the fire.</p>
+<p>5:20:33 p.m.: 7 World Trade Center, a 47-story building, collapses.</p>
+<p>Despite not remembering this timeline minute-by-minute, I remember the feelings I had, of fear and curiosity as to what was happening in the world. As an 8th grader the important things in my life were making sure I practiced enough for my piano lessons and when the next time I would talk to my crush was. I was just exploring things like makeup and hair straightening. Then something so significant happened in the world and I didn’t understand that it would cause a chain of events that would continue to affect my day-to-day now. I didn’t know at the time that I would live in New York City at Ground Zero and get to experience the memorialization of this day 16 years ago.</p>
+<p>I learned what terrorism as an 8th grader. There are those around the world who learn what terrorism is before they even learn how to walk. Today, the threat of terrorism still exists but it has also empowered and strengthened the activism against it.</p>
+<p>I value perspective and open-mindedness. The older I get, the more I see the definitions of “good” and “bad” are incredibly complex, and may not even exist at all in some cases. After moving from North Carolina to New York City, my eyes have opened further to the value diversity plays in peaceful co-existence. I hope to bask in it now, but wherever I go continue to spread the same beliefs. With diversity of culture, race, gender, sexual orientation, comes a beautiful synergy of innovation and strength that the world needs more than ever.</p>
+</div>
+},
+{id: "14", title: "Four Nutrient-Filled Products to Sneak Into Your Smoothies", date: "September 7, 2017", category: "Wellness", photo: "/images/smoothie-nutrients.jpg", description: "Smoothies are one of my favorite ways to sneak nutrients into my body that I may otherwise not want to have by themselves because of taste, texture, etc. Here are 4 things I add into every smoothie I make that I don’t even notice are there but give me tons of added benefits. [...]", post: 
 <div>
 <img src="/images/smoothie-nutrients.jpg" alt="Smoothie Nutrients" />
 <p>Smoothies are one of my favorite ways to sneak nutrients into my body that I may otherwise not want to have by themselves because of taste, texture, etc. Here are 4 things I add into every smoothie I make that I don’t even notice are there but give me tons of added benefits.</p>
@@ -12,7 +39,7 @@ const ARTICLES = [
 <p>With these I get in a lot of nutrients and fiber I (unfortunately) don't in other meals of the day. I can't taste the difference except with the seeds but it doesn't feel any different than having some strawberries or kiwi. I hope you give these a try!</p>
 </div>
 },
-{id: "13", title: "How To Set Smart Goals For Yourself", date: "September 5, 2017", category: "Career", post: 
+{id: "13", title: "How To Set Smart Goals For Yourself", date: "September 5, 2017", category: "Career", photo: "/images/goals.jpg", description: "We all have goals for ourselves but many of us find ourselves unable to achieve them and feel too discouraged to persevere. I’ve been in that boat so many times. Each time I’ve not achieved a goal and reflect as to why, I realize that the reasons for not reaching my goals are not because of our innate skills but rather how we set our goals. Read more to learn how to set SMART goals for yourself. [...]", post: 
 <div>
 <img src="/images/goals.jpg" alt="Setting Goals" />
 <p>We all have goals for ourselves but many of us find ourselves unable to achieve them and feel too discouraged to persevere. I’ve been in that boat so many times. Each time I’ve not achieved a goal and reflect as to why, I realize that the reasons for not reaching my goals are not because of our innate skills but rather how we set our goals. Many of us set lofty goals for ourselves assuming setting a goal is all that's needed and the rest will naturally fall into place. “Dream big”, “Reach for the stars!” we hear.</p>
@@ -36,7 +63,7 @@ const ARTICLES = [
 <p>Achieving our goals is an iterative process. Remember, life is a marathon, not a sprint. Don't beat yourself down if a goal isn't achieved at the exact time you allotted. Instead, see it as an opportunity to learn and grow.</p>
 </div>
 },
-{id: "12", title: "5 Things I Loved in August", date: "August 31, 2017", category: "Life", post: 
+{id: "12", title: "5 Things I Loved in August", date: "August 31, 2017", category: "Life", photo: "/images/anniversary-roses.jpg", description: "I can’t believe it’s already the end of August. I know I’m in the majority of people feeling this way, but this has been a pretty big month for me. I’ve been learning to orient myself in a brand new environment and learning a new frontier in my pursuit of work-life integration. As I reflect on the past month before embarking on September, here are five things I loved in August. [...]", post: 
 <div>
 <p>I can’t believe it’s already the end of August. I know I’m in the majority of people feeling this way, but this has been a pretty big month for me with starting my first training-wheels-off job since residency. I’ve been learning to orient myself in a brand new environment and learning a new frontier in my pursuit of work-life integration. As I reflect on the past month before embarking on September, here are five things I loved in August.</p>
 <h4><b>roses.</b></h4>
@@ -57,7 +84,7 @@ const ARTICLES = [
 <p>All in all, August was an amazing month. I started my career and this blog, I started a new life in a brand new place, and I'm continuing to find my ever-evolving sense of self. Thank you for embarking on this journey with me!</p>
 </div>
 },
-{id: "11", title: "Everyday Neutral Eyeshadows for Medium Skin", date: "August 29, 2017", category: "Beauty", post: 
+{id: "11", title: "Everyday Neutral Eyeshadows for Medium Skin", date: "August 29, 2017", category: "Beauty", photo: "/images/neutral-eyeshadow-arrangement.jpg", description: "One of my favorite parts of any makeup routine is eyeshadow. I don’t consider myself creative or artistic, but with eyeshadows I feel that I’m able to completely transform my look and feel more confident. Here are my essential, everyday eyeshadows for medium tan (Filipina) skin. [...]", post: 
 <div>
 <p>One of my favorite parts of any makeup routine is eyeshadow. I don’t consider myself creative or artistic, but with eyeshadows I feel that I’m able to completely transform my look and feel more confident. Whether it’s a simple look while still half-asleep in the morning or ultra glam for a night out, I have a lot of fun doing it. <b>Remember: makeup should first and foremost be applied for you, not anyone else.</b></p>
 <p>Here are my essential, everyday eyeshadows. These are the ones that I travel with and reach for with almost every look. These are basically my default shadows when I’m on autopilot. For reference, I’m a Filipina and have medium brown skin with neutral undertones (Mac NW44, Revlon Colorstay Combination/Oily in Toast, Maybelline Matte Fit Me Matte + Poreless Foundation in Natural Tan). I have very dark brown eyes and my eyelids get oily so I prime and set with a base every time.</p>
@@ -76,7 +103,7 @@ const ARTICLES = [
 <p><img src="/images/neutral-eyeshadows-travel-palette.jpg" alt="Neutral Eyeshadows Travel Palette" /></p>
 </div>
 },
-{id: "10", title: "5 Ways to Sunday Self-Care That Doesn’t Break the Bank", date: "August 26, 2017", category: "Wellness", post: 
+{id: "10", title: "5 Ways to Sunday Self-Care That Doesn’t Break the Bank", date: "August 27, 2017", category: "Wellness", photo: "/images/sunday-self-care.jpg", description: "Sundays are really important for me to feel I can tackle the week ahead. You don't need to spend hundreds of dollars for a massage and spa to reap the benefits of self-care. Here's a compilation of my Sunday self-care routine. [...]", post: 
 <div>
 <img src="/images/sunday-self-care.jpg" alt="Sunday Self Care" />
 <p>Sundays are really important for me to feel I can tackle the week ahead. When I was a resident, the Sundays I wasn’t working were the days I felt I had control of my life. As transient as that feeling was once Monday hit, I still saw Sundays as a chance to start fresh. With the limited time to re-group, I developed the essential habits I continue to do now. Some of these may seem a bit *basic*, but I’ve learned that a compilation of what seem like little things become significant for self-care. You don’t need to spend hundreds of dollars for a massage and spa to reap the benefits (although, more power to you if can!). </p>
@@ -88,7 +115,7 @@ const ARTICLES = [
 <p>These are a few examples of little things you can do to feel empowered to kick ass and take names at work this week. The important thing is to find what works for you and dedicate to self-care.</p>
 </div>
 },
-{id: "9", title: "Taste of Microadventures", date: "August 26, 2017", category: "Life", post: 
+{id: "9", title: "Taste of Microadventures", date: "August 26, 2017", category: "Life", photo: "/images/nycfc.jpg", description: "I just finished my third week on the job. One thing I’m still getting used to transitioning from resident to full-fledged pharmacist is not feeling guilty about taking time to do things other than work. Here's a taste of microadventures of the week. [...]", post: 
 <div>
 <p>I just finished my third week on the job. One thing I’m still getting used to transitioning from resident to full-fledged pharmacist is not feeling guilty about taking time to do things other than work. As a resident, there were usually so many things to get done that you didn’t know how to take a mental break. And if you made the choice to not work, many would feel odd about it knowing that there was someone else still working.</p>
 <p>But now, living in New York City there is always so much to do right outside your door. I have no choice but to disconnect from work and enjoy everything around me. Here’s a taste of microadventures of the week.</p>
@@ -102,7 +129,7 @@ const ARTICLES = [
 <p>After happy hour one night this week, the weather was perfect for a walk in Central Park. Made for a great photo, don’t you think?</p>
 </div>
 },
-{id: "8", title: "Seeing Good in the Next Generation", date: "August 25, 2017", category: "Life", post: 
+{id: "8", title: "Seeing Good in the Next Generation", date: "August 25, 2017", category: "Life", photo: "/images/next-generation.jpg", description: "In the whirlwind of politics, career, and trying to get our own sh*t together, we can forget that we have to foster the next generation, too. We have to make our surroundings better than how we found it (or made it) so that kids like the ones we met never lose hope in their own possibilities. [...]", post: 
 <div>
 <img src="/images/next-generation.jpg" alt="Next Generation" />
 <p>My boyfriend and I went to a <a href="https://www.nycfc.com/" target="_blank" rel="noopener noreferrer"> New York City FC </a>
@@ -113,7 +140,7 @@ const ARTICLES = [
 <p>It was such a refreshing interaction to speak to these kids. In the whirlwind of politics, career, and trying to get our own sh*t together, we can forget that we have to foster the next generation, too. We have to make our surroundings better than how we found it (or made it) so that kids like the ones we met never lose hope in their own possibilities.</p>
 </div>
 },
-{id: "7", title: "5 Things I Learned On YouTube", date: "August 24, 2017", category: "Life", post: 
+{id: "7", title: "5 Things I Learned On YouTube", date: "August 24, 2017", category: "Life", photo: "/images/youtube-lessons.jpg", description: "My use of YouTube has evolved from primarily watching music videos to now being a source of anything I could think of. A couple of years ago I started using YouTube as my go-to for my visual/auditory learning needs. Here is a list of random things I've used YouTube to learn from. [...]", post: 
 <div>
 <img src="/images/youtube-lessons.jpg" alt="YouTube Lessons" />
 <p>YouTube was founded in 2005 when I was a sophomore in high school(!). I still remember the yearbook that featured YouTube as one of the highlights of the year. My use of YouTube has evolved from primarily watching music videos to now being a source of anything I could think of. The first time I recall the concept of checking YouTube to learn how to do something was when my mom figured out how to fix some plumbing issues in our house while my dad was out of town. What a concept! But it wasn't until a couple of years ago I started using YouTube as my go-to for my visual/auditory learning needs. Below is a list of random things I've used YouTube to learn from.</p>
@@ -125,7 +152,7 @@ const ARTICLES = [
 <p>I hope these give you some ideas of YouTube lessons. The possibilities are endless.</p>
 </div>
 },
-{id: "6", title: "10 Things I Would Tell My College Self", date: "August 23, 2017", category: "Life", post: 
+{id: "6", title: "10 Things I Would Tell My College Self", date: "August 23, 2017", category: "Life", photo: "/images/college-self.jpg", description: "This August is the first one in my life that I will not be having a 'first day of school'. I've had first days with a lot of different academic environments, and each had its own challenges. The hardest transition of all was the one from high school to college. You think you're invincible but at the same time feel pressured to be a completely functional #adult. What does that mean, anyway? Here are 10 things I would tell my college self. [...]", post: 
 <div>
 <img src="/images/college-self.jpg" alt="College Self" />
 <p>This August is the first one in my life that I will not be having a "first day of school". It's crazy to think, but also refreshing to be able to focus on developing my career on the job. I've had first days with a lot of different academic environments. In high school I was a big fish in a small pond. In college I was culture-shocked as a tiny tadpole in one of the Great Lakes. In pharmacy school it was ~150 people in the same lecture room all day long. And then getting my MS, it was a whirlwind balancing evening coursework with a full residency program. Each environment had its own challenges that built from the previous experience, but I believe the hardest transition of all was the one from high school to college. It almost feels like an extension of your teenage years where you think you're invincible but at the same time feel pressured to be a completely functional #adult. What does that mean, anyway?</p>
@@ -143,7 +170,7 @@ const ARTICLES = [
 
 </div>
 },
-{id: "5", title: "My Skin Type and Foundation", date: "August 19, 2017", category: "Beauty", post:
+{id: "5", title: "My Skin Type and Foundation", date: "August 19, 2017", category: "Beauty", photo: "/images/makeup-skin-foundation.jpg", description: "Whatever your skin type is and daily routine, it takes trial and error to find out what works for you. It doesn't always have to be a 10-step foundation routine to look flawless. For every day and getting ready for a long work day, what matters is what makes you feel comfortable and confident to take on your challenges. [...]", post:
 <div>
 <img src="/images/makeup-skin-foundation.jpg" alt="Foundation and Skin Type" />
 
@@ -163,7 +190,7 @@ const ARTICLES = [
 
 </div>
 },
-{id: "4", title: "4 Considerations for Picking Weekend Brunch + My Favorite UWS Spot", date: "August 17, 2017", category: "Food", post:
+{id: "4", title: "4 Considerations for Picking Weekend Brunch + My Favorite UWS Spot", date: "August 17, 2017", category: "Life", photo: "/images/brunch-bloody-mary.jpg", description: "One thing I learned quickly when moving to New York City was that brunch is a big deal. Every restaurant open has a brunch special of some sort. My boyfriend and I came up with our criteria for picking a place to actually stop and sit. Here are 4 considerations we have, along with some tips for the optimal experience. [...]", post:
 <div>
 <img src="/images/brunch-bloody-mary.jpg" alt="Bloody Mary" />
 <p>One thing I learned quickly when moving to New York City was that brunch is a big deal. Every restaurant open has a brunch special of some sort. My boyfriend and I came up with our criteria for picking a place to actually stop and sit. Below are 4 considerations we have, along with some tips for the optimal experience in the end.</p>
@@ -179,7 +206,7 @@ const ARTICLES = [
 <p>Where are your favorite brunch spots, and how do you pick them?</p>
 </div>
 },
-{id: "3", title: "10 Tips for Orienting Yourself to a New Job", date: "August 16, 2017", category: "Career", post: 
+{id: "3", title: "10 Tips for Orienting Yourself to a New Job", date: "August 16, 2017", category: "Career", photo: "/images/orienting-yourself.jpg", description: "With all of the didactic training and coordination of orientation schedules/experiences for others, it's time to create the effective experience for myself. One of the most empowering lessons that I learned from my mentors is to prepare to orient yourself. Own it! Here are 10 tips that I will be implementing for at least the next few months. [...]", post: 
 <div>
 <img src="/images/orienting-yourself.jpg" alt="First Day!"/>
 <p>I started my first training-wheels-off job last Monday and most things are different from where I trained. The culture, the people, the protocols, etc. As a resident, I was one of the Chief Residents for Orientation where I helped coordinate on-boarding 35 Pharmacy Residents. With my specialty training I also coordinated on-boarding of new Managers while on rotations, and had lectures on the importance of getting a good start as part of my Masters degree.</p>
@@ -198,7 +225,7 @@ const ARTICLES = [
 <p className="tabbed">		10. <b>Start with the basics.</b> Learn where the bathroom is, how to clock in, make sure you get paid.</p>
 <p>Stay tuned to see if these tips worked for me in the long run. I hope some of these will work for you.</p>
 </div>},
-{id: "2", title: "When The Graduations End", date: "August 15, 2017", category: "Life", post:
+{id: "2", title: "When The Graduations End", date: "August 15, 2017", category: "Life", photo: "/images/graduation-end.jpg", description: "What I've learned is that when the graduation days end, life is just beginning. There is still so much more to learn and I choose to see it as a fun challenge. If you're in a similar boat where you are coming into the workforce feeling behind, I encourage you to take on the challenge with a positive perspective. [...]", post:
 <div>
 <img src="/images/graduation-end.jpg" alt="graduation:" />
 <p>I was raised in a family and culture where education meant success. If you did well in school, the rest of your life would fall into place. Well, I've gotten a lot of higher education throughout the past couple of decades with three degrees to my name (BS, PharmD, MS). And while I've held jobs as I progressed through my coursework, and staffed as part of my residency program, the graduation days have finally ended and the training wheels are off. At 28 years old, I officially have entered the next step of my career.</p> 
@@ -206,7 +233,7 @@ const ARTICLES = [
 <p>The truth is, without all of the experiences I had before today I wouldn't be exploring New York City with someone I love, with the potential for amazing new experiences ahead of us. Yes, I've spent a lot of my life studying and struggling, but I learned so much along the way. I learned a lot about life, what I want from it, and how to get it. I've gained independence and perspective that had I rushed out into the real world a decade earlier I may not have in the same way.</p> 
 <p>What I've learned is that when the graduation days end, life is just beginning. There is still so much more to learn and I choose to see it as a fun challenge. If you're in a similar boat where you are coming into the workforce feeling behind, I encourage you to take on the challenge with a positive perspective. Take value in where you came from, the mistakes you made, and accomplishments you earned. Use them to take on the unknown future and make it what you want.</p>
 </div>},
-{id: "1", title: "Welcome", date: "August 13, 2017", category: "Life", post: 
+{id: "1", title: "Welcome", date: "August 13, 2017", category: "Life", photo: "/images/cute-kitten.jpg", description: "Welcome to Coffee Meets Polished, a forum to share everything from what we enjoy when we are our bare-it-all selves with our first coffee of the day, to when we have to go out into the world as our more polished selves. [...]", post: 
 <div>
 <img src="/images/cute-kitten.jpg" alt="A cute kitten"/>
 <p>Welcome to Coffee Meets Polished, a forum to share everything from what we enjoy when we are our bare-it-all selves with our first coffee of the day, to when we have to go out into the world as our more polished selves.</p>
