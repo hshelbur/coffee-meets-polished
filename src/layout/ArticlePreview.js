@@ -11,8 +11,8 @@ class ArticlePreview extends Component {
           <h3 className="article-timestamp"><time>{date}</time></h3>
           <p className="category"><a href={`/${category.toLowerCase()}`}>{category}</a></p>
           <div className="article-preview">
-            <p>{description}</p>
             <img src={photo} alt="Article Preview" />
+            <p>{description}</p>
           </div>
         </article>
     );
