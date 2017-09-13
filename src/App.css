@@ -736,6 +736,11 @@ footer .developed-by {
 
 .preview .article-preview p {
   margin-bottom: 15px;
+  display: inline;
+}
+
+.preview .article-preview a {
+  color: #4a5050;
 }
 
 .article-copy {
