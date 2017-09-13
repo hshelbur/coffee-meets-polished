@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Route} from 'react-router-dom';
+import { BrowserRouter as Router, Route, Switch} from 'react-router-dom';
 import './App.css';
 import Header from './layout/Header.js';
 import SocialForm from './layout/SocialForm.js';
@@ -19,6 +19,8 @@ const App = () => (
 
         <div className="row">
           <main className="col-md-8 col-lg-9">
+
+            <Switch>
 
             <Route exact path="/" render={() =>           
                 <ArticleList articles={ARTICLES} />
@@ -57,12 +59,16 @@ const App = () => (
               } />
 
             <Route path="/articles/:id" render={({match}) => {
+
               const {id} = match.params
               const matches = ARTICLES.filter(article => article.id === id)
               return matches.length > 0 
                 ? <ArticlePage articles={matches} />
                 : <h1>Sorry, Article Not Found</h1>
             }} />
+
+
+            </Switch>
 
             </main>
           

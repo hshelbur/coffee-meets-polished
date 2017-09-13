@@ -1,7 +1,11 @@
 import React from 'react';
 
 const ARTICLES = [
+<<<<<<< HEAD
+{id: "15", title: <a href="/articles/15">Where I Was on September 11, 2001</a>, date: "September 11, 2017", category: "Activism", photo: "/images/911_memorial.jpg", description: "We all remember where we were that day. I learned what terrorism was. And today, the threat of terrorism still exists but it has also empowered and strengthened the activism against it. With diversity of culture, race, gender, sexual orientation, comes a beautiful synergy of innovation and strength that the world needs more than ever. [...]", post: 
+=======
 {id: "15", title: <a href="/articles/15">Where I Was on September 11, 2001</a>, date: "September 11, 2017", category: "Activism", photo: "/images/911_memorial.jpg", description: <div><p>We all remember where we were that day. I learned what terrorism was. And today, the threat of terrorism still exists but it has also empowered and strengthened the activism against it. With diversity of culture, race, gender, sexual orientation, comes a beautiful synergy of innovation and strength that the world needs more than ever.</p> <a href="/articles/15">[...]</a></div>, post: 
+>>>>>>> preview
 <div>
 <img src="/images/911_memorial.jpg" alt="911 Memorial" />
 <p>Photo Credit: <a href="https://www.911memorial.org/blog/lens-capturing-life-and-events-911-memorial-and-museum-6" target="_blank" rel="noopener noreferrer">Jin Lee</a></p>
@@ -28,7 +32,11 @@ const ARTICLES = [
 <p>I value perspective and open-mindedness. The older I get, the more I see the definitions of “good” and “bad” are incredibly complex, and may not even exist at all in some cases. After moving from North Carolina to New York City, my eyes have opened further to the value diversity plays in peaceful co-existence. I hope to bask in it now, but wherever I go continue to spread the same beliefs. With diversity of culture, race, gender, sexual orientation, comes a beautiful synergy of innovation and strength that the world needs more than ever.</p>
 </div>
 },
+<<<<<<< HEAD
+{id: "14", title: <a href="/articles/14">Four Nutrient-Filled Products to Sneak Into Your Smoothies</a>, date: "September 7, 2017", category: "Wellness", photo: "/images/smoothie-nutrients.jpg", description: "Smoothies are one of my favorite ways to sneak nutrients into my body that I may otherwise not want to have by themselves because of taste, texture, etc. Here are 4 things I add into every smoothie I make that I don’t even notice are there but give me tons of added benefits. [...]", post: 
+=======
 {id: "14", title: <a href="/articles/14">Four Nutrient-Filled Products to Sneak Into Your Smoothies</a>, date: "September 7, 2017", category: "Wellness", photo: "/images/smoothie-nutrients.jpg", description: <div><p>Smoothies are one of my favorite ways to sneak nutrients into my body that I may otherwise not want to have by themselves because of taste, texture, etc. Here are 4 things I add into every smoothie I make that I don’t even notice are there but give me tons of added benefits.</p> <a href="/articles/14">[...]</a></div>, post: 
+>>>>>>> preview
 <div>
 <img src="/images/smoothie-nutrients.jpg" alt="Smoothie Nutrients" />
 <p>Smoothies are one of my favorite ways to sneak nutrients into my body that I may otherwise not want to have by themselves because of taste, texture, etc. Here are 4 things I add into every smoothie I make that I don’t even notice are there but give me tons of added benefits.</p>
@@ -39,7 +47,11 @@ const ARTICLES = [
 <p>With these I get in a lot of nutrients and fiber I (unfortunately) don't in other meals of the day. I can't taste the difference except with the seeds but it doesn't feel any different than having some strawberries or kiwi. I hope you give these a try!</p>
 </div>
 },
+<<<<<<< HEAD
+{id: "13", title: <a href="/articles/13">How To Set Smart Goals For Yourself</a>, date: "September 5, 2017", category: "Career", photo: "/images/goals.jpg", description: "We all have goals for ourselves but many of us find ourselves unable to achieve them and feel too discouraged to persevere. I’ve been in that boat so many times. Each time I’ve not achieved a goal and reflect as to why, I realize that the reasons for not reaching my goals are not because of our innate skills but rather how we set our goals. Read more to learn how to set SMART goals for yourself. [...]", post: 
+=======
 {id: "13", title: <a href="/articles/13">How To Set Smart Goals For Yourself</a>, date: "September 5, 2017", category: "Career", photo: "/images/goals.jpg", description: <div><p>"We all have goals for ourselves but many of us find ourselves unable to achieve them and feel too discouraged to persevere. I’ve been in that boat so many times. Each time I’ve not achieved a goal and reflect as to why, I realize that the reasons for not reaching my goals are not because of our innate skills but rather how we set our goals. Read more to learn how to set SMART goals for yourself.</p><a href="/articles/13">[...]</a></div>, post: 
+>>>>>>> preview
 <div>
 <img src="/images/goals.jpg" alt="Setting Goals" />
 <p>We all have goals for ourselves but many of us find ourselves unable to achieve them and feel too discouraged to persevere. I’ve been in that boat so many times. Each time I’ve not achieved a goal and reflect as to why, I realize that the reasons for not reaching my goals are not because of our innate skills but rather how we set our goals. Many of us set lofty goals for ourselves assuming setting a goal is all that's needed and the rest will naturally fall into place. “Dream big”, “Reach for the stars!” we hear.</p>
@@ -63,7 +75,11 @@ const ARTICLES = [
 <p>Achieving our goals is an iterative process. Remember, life is a marathon, not a sprint. Don't beat yourself down if a goal isn't achieved at the exact time you allotted. Instead, see it as an opportunity to learn and grow.</p>
 </div>
 },
+<<<<<<< HEAD
+{id: "12", title: <a href="/articles/12">5 Things I Loved in August</a>, date: "August 31, 2017", category: "Life", photo: "/images/anniversary-roses.jpg", description: "I can’t believe it’s already the end of August. I know I’m in the majority of people feeling this way, but this has been a pretty big month for me. I’ve been learning to orient myself in a brand new environment and learning a new frontier in my pursuit of work-life integration. As I reflect on the past month before embarking on September, here are five things I loved in August. [...]", post: 
+=======
 {id: "12", title: <a href="/articles/12">5 Things I Loved in August</a>, date: "August 31, 2017", category: "Life", photo: "/images/anniversary-roses.jpg", description: <div><p>"I can’t believe it’s already the end of August. I know I’m in the majority of people feeling this way, but this has been a pretty big month for me. I’ve been learning to orient myself in a brand new environment and learning a new frontier in my pursuit of work-life integration. As I reflect on the past month before embarking on September, here are five things I loved in August.</p> <a href="/articles/12">[...]</a></div>, post: 
+>>>>>>> preview
 <div>
 <p>I can’t believe it’s already the end of August. I know I’m in the majority of people feeling this way, but this has been a pretty big month for me with starting my first training-wheels-off job since residency. I’ve been learning to orient myself in a brand new environment and learning a new frontier in my pursuit of work-life integration. As I reflect on the past month before embarking on September, here are five things I loved in August.</p>
 <h4><b>roses.</b></h4>
@@ -84,7 +100,11 @@ const ARTICLES = [
 <p>All in all, August was an amazing month. I started my career and this blog, I started a new life in a brand new place, and I'm continuing to find my ever-evolving sense of self. Thank you for embarking on this journey with me!</p>
 </div>
 },
+<<<<<<< HEAD
+{id: "11", title: <a href="/articles/11">Everyday Neutral Eyeshadows for Medium Skin</a>, date: "August 29, 2017", category: "Beauty", photo: "/images/neutral-eyeshadow-arrangement.jpg", description: "One of my favorite parts of any makeup routine is eyeshadow. I don’t consider myself creative or artistic, but with eyeshadows I feel that I’m able to completely transform my look and feel more confident. Here are my essential, everyday eyeshadows for medium tan (Filipina) skin. [...]", post: 
+=======
 {id: "11", title: <a href="/articles/11">Everyday Neutral Eyeshadows for Medium Skin</a>, date: "August 29, 2017", category: "Beauty", photo: "/images/neutral-eyeshadow-arrangement.jpg", description: <div><p>"One of my favorite parts of any makeup routine is eyeshadow. I don’t consider myself creative or artistic, but with eyeshadows I feel that I’m able to completely transform my look and feel more confident. Here are my essential, everyday eyeshadows for medium tan (Filipina) skin.</p> <a href="/articles/11">[...]</a></div>, post: 
+>>>>>>> preview
 <div>
 <p>One of my favorite parts of any makeup routine is eyeshadow. I don’t consider myself creative or artistic, but with eyeshadows I feel that I’m able to completely transform my look and feel more confident. Whether it’s a simple look while still half-asleep in the morning or ultra glam for a night out, I have a lot of fun doing it. <b>Remember: makeup should first and foremost be applied for you, not anyone else.</b></p>
 <p>Here are my essential, everyday eyeshadows. These are the ones that I travel with and reach for with almost every look. These are basically my default shadows when I’m on autopilot. For reference, I’m a Filipina and have medium brown skin with neutral undertones (Mac NW44, Revlon Colorstay Combination/Oily in Toast, Maybelline Matte Fit Me Matte + Poreless Foundation in Natural Tan). I have very dark brown eyes and my eyelids get oily so I prime and set with a base every time.</p>
@@ -103,7 +123,11 @@ const ARTICLES = [
 <p><img src="/images/neutral-eyeshadows-travel-palette.jpg" alt="Neutral Eyeshadows Travel Palette" /></p>
 </div>
 },
+<<<<<<< HEAD
+{id: "10", title: <a href="/articles/10">5 Ways to Sunday Self-Care That Doesn’t Break the Bank</a>, date: "August 27, 2017", category: "Wellness", photo: "/images/sunday-self-care.jpg", description: "Sundays are really important for me to feel I can tackle the week ahead. You don't need to spend hundreds of dollars for a massage and spa to reap the benefits of self-care. Here's a compilation of my Sunday self-care routine. [...]", post: 
+=======
 {id: "10", title: <a href="/articles/10">5 Ways to Sunday Self-Care That Doesn’t Break the Bank</a>, date: "August 27, 2017", category: "Wellness", photo: "/images/sunday-self-care.jpg", description: <div><p>"Sundays are really important for me to feel I can tackle the week ahead. You don't need to spend hundreds of dollars for a massage and spa to reap the benefits of self-care. Here's a compilation of my Sunday self-care routine.</p> <a href="/articles/10">[...]</a></div>, post: 
+>>>>>>> preview
 <div>
 <img src="/images/sunday-self-care.jpg" alt="Sunday Self Care" />
 <p>Sundays are really important for me to feel I can tackle the week ahead. When I was a resident, the Sundays I wasn’t working were the days I felt I had control of my life. As transient as that feeling was once Monday hit, I still saw Sundays as a chance to start fresh. With the limited time to re-group, I developed the essential habits I continue to do now. Some of these may seem a bit *basic*, but I’ve learned that a compilation of what seem like little things become significant for self-care. You don’t need to spend hundreds of dollars for a massage and spa to reap the benefits (although, more power to you if can!). </p>
@@ -115,7 +139,11 @@ const ARTICLES = [
 <p>These are a few examples of little things you can do to feel empowered to kick ass and take names at work this week. The important thing is to find what works for you and dedicate to self-care.</p>
 </div>
 },
+<<<<<<< HEAD
+{id: "9", title: <a href="/articles/9">Taste of Microadventures</a>, date: "August 26, 2017", category: "Life", photo: "/images/nycfc.jpg", description: "I just finished my third week on the job. One thing I’m still getting used to transitioning from resident to full-fledged pharmacist is not feeling guilty about taking time to do things other than work. Here's a taste of microadventures of the week. [...]", post: 
+=======
 {id: "9", title: <a href="/articles/9">Taste of Microadventures</a>, date: "August 26, 2017", category: "Life", photo: "/images/nycfc.jpg", description: <div><p>"I just finished my third week on the job. One thing I’m still getting used to transitioning from resident to full-fledged pharmacist is not feeling guilty about taking time to do things other than work. Here's a taste of microadventures of the week.</p> <a href="/articles/9">[...]</a></div>, post: 
+>>>>>>> preview
 <div>
 <p>I just finished my third week on the job. One thing I’m still getting used to transitioning from resident to full-fledged pharmacist is not feeling guilty about taking time to do things other than work. As a resident, there were usually so many things to get done that you didn’t know how to take a mental break. And if you made the choice to not work, many would feel odd about it knowing that there was someone else still working.</p>
 <p>But now, living in New York City there is always so much to do right outside your door. I have no choice but to disconnect from work and enjoy everything around me. Here’s a taste of microadventures of the week.</p>
@@ -129,7 +157,11 @@ const ARTICLES = [
 <p>After happy hour one night this week, the weather was perfect for a walk in Central Park. Made for a great photo, don’t you think?</p>
 </div>
 },
+<<<<<<< HEAD
+{id: "8", title: <a href="/articles/8">Seeing Good in the Next Generation</a>, date: "August 25, 2017", category: "Life", photo: "/images/next-generation.jpg", description: "In the whirlwind of politics, career, and trying to get our own sh*t together, we can forget that we have to foster the next generation, too. We have to make our surroundings better than how we found it (or made it) so that kids like the ones we met never lose hope in their own possibilities. [...]", post: 
+=======
 {id: "8", title: <a href="/articles/8">Seeing Good in the Next Generation</a>, date: "August 25, 2017", category: "Life", photo: "/images/next-generation.jpg", description: <div><p>"In the whirlwind of politics, career, and trying to get our own sh*t together, we can forget that we have to foster the next generation, too. We have to make our surroundings better than how we found it (or made it) so that kids like the ones we met never lose hope in their own possibilities.</p> <a href="/articles/8">[...]</a></div>, post: 
+>>>>>>> preview
 <div>
 <img src="/images/next-generation.jpg" alt="Next Generation" />
 <p>My boyfriend and I went to a <a href="https://www.nycfc.com/" target="_blank" rel="noopener noreferrer"> New York City FC </a>
@@ -140,7 +172,11 @@ const ARTICLES = [
 <p>It was such a refreshing interaction to speak to these kids. In the whirlwind of politics, career, and trying to get our own sh*t together, we can forget that we have to foster the next generation, too. We have to make our surroundings better than how we found it (or made it) so that kids like the ones we met never lose hope in their own possibilities.</p>
 </div>
 },
+<<<<<<< HEAD
+{id: "7", title: <a href="/articles/7">5 Things I Learned On YouTube</a>, date: "August 24, 2017", category: "Life", photo: "/images/youtube-lessons.jpg", description: "My use of YouTube has evolved from primarily watching music videos to now being a source of anything I could think of. A couple of years ago I started using YouTube as my go-to for my visual/auditory learning needs. Here is a list of random things I've used YouTube to learn from. [...]", post: 
+=======
 {id: "7", title: <a href="/articles/7">5 Things I Learned On YouTube</a>, date: "August 24, 2017", category: "Life", photo: "/images/youtube-lessons.jpg", description: <div><p>"My use of YouTube has evolved from primarily watching music videos to now being a source of anything I could think of. A couple of years ago I started using YouTube as my go-to for my visual/auditory learning needs. Here is a list of random things I've used YouTube to learn from.</p> <a href="/articles/7">[...]</a></div>, post: 
+>>>>>>> preview
 <div>
 <img src="/images/youtube-lessons.jpg" alt="YouTube Lessons" />
 <p>YouTube was founded in 2005 when I was a sophomore in high school(!). I still remember the yearbook that featured YouTube as one of the highlights of the year. My use of YouTube has evolved from primarily watching music videos to now being a source of anything I could think of. The first time I recall the concept of checking YouTube to learn how to do something was when my mom figured out how to fix some plumbing issues in our house while my dad was out of town. What a concept! But it wasn't until a couple of years ago I started using YouTube as my go-to for my visual/auditory learning needs. Below is a list of random things I've used YouTube to learn from.</p>
@@ -152,7 +188,11 @@ const ARTICLES = [
 <p>I hope these give you some ideas of YouTube lessons. The possibilities are endless.</p>
 </div>
 },
+<<<<<<< HEAD
+{id: "6", title: <a href="/articles/6">10 Things I Would Tell My College Self</a>, date: "August 23, 2017", category: "Life", photo: "/images/college-self.jpg", description: "This August is the first one in my life that I will not be having a 'first day of school'. I've had first days with a lot of different academic environments, and each had its own challenges. The hardest transition of all was the one from high school to college. You think you're invincible but at the same time feel pressured to be a completely functional #adult. What does that mean, anyway? Here are 10 things I would tell my college self. [...]", post: 
+=======
 {id: "6", title: <a href="/articles/6">10 Things I Would Tell My College Self</a>, date: "August 23, 2017", category: "Life", photo: "/images/college-self.jpg", description: <div><p>"This August is the first one in my life that I will not be having a 'first day of school'. I've had first days with a lot of different academic environments, and each had its own challenges. The hardest transition of all was the one from high school to college. You think you're invincible but at the same time feel pressured to be a completely functional #adult. What does that mean, anyway? Here are 10 things I would tell my college self.</p> <a href="/articles/6">[...]</a></div>, post: 
+>>>>>>> preview
 <div>
 <img src="/images/college-self.jpg" alt="College Self" />
 <p>This August is the first one in my life that I will not be having a "first day of school". It's crazy to think, but also refreshing to be able to focus on developing my career on the job. I've had first days with a lot of different academic environments. In high school I was a big fish in a small pond. In college I was culture-shocked as a tiny tadpole in one of the Great Lakes. In pharmacy school it was ~150 people in the same lecture room all day long. And then getting my MS, it was a whirlwind balancing evening coursework with a full residency program. Each environment had its own challenges that built from the previous experience, but I believe the hardest transition of all was the one from high school to college. It almost feels like an extension of your teenage years where you think you're invincible but at the same time feel pressured to be a completely functional #adult. What does that mean, anyway?</p>
@@ -169,7 +209,11 @@ const ARTICLES = [
 <p className="tabbed">10. <b>Don't isolate your family.</b> If you're lucky, you made it to college with the support of your family in one way or another. In this phase of your life you begin to learn that your parents are human beings who went through similar struggles with their sense of self. Take advantage of their wisdom. If they don't treat you like an independent adult yet, give them time to also learn to let go. And never deny the gift packages from home. Your roommates/dorm-mates will appreciate it, too!</p>
 </div>
 },
+<<<<<<< HEAD
+{id: "5", title: <a href="/articles/5">My Skin Type and Foundation</a>, date: "August 19, 2017", category: "Beauty", photo: "/images/makeup-skin-foundation.jpg", description: "Whatever your skin type is and daily routine, it takes trial and error to find out what works for you. It doesn't always have to be a 10-step foundation routine to look flawless. For every day and getting ready for a long work day, what matters is what makes you feel comfortable and confident to take on your challenges. [...]", post:
+=======
 {id: "5", title: <a href="/articles/5">My Skin Type and Foundation</a>, date: "August 19, 2017", category: "Beauty", photo: "/images/makeup-skin-foundation.jpg", description: <div><p>"Whatever your skin type is and daily routine, it takes trial and error to find out what works for you. It doesn't always have to be a 10-step foundation routine to look flawless. For every day and getting ready for a long work day, what matters is what makes you feel comfortable and confident to take on your challenges.</p> <a href="/articles/5">[...]</a></div>, post:
+>>>>>>> preview
 <div>
 <img src="/images/makeup-skin-foundation.jpg" alt="Foundation and Skin Type" />
 <p>I fully admit one of my guilty pleasures is binge-watching YouTube "beauty influencers". Whatever your skin type is and daily routine, it takes trial and error to find out what works for you. The Q&A below is for reference for you to know it doesn't always have to be a 10-step foundation routine to look flawless. Don't get me wrong, I have a lot of fun putting on makeup and when I know I have an evening event, I will plan to spend a lot of time on it. But for every day and getting ready for a long work day, what matters is what makes you feel comfortable and confident to take on your challenges.</p>
@@ -187,7 +231,11 @@ const ARTICLES = [
 <p>When I'm getting ready for work in the morning, I keep it simple but effective. I don't use concealer under the eyes, instead I do a second layer of foundation. I don't use any sort of setting spray. And I don't contour/bronze. I am interested in pursuing this someday but for now, I only use blush and highlight.</p>
 </div>
 },
+<<<<<<< HEAD
+{id: "4", title: <a href="/articles/4">4 Considerations for Picking Weekend Brunch + My Favorite UWS Spot</a>, date: "August 17, 2017", category: "Life", photo: "/images/brunch-bloody-mary.jpg", description: "One thing I learned quickly when moving to New York City was that brunch is a big deal. Every restaurant open has a brunch special of some sort. My boyfriend and I came up with our criteria for picking a place to actually stop and sit. Here are 4 considerations we have, along with some tips for the optimal experience. [...]", post:
+=======
 {id: "4", title: <a href="/articles/4">4 Considerations for Picking Weekend Brunch + My Favorite UWS Spot</a>, date: "August 17, 2017", category: "Life", photo: "/images/brunch-bloody-mary.jpg", description: <div><p>"One thing I learned quickly when moving to New York City was that brunch is a big deal. Every restaurant open has a brunch special of some sort. My boyfriend and I came up with our criteria for picking a place to actually stop and sit. Here are 4 considerations we have, along with some tips for the optimal experience.</p> <a href="/articles/4">[...]</a></div>, post:
+>>>>>>> preview
 <div>
 <img src="/images/brunch-bloody-mary.jpg" alt="Bloody Mary" />
 <p>One thing I learned quickly when moving to New York City was that brunch is a big deal. Every restaurant open has a brunch special of some sort. My boyfriend and I came up with our criteria for picking a place to actually stop and sit. Below are 4 considerations we have, along with some tips for the optimal experience in the end.</p>
@@ -203,7 +251,11 @@ const ARTICLES = [
 <p>Where are your favorite brunch spots, and how do you pick them?</p>
 </div>
 },
+<<<<<<< HEAD
+{id: "3", title: <a href="/articles/3">10 Tips for Orienting Yourself to a New Job</a>, date: "August 16, 2017", category: "Career", photo: "/images/orienting-yourself.jpg", description: "With all of the didactic training and coordination of orientation schedules/experiences for others, it's time to create the effective experience for myself. One of the most empowering lessons that I learned from my mentors is to prepare to orient yourself. Own it! Here are 10 tips that I will be implementing for at least the next few months. [...]", post: 
+=======
 {id: "3", title: <a href="/articles/3">10 Tips for Orienting Yourself to a New Job</a>, date: "August 16, 2017", category: "Career", photo: "/images/orienting-yourself.jpg", description: <div><p>"With all of the didactic training and coordination of orientation schedules/experiences for others, it's time to create the effective experience for myself. One of the most empowering lessons that I learned from my mentors is to prepare to orient yourself. Own it! Here are 10 tips that I will be implementing for at least the next few months.</p> <a href="/articles/3">[...]</a></div>, post: 
+>>>>>>> preview
 <div>
 <img src="/images/orienting-yourself.jpg" alt="First Day!"/>
 <p>I started my first training-wheels-off job last Monday and most things are different from where I trained. The culture, the people, the protocols, etc. As a resident, I was one of the Chief Residents for Orientation where I helped coordinate on-boarding 35 Pharmacy Residents. With my specialty training I also coordinated on-boarding of new Managers while on rotations, and had lectures on the importance of getting a good start as part of my Masters degree.</p>
@@ -222,7 +274,11 @@ const ARTICLES = [
 <p className="tabbed">		10. <b>Start with the basics.</b> Learn where the bathroom is, how to clock in, make sure you get paid.</p>
 <p>Stay tuned to see if these tips worked for me in the long run. I hope some of these will work for you.</p>
 </div>},
+<<<<<<< HEAD
+{id: "2", title: <a href="/articles/2">When The Graduations End</a>, date: "August 15, 2017", category: "Life", photo: "/images/graduation-end.jpg", description: "What I've learned is that when the graduation days end, life is just beginning. There is still so much more to learn and I choose to see it as a fun challenge. If you're in a similar boat where you are coming into the workforce feeling behind, I encourage you to take on the challenge with a positive perspective. [...]", post:
+=======
 {id: "2", title: <a href="/articles/2">When The Graduations End</a>, date: "August 15, 2017", category: "Life", photo: "/images/graduation-end.jpg", description: <div><p>"What I've learned is that when the graduation days end, life is just beginning. There is still so much more to learn and I choose to see it as a fun challenge. If you're in a similar boat where you are coming into the workforce feeling behind, I encourage you to take on the challenge with a positive perspective.</p> <a href="/articles/2">[...]</a></div>, post:
+>>>>>>> preview
 <div>
 <img src="/images/graduation-end.jpg" alt="graduation:" />
 <p>I was raised in a family and culture where education meant success. If you did well in school, the rest of your life would fall into place. Well, I've gotten a lot of higher education throughout the past couple of decades with three degrees to my name (BS, PharmD, MS). And while I've held jobs as I progressed through my coursework, and staffed as part of my residency program, the graduation days have finally ended and the training wheels are off. At 28 years old, I officially have entered the next step of my career.</p> 
@@ -230,7 +286,11 @@ const ARTICLES = [
 <p>The truth is, without all of the experiences I had before today I wouldn't be exploring New York City with someone I love, with the potential for amazing new experiences ahead of us. Yes, I've spent a lot of my life studying and struggling, but I learned so much along the way. I learned a lot about life, what I want from it, and how to get it. I've gained independence and perspective that had I rushed out into the real world a decade earlier I may not have in the same way.</p> 
 <p>What I've learned is that when the graduation days end, life is just beginning. There is still so much more to learn and I choose to see it as a fun challenge. If you're in a similar boat where you are coming into the workforce feeling behind, I encourage you to take on the challenge with a positive perspective. Take value in where you came from, the mistakes you made, and accomplishments you earned. Use them to take on the unknown future and make it what you want.</p>
 </div>},
+<<<<<<< HEAD
+{id: "1", title: <a href="/articles/1">Welcome</a>, date: "August 13, 2017", category: "Life", photo: "/images/cute-kitten.jpg", description: "Welcome to Coffee Meets Polished, a forum to share everything from what we enjoy when we are our bare-it-all selves with our first coffee of the day, to when we have to go out into the world as our more polished selves. [...]", post: 
+=======
 {id: "1", title: <a href="/articles/1">Welcome</a>, date: "August 13, 2017", category: "Life", photo: "/images/cute-kitten.jpg", description: <div><p>"Welcome to Coffee Meets Polished, a forum to share everything from what we enjoy when we are our bare-it-all selves with our first coffee of the day, to when we have to go out into the world as our more polished selves.</p> <a href="/articles/1">[...]</a></div>, post: 
+>>>>>>> preview
 <div>
 <img src="/images/cute-kitten.jpg" alt="A cute kitten"/>
 <p>Welcome to Coffee Meets Polished, a forum to share everything from what we enjoy when we are our bare-it-all selves with our first coffee of the day, to when we have to go out into the world as our more polished selves.</p>
