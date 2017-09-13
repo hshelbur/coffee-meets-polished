@@ -682,9 +682,6 @@ footer .developed-by {
   display: block;
   margin: auto;
   margin-bottom: 10px;
-  -webkit-box-shadow: -5px 3px 13px -1px rgba(133,128,133,1);
-  -moz-box-shadow: -5px 3px 13px -1px rgba(133,128,133,1);
-  box-shadow: -5px 3px 13px -1px rgba(133,128,133,1);
 }
 
 .article .landscape, .preview {
@@ -728,6 +725,10 @@ footer .developed-by {
   font-size: 12px;
   color: #4a5050;
   text-align: center;
+}
+
+.preview .category {
+  margin-bottom: 10px;
 }
 
 .preview .category a {
