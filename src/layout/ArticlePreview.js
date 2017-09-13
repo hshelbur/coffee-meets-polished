@@ -9,7 +9,7 @@ class ArticlePreview extends Component {
         <article className="preview">
           <h2 className="article-title">{title}</h2>
           <h3 className="article-timestamp"><time>{date}</time></h3>
-          <p><a href={`/${category.toLowerCase()}`}>{category}</a></p>
+          <p className="category"><a href={`/${category.toLowerCase()}`}>{category}</a></p>
           <div className="article-preview">
             <p>{description}</p>
             <img src={photo} alt="Article Preview" />
