@@ -604,7 +604,6 @@ footer .developed-by {
 }
 
 .social-icons img {
-  
   width: 15px;
 }
 
@@ -682,6 +681,7 @@ footer .developed-by {
   display: block;
   margin: auto;
   margin-bottom: 10px;
+  width: 100%;
 }
 
 .article .landscape, .preview {
