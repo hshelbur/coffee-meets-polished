@@ -1,6 +1,23 @@
 import React from 'react';
 
 const ARTICLES = [
+{id: "18", title: <a href="/articles/18">7 Things I’m Excited For This Fall</a>, date: "September 20, 2017", category: "Life", photo: "/images/fall.jpg",  description: <div><p>As a Puerto Rican by birth, Floridian by childhood, Filipina by blood, I’m simply not made to love the cold weather. That being said, I did live in North Carolina for 6 years as a warm up for New York City. Here are 7 things I'm insanely excited about to experience for my first fall in the City.</p> <a href="/articles/18">[...]</a></div>, post: 
+<div>
+<img src="/images/fall.jpg" alt="Fall" />
+<p>As a Puerto Rican by birth, Floridian by childhood, Filipina by blood, I’m simply not made to love the cold weather. My blood is thinner and my biological thermometer is more sensitive (sounds scientific enough, right?) to any Fahrenheit readings below 75(ish) degrees. I grew up on the beachside of Central Florida, where there was no point in straightening your hair except for a few weeks in January (thank you, humidity), where freeze warnings meant bringing your plants inside overnight, and anything that required me to wear closed-toed shoes meant I was shivering.</p>
+<p>That being said, I did live in North Carolina for 6 years as a warm up for New York City. One of the things people who know me are excited about seeing is my reaction to a Northeast winter. But that’s not for a whole season. We still have fall! If you know a Floridian, you’ve seen their wonder at the leaves changing to reds, oranges, and yellows. I still get these feelings 6 years later. But I have come to love a few more things that associate with the crisp, cool fall air that I’m excited to experience in New York City.</p>
+<p className="tabbed">1. <b>Pho.</b> Anyone else with me? I love a huge bowl of pho on a cool day to keep me warm from the inside.</p>
+<p className="tabbed">2. <b>Peacoats.</b> I didn’t own my first peacoat until I moved to North Carolina when I was 22 years old. But now that I have a few I love the style!</p>
+<p className="tabbed">3. <b>Leaves changing in Central Park.</b> As I said before, I still find the leaves changing to be one of the Wonders of the World. And in one of the best parks in the world? ‘Nuff said.</p>
+<p className="tabbed">4. <b>Not melting in the subways.</b> Subways don’t have air conditioning. They are about 50 degrees hotter than whatever temperature it is outside. You can do the math.</p>
+<p className="tabbed">5. <b>Fall makeup/nail polish colors.</b> I’m not one for makeup rules, but the muted warm tones and deep berry colors are some of my favorites to rock out on my lips, eyes, and nails in the fall.</p>
+<p className="tabbed">6. <b>Keeping windows open.</b> In our brownstone apartment, we don’t have central air conditioning. I’m pretty excited to remove our window units to make way for keeping the windows open. Thank you Upper West Side and your cleaner outside air.</p>
+<p className="tabbed">7. <b>Mulled wine.</b>I love making mulled wine. The temperature and spice warmth combined is perfect to cozy up with a movie on the couch. Friends optional. Here’s one of my favorite recipes from <a href="http://www.foodnetwork.com/recipes/ina-garten/mulled-wine-recipe-1950801" target="_blank" rel="noopener noreferrer">Ina Garten</a>.</p>
+<p className="tabbed">8. <b>Apples.</b> Apple combined with cinnamon in any form during the fall is the best. Cider, pie, applesauce, apple butter, donuts… okay brb going to buy some apples.</p>
+<p>Until next year, summer. You were a great one in 2017...</p>
+<p>...I’ll be missing you more this winter.</p>
+</div>
+},
 
 {id: "17", title: <a href="/articles/17">6 Ways to Own Your Introversion</a>, date: "September 18, 2017", category: "Wellness", photo: "/images/owned-introversion.jpg",  description: <div><p>For the first couple of decades of my life, I didn’t know I was an introvert. I just thought I was quiet and didn’t like crowds. Once I identified as an introvert, the journey to owning it and feeling confident about it was a different story. If you’re in a similar boat as me and working on your own sense of self, here are six ways I’ve learned to own your introversion.</p> <a href="/articles/17">[...]</a></div>, post: 
 <div>
