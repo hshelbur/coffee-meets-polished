@@ -1,6 +1,21 @@
 import React from 'react';
 
 const ARTICLES = [
+{id: "19", title: <a href="/articles/19">Futile Pursuit of Balance: Set Boundaries Instead</a>, date: "September 24, 2017", category: "Wellness", photo: "/images/boundaries.jpg",  description: <div><p>I am no stranger to the challenge of finding purpose in work and personal life when one held the keys to the future I need to pay of all of my loans and the other held the key to mental survival. After attending seminars and reading so much about the art of finding balance, every pursuit almost always lead to feelings of failures and disappointment. I propose we change the conversation to set boundaries instead.</p> <a href="/articles/19">[...]</a></div>, post: 
+<div>
+<img src="/images/boundaries.jpg" alt="Boundaries" />
+<p>The constant battle of humans is to find balance in our lives with everything going on. The concept of having balance insinuates that within 24 hours of each day we must equally divide them between the activities we want to accomplish. 8 hours work + 8 hours play + 8 hours sleep. If we polled everyone in the world I would bet that is something less than 1% of the population actually achieves.</p>
+<p>After 6 years of post-undergraduate school work, and the past two years as a pharmacy resident I am no stranger to the challenge of finding purpose in work and personal life when one held the keys to the future I need to pay of all of my loans and the other held the key to mental survival. I went through phases of being extremely UN-balanced and without ANY boundaries. I’ve attended seminars and read many articles about the art of finding balance, but the pursuit almost always leads to feelings of failure and disappointment.</p>
+<p>Does that mean we are hopeless to never find balance? Are we doomed to lives of either all work or all play (and no sleep)?</p>
+<p>Mentorship from those who also found balance a dead end goal has instilled in me the desire to dump the balance and instead set <b>boundaries</b>. Throughout residency I tried to set boundaries instead of balance. Many (MANY) times I failed, but I learned a lot along the way.</p>
+<p className="tabbed">1. <b>Set the boundaries.</b> You can’t ensure boundaries aren’t crossed if you don’t name them. Decide what time you want to turn the email off, when you want to go to bed at night, etc. Have a transparent conversation with your boss, teammates, and family about your boundaries and work with them through it. Embrace that you have needs – everyone does.</p>
+<p className="tabbed">2. <b>Be willing to change the boundaries fluidly.</b> Don’t feel guilty about needing to break your own “rules”. Boundaries are not set in stone, especially since rarely anything in life is. Similar to the first tip, should a change be needed due to current events in your life, keep having having conversation.</p>
+<p className="tabbed">3. <b>Have support structures around you to keep you accountable.</b> Surround yourself with people who enrich and fulfill your life, make you feel empowered to achieve your goals but also keep you in check when you’re falling into your Hobbit hole.</p>
+<p className="tabbed">4. <b>Start small.</b> Like any skill, it takes practice and strength to flex your boundary-setting muscles. Start by setting a boundary that isn’t threatening and incrementally raise the bar to others. For me, I started with not using my phone when I was out on a date with my boyfriend. One of the more challenging ones was not checking my email after 7:00PM.</p>
+<p>The key here is to know that there will be times of imbalance in our lives and to make these choices with purpose. Be open and honest with your needs and this will take you far in your pursuit of boundaries.</p>
+</div>
+},
+
 {id: "18", title: <a href="/articles/18">7 Things I’m Excited For This Fall</a>, date: "September 20, 2017", category: "Life", photo: "/images/fall.jpg",  description: <div><p>As a Puerto Rican by birth, Floridian by childhood, Filipina by blood, I’m simply not made to love the cold weather. That being said, I did live in North Carolina for 6 years as a warm up for New York City. Here are 7 things I'm insanely excited about to experience for my first fall in the City.</p> <a href="/articles/18">[...]</a></div>, post: 
 <div>
 <img src="/images/fall.jpg" alt="Fall" />
