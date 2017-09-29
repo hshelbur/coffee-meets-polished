@@ -51,9 +51,9 @@ const ARTICLES = [
 <p className="tabbed">5. <b>Fall makeup/nail polish colors.</b> I’m not one for makeup rules, but the muted warm tones and deep berry colors are some of my favorites to rock out on my lips, eyes, and nails in the fall.</p>
 <p className="tabbed">6. <b>Keeping windows open.</b> In our brownstone apartment, we don’t have central air conditioning. I’m pretty excited to remove our window units to make way for keeping the windows open. Thank you Upper West Side and your cleaner outside air.</p>
 <p className="tabbed">7. <b>Mulled wine.</b>I love making mulled wine. The temperature and spice warmth combined is perfect to cozy up with a movie on the couch. Friends optional. Here’s one of my favorite recipes from <a href="http://www.foodnetwork.com/recipes/ina-garten/mulled-wine-recipe-1950801" target="_blank" rel="noopener noreferrer">Ina Garten</a>.</p>
-<p className="tabbed">8. <b>Apples.</b> Apple combined with cinnamon in any form during the fall is the best. Cider, pie, applesauce, apple butter, donuts… okay brb going to buy some apples.</p>
-<p>Until next year, summer. You were a great one in 2017Read More</p>
-<p>Read MoreI’ll be missing you more this winter.</p>
+<p className="tabbed">8. <b>Apples.</b> Apple combined with cinnamon in any form during the fall is the best. Cider, pie, applesauce, apple butter, donuts... okay brb going to buy some apples.</p>
+<p>Until next year, summer. You were a great one in 2017...</p>
+<p>...I’ll be missing you more this winter.</p>
 </div>
 },
 
