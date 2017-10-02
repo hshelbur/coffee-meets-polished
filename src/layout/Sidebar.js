@@ -1,17 +1,19 @@
 import React, {Component} from 'react'
 import SocialForm from './SocialForm.js'
-import MailchimpForm from  './MailchimpForm';
+import MailchimpForm from  './MailchimpForm.js';
+import PopularPosts from './PopularPosts.js'
 
 class Sidebar extends Component {
   render() {
     return(
-        <div>
+        <div className="side-bar">
             <section className="about">
               <img className="profile-picture" src="/images/sidebar-about.jpg" alt="Erin"/>
               <p>Coffee Meets Polished is a lifestyle + career blog written by me, Erin. I'm an introvert, millenial, and self-proclaimed feminist. Through this blog I want us to celebrate who we are, from our first coffee of the day to our more polished selves.</p>
             </section>
             <SocialForm />
             <MailchimpForm />
+            <PopularPosts />
             <InstagramPhotos />
         </div>
       );
@@ -21,7 +23,8 @@ class Sidebar extends Component {
 class InstagramPhotos extends Component {
   render() {
     return(
-        <section className="instagram-photos"> 
+      <div className="instagram-photos">
+        <section> 
           <h1><a href="https://www.instagram.com/coffeemeetspolished/" target="_blank" rel="noopener noreferrer">CMP on Instagram</a></h1>
           <ul>
             <li><a href="https://www.instagram.com/p/BZmLP-XFzTs/" target="_blank" rel="noopener noreferrer"><img src="https://scontent-iad3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21980892_332939873843900_6499227628514312192_n.jpg" alt="Woman Up" /></a></li>
@@ -34,8 +37,8 @@ class InstagramPhotos extends Component {
             <li><a href="https://www.instagram.com/p/BZMUx7hlLqw/" target="_blank" rel="noopener noreferrer"><img src="https://scontent-iad3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21690350_1211677382311048_2579914136615911424_n.jpg" alt="Book Blind Date" /></a></li> 
             <li><a href="https://www.instagram.com/p/BZLmdMBlEiX/" target="_blank" rel="noopener noreferrer"><img src="https://scontent-iad3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21819915_1520870901334038_9068728805899632640_n.jpg" alt="Oxygen Mask" /></a></li>
           </ul>  
-
         </section>
+      </div>
       );
   }
 }
