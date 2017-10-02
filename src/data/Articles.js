@@ -1,6 +1,20 @@
 import React from 'react';
 
 const ARTICLES = [
+{id: "23", title: <a href="/articles/23">Motivation Monday: Embracing the Shine</a>, date: "October 2, 2017", category: "Wellness", photo: "/images/shine-text.png",  description: <div><p>It’s a new month, but Mondays still feel the same. Here’s one of my strategies to stay motivated every day.</p> <a href="/articles/23">[Read More]</a></div>, post: 
+<div>
+<img src="/images/shine-text.png" alt="Shine Text" />
+<p>Happy October, everyone! The air in New York City is crisp and cool, and I’ve busted out my fall/winter clothes in preparation. However, just because a new month feels like a fresh start, Mondays still feel the same. It’s difficult to be motivated and all you want is to stay in bed in your warm blankets.</p>
+<p>For years now, I’ve signed up for a motivational text service called Shine that was recommended to me by one of my residency preceptors. How it works:</p>
+<p className="tabbed">1. Sign up with your phone number <a href="www.shinetext.com/?r=88DMj2b" target="_blank" rel="noopener noreferrer">HERE</a>.</p>
+<p className="tabbed">2. Receive a daily message Monday through Friday. I receive mine ~8:20AM each day.</p>
+<p>It’s that easy! Messages include quotes, research-based articles, actionable tools, and more. Here are examples of some of my texts over the past few weekdays.</p>
+<img className="cell-phone" src="/images/text-examples.jpg" alt="Text Examples" />
+<p>I’ve said it before and I’ll keep saying it, residency was one of the most difficult periods of my life so far and I needed all the help I could get to stay motivated and build resilience. There were days the text was as if Shine knew exactly what I was going through that day. Some messages help validate some of my feelings when I was down but also empowered me to get out of my slumps and take risks.</p>
+<p>Overall, I highly recommend adding it to your daily mindfulness routine for happiness and productivity.</p>
+</div>
+},
+
 {id: "22", title: <a href="/articles/22">5 Things I Loved in September</a>, date: "September 30, 2017", category: "Life", photo: "/images/blind-date-book.jpg",  description: <div><p>Tomorrow starts October and the month where you start having cooler weather, seeing pumpkins everywhere, and smelling cinnamon in the air. But before we get to October, here are my reflections on 5 things I loved in the month of September.</p> <a href="/articles/22">[Read More]</a></div>, post: 
 <div>
 <img src="/images/dallas-reunion.jpg" alt="Dallas Reunion" />
