@@ -760,6 +760,15 @@ footer .developed-by {
   margin: 20px 0px 20px 40px;
 }
 
+.article .cell-phone {
+  margin: auto;
+  width: 70%;
+}
+
+@media (max-width: 768px) {
+  .article .cell-phone {
+    width: 100%; } }
+
 .article-footer {
   font-size: 12px;
   display: inline-block;
