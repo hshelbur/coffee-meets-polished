@@ -808,9 +808,29 @@ footer .developed-by {
   padding-bottom: 25px;
 }
 
-.side-bar .social-form {
+.side-bar .social-form, .popular-posts {
   border-bottom: 1px solid #ccc;
   margin-bottom: 25px;
+}
+
+.side-bar .popular-posts h3 {
+  text-align: center;
+  margin-top: 25px;
+  margin-bottom: 10px;
+  font-family: Lato, helvetica;
+}
+
+.side-bar .popular-posts li {
+  margin-bottom: 10px;
+}
+
+.side-bar .popular-posts li a {
+  text-decoration: none;
+}
+
+.side-bar .popular-posts {
+  text-decoration: none;
+  margin-bottom: 15px;
 }
 
 /* InstagramPhotos Styles https://www.instagram.com/coffeemeetspolished/media/ */
@@ -822,7 +842,6 @@ footer .developed-by {
   color: #213960;
   padding: 10px 0 3px 0;
   text-align: center;
-  margin-top: 10px;
   margin-bottom: 10px;
 }
 
@@ -847,6 +866,7 @@ footer .developed-by {
   border: 2px solid white;
   transition: all .2s ease;
 }
+
 
 /* MISC Styles */
 
