@@ -83,7 +83,7 @@ const App = () => (
 
       <footer>
         <SocialForm />
-        <p className="developed-by">Designed and Developed by <a href="https://www.linkedin.com/in/howard-shelburne/" target="_blank" rel="noopener noreferrer">Howard Shelburne</a>, Freelance Web Developer</p>
+        <p className="developed-by">Designed and Developed by <a href="https://www.linkedin.com/in/howard-shelburne/" target="_blank" rel="noopener noreferrer">Howard Shelburne</a>, Web Developer</p>
       </footer>
 
     </div>
