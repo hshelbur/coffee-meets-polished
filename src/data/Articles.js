@@ -1,6 +1,19 @@
 import React from 'react';
 
 const ARTICLES = [
+{id: "26", title: <a href="/articles/26">Essential Lip Care Strategies for Fall and Winter</a>, date: "October 6, 2017", category: "Beauty", photo: "/images/lip-care.jpg",  description: <div><p>I think we can all agree that chapped lips can be uncomfortable and downright painful. And when wanting to look and feel polished for the day, chapped lips can get in the way. Cold and dry air of the coming seasons are the biggest culprits, but take control of your lip care today with these essential steps.</p> <a href="/articles/26">[Read More]</a></div>, post: 
+<div>
+<img src="/images/lip-care.jpg" alt="Lip Care" />
+<p>Growing up in Florida, I never had issues with chapped lips since it was always humid. Moving to North Carolina and making it through my first fall and winter I had to quickly learn how to deal. I’ve had to run meetings and do presentations feeling insecure about the cracking and peeling of my chapped lips and it’s not fun. Not to mention, the vicious cycle of dryness, scabbing, cracking, peeling can be incredibly painful.</p>
+<p>Here are the steps I use to prevent but also treat chapped lips when the air is dry:</p>
+<p>1. <b>Hydrate, hydrate, hydrate.</b> This is key. Drink a lot of water throughout the day, especially when the air is dry. Any subsequent steps you take will simply be a bandaid for the core issue of your body (and skin) being parched.</p>
+<p>2. <b>Exfoliate.</b> When I find that I’m in the cycle of scabbing and peeling, the best way to shorten the length of this is to exfoliate. Exfoliating the dead skin and scabs also allows your moisturizing steps to penetrate and heal. I have a jar of <a href="http://www.lushusa.com/face/lips/mint-julips/03057.html" target="_blank" rel="noopener noreferrer">Lush Lip Scrub in Mint Julips</a> but you can also make your own scrub at home with a <a href="https://www.allure.com/story/turn-lip-balm-into-lip-scrub" target="_blank" rel="noopener noreferrer">sugar/coconut oil cocktail</a>.</p>
+<p>3. <b>Lip mask overnight.</b> I keep a jar of Vaseline/petroleum jelly next to my bed and lather up before I fall asleep. It does wonders to create a barrier while I’m sleeping and give my lips time to heal. When you apply, make sure you go beyond the lip area and also apply on the skin around it. Other options you may have around the house include coconut oil and olive oil, but I find that those don’t last overnight so my preference is the thicker Vaseline.</p>
+<p>4. <b>Do not lick your lips.</b> When you lick your lips, the evaporation will also pull on what little moisture is in your lips and the skin around it, which worsens the situation especially in the skin around the lip area.</p>
+<p>5. <b>Create lip barriers during the day.</b> Prevent the wind and dryness of the environment from having contact with your lips by creating a barrier throughout the day. I’ve found that even having a liquid lipstick on my lips is better than nothing at all when the air is extremely dry, but I generally use a lip balm. My everyday use is a lip balm like the <a href="https://www.sephora.com/product/agave-lip-mask-P384629" target="_blank" rel="noopener noreferrer">Bite Beauty Agave Lip Mask</a> . It’s expensive, but lasts forever and works really well. Side benefit - it also tastes good!</p>
+</div>
+},
+
 
 {id: "25", title: <a href="/articles/25">Everything You Need To Know About Getting the Flu Vaccine</a>, date: "October 4, 2017", category: "Wellness", photo: "/images/flu-vaccine.jpg",  description: <div><p>The Centers for Disease Control and Prevention (CDC) recommends we all get our flu vaccine by the end of October each year. Why so early? Why is my pharmacist offering my flu shot? What’s the point if sometimes I still get the flu anyway? What’s herd immunity? All of those questions and more are answered here. </p> <a href="/articles/25">[Read More]</a></div>, post: 
 <div>
