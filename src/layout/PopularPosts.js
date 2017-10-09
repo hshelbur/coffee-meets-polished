@@ -10,10 +10,10 @@ class PopularPosts extends Component {
 				<nav>
 					<ul>
 						<li><NavLink to={{pathname: "/articles/20"}}>10 Places to Start to Improve Your Feminism Literacy</NavLink></li>
-						<li><NavLink to={{pathname: "/articles/21"}}>National Coffee Day: My Caffeine Routine</NavLink></li>
 						<li><NavLink to={{pathname: "/articles/19"}}>Futile Pursuit of Balance: Set Boundaries Instead</NavLink></li>
-						<li><NavLink to={{pathname: "/articles/18"}}>7 Things I’m Excited For This Fall</NavLink></li>
-						<li><NavLink to={{pathname: "/articles/22"}}>5 Things I Loved in September</NavLink></li>	
+						<li><NavLink to={{pathname: "/articles/25"}}>Everything You Need to Know About Getting the Flu Vaccine</NavLink></li>
+						<li><NavLink to={{pathname: "/articles/3"}}>10 Tips for Orienting Yourself to a New Job</NavLink></li>
+						<li><NavLink to={{pathname: "/articles/13"}}>How to Set Smart Goals for Yourself</NavLink></li>	
 					</ul>
 				</nav>
 			</div>
