@@ -9,11 +9,11 @@ class PopularPosts extends Component {
 				<h3>Popular Posts</h3>
 				<nav>
 					<ul>
-						<li><NavLink to={{pathname: "/articles/30"}}>1. Advocacy and Cultural Literacy Roundup Vol. 1</NavLink></li>
-						<li><NavLink to={{pathname: "/articles/28"}}>2. The 5 Toughest Mental Health Lessons from Residency</NavLink></li>
-						<li><NavLink to={{pathname: "/articles/19"}}>3. Futile Pursuit of Balance: Set Boundaries Instead</NavLink></li>
-						<li><NavLink to={{pathname: "/articles/25"}}>4. Everything You Need to Know About Getting the Flu Vaccine</NavLink></li>
-						<li><NavLink to={{pathname: "/articles/3"}}>5. 10 Tips for Orienting Yourself to a New Job</NavLink></li>
+						<li><NavLink to={{pathname: "/articles/30"}}>➢ Advocacy and Cultural Literacy Roundup Vol. 1</NavLink></li>
+						<li><NavLink to={{pathname: "/articles/28"}}>➢ The 5 Toughest Mental Health Lessons from Residency</NavLink></li>
+						<li><NavLink to={{pathname: "/articles/19"}}>➢ Futile Pursuit of Balance: Set Boundaries Instead</NavLink></li>
+						<li><NavLink to={{pathname: "/articles/18"}}>➢ 7 Things I’m Excited For This Fall</NavLink></li>
+						<li><NavLink to={{pathname: "/articles/3"}}>➢ 10 Tips for Orienting Yourself to a New Job</NavLink></li>
 					</ul>
 				</nav>
 			</div>
