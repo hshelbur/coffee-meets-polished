@@ -1,7 +1,7 @@
 import React from 'react';
 
 const ARTICLES = [
-{id: "33", title: <a href="/articles/33">What You Need to Know About Breast Cancer Wellness and Awareness</a>, date: "October 23, 2017", category: "Wellness", photo: "/images/breastcancer.jpg",  description: <div><p>October is Breast Cancer Awareness Month! However, we should be aware all year long, especially as women. In today’s post I break down breast cancer screening recommendations, where to get screenings, performing breast self-exams, and warning signs of breast cancer.</p> <a href="/articles/33">[Read More]</a></div>, post:
+{id: "33", title: <a href="/articles/33">What You Need to Know About Breast Cancer Wellness and Awareness</a>, date: "October 23, 2017", category: "Wellness", photo: "/images/breastcancer.png",  description: <div><p>October is Breast Cancer Awareness Month! However, we should be aware all year long, especially as women. In today’s post I break down breast cancer screening recommendations, where to get screenings, performing breast self-exams, and warning signs of breast cancer.</p> <a href="/articles/33">[Read More]</a></div>, post:
 <div>
 <img src="/images/breastcancer.png" alt="Breast Cancer Awareness Month 2017" />
 <p>Before you read on, I want to emphasize that your health is your choice based on informed and shared decision-making between you and your healthcare team. I am a healthcare professional and practice as a pharmacist licensed in two states. This post is an avenue to introduce you to information and urge you to remain aware and engaged of your personal health.</p>
