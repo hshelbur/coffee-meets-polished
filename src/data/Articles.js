@@ -1,24 +1,21 @@
 import React from 'react';
 
 const ARTICLES = [
-{id: "33", title: <a href="/articles/33">What You Need to Know About Breast Cancer Wellness and Awareness</a>, date: "October 23, 2017", category: "Wellness", photo: "/images/breastcancer.jpg",  description: <div><p>October is Breast Cancer Awareness Month! However, we should be aware all year long, especially as women. In today’s post I break down breast cancer screening recommendations, where to get screenings, performing breast self-exams, and warning signs of breast cancer.</p> <a href="/articles/33">[Read More]</a></div>, post:
+{id: "33", title: <a href="/articles/33">What You Need to Know About Breast Cancer Wellness and Awareness</a>, date: "October 23, 2017", category: "Wellness", photo: "/images/breastcancer.png",  description: <div><p>October is Breast Cancer Awareness Month! However, we should be aware all year long, especially as women. In today’s post I break down breast cancer screening recommendations, where to get screenings, performing breast self-exams, and warning signs of breast cancer.</p> <a href="/articles/33">[Read More]</a></div>, post:
 <div>
 <img src="/images/breastcancer.png" alt="Breast Cancer Awareness Month 2017" />
 <p>Before you read on, I want to emphasize that your health is your choice based on informed and shared decision-making between you and your healthcare team. I am a healthcare professional and practice as a pharmacist licensed in two states. This post is an avenue to introduce you to information and urge you to remain aware and engaged of your personal health.</p>
 <p><b>Now, let’s talk about breasts!</b></p>
-<iframe title="USA TODAY - Embed Player" width="540" height="304" frameborder="0" scrolling="no" allowfullscreen="true" marginheight="0" marginwidth="0" src="//www.usatoday.com/videos/embed/106118284/?fullsite=true"></iframe>
-
-<p><b>General facts.</b></p>
-<p className="tabbed">• Cancer occurs when cells grow out of control. Breast cancer is one example where these cells originate in the breast. It can start from different parts of the breast, but most begin in the ducts that carry milk in to the nipple. Some will also start in the glands that make breast milk.
-• Breast cancer is the <a href="https://www.cdc.gov/cancer/dcpc/data/women.htm" target="_blank" rel="noopener noreferrer">most common type of cancer among women of all races and Hispanic origin populations</a>.<br></br>
-• Breast cancer is the <a href="https://www.cdc.gov/cancer/dcpc/data/women.htm" target="_blank" rel="noopener noreferrer">leading cause of cancer death among Hispanic women; and second among white, black, Asian/Pacific Islander, and American Indian/Alaska Native women</a>.<br></br>
-• One in eight women will develop breast cancer at some point in her life.<br></br>
+<p><iframe title="USA TODAY - Embed Player" width="540" height="304" frameborder="0" scrolling="no" allowfullscreen="true" marginheight="0" marginwidth="0" src="//www.usatoday.com/videos/embed/106118284/?fullsite=true"></iframe></p>
+<p>1. <b>General facts.</b></p>
+<p className="tabbed">• Cancer occurs when cells grow out of control. Breast cancer is one example where these cells originate in the breast. It can start from different parts of the breast, but most begin in the ducts that carry milk in to the nipple. Some will also start in the glands that make breast milk.<br></br>
+• Breast cancer is the <a href="https://www.cdc.gov/cancer/dcpc/data/women.htm" target="_blank" rel="noopener noreferrer">most common type of cancer among women</a> of all races and Hispanic origin populations.<br></br>
+• Breast cancer is the <a href="https://www.cdc.gov/cancer/dcpc/data/women.htm" target="_blank" rel="noopener noreferrer">leading cause of cancer death among Hispanic women</a>; and second among white, black, Asian/Pacific Islander, and American Indian/Alaska Native women.<br></br>
 • A clinical breast exam performed by a health professional is <a href="https://www.cancer.org/cancer/breast-cancer/frequently-asked-questions-about-the-american-cancer-society-new-breast-cancer-screening-guideline.html" target="_blank" rel="noopener noreferrer">no longer recommended by the American Cancer Society</a>. Mammographies have improved over time and combined with women’s awareness with self breast exams, the few studies that exist suggest the clinical breast exam contributes very little to detection. Keep up the awareness, everyone!<br></br>
-• There are multiple organizations that make recommendations for screening for breast cancer based on clinical data and professional opinions. These include the U.S. Preventive Services Task Force, American Cancer Society, American College of Obstetricians and Gynecologists, International Agency for Research on Cancer, American College of Radiology, American College of Physicians, and American Academy of Family Physicians. There are a lot of groups looking out for us!<br></br>
 • Insurance coverage is usually linked to the U.S. Preventative Services Task Force (USPSTF) screening recommendations. Check your insurance provider to determine at what age your mammograms are covered.</p>
-<p><b>Know thy breasts.</b></p>
+<p>2. <b>Know thy breasts.</b></p>
 <p>Performing a breast self-exam is encouraged monthly. It is important to do so in order to be able to detect changes in your breasts and consult your healthcare professional. The self-exam should be performed in the shower, in front of a mirror, or lying down. You can find instructions on how to perform a breast self-exam <a href="http://www.nationalbreastcancer.org/breast-self-exam" target="_blank" rel="noopener noreferrer">HERE</a>.</p>
-<p><b>Screening recommendations.</b></p>
+<p>3. <b>Screening recommendations.</b></p>
 <p>The American Cancer Society recommend the <a href="https://www.cancer.org/healthy/find-cancer-early/cancer-screening-guidelines/american-cancer-society-guidelines-for-the-early-detection-of-cancer.html" target="_blank" rel="noopener noreferrer">following screening guidelines for most adults:</a></p>
 <p className="tabbed">• <b>Women ages 40 to 44</b> should have the choice to start annual breast cancer screening with mammograms (x-rays of the breast) if they wish to do so.<br></br>
 • <b>Women ages 45 to 54</b> should get mammograms every year.<br></br>
@@ -26,10 +23,10 @@ const ARTICLES = [
 • <b>ALL women</b> should be familiar with the known benefits, limitations, and potential harms linked to breast cancer screening.<br></br>
 • Screening should continue as long as a women is in good health and is expected to live 10 more years or longer.<br></br></p>
 <p>It is important to understand that organizations may have <a href="https://www.cdc.gov/cancer/breast/pdf/BreastCancerScreeningGuidelines.pdf" target="_blank" rel="noopener noreferrer">different recommendations</a>. I encourage you to understand what your healthcare professional follows as well as your health benefits coverage.</p>
-<p><b>What exams are done for screening?</b></p>
+<p>4. <b>What exams are done for screening?</b></p>
 <p className="tabbed">• <b>Mammogram.</b> X-ray picture of the breast. It is read by a radiologist to assess for early signs of breast cancer or other problems. Some tips include not wearing deodorant, perfume, or powder on the day of your mammogram as these products may show up as white spots on the X-ray. Also, some women prefer to wear a top with a skirt or pants instead of a dress because you will need to undress from your waste up for the mammogram.<br></br>
 • <b>Breast Magnetic Resonance Imaging (MRI).</b> A test that uses magnets and radio waves to take pictures of the breast. Some women may be screened with MRI’s along with mammograms because of family history, genetic tendency, or other certain factors.<br></br></p>
-<p><b>What are the warning signs of breast cancer?</b></p>
+<p>5. <b>What are the warning signs of breast cancer?</b></p>
 <p>CDC’s <a href="https://www.cdc.gov/cancer/breast/pdf/BreastCancerFactSheet.pdf" target="_blank" rel="noopener noreferrer">warning signs</a> of breast cancer include:</p>
 <p className="tabbed">• New lump in the breast or underarm (armpit)<br></br>
 • Thickening or swelling of part of the breast<br></br>
@@ -39,10 +36,10 @@ const ARTICLES = [
 • Nipple discharge other than breast milk, including blood<br></br>
 • Any change in the size or the shape of the breast<br></br>
 • Pain in the breast<br></br></p>
-<p><b>How can I afford to get screened?</b></p>
+<p>6. <b>How can I afford to get screened?</b></p>
 <p>You can get screened for breast cancer at a clinic, hospital, or doctor’s office. Most health insurance plans are required to cover mammograms beginning at age 40 with no out-of-pocket cost. The Center for Disease Control and Prevention also offers free or low-cost mammograms if you meet certain criteria.</p>
 <p>Planned Parenthood health centers also provides breast exams and mammogram referrals. Search for a health center near you <a href="https://www.plannedparenthood.org/health-center" target="_blank" rel="noopener noreferrer">HERE</a> or call 1-800-230-PLAN for care today.</p>
-<p><b>Where can I donate?</b></p>
+<p>7. <b>Where can I donate?</b></p>
 <p>It’s important to know the organization you donate to and what they do with your generous donations. One site to use when scouting where to donate is <a href="https://www.charitywatch.org/home" target="_blank" rel="noopener noreferrer">Charity Watch</a>. Highly rated organizations according to Charity Watch include <a href="https://www.charitywatch.org/ratings-and-metrics/breast-cancer-research-foundation/117" target="_blank" rel="noopener noreferrer">Breast Cancer Research Foundation</a> (A+ rating), <a href="https://www.charitywatch.org/ratings-and-metrics/national-breast-cancer-coalition-fund/139" target="_blank" rel="noopener noreferrer">National Breast Cancer Coalition Fund</a> (A rating), and <a href="https://www.charitywatch.org/ratings-and-metrics/breast-cancer-prevention-partners/114" target="_blank" rel="noopener noreferrer">Breast Cancer Prevention Partners</a> [formerly Breast Cancer Fund] (A- rating). These focus specifically on breast cancer prevention and research.</p>
 <p>Charity Navigator is another system that uses star ratings to evaluate how efficiently a charity uses your donations. The highest rating is four stars. Four star-rated organizations from this system include <a href="https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=8776" target="_blank" rel="noopener noreferrer">National Breast Cancer Foundation</a>, <a href="https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=11077" target="_blank" rel="noopener noreferrer">Dr. Susan Love Research Foundation</a>, and <a href="https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=10168" target="_blank" rel="noopener noreferrer">Lynn Sage Cancer Research Foundation</a>.</p>
 <p>Personally, I chose to donate by also supporting a YouTube Beauty Influencer whose grandmother died of breast cancer. KathleenLights launched her own nail polish line, <a href="https://www.klpolish.com/" target="_blank" rel="noopener noreferrer">KL Polish</a> last year and this month she released a limited edition nail polish, <a href="https://www.klpolish.com/products/mami-martha" target="_blank" rel="noopener noreferrer">Mami Martha</a> where <a href="https://www.youtube.com/watch?v=hT27F1zfItM" target="_blank" rel="noopener noreferrer">100% of profits</a> go to the Breast Cancer Research Foundation. I’ve been wearing this color to show my support for research of treatments to fight cancer.</p>
