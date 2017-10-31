@@ -1,6 +1,23 @@
 import React from 'react';
 
 const ARTICLES = [
+{id: "34", title: <a href="/articles/34">How to be Friends with Women</a>, date: "October 26, 2017", category: "Life", photo: "/images/femalefriends.jpg",  description: <div><p>In Bad Feminist, by Roxanne Gay, she talks about female friendships and encourages us to “abandon the cultural myth that all female friendships must be bitchy, toxic, or competitive”. While I’ve had these kinds of relationships with people (and learned to create boundaries with them), the female friends I do have are my closest ones. Here’s my quality vs. quantity how to: be friends with other women. Hint: It's very similar to being a good friend overall.</p> <a href="/articles/34">[Read More]</a></div>, post:
+<div>
+<img src="/images/femalefriends.jpg" alt="Female Friends" />
+<p>This post was inspired by a chapter essay in <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/006269569X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=006269569X&linkCode=as2&tag=offeeeetsolis-20&linkId=9fd2dd2f91510703e3c575148d3ba433">Bad Feminist</a>, by Roxanne Gay which I have just started reading and find myself wanting a longer train commute to work to get through more. You’ll hear a lot more posts about this book especially as I work my way through it.</p>
+<p>In one of her chapters to kick off the section on gender and sexuality, she provides a witty and honest list of how to be friends with other women. It starts off by stating you <b>“abandon the cultural myth that all female friendships must be bitchy, toxic, or competitive”</b>, which is so true. Upon reflection, I am in the bucket of women who say “I have more male friends than female friends” as if it’s a point of pride or not wanting to identify as the “type” of woman who is only around other women(?). I recognize I need to work on this.</p>
+<p>However, the female friends I do have are my closest friends. I love them, we have fun together, when we re-unite (since we are all in different cities/states now) it’s like no time has passed, and they’ve supported me through everything. Here’s my quality vs. quantity how to: be friends with other women!</p>
+<p>1. If your girl friends have Significant Others, make plans both with and without Sig O’s. Having girl only time is healthy to cultivate your friendship with them while also maintaining your individual identities.</p>
+<p>2. If you don’t like her Sig O and you don’t think that you can be around him/her after giving it a fair number of chances, be open about it and say that you need to create a boundary around that component of her life. And of course, you’ll be there for her through the ups and potential downs in that relationship!</p>
+<p>3. Don’t compete with her. There’s enough awesome to go around and we must expand our awesomeness outward but not over our fellow women.</p>
+<p>4. Don’t speak badly about her or gossip behind her back. It will come around, and make you look bad too.</p>
+<p>5. Don’t make assumptions. Have open communication about intent and perception that is timely and done in a safe space. <b>Pro tip:</b> this goes for everyone else in your life.</p>
+<p>6. Don’t let conflict fester. This applies extra if you’re roommates. <b>Pro tip:</b> agree on the temperature settings before you move in together.</p>
+<p>7. Call her out if she’s not being her best self, but don’t judge. Instead, empower her and guide her to where she wants to be. <b>Pro tip:</b> don’t assume where you want to be is where she wants to be.</p>
+<p>Real talk, a lot of these are tips for being a good person and friend overall. The bottom line is, being friends with women may seem more complicated because women are complicated. But when you find friends that respect you and help you navigate the crazy thing called life, it’s an amazing thing. And not just because they’re women.</p>
+</div>
+},
+
 {id: "33", title: <a href="/articles/33">What You Need to Know About Breast Cancer Wellness and Awareness</a>, date: "October 23, 2017", category: "Wellness", photo: "/images/breastcancer.png",  description: <div><p>October is Breast Cancer Awareness Month! However, we should be aware all year long, especially as women. In today’s post I break down breast cancer screening recommendations, where to get screenings, performing breast self-exams, and warning signs of breast cancer.</p> <a href="/articles/33">[Read More]</a></div>, post:
 <div>
 <img src="/images/breastcancer.png" alt="Breast Cancer Awareness Month 2017" />
