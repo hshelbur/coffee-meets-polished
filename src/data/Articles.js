@@ -1,6 +1,63 @@
 import React from 'react';
 
 const ARTICLES = [
+{id: "36", title: <a href="/articles/36">5 Things I Loved in October</a>, date: "October 31, 2017", category: "Life", photo: "/images/halloweendecoruws.jpg",  description: <div><p>The number of hot days and need for window AC units are finally dwindling. The streets are filled with holiday decorations. And routines are starting to come together. Here are 5 things I absolutely loved this October!</p> <a href="/articles/36">[Read More]</a></div>, post:
+<div>
+<p>October still had hot days, but the number of them are dwindling and the consistency of crisp air is increasing. The radiator even came on a few times this month!  It was overall a great October both at work and outside of work. I’ve almost hit the 90 day mark in my new job, am focusing a lot on my skin care as we move to the dry seasons, having microadventures, and enjoying mindfulness weekends.</p>
+<p>Here are 5 things I loved in the month of October:</p> 
+<img src="/images/halloweendecoruws.jpg" alt="Halloween Decor UWS" />
+<p>Halloween was my first holiday since moving to New York City, at least one where people put out major decorations. So far I’m loving the different decorations throughout residential buildings and can’t wait to see what the rest of the holiday season brings!</p>
+<img src="/images/hsarts.jpg" alt="HS Arts" />
+<p>I’ve been stalking Central Park to make sure I am able to see when the leaves change at their peak. One day, I walked by the <a href="http://www.centralparknyc.org/things-to-see-and-do/attractions/naumburg-bandshell.html?" target="_blank" rel="noopener noreferrer">Naumburg Bandshell</a> because I heard music from a distance. When I got there, there was a high school senior jazz band performing! It was such an amazing sight and they were so good. I felt so fulfilled after that concert, and especially loved the spontaneity of finding it.</p>
+<img src="/images/lemonadefundraiser.jpg" alt="Lemonade Fundraiser" />
+<p>My boyfriend and I were walking home from the train station and at our corner there was a lemonade stand up, just like in the movies. It was being staffed by two young girls, looked around 12 years old. They were advertising their drinks, saying “I know it’s cold but the lemonade tastes really good!” to passersby. My boyfriend was determined to get something from these girls and found 50 cents in his pocket. They were raising money for the Puerto Rico disaster relief efforts of the <a href="http://hispanicfederation.org/" target="_blank" rel="noopener noreferrer">NYC Hispanic Federation</a> and were incredibly excited to have made a sale.</p>
+<img src="/images/tonerstep.jpg" alt="Toner Step" />
+<p>I’ve been focusing so much on my skin care lately, and it’s like a brand new adventure. When I was just getting into makeup, I was doing a lot of studying reading articles about the pros and cons of each step, what products work best for oily skin, color undertones, etc. Now I’m shifting so much focus on my skin care, and added a brand new step to my regimen: toner. I started out with this toner called <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/B0156XE3RQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0156XE3RQ&linkCode=as2&tag=offeeeetsolis-20&linkId=8e18b613b8ae54037329016eef6a6e05">Pixi Glow Tonic</a> which has a chemical exfoliant glycolic acid. Now I’m learning a lot more about the benefits of different types of toners and which to use for what situations. Even in just the few weeks of starting I acne tell that my skin is softer and more hydrated, and I don’t feel the need to wear as much foundation as a makeup base. More to come in the next month.</p> 
+<img src="/images/buffalowings.jpg" alt="Buffalo Wings" />
+<p>I love buffalo wings. I have specific needs in a good wing. I can’t been too hot, but hot enough. It needs to have a vinegar base but not straight up vinegar. It needs to be wet with sauce but still crispy when I bite into it. It basically needs to be perfect. I’ve tried a few different types of wings in my Upper West Side area, and found the ones at Amsterdam Ale House to be the current favorite. Just in the past month I’ve had them 3 times. That’s some dedication.</p>
+<p>I’m excited to see what November 2017 has in store. It’s the start of the countdown to the countdown of 25 days of Christmas (thank you Freeform), and I can’t wait!</p>
+</div>
+},
+
+{id: "35", title: <a href="/articles/35">28 Things I Would Tell My Younger Self</a>, date: "October 29, 2017", category: "Life", photo: "/images/kindness.jpg",  description: <div><p>I think a lot about the transformations that I’ve had in my 20’s. I go back and forth as to whether the beliefs I have now would have come to fruition on their own, but I don’t think they would have with the same level of passion. So as much as the trials and tribulations were difficult, without them I wouldn’t have known my own strength and potential. In today’s post, I share 28 things I would tell my younger self going through these tough times and uncertainty.</p> <a href="/articles/35">[Read More]</a></div>, post:
+<div>
+<img src="/images/kindness.jpg" alt="Kindness" />
+<p>This post was inspired by Ingrid Nilson’s recent video <a href="https://www.youtube.com/watch?v=X2tejP45Lwc" target="_blank" rel="noopener noreferrer">28 Things I Would Tell My Younger Self</a> and because I actually got to meet her today!!</p>
+<p>I think a lot about the transformations that I’ve had in my 20’s. I go back and forth as to whether the beliefs I have now would have come to fruition on their own, but I don’t think they would have with the same level of passion. So as much as the trials and tribulations were difficult, without them I wouldn’t have known my own strength and potential. Nor would my abilities grow and expand to the same levels. I consider these things when I think back to the difficult times in my life and feel proud of how far I’ve come.</p>
+<p>Here is my list of 28 things I would tell my younger self (28 things for my age, get it?):</p>
+<p>1. It’s not the end of the world if you don’t get straight A’s. In fact, you probably should get bad grades sooner rather than later so you know how to recover in a more sheltered environment.</p>
+<p>2. Don’t let anyone tell you what to wear, that they prefer short hair, or not to wear nail polish.</p>
+<p>3. Be on your own timeline. Only rush if you will truly be late.</p>
+<p>4. Embrace your ambition, but also embrace boundaries.</p>
+<p>5. Your butt is beautiful. Period.</p>
+<p>6. Your lips are not too big. Wear those bold lip colors and don’t think twice.</p>
+<p>7. If the only reason you can think of doing something is “it’s just what people do”, or someone tells you “because you should”, take a step back and make the choice for yourself.</p>
+<p>8. When someone says “I don’t have time for it,” more often than not it means it’s low on his/her priority list. Either find someone else or have the conversation about priorities.</p>
+<p>9. There are people out there for you who will love your quirks and not tell you to change. You probably already know some - stick to those people.</p>
+<p>10. If you have to ask yourself, “What kind of person are you to think that’s okay?” then run. Run quickly.</p>
+<p>11. Bathroom stalls are a great place to take a mental break from crowds and during conference breaks when you’re dreading small talk at the group tables.</p>
+<p>12. You’re an introvert. That doesn’t mean you’re shy. It’s why you can give presentations to hundreds of people and chat with anyone for a long period of time, but then want to curl into the blankets alone for days afterwards.</p>
+<p>13. Start saving money. Now. And don’t touch it.</p>
+<p>14. Get high quality shoes that are comfortable, even if it’s more expensive.</p>
+<p>15. Go to the dentist to get your teeth cleaned, floss daily, and use mouthwash.</p>
+<p>16. Become financially literate and work towards financial independence. Learn about investments, retirement plans, credit scores, accounting, and revenue generation.</p>
+<p>17. Don’t compare yourself to someone’s highlight reel.</p>
+<p>18. Try something at least once. You’re regret it more if you don’t try.</p>
+<p>19. If you don’t know the answer, say so and be willing to learn.</p>
+<p>20. Sit at the table without asking. And if someone tells you that you can sit at the table, don’t ask where - just sit.</p>
+<p>21. When someone gives you a compliment, say, “Thank you.”</p>
+<p>22. You can be grateful for what others have done to help you while also being extremely proud of how hard you worked to get where you are.</p>
+<p>23. If you understand your emotions, they can’t control you.</p>
+<p>24. Give your love to others because you love them and they deserve it, not because they feel entitled to it.</p>
+<p>25. Before you move in with someone, agree on these things: what temperature to keep the thermostat, and whether you hand wash dishes or use the dishwasher.</p>
+<p>26. You decide what defines you.</p>
+<p>27. Pay it forward whenever you can. You will always be better for it.</p>
+<p>28. Lean in to every opportunity to learn, take a risk, and be uncomfortable.</p>
+<p>At the end of the day, there’s a lot we can learn from those more seasoned that us. If you could tell you younger self anything, what would it be?</p>
+</div>
+},
+
+
 {id: "34", title: <a href="/articles/34">How to be Friends with Women</a>, date: "October 26, 2017", category: "Life", photo: "/images/femalefriends.jpg",  description: <div><p>In Bad Feminist, by Roxanne Gay, she talks about female friendships and encourages us to “abandon the cultural myth that all female friendships must be bitchy, toxic, or competitive”. While I’ve had these kinds of relationships with people (and learned to create boundaries with them), the female friends I do have are my closest ones. Here’s my quality vs. quantity how to: be friends with other women. Hint: It's very similar to being a good friend overall.</p> <a href="/articles/34">[Read More]</a></div>, post:
 <div>
 <img src="/images/femalefriends.jpg" alt="Female Friends" />
