@@ -9,7 +9,7 @@ class Sidebar extends Component {
         <div className="side-bar">
             <section className="about">
               <img className="profile-picture" src="/images/sidebar-about.jpg" alt="Erin"/>
-              <p>Coffee Meets Polished is a lifestyle + career blog written by me, Erin. I'm an introvert, pharmacist, and self-proclaimed feminist. Through this blog I want us to celebrate who we are, from our first coffee of the day to our more polished selves.</p>
+              <p>Coffee Meets Polished is a lifestyle + career blog written by me, Erin. I'm an introvert, pharmacist, and self-proclaimed feminist. This blog empowers us to celebrate who we are, from our first coffee of the day to our more polished selves.</p>
             </section>
             <SocialForm />
             <MailchimpForm />
