@@ -1,6 +1,71 @@
 import React from 'react';
 
 const ARTICLES = [
+{id: "47", title: <a href="/articles/47">NYC Holiday Microadventures: Macy’s Thanksgiving Day Parade</a>, date: "December 4, 2017", category: "Life", photo: "/images/macysparade.jpg",  description: <div>This year was my first Thanksgiving in New York City. I mentioned in one of the things I loved in November that step ladders were the way to go for viewing. I was able to get a lot of <a href="https://www.youtube.com/watch?v=-O3aThlPpRQ&t=6s" target="_blank" rel="noopener noreferrer">good shots</a> of the balloons, and saw Jimmy Fallon! In today’s post you’ll find a video collage of the pics and videos I took, things I learned, what I would/wouldn’t do again, and other random thoughts about the event. Of note, these are if you plan to view in the along Central Park West before Columbus Circle. <a href="/articles/47">[Read More]</a></div>, post:
+<div>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/-O3aThlPpRQ" frameborder="0" allowfullscreen></iframe></p>
+<p>This year was my first Thanksgiving in New York City. I mentioned in one of the <a href="https://coffeemeetspolished.com/articles/45" target="_blank" rel="noopener noreferrer">things I loved in November</a> that step ladders were the way to go for viewing. I was able to get a lot of good shots of the balloons, and saw Jimmy Fallon! Below you’ll find my timeline, things I learned, what I would/wouldn’t do again, and other random thoughts about the event. Of note, these are if you plan to view in the along Central Park West before Columbus Circle.</p>
+<p className="tabbed">➢I woke up ~7AM, layered up (temperature was in the low 40’s Fahrenheit) and arrived to Central Park West at 7:45AM. By this time the street was about 10 rows deep of people and I subsequently went back home to grab the step ladder. Mine was one of three ladders out that day.</p>
+<p className="tabbed">➢If you’re going to bring a ladder, make sure you go up against a wall or building so the people behind you can see around you.</p>
+<p className="tabbed">➢Bring a coffee with you and get out early. It’ll keep your hands warm and wake you up while you wait.</p>
+<p className="tabbed">➢No one will be performing right at the start of the parade where I was. The way I saw it was I saw most of the balloons and walked back home in time to watch the performances in front of Macy’s at Herald Square on TV while I thawed.</p>
+<p className="tabbed">➢You’ll see stadium seats set up along one side of Central Park West. I can’t confirm but I saw in a newsletter that these seats are for Macy’s employees family members and other VIP’s.</p>
+<p className="tabbed">➢Would I do it again? <b>Yes!</b></p>
+<p className="tabbed">➢Obviously unless you live here you may not be able to bring a step ladder. One of my co-workers took a train early (~7AM) to 72nd Street Station and got a spot around West 70th St. and Central Park West with good viewing along the street.</p>
+<p className="tabbed">➢If you’re mainly interested in the balloons, check out the Upper West Side for viewing. If you want to see the performances, they likely would start closer to Columbus Circle where the parade turns. I was perfectly happy watching the performances from the comfort of my own home.</p>
+<p>I hope you all had a great Thanksgiving! There’s a lot to be grateful for. Next year, maybe better post punctuality will be one for me.</p>
+</div>
+},
+
+{id: "46", title: <a href="/articles/46">World AIDS Day</a>, date: "December 1, 2017", category: "Activism", photo: "/images/whoaidsday.jpg",  description: <div>World AIDS Day serves to raise awareness for the risk factors of transmission and advancing treatments for those diagnosed with HIV/AIDS. One of the best ways to improve the stigma around HIV/AIDS is to learn about it. Those diagnosed with HIV/AIDS live longer and healthier lives thanks to the advancement of and access to antiretroviral therapy (ART). ART also has been shown to prevent onward transmission of HIV. Today I’ll share important facts about the disease, risk factors for transmission, tests available, and where you can get tested. <a href="/articles/46">[Read More]</a></div>, post:
+<div>
+<img src="/images/whoaidsday.jpg" alt="WHO AIDS Day" />
+<p>Disclaimer: Information in this post has been reproduced in part from the World Health Organization (WHO) <a href="http://www.who.int/campaigns/aids-day/2017/en/" target="_blank" rel="noopener noreferrer">website</a> and Centers for Disease Control and Prevention (CDC) <a href="https://www.cdc.gov/hiv/default.html" target="_blank" rel="noopener noreferrer">website</a> in order to provide the most accurate information as possible. For full details, please see their website directly.</p>
+<p>Those diagnosed with HIV/AIDS live longer and healthier lives thanks to the advancement of and access to antiretroviral therapy (ART). ART also has been shown to prevent onward transmission of HIV. The World Health Organization uses the slogan “Everybody counts,” to advocate for access to safe, effective, quality and affordable HIV services, medicines, and diagnostics for all people who needs them.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eoqYd39wkZs" frameborder="0" allowfullscreen></iframe>
+<h4><b>facts to know.</b></h4> 
+<p>➢There is no cure for HIV infection. However, effective antiretroviral (ARV) drugs can control the virus and help prevent transmission so that people with HIV, and those at substantial risk, can enjoy healthy, long and productive lives.</p>
+<p>➢There were 36.7 million people living with HIV at the end of 2016.</p>
+<p>➢As of 2016, 20.9 million people are receiving antiretroviral treatment worldwide.</p>
+<p>➢54% of adults and 43% of children living with HIV are currently receiving lifelong antiretroviral therapy (ART).</p>
+<p>➢7 out of 10 pregnant women living with HIV received antiretroviral treatment.</p>
+<p>➢The WHO African Region is the most affected region, with 25.6 million people living with HIV in 2016. The African region also accounts for almost two thirds of the global total of new HIV infections.</p>
+<p>➢Between 2000 and 2016, new HIV infections fell by 39%, and HIV-related deaths fell by one third with 13.1 million lives saved due to ART in the same period. This achievement was the result of great efforts by national HIV programs supported by civil society and a range of development partners.</p>
+<h4><b>risk factors.</b></h4> 
+<p>It's important to be aware of the risk factors of being diagnosed with HIV. This helps us take steps to be safe from transmission and transmission of others, while also helping to improve the stigma surrounding HIV. Risk factors include:</p>
+<p className="tabbed">➢having unprotected anal or vaginal sex;<br></br>
+➢having another sexually transmitted infection such as syphilis, herpes, chlamydia, gonorrhoea, and bacterial vaginosis;<br></br>
+➢sharing contaminated needles, syringes and other injecting equipment and drug solutions when injecting drugs;<br></br>
+➢receiving unsafe injections, blood transfusions, tissue transplantation, medical procedures that involve unsterile cutting or piercing; and<br></br>
+➢experiencing accidental needle stick injuries, including among health workers.</p>
+<h4><b>know your status.</b></h4>
+<p>It is estimated that currently only 70% of people with HIV know their status. The CDC recommends that everyone between the ages of 13 and 64 get tested for HIV at least once as part of routine health care. If you have specific risk factors (listed below), the CDC recommends getting tested once per year. </p>
+<p>If you’re concerned about privacy about knowing your status. There are standards to HIV testing services. All HIV testing services must follow the 5 Cs principles recommended by WHO:</p>
+<p className="tabbed">➢informed Consent<br></br>
+➢Confidentiality<br></br>
+➢Counselling<br></br>
+➢Correct test results<br></br>
+➢Connection (linkage to care, treatment and other services).</p>
+<p>Here's a great website from the CDC where you can search for testing centers by your zip code: <a href="https://gettested.cdc.gov/" target="_blank" rel="noopener noreferrer">GetTested</a></p>
+<h4><b>types of screening and diagnosis.</b></h4>
+<p>HIV tests are accurate, but do not work immediately after infection. There are three different types of tests:</p>
+<p className="tabbed"><b>➢Nucleic acid tests (NATs).</b> This test looks for the actual virus in the blood. It is costly and not routinely used unless you are high-risk for exposure or showing early symptoms of HIV infection.<br></br>
+<b>➢Antigen/antibody tests.</b> This test looks for both HIV antibodies and antigens (specifically antigen called p24). Tests that detect both antigens and antibodies are recommended in labs.<br></br>
+<b>➢Antibody tests.</b> This test detects the presence of antibodies. Most rapid and home tests are antibody tests.</p>
+<p>There are different <a href="https://www.cdc.gov/hiv/testing/laboratorytests.html" target="_blank" rel="noopener noreferrer">laboratory tests</a> and <a href="https://www.cdc.gov/hiv/testing/hometests.html" target="_blank" rel="noopener noreferrer">home tests</a> available. It’s important to use ones that are FDA-approved if you want to do tests at home. Currently, only two tests are FDA-approved: <b>Home Access HIV-1 Test System</b> and <b>OraQuick In-Home HIV Test</b>.</p>
+<h4><b>preventing transmission.</b></h4>
+<p>We can all limit exposure to risk factors for HIV transmission. Considerations include:</p>
+<p className="tabbed">➢Male and female condom use<br></br>
+➢Testing and counselling for HIV and STI’s<br></br>
+➢Linking to tuberculosis care<br></br>
+➢Voluntary medical male circumcision<br></br>
+➢Antiretroviral drug use for prevention<br></br>
+➢Harm reduction for people who inject and use drugs<br></br>
+➢Elimination of mother-to-child transmission of HIV</p>
+<p>Together we can raise awareness and fight stigma about HIV. People diagnosed with HIV/AIDS can live the lives they desire with the proper treatment and self-care. They’re living longer and healthier thanks to advancement in treatments, and their HIV is being treated the same as any other chronic disease.</p>
+</div>
+},
+
 {id: "45", title: <a href="/articles/45">5 Things I Loved in November</a>, date: "November 30, 2017", category: "Life", photo: "/images/babyshower.jpg",  description: <div><p>Insert statement about how time flies here. We’ve reached the end of the 11th month of 2017, and it was filled with travel, guests, and celebrations. What were your favorites this November?</p> <a href="/articles/45">[Read More]</a></div>, post:
 <div>
 <p>Once again I find myself at the end of another month in awe at how time flies. Each weekend this month was filled with some sort of travel, celebration, or guests visiting from out of town. While it was exhausting, it was a happy exhaustion that was as fulfilling as it was filling (celebrations always equals lots of food).</p>
