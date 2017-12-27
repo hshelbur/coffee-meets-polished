@@ -1,6 +1,26 @@
 import React from 'react';
 
 const ARTICLES = [
+{id: "53", title: <a href="/articles/53">Mental Health Resolutions for 2018</a>, date: "December 27, 2017", category: "Wellness", photo: "/images/mentalhealthresolutions.jpg",  description: <div>I mentioned in my family planning journey post that getting off oral hormonal contraceptive pills inspired me to be more conscious and intentional with my skin care regimen. Now that it’s also my first winter in New York City, I’ve ramped up my steps thanks to my determination to fend off chapped lips and dry skin wrinkles. If you have combination/oily skin and in your late 20’s seeking some regimen ideas, keep on reading.<a href="/articles/53">[Read More]</a></div>, post:
+<div>
+<img src="/images/mentalhealthresolutions.jpg" alt="Mental Health Resolutions" />
+<p>There are a lot of people who don’t believe in doing resolutions for the new year. Either because of self-preservation from guilt after not achieving said resolutions or because it corners them into self-improvement goals once a year.</p>
+<p>I personally take any opportunity to have a fresh start, whether it's a calendar year, academic year, or transition between any major periods in life. It helps me to be able to compartmentalize my goals in this way. Regarding breaking these resolutions, let's face it, sometimes it's the thought and intent that counts. Or at least that's what I tell myself.</p>
+<p>There are some real reasons that resolutions don't work. A lot of people will make resolutions that change their being. "I will be more..." sound familiar? The key to resolution success is to do them at a micro level and focus on habit-shifting. Make <a href= "https://coffeemeetspolished.com/articles/13" target="_blank" rel="noopener noreferrer">smarter</a> resolutions that are measurable and realistic. Focus on changing your defaults and autopilots and consider which ones you can have small wins that snowball into larger ones.</p>
+<p>This year was one focused on mental health survival (thank you, residency). In order to survive I first had to know myself, and thus self-awareness was at an all-time high. For 2018, I’m focusing on resolutions that promote better mental health.</p>
+<p>Here’s a list of mental health resolutions, or some may call them <b>intentions</b>, for the upcoming year:</p>
+<b><p className="tabbed">➢ Take a few breaths to absorb a moment before snapping a photo</p>
+<p className="tabbed">➢ Always spend half a day of your weekend with no plans except self-care activities</p>
+<p className="tabbed">➢ Spend 30 min reading at least 3 days per week</p>
+<p className="tabbed">➢ Don't use electronics for the final hour before going to sleep</p>
+<p className="tabbed">➢ Don't check your phone or emails while in bed when you wake up</p>
+<p className="tabbed">➢ Schedule a microadventure alone once per month</p>
+<p className="tabbed">➢ Every time you look at a news feed and feel <a href= "https://www.urbandictionary.com/define.php?term=fomo" target="_blank" rel="noopener noreferrer">FOMO</a>, think of one thing you are grateful for in your life in that moment</p>
+<p className="tabbed">➢ Become more vocal with my feelings and provide timely, productive feedback to others</p></b>
+<p>I hope these give you some ideas for the upcoming year. What are your mental health resolutions for 2018?</p>
+</div>
+},
+
 {id: "52", title: <a href="/articles/52">Feminist Book List: Winter Edition</a>, date: "December 26, 2017", category: "Activism", photo: "/images/feministbookswinter.jpg",  description: <div>Reading has become my re-found love since moving to New York City. Now that I have the strength to place it on my priority list for mindfulness and wellbeing, I'm excited for a whole new world of opportunities to replenish my cultural bucket. I’ve also been going to different feminist events with insightful panelists and it has opened my eyes to the world of feminist literature. If you’re looking for a list to start with to embrace your feminist empowerment, keep on reading. <a href="/articles/52">[Read More]</a></div>, post:
 <div>
 <img src="/images/feministbookswinter.jpg" alt="Feminist Books Winter" />
