@@ -9,8 +9,8 @@ class PopularPosts extends Component {
 				<h3>Popular Posts</h3>
 				<nav>
 					<ul>
+						<li><NavLink to={{pathname: "/articles/53"}}>➢ Mental Health Resolutions for 2018</NavLink></li>
 						<li><NavLink to={{pathname: "/articles/42"}}>➢ Being "Not That" Asian</NavLink></li>
-						<li><NavLink to={{pathname: "/articles/39"}}>➢ Orienting Yourself to a New Job: 90-Day Update</NavLink></li>
 						<li><NavLink to={{pathname: "/articles/41"}}>➢ Power of Millenials</NavLink></li>
 						<li><NavLink to={{pathname: "/articles/32"}}>➢ ”What Are You?” How I’ve Been Asked About My Ethnicity</NavLink></li>
 						<li><NavLink to={{pathname: "/articles/20"}}>➢ 10 Places to Start to Improve Your Feminism Literacy</NavLink></li>
