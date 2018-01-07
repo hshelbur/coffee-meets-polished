@@ -760,6 +760,10 @@ footer .developed-by {
   margin: 20px 0px 20px 40px;
 }
 
+.article .centered {
+  text-align: center;
+}
+
 .article .cell-phone {
   margin: auto;
   width: 70%;
