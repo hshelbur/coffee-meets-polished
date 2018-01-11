@@ -9,14 +9,12 @@ class PopularPosts extends Component {
 				<h3>Popular Posts</h3>
 				<nav>
 					<ul>
-						<li><NavLink to={{pathname: "/articles/53"}}>➢ Mental Health Resolutions for 2018</NavLink></li>
-						<li><NavLink to={{pathname: "/articles/42"}}>➢ Being "Not That" Asian</NavLink></li>
-						<li><NavLink to={{pathname: "/articles/41"}}>➢ Power of Millenials</NavLink></li>
-						<li><NavLink to={{pathname: "/articles/32"}}>➢ ”What Are You?” How I’ve Been Asked About My Ethnicity</NavLink></li>
-						<li><NavLink to={{pathname: "/articles/20"}}>➢ 10 Places to Start to Improve Your Feminism Literacy</NavLink></li>
-						<li><NavLink to={{pathname: "/articles/28"}}>➢ The 5 Toughest Mental Health Lessons from Residency</NavLink></li>
-						<li><NavLink to={{pathname: "/articles/19"}}>➢ Futile Pursuit of Balance: Set Boundaries Instead</NavLink></li>
-						<li><NavLink to={{pathname: "/articles/35"}}>➢ 28 Things I Would Tell My Younger Self</NavLink></li>
+						<a href="/articles/58"><img src="/images/hopefulfor2018.png" alt="HopefulFor2018" /></a>
+						<a href="/articles/57"><img src="/images/favoritepodcastsof2017.png" alt="Favorite Podcasts of 2017" /></a>
+						<a href="/articles/56"><img src="/images/19before2019.png" alt="19 Before 2019" /></a>
+						<a href="/articles/55"><img src="/images/highsof2017preview.png" alt="Highs of 2017" /></a>
+						<a href="/articles/54"><img src="/images/lovedindecember.png" alt="5 Things I Loved in December" /></a>
+						<a href="/articles/53"><img src="/images/mentalhealthresolutions.png" alt="Mental Health Resolutions" /></a>
 					</ul>
 				</nav>
 			</div>

@@ -2,42 +2,68 @@ import React from 'react';
 
 const ARTICLES = [
 
-{id: "57", title: <a href="/articles/57">Favorite Podcasts of 2017</a>, date: "January 3, 2018", category: "Activism", photo: "/images/podcastsof2017.png",  description: <div>I know I'm really behind on the Podcast bandwagon, but now I can't get enough. I'm able to listen to episodes when I'm walking throughout the City and on the train and it lets me take my eyes off my phone while in transit. These were my favorite ones of the year, or at least last 5 months since moving to New York. <a href="/articles/57">[Read more]</a></div>, post:
+{id: "58", title: <a href="/articles/58">#HopefulFor</a>, date: "January 4, 2018", category: "Activism", photo: "/images/hopefulfor2018.png",  description: <div>The first time I saw the #HopefulFor tag was on Sheryl Sandberg's <a href="https://www.instagram.com/p/BdOMkSXBOTL/?hl=en&taken-by=sherylsandberg" target="_blank" rel="noopener noreferrer">Instagram</a>.  This inspired me to reflect what I'm hopeful for this year. I realized that there is a lot I'm hopeful for, and while this list may seem ambitious I hope to add to the archives of hopes and dreams for the future. <a href="/articles/58">[Read more]</a></div>, post:
 <div>
-<img src="/images/podcastsof2017.png" alt="Favorite Podcasts of 2017" />
-<p>I know I'm really behind on the Podcast bandwagon, but now I can't get enough. I'm able to listen to episodes when I'm walking throughout the City and on the train and it lets me take my eyes off my phone while in transit. Not only that, but it's a new avenue of content where I can improve my literacy on current events and cultural topics. These were my favorite ones of the year, or at least last 5 months since moving to New York.</p>
-<h4><b>Lessons from a year full of toxic masculinity</b></h4>
-<p>An interview with <a href="https://www.youtube.com/watch?v=umKKrbmdHFM" target="_blank" rel="noopener noreferrer">Wade Davis</a>, the NFL's first Diversity and Inclusion consultant and, well, a professional feminist. (Ok, maybe that one's not on his business card). Davis uses his public platform to talk to men and boys about masculinity as a societal construct -- one that is a performance as harmful to men as it is to women. We'll also hear from Vox.com reporter <a href="https://www.vox.com/identities/2017/11/6/16571570/female-candidates-trump-clinton-2016-election" target="_blank" rel="noopener noreferrer">Anna North</a>, who attended the Women's Convention in Detroit and talked to women interested in running for office in 2018 about how Donald Trump's win, and Hillary Clinton's loss, have motivated their candidacies.</p>
-<p className="centered"><iframe width="100%" height="205" src="https://art19.com/shows/divided-states-of-women/episodes/e65d8bd1-55a2-460d-8241-decb6540ebf6/embed?theme=light-gray-blue" scrolling="no" frameborder="0" allowfullscreen></iframe></p>
-<h4><b>Does Marriage Make Women Happy?</b></h4>
-<p>What are the benefits of marriage for women? Liz Plank talks to feminist writer Jill Fillipovic about how the institution has changed over the last decade, and what that means for women’s happiness and economic stability in 2017. Hitha Herzog is hiding in a closet at her sister’s wedding, but she calls in to talk about the pragmatism of her marriage being governed by “1950s” values.</p>
-<p className="centered"><iframe width="100%" height="205" src="https://art19.com/shows/divided-states-of-women/episodes/02aaeb07-ad58-41ca-9a0e-850429fb40f3/embed?theme=light-gray-blue" scrolling="no" frameborder="0" allowfullscreen></iframe></p>
-<h4><b>Women and the Trades</b></h4>
-<p>Women are underrepresented in trades like autoworking, plumbing, and welding. E&B unpack what can be done to increase representation of women in these critical fields.</p>
-<p className="centered"><iframe width="100%" height="300" src="http://www.howstuffworks.com/embed/928441" scrolling="no" frameborder="0" allowfullscreen></iframe></p>
-<h4><b>Pregnant in Prison</b></h4>
-<p>How should we be treating imprisoned pregnant women? Perhaps we could start by not shackling them to the hospital bed during labor.</p>
-<p className="centered"><iframe width="100%" height="300" src="http://www.howstuffworks.com/embed/928588" scrolling="no" frameborder="0" allowfullscreen></iframe></p>
-<h4><b>Problematic Faves: Judge Judy</b></h4>
-<p>Are you a fan of someone...even though you KNOW their record on feminist issues isn't exactly stellar? Today we're introducing a series profiling women we love, imperfections and all. First up? The queen of courtroom TV: Judge Judy.</p>
-<p className="centered"><iframe width="100%" height="300" src="http://www.howstuffworks.com/embed/928557" scrolling="no" frameborder="0" allowfullscreen></iframe></p>
-<h4><b>The Edge of Gender</b></h4>
-<p>Gender is one of the first things we notice about the people around us. But where do our ideas about gender come from? Can gender differences be explained by genes and chromosomes, or are they the result of upbringing, culture and the environment? This week, we delve into the debate over nature vs. nurture, and meet the first person in the United States to officially reject the labels of both male and female, and be recognized as "non-binary."</p>
-<p className="centered"><iframe width="100%" height="205" src="https://www.npr.org/player/embed/556115299/556763934" scrolling="no" frameborder="0" allowfullscreen></iframe></p>
-<h4><b>Misbehaving with Richard Thaler</b></h4>
-<p>We don't always do what we're supposed to do. We don't save enough for retirement. We order dessert — even when we're supposed to be dieting. In other words, we misbehave. That's the title of Richard Thaler's most recent book: Misbehaving: The Making of Behavioral Economics. If you've read Thaler's previous book, Nudge, you know he's an economist who studies why people don't really act the way traditional economists say they will. Thaler recently won a Nobel Prize for his contributions to the field of behavioral economics — so we thought we'd celebrate by giving you this encore episode. It's still one of our favorites.</p>
-<p className="centered"><iframe width="100%" height="205" src="https://www.npr.org/player/embed/559511691/559626842" scrolling="no" frameborder="0" allowfullscreen></iframe></p>
-<h4><b>When Women Say I'm Sorry</b></h4> 
-<p>Apologizing is an important step towards reconciliation, but sometimes we say "sorry" too much. Why do women typically apologize more than men? Can you still be a feminist and use these undermining words? How can you be more aware of them in your everyday speech? We also investigate the issues of assuming girls are "more difficult," the dilemma of policing how women speak, and a letter from a listener who wants to stop over-apologizing at work. Language is one of the essential ways we express ourselves, and ultimately your vocabulary is your choice. How will your use of words make you feel you proud and confident about who you are?</p>
-<p className="centered"><iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/318210449&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe></p>
+<img src="/images/hopefulfor2018.png" alt="Hopeful For 2018" />
+<p>The first time I saw the #HopefulFor tag was on Sheryl Sandberg's <a href="https://www.instagram.com/p/BdOMkSXBOTL/?hl=en&taken-by=sherylsandberg" target="_blank" rel="noopener noreferrer">Instagram</a> where she said:</p>
+<p>"Starting today, we're asking people to share what they're #HopefulFor next year. I'm #HopefulFor a world where we elevate all women's voices and help get more women – especially those from groups that have been traditionally marginalized – into positions of power. Our time is now."</p>
+<p>This inspired me to reflect what I'm hopeful for this year. I realized that there is a lot I'm hopeful for, and while this list may seem ambitious I hope to add to the archives of hopes and dreams for the future.</p>
+<h4><b>women.</b></h4>
+<p>➢Women to continue momentum to stand our ground, be heard, and reckoned with</p>
+<p>➢Women not to be burdened with emotional labor that isn't ours</p>
+<p>➢Women to be valued and marketed towards for our minds and talents, not our looks</p>
+<h4><b>men.</b></h4>
+<p>➢More men to amplify women's voices</p>
+<p>➢Men to have the space to express their emotions in a healthy, productive way</p>
+<p>➢Masculinity to be culturally evolved to incorporate equality with strength</p>
+<h4><b>introverts.</b></h4>
+<p>➢Introverts to be asked for our opinion if we don't say something</p>
+<p>➢Quiet and shy not to be thought of as the same</p>
+<p>➢Solitude to be seen as a necessity, not a commodity</p>
+<h4><b>policy.</b></h4>
+<p>➢Paid family leave for the entire gender spectrum</p>
+<p>➢Reproductive freedoms for women</p>
+<p>➢Equal pay for everyone with the same job title and standardized merit-based raises</p>
+<p> These may seem more like part of a 5-year strategic plan, and maybe it will be someday. For now, I'll spend this year focusing on changing conversations, taking action, and organizing others to make these hopes a reality.</p>
 </div>
 },
 
-{id: "56", title: <a href="/articles/56">18 Before 2018</a>, date: "January 2, 2018", category: "Life", photo: "/images/18before2018.png",  description: <div>There's a lot to be said for writing down goals. It holds me accountable. And I'd like to tell myself that publishing it online means I'll be extra accountable. Right? This list was inspired after doing research for my new bullet journal for 2018. I decided to reflect and see if I would be able to come up with 18 things I wanted to accomplish. Turns out I do. I hope this list gives you some ideas of what you may want to pursue this year, and give you a sneak peak of some future projects for CMP. <a href="/articles/56">[Read more]</a></div>, post:
+{id: "57", title: <a href="/articles/57">Favorite Podcasts of 2017</a>, date: "January 3, 2018", category: "Activism", photo: "/images/favoritepodcastsof2017.png",  description: <div>I know I'm really behind on the Podcast bandwagon, but now I can't get enough. I'm able to listen to episodes when I'm walking throughout the City and on the train and it lets me take my eyes off my phone while in transit. These were my favorite ones of the year, or at least last 5 months since moving to New York. <a href="/articles/57">[Read more]</a></div>, post:
 <div>
-<img src="/images/18before2018.png" alt="18 Before 2018" />
+<img src="/images/favoritepodcastsof2017.png" alt="Favorite Podcasts of 2017" />
+<p>I know I'm really behind on the Podcast bandwagon, but now I can't get enough. I'm able to listen to episodes when I'm walking throughout the City and on the train and it lets me take my eyes off my phone while in transit. Not only that, but it's a new avenue of content where I can improve my literacy on current events and cultural topics. These were my favorite ones of the year, or at least last 5 months since moving to New York.</p>
+<h4><b>Lessons from a year full of toxic masculinity</b></h4>
+<p>An interview with <a href="https://www.youtube.com/watch?v=umKKrbmdHFM" target="_blank" rel="noopener noreferrer">Wade Davis</a>, the NFL's first Diversity and Inclusion consultant and, well, a professional feminist. (Ok, maybe that one's not on his business card). Davis uses his public platform to talk to men and boys about masculinity as a societal construct -- one that is a performance as harmful to men as it is to women. We'll also hear from Vox.com reporter <a href="https://www.vox.com/identities/2017/11/6/16571570/female-candidates-trump-clinton-2016-election" target="_blank" rel="noopener noreferrer">Anna North</a>, who attended the Women's Convention in Detroit and talked to women interested in running for office in 2018 about how Donald Trump's win, and Hillary Clinton's loss, have motivated their candidacies.</p>
+<p className="centered"><iframe width="100%" height="205" src="https://art19.com/shows/divided-states-of-women/episodes/e65d8bd1-55a2-460d-8241-decb6540ebf6/embed?theme=light-gray-blue" scrolling="no" frameborder="0" allowfullscreen title="Lessons"></iframe></p>
+<h4><b>Does Marriage Make Women Happy?</b></h4>
+<p>What are the benefits of marriage for women? Liz Plank talks to feminist writer Jill Fillipovic about how the institution has changed over the last decade, and what that means for women’s happiness and economic stability in 2017. Hitha Herzog is hiding in a closet at her sister’s wedding, but she calls in to talk about the pragmatism of her marriage being governed by “1950s” values.</p>
+<p className="centered"><iframe width="100%" height="205" src="https://art19.com/shows/divided-states-of-women/episodes/02aaeb07-ad58-41ca-9a0e-850429fb40f3/embed?theme=light-gray-blue" scrolling="no" frameborder="0" allowfullscreen title="Marriage"></iframe></p>
+<h4><b>The Edge of Gender</b></h4>
+<p>Gender is one of the first things we notice about the people around us. But where do our ideas about gender come from? Can gender differences be explained by genes and chromosomes, or are they the result of upbringing, culture and the environment? This week, we delve into the debate over nature vs. nurture, and meet the first person in the United States to officially reject the labels of both male and female, and be recognized as "non-binary."</p>
+<p className="centered"><iframe width="100%" height="205" src="https://www.npr.org/player/embed/556115299/556763934" scrolling="no" frameborder="0" allowfullscreen title="Gender"></iframe></p>
+<h4><b>Misbehaving with Richard Thaler</b></h4>
+<p>We don't always do what we're supposed to do. We don't save enough for retirement. We order dessert — even when we're supposed to be dieting. In other words, we misbehave. That's the title of Richard Thaler's most recent book: Misbehaving: The Making of Behavioral Economics. If you've read Thaler's previous book, Nudge, you know he's an economist who studies why people don't really act the way traditional economists say they will. Thaler recently won a Nobel Prize for his contributions to the field of behavioral economics — so we thought we'd celebrate by giving you this encore episode. It's still one of our favorites.</p>
+<p className="centered"><iframe width="100%" height="205" src="https://www.npr.org/player/embed/559511691/559626842" scrolling="no" frameborder="0" allowfullscreen title="Misbehaving"></iframe></p>
+<h4><b>When Women Say I'm Sorry</b></h4> 
+<p>Apologizing is an important step towards reconciliation, but sometimes we say "sorry" too much. Why do women typically apologize more than men? Can you still be a feminist and use these undermining words? How can you be more aware of them in your everyday speech? We also investigate the issues of assuming girls are "more difficult," the dilemma of policing how women speak, and a letter from a listener who wants to stop over-apologizing at work. Language is one of the essential ways we express ourselves, and ultimately your vocabulary is your choice. How will your use of words make you feel you proud and confident about who you are?</p>
+<p className="centered"><iframe width="100%" height="166" scrolling="no" frameborder="no" title="Sorry" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/318210449&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe></p>
+<h4><b>Women and the Trades</b></h4>
+<p>Women are underrepresented in trades like autoworking, plumbing, and welding. E&B unpack what can be done to increase representation of women in these critical fields.</p>
+<p className="centered"><iframe width="100%" height="300" src="https://www.howstuffworks.com/embed/928441" scrolling="no" frameborder="0" allowfullscreen title="Trade"></iframe></p>
+<h4><b>Pregnant in Prison</b></h4>
+<p>How should we be treating imprisoned pregnant women? Perhaps we could start by not shackling them to the hospital bed during labor.</p>
+<p className="centered"><iframe width="100%" height="300" src="https://www.howstuffworks.com/embed/928588" scrolling="no" frameborder="0" allowfullscreen title="Pregnant in Prison"></iframe></p>
+<h4><b>Problematic Faves: Judge Judy</b></h4>
+<p>Are you a fan of someone...even though you KNOW their record on feminist issues isn't exactly stellar? Today we're introducing a series profiling women we love, imperfections and all. First up? The queen of courtroom TV: Judge Judy.</p>
+<p className="centered"><iframe width="100%" height="300" src="https://www.howstuffworks.com/embed/928557" scrolling="no" frameborder="0" allowfullscreen title="Judge Judy"></iframe></p>
+</div>
+},
+
+{id: "56", title: <a href="/articles/56">19 Before 2019</a>, date: "January 2, 2018", category: "Life", photo: "/images/19before2019.png",  description: <div>There's a lot to be said for writing down goals. It holds me accountable. And I'd like to tell myself that publishing it online means I'll be extra accountable. Right? This list was inspired after doing research for my new bullet journal for 2019. I decided to reflect and see if I would be able to come up with 19 things I wanted to accomplish. Turns out I do. I hope this list gives you some ideas of what you may want to pursue this year, and give you a sneak peak of some future projects for CMP. <a href="/articles/56">[Read more]</a></div>, post:
+<div>
+<img src="/images/19before2019.png" alt="19 Before 2019" />
 <p>There's a lot to be said for writing down goals. It holds me accountable. And I'd like to tell myself that publishing it online means I'll be extra accountable. Right?</p>
-<p>This list was inspired after doing research for my new bullet journal for 2018. I saw some spreads of this "18 by 2018" thing where people write down 18 goals they hope to achieve before the end of the year 2018. I thought it was interesting and decided to reflect and see if I would be able to come up with 18 things I wanted to accomplish.</p>
+<p>This list was inspired after doing research for my new bullet journal for 2019. I saw some spreads of this "19 by 2019" thing where people write down 19 goals they hope to achieve before the end of the year 2019. I thought it was interesting and decided to reflect and see if I would be able to come up with 19 things I wanted to accomplish.</p>
 <p>It turns out I do. As I curated the list, two natural categories came out of it. One of my life, and one for this blog and the Coffee Meets Polished brand. I hope this list gives you some ideas of what you may want to pursue this year, and give you a sneak peak of some future projects for CMP.</p>
 <h4><b>personal.</b></h4>
 <p>1. Run a 5K in Manhattan<br></br>
@@ -49,23 +75,24 @@ const ARTICLES = [
 7. Pay more rent than student loan bill each month <br></br>
 8. Wear more lipstick <br></br>
 9. Finish Project Pan 2018 (18 skin care/make up products)<br></br>
-10. Explore other New York City boroughs <br></br>
+10. Explore all of the New York City boroughs <br></br>
 11. Go to a cultural/activist event every month </p>
 <h4><b>coffee meets polished.</b></h4>
-<p>12. Reach 1000 followers on Instagram<br></br>
+<p>12. Reach 500 followers on Instagram<br></br>
 13. Reach 100 MailChimp subscriptions<br></br>
-14. Start YouTube channel<br></br>
-15. Create worksheets for reader downloads <br></br>
-16. Finish draft for merchandise <br></br>
-17. Create a monthly challenge <br></br>
-18. Do a giveaway and/or collaboration </p>
+14. Reach 500 followers of Twitter<br></br>
+15. Start YouTube channel<br></br>
+16. Create worksheets for reader downloads <br></br>
+17. Finish draft for merchandise <br></br>
+18. Create a monthly challenge <br></br>
+19. Do a giveaway and/or collaboration </p>
 <p>I do have this as a spread in my bullet journal, but it's not pretty like most others' out there so I'll stick with the digital list. Cheers to 2018 goals, everyone!</p>
 </div>
 },
 
-{id: "55", title: <a href="/articles/55">Highs and Lows of 2017</a>, date: "January 1, 2018", category: "Life", photo: "/images/highs2017.jpg",  description: <div>Some people say that things have to get worse before they get better. I always tell myself this when I clean. I have to remove everything from their original places to declutter, re-organize, and have a fresh start. The same went for my 2017 experience. Here are my top five and bottom five moments of the past year, starting with the lowest of the low so we can end on a high note. <a href="/articles/55">[Read more]</a></div>, post:
+{id: "55", title: <a href="/articles/55">Highs and Lows of 2017</a>, date: "January 1, 2018", category: "Life", photo: "/images/highsof2017preview.png",  description: <div>Some people say that things have to get worse before they get better. I always tell myself this when I clean. I have to remove everything from their original places to declutter, re-organize, and have a fresh start. The same went for my 2017 experience. Here are my top five and bottom five moments of the past year, starting with the lowest of the low so we can end on a high note. <a href="/articles/55">[Read more]</a></div>, post:
 <div>
-<img src="/images/highs2017.jpg" alt="Baby Zeke" />
+<img src="/images/highsof2017.jpg" alt="Baby Zeke" />
 <p>I had a pretty eventful 2017, and so did the United States of America and world. My personal life had moments that inspired me and broke me down. The world around me felt turbulent and bubbling with momentum for change. Conversations are coming forward, being challenged, and changing. Awareness is becoming acute enough to recognize subtle nuance, implicit bias, and unfair institutionalized limits for certain populations.</p>
 <p>Some people say that things have to get worse before they get better. I always tell myself this when I clean. I have to remove everything from their original places to declutter, re-organize, and have a fresh start. The same went for my 2017 experience.</p>
 <p>Here are my top five and bottom five moments of the past year, starting with the lowest of the low so we can end on a high note.</p>
@@ -86,7 +113,7 @@ const ARTICLES = [
 </div>
 },
 
-{id: "54", title: <a href="/articles/54">5 Things I Loved in December</a>, date: "December 31, 2017", category: "Life", photo: "/images/donyc.jpg",  description: <div>I remember it being the end of 2016 and thinking, "I can’t wait for 2016 to be over. It sucked." Now it’s a year later, and I find myself (and others) discussing how awful 2017 was and that it needs to be just over. There’s a lot happening in this country and around the world that make me feel angry, sad, and without hope for a good outcome. However, with the rise of evil has also creating a shift from complacency to activism, of non-belief to belief, and an overall resilience of hope. There are so many changes, opportunities, and adventures from 2017 that I have to be grateful for. December was filled with new experiences in New York City, and new life in my family. Here are 5 things I loved this month. <a href="/articles/54">[Read more]</a></div>, post:
+{id: "54", title: <a href="/articles/54">5 Things I Loved in December</a>, date: "December 31, 2017", category: "Life", photo: "/images/lovedindecember.png",  description: <div>I remember it being the end of 2016 and thinking, "I can’t wait for 2016 to be over. It sucked." Now it’s a year later, and I find myself (and others) discussing how awful 2017 was and that it needs to be just over. There’s a lot happening in this country and around the world that make me feel angry, sad, and without hope for a good outcome. However, with the rise of evil has also creating a shift from complacency to activism, of non-belief to belief, and an overall resilience of hope. There are so many changes, opportunities, and adventures from 2017 that I have to be grateful for. December was filled with new experiences in New York City, and new life in my family. Here are 5 things I loved this month. <a href="/articles/54">[Read more]</a></div>, post:
 <div>
 <p>I remember it being the end of 2016 and thinking, “I can’t wait for 2016 to be over. It sucked.” Now it’s a year later, and I find myself (and others) discussing how awful 2017 was and that it needs to be just over. There’s a lot happening in this country and around the world that make me feel angry, sad, and without hope for a good outcome. However, with the rise of evil has also creating a shift from complacency to activism, of non-belief to belief, and an overall resilience of hope. There are so many changes, opportunities, and adventures from 2017 that I have to be grateful for.</p>
 <p>December was filled with new experiences in New York City, and new life in my family. Here are 5 things I loved this month.</p>
@@ -110,9 +137,9 @@ const ARTICLES = [
 </div>
 },
 
-{id: "53", title: <a href="/articles/53">Mental Health Resolutions for 2018</a>, date: "December 27, 2017", category: "Wellness", photo: "/images/mentalhealthresolutions.jpg",  description: <div>There are a lot of people who don’t believe in doing resolutions for the new year. Either because of self-preservation from guilt after not achieving said resolutions or because it corners them into self-improvement goals once a year. I personally take any opportunity to have a fresh start, whether it's a calendar year, academic year, or transition between any major periods in life. It helps me to be able to compartmentalize my goals in this way. Regarding breaking these resolutions, let's face it, sometimes it's the thought and intent that counts. Or at least that's what I tell myself. Here’s a list of mental health resolutions, or some may call them intentions, for the upcoming year. <a href="/articles/53">[Read More]</a></div>, post:
+{id: "53", title: <a href="/articles/53">Mental Health Resolutions for 2018</a>, date: "December 27, 2017", category: "Wellness", photo: "/images/mentalhealthresolutions.png",  description: <div>There are a lot of people who don’t believe in doing resolutions for the new year. Either because of self-preservation from guilt after not achieving said resolutions or because it corners them into self-improvement goals once a year. I personally take any opportunity to have a fresh start, whether it's a calendar year, academic year, or transition between any major periods in life. It helps me to be able to compartmentalize my goals in this way. Regarding breaking these resolutions, let's face it, sometimes it's the thought and intent that counts. Or at least that's what I tell myself. Here’s a list of mental health resolutions, or some may call them intentions, for the upcoming year. <a href="/articles/53">[Read More]</a></div>, post:
 <div>
-<img src="/images/mentalhealthresolutions.jpg" alt="Mental Health Resolutions" />
+<img src="/images/mentalhealthresolutions.png" alt="Mental Health Resolutions" />
 <p>There are a lot of people who don’t believe in doing resolutions for the new year. Either because of self-preservation from guilt after not achieving said resolutions or because it corners them into self-improvement goals once a year.</p>
 <p>I personally take any opportunity to have a fresh start, whether it's a calendar year, academic year, or transition between any major periods in life. It helps me to be able to compartmentalize my goals in this way. Regarding breaking these resolutions, let's face it, sometimes it's the thought and intent that counts. Or at least that's what I tell myself.</p>
 <p>There are some real reasons that resolutions don't work. A lot of people will make resolutions that change their being. "I will be more..." sound familiar? The key to resolution success is to do them at a micro level and focus on habit-shifting. Make <a href= "https://coffeemeetspolished.com/articles/13" target="_blank" rel="noopener noreferrer">smarter</a> resolutions that are measurable and realistic. Focus on changing your defaults and autopilots and consider which ones you can have small wins that snowball into larger ones.</p>
@@ -360,7 +387,7 @@ const ARTICLES = [
 </div>
 },
 
-{id: "44", title: <a href="/articles/44">10 Tips to Navigating a Pharmacy Residency/Fellowship Showcase</a>, date: "November 28, 2017", category: "Career", photo: "/images/residencyshowcase.jpg",  description: <div>‘Tis the season for post-graduate planning for pharmacy residency, fellowship, and more. At most conferences there is a showcase for residencies, fellowships, and jobs after you graduate. If you’re trying to map out your plans to meet all the people you need for your choice programs, this post is for you. I’ve got all the info you need to survive and thrive the hustle and bustle of these showcases! <a href="/articles/44">[Read More]</a></div>, post:
+{id: "44", title: <a href="/articles/44">10 Tips to Navigating a Pharmacy Residency/Fellowship Showcase</a>, date: "November 28, 2017", category: "Career", photo: "/images/residencyshowcasepreview.png",  description: <div>‘Tis the season for post-graduate planning for pharmacy residency, fellowship, and more. At most conferences there is a showcase for residencies, fellowships, and jobs after you graduate. If you’re trying to map out your plans to meet all the people you need for your choice programs, this post is for you. I’ve got all the info you need to survive and thrive the hustle and bustle of these showcases! <a href="/articles/44">[Read More]</a></div>, post:
 <div>
 <img src="/images/residencyshowcase.jpg" alt="Residency Showcase" />
 <p>‘Tis the season for post-graduate planning for pharmacy residency, fellowship, and more. Next week is the <a href="https://midyear17.ashp.org/" target="_blank" rel="noopener noreferrer">ASHP Midyear Clinical Meeting</a>, but there are also a number of state-sponsored showcases and other national pharmacy organizations that will begin recruitment this month if they haven’t already.</p>
@@ -778,7 +805,7 @@ The action plan has four objectives:
 </div>
 },
 
-{id: "24", title: <a href="/articles/24">The 10 Commandments of Meeting Management</a>, date: "October 3, 2017", category: "Career", photo: "/images/meeting-management.jpg",  description: <div><p>Meetings are easy to hate, but difficult to manage. But being able to run an efficient meeting is a key skill that optimizes productivity and demonstrates quality leadership. Become an expert by practicing these 10 Commandments of Meeting Management. </p> <a href="/articles/24">[Read More]</a></div>, post: 
+{id: "24", title: <a href="/articles/24">The 10 Commandments of Meeting Management</a>, date: "October 3, 2017", category: "Career", photo: "/images/meeting-managementpreview.png",  description: <div><p>Meetings are easy to hate, but difficult to manage. But being able to run an efficient meeting is a key skill that optimizes productivity and demonstrates quality leadership. Become an expert by practicing these 10 Commandments of Meeting Management. </p> <a href="/articles/24">[Read More]</a></div>, post: 
 <div>
 <img src="/images/meeting-management.jpg" alt="Meeting Management" />
 <p>As a Health-System Pharmacy Administration Resident, one of my longitudinal responsibilities was to run many different meetings. The size and exposure of these meetings ranged from small teams to department-wide, and everything in between. Part of the practice was to ensure we knew the necessary steps and consequences of ineffective meeting management. One of the biggest lessons for me was that ensuring an outcome of a group of people in one room at the same time is indeed a skill that takes practice and refinement.</p>
@@ -844,7 +871,7 @@ The action plan has four objectives:
 </div>
 },
 
-{id: "20", title: <a href="/articles/20">10 Places to Start to Improve Your Feminism Literacy</a>, date: "September 28, 2017", category: "Activism", photo: "/images/feminism.jpg",  description: <div><p>If you’re new to feminism and wanting to find a place to start, this list will help give you a taste. With these, you can start dipping your toes in the water to question societal norms and begin changing the conversation.</p> <a href="/articles/20">[Read More]</a></div>, post: 
+{id: "20", title: <a href="/articles/20">10 Places to Start to Improve Your Feminism Literacy</a>, date: "September 28, 2017", category: "Activism", photo: "/images/feminismliteracy-preview.png",  description: <div><p>If you’re new to feminism and wanting to find a place to start, this list will help give you a taste. With these, you can start dipping your toes in the water to question societal norms and begin changing the conversation.</p> <a href="/articles/20">[Read More]</a></div>, post: 
 <div>
 <img src="/images/feminism.jpg" alt="Feminism" />
 <p>I’ve mentioned before that I’m pretty new when it comes to feminism. I would say I “woke up” about two years ago, and new things are still becoming evident to me every day. I’ve embarked on the never-ending, ever-evolving journey of feeling self-empowered, and part of this is working on my feminism literacy by opening my eyes to the environment around me. If you’re new to feminism and wanting to find a place to start, this list will help give you a taste. With these, you can start dipping your toes in the water to question societal norms and begin changing the conversation.</p>
@@ -970,7 +997,7 @@ The action plan has four objectives:
 </div>
 },
 
-{id: "13", title: <a href="/articles/13">How To Set Smart Goals For Yourself</a>, date: "September 5, 2017", category: "Career", photo: "/images/goals.jpg", description: <div><p>We all have goals for ourselves but many of us find ourselves unable to achieve them and feel too discouraged to persevere. I’ve been in that boat so many times. Each time I’ve not achieved a goal and reflect as to why, I realize that the reasons for not reaching my goals are not because of our innate skills but rather how we set our goals. Read more to learn how to set SMART goals for yourself. </p><a href="/articles/13">[Read More]</a></div>, post: 
+{id: "13", title: <a href="/articles/13">How To Set Smart Goals For Yourself</a>, date: "September 5, 2017", category: "Career", photo: "/images/goals-preview.png", description: <div><p>We all have goals for ourselves but many of us find ourselves unable to achieve them and feel too discouraged to persevere. I’ve been in that boat so many times. Each time I’ve not achieved a goal and reflect as to why, I realize that the reasons for not reaching my goals are not because of our innate skills but rather how we set our goals. Read more to learn how to set SMART goals for yourself. </p><a href="/articles/13">[Read More]</a></div>, post: 
 <div>
 <img src="/images/goals.jpg" alt="Setting Goals" />
 <p>We all have goals for ourselves but many of us find ourselves unable to achieve them and feel too discouraged to persevere. I’ve been in that boat so many times. Each time I’ve not achieved a goal and reflect as to why, I realize that the reasons for not reaching my goals are not because of our innate skills but rather how we set our goals. Many of us set lofty goals for ourselves assuming setting a goal is all that's needed and the rest will naturally fall into place. “Dream big”, “Reach for the stars!” we hear.</p>
