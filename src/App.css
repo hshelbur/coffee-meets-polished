@@ -684,6 +684,23 @@ footer .developed-by {
   width: 100%;
 }
 
+.article .three-up {
+  display: inline-block;
+  width: 30%;
+  margin: 1.5%;
+}
+
+.article .two-up {
+  display: inline-block;
+  width: 46.5%;
+  margin: 1.5%;
+}
+
+.article .portrait {
+  max-height: 500px;
+  width: auto;
+}
+
 .article .landscape, .preview {
   width: 100%;
 }
@@ -846,6 +863,15 @@ footer .developed-by {
 .side-bar .popular-posts {
   text-decoration: none;
   margin-bottom: 15px;
+}
+
+.popular-posts img {
+  margin-bottom: 15px;
+}
+
+.popular-posts img:hover {
+  transform: scale(1.02);
+  transition: all .2s ease;
 }
 
 /* InstagramPhotos Styles https://www.instagram.com/coffeemeetspolished/media/ */
