@@ -761,7 +761,7 @@ footer .developed-by {
   color: #4a5050;
 }
 
-.article-copy {
+.article-copy, .article {
   font-size: 15px;
   color: #4a5050;
   font-weight: 100;
@@ -925,15 +925,15 @@ a:active {color:#213960;}  /* selected link */
 
 /* Pages Styles */
 
-.about-me h1, .beauty h1, .life h1, .contact-info h1, .career h1, .food h1, .home h1 {
+.about-me h1, .beauty h1, .life h1, .archive h1, .career h1, .food h1, .home h1 {
   display: none;
 }
 
-.about-me img, .contact-info img {
+.about-me img, .archive img {
   margin-top: 30px;
 }
 
-.about-me p, .contact-info p {
+.about-me p, .archive p {
   font-size: 15px;
   font-weight: 200;
   line-height: 200%;
@@ -944,7 +944,7 @@ a:active {color:#213960;}  /* selected link */
   margin-bottom: 20px;
 }
 
-.contact-info .email {
+.archive .email {
   color: #213960;
 }
 
