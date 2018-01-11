@@ -1,6 +1,91 @@
 import React from 'react';
 
 const ARTICLES = [
+
+{id: "57", title: <a href="/articles/57">Favorite Podcasts of 2017</a>, date: "January 3, 2018", category: "Activism", photo: "/images/podcastsof2017.png",  description: <div>I know I'm really behind on the Podcast bandwagon, but now I can't get enough. I'm able to listen to episodes when I'm walking throughout the City and on the train and it lets me take my eyes off my phone while in transit. These were my favorite ones of the year, or at least last 5 months since moving to New York. <a href="/articles/57">[Read more]</a></div>, post:
+<div>
+<img src="/images/podcastsof2017.png" alt="Favorite Podcasts of 2017" />
+<p>I know I'm really behind on the Podcast bandwagon, but now I can't get enough. I'm able to listen to episodes when I'm walking throughout the City and on the train and it lets me take my eyes off my phone while in transit. Not only that, but it's a new avenue of content where I can improve my literacy on current events and cultural topics. These were my favorite ones of the year, or at least last 5 months since moving to New York.</p>
+<h4><b>Lessons from a year full of toxic masculinity</b></h4>
+<p>An interview with <a href="https://www.youtube.com/watch?v=umKKrbmdHFM" target="_blank" rel="noopener noreferrer">Wade Davis</a>, the NFL's first Diversity and Inclusion consultant and, well, a professional feminist. (Ok, maybe that one's not on his business card). Davis uses his public platform to talk to men and boys about masculinity as a societal construct -- one that is a performance as harmful to men as it is to women. We'll also hear from Vox.com reporter <a href="https://www.vox.com/identities/2017/11/6/16571570/female-candidates-trump-clinton-2016-election" target="_blank" rel="noopener noreferrer">Anna North</a>, who attended the Women's Convention in Detroit and talked to women interested in running for office in 2018 about how Donald Trump's win, and Hillary Clinton's loss, have motivated their candidacies.</p>
+<p className="centered"><iframe width="100%" height="205" src="https://art19.com/shows/divided-states-of-women/episodes/e65d8bd1-55a2-460d-8241-decb6540ebf6/embed?theme=light-gray-blue" scrolling="no" frameborder="0" allowfullscreen></iframe></p>
+<h4><b>Does Marriage Make Women Happy?</b></h4>
+<p>What are the benefits of marriage for women? Liz Plank talks to feminist writer Jill Fillipovic about how the institution has changed over the last decade, and what that means for women’s happiness and economic stability in 2017. Hitha Herzog is hiding in a closet at her sister’s wedding, but she calls in to talk about the pragmatism of her marriage being governed by “1950s” values.</p>
+<p className="centered"><iframe width="100%" height="205" src="https://art19.com/shows/divided-states-of-women/episodes/02aaeb07-ad58-41ca-9a0e-850429fb40f3/embed?theme=light-gray-blue" scrolling="no" frameborder="0" allowfullscreen></iframe></p>
+<h4><b>Women and the Trades</b></h4>
+<p>Women are underrepresented in trades like autoworking, plumbing, and welding. E&B unpack what can be done to increase representation of women in these critical fields.</p>
+<p className="centered"><iframe width="100%" height="300" src="http://www.howstuffworks.com/embed/928441" scrolling="no" frameborder="0" allowfullscreen></iframe></p>
+<h4><b>Pregnant in Prison</b></h4>
+<p>How should we be treating imprisoned pregnant women? Perhaps we could start by not shackling them to the hospital bed during labor.</p>
+<p className="centered"><iframe width="100%" height="300" src="http://www.howstuffworks.com/embed/928588" scrolling="no" frameborder="0" allowfullscreen></iframe></p>
+<h4><b>Problematic Faves: Judge Judy</b></h4>
+<p>Are you a fan of someone...even though you KNOW their record on feminist issues isn't exactly stellar? Today we're introducing a series profiling women we love, imperfections and all. First up? The queen of courtroom TV: Judge Judy.</p>
+<p className="centered"><iframe width="100%" height="300" src="http://www.howstuffworks.com/embed/928557" scrolling="no" frameborder="0" allowfullscreen></iframe></p>
+<h4><b>The Edge of Gender</b></h4>
+<p>Gender is one of the first things we notice about the people around us. But where do our ideas about gender come from? Can gender differences be explained by genes and chromosomes, or are they the result of upbringing, culture and the environment? This week, we delve into the debate over nature vs. nurture, and meet the first person in the United States to officially reject the labels of both male and female, and be recognized as "non-binary."</p>
+<p className="centered"><iframe width="100%" height="205" src="https://www.npr.org/player/embed/556115299/556763934" scrolling="no" frameborder="0" allowfullscreen></iframe></p>
+<h4><b>Misbehaving with Richard Thaler</b></h4>
+<p>We don't always do what we're supposed to do. We don't save enough for retirement. We order dessert — even when we're supposed to be dieting. In other words, we misbehave. That's the title of Richard Thaler's most recent book: Misbehaving: The Making of Behavioral Economics. If you've read Thaler's previous book, Nudge, you know he's an economist who studies why people don't really act the way traditional economists say they will. Thaler recently won a Nobel Prize for his contributions to the field of behavioral economics — so we thought we'd celebrate by giving you this encore episode. It's still one of our favorites.</p>
+<p className="centered"><iframe width="100%" height="205" src="https://www.npr.org/player/embed/559511691/559626842" scrolling="no" frameborder="0" allowfullscreen></iframe></p>
+<h4><b>When Women Say I'm Sorry</b></h4> 
+<p>Apologizing is an important step towards reconciliation, but sometimes we say "sorry" too much. Why do women typically apologize more than men? Can you still be a feminist and use these undermining words? How can you be more aware of them in your everyday speech? We also investigate the issues of assuming girls are "more difficult," the dilemma of policing how women speak, and a letter from a listener who wants to stop over-apologizing at work. Language is one of the essential ways we express ourselves, and ultimately your vocabulary is your choice. How will your use of words make you feel you proud and confident about who you are?</p>
+<p className="centered"><iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/318210449&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe></p>
+</div>
+},
+
+{id: "56", title: <a href="/articles/56">18 Before 2018</a>, date: "January 2, 2018", category: "Life", photo: "/images/18before2018.png",  description: <div>There's a lot to be said for writing down goals. It holds me accountable. And I'd like to tell myself that publishing it online means I'll be extra accountable. Right? This list was inspired after doing research for my new bullet journal for 2018. I decided to reflect and see if I would be able to come up with 18 things I wanted to accomplish. Turns out I do. I hope this list gives you some ideas of what you may want to pursue this year, and give you a sneak peak of some future projects for CMP. <a href="/articles/56">[Read more]</a></div>, post:
+<div>
+<img src="/images/18before2018.png" alt="18 Before 2018" />
+<p>There's a lot to be said for writing down goals. It holds me accountable. And I'd like to tell myself that publishing it online means I'll be extra accountable. Right?</p>
+<p>This list was inspired after doing research for my new bullet journal for 2018. I saw some spreads of this "18 by 2018" thing where people write down 18 goals they hope to achieve before the end of the year 2018. I thought it was interesting and decided to reflect and see if I would be able to come up with 18 things I wanted to accomplish.</p>
+<p>It turns out I do. As I curated the list, two natural categories came out of it. One of my life, and one for this blog and the Coffee Meets Polished brand. I hope this list gives you some ideas of what you may want to pursue this year, and give you a sneak peak of some future projects for CMP.</p>
+<h4><b>personal.</b></h4>
+<p>1. Run a 5K in Manhattan<br></br>
+2. Travel out of the country twice <br></br>
+3. Participate in a protest/march<br></br>
+4. Submit 10 essays/articles for websites<br></br>
+5. Take a creative writing course <br></br>
+6. Learn how to curl hair with a curler<br></br>
+7. Pay more rent than student loan bill each month <br></br>
+8. Wear more lipstick <br></br>
+9. Finish Project Pan 2018 (18 skin care/make up products)<br></br>
+10. Explore other New York City boroughs <br></br>
+11. Go to a cultural/activist event every month </p>
+<h4><b>coffee meets polished.</b></h4>
+<p>12. Reach 1000 followers on Instagram<br></br>
+13. Reach 100 MailChimp subscriptions<br></br>
+14. Start YouTube channel<br></br>
+15. Create worksheets for reader downloads <br></br>
+16. Finish draft for merchandise <br></br>
+17. Create a monthly challenge <br></br>
+18. Do a giveaway and/or collaboration </p>
+<p>I do have this as a spread in my bullet journal, but it's not pretty like most others' out there so I'll stick with the digital list. Cheers to 2018 goals, everyone!</p>
+</div>
+},
+
+{id: "55", title: <a href="/articles/55">Highs and Lows of 2017</a>, date: "January 1, 2018", category: "Life", photo: "/images/highs2017.jpg",  description: <div>Some people say that things have to get worse before they get better. I always tell myself this when I clean. I have to remove everything from their original places to declutter, re-organize, and have a fresh start. The same went for my 2017 experience. Here are my top five and bottom five moments of the past year, starting with the lowest of the low so we can end on a high note. <a href="/articles/55">[Read more]</a></div>, post:
+<div>
+<img src="/images/highs2017.jpg" alt="Baby Zeke" />
+<p>I had a pretty eventful 2017, and so did the United States of America and world. My personal life had moments that inspired me and broke me down. The world around me felt turbulent and bubbling with momentum for change. Conversations are coming forward, being challenged, and changing. Awareness is becoming acute enough to recognize subtle nuance, implicit bias, and unfair institutionalized limits for certain populations.</p>
+<p>Some people say that things have to get worse before they get better. I always tell myself this when I clean. I have to remove everything from their original places to declutter, re-organize, and have a fresh start. The same went for my 2017 experience.</p>
+<p>Here are my top five and bottom five moments of the past year, starting with the lowest of the low so we can end on a high note.</p>
+<h4><b>lows.</b></h4>
+<p>1. <b>Burnout.</b> Most of the lows happened related to residency. One of them was the burnout. I felt stretched thin with tons of assignments and short deadlines. I don't remember ever being so busy or feeling so overwhelmed. The positive out of it is that I know my limits, and I know that they can be stretched and expanded. I also have new appreciations for wellness and selfcare.</p>
+<p>2. <b>Worthlessness.</b> The volume of work that caused burnout was layered with feedback that was sometimes unedited, unproductive, and the hardest kind: true. When you're not your best self mentally/physically/emotionally, feedback is not something you have the capacity to take and process healthily. The only way I found out of the darkness and put together the pieces are my mentors, friends, and family. These are the times you realize how valuable humility is and how important support structures are.</p>
+<p>3. <b>Uncertainty.</b> The third layer of this was the whole point of doing residency in the first place: employment. It was difficult to complete my daily, monthly, quarterly, annual, two-year deadlines; recruit the next class of residents to replace you; while also finding a job. The uncertainty of where you'll live, what you'll be doing, when the alarm clock on your lease is also pending. I was so used to program end dates, application timelines, results dates, that told me on a certain day where I would be and when. Now, it was under my control and I didn't know how to process it.</p>
+<p>4. <b>Politics.</b> This doesn't need explaining. I don't want to oversimplify it by trying to. But if you don't know, please spend 2018 improving your literacy on current events. You won't regret it.</p>
+<p> 5. <b>Student Loan Debt.</b> I made it a goal for my second year of residency to begin paying my student loans even through deferment. I succeeded with that goal and now am embarking on the journey through repayment plans. The reason this is a low is because of the principles behind why I have to pay them in the first place. I am frustrated with the burden placed on people who are determined to get a higher education, to provide for themselves with jobs that contribute to the workforce. To be locked into decisions made in a time when I barely knew who I was and without alternatives. All I can tell myself is that things will work out and I'll be able to pay them off. But why are tuitions so high? Why do colleges and universities get to profit from students who pursue their dreams, or paths that were imposed on them by their parents and society? What if I had changed my mind or wasn't able to find a job to pay the loan bill taken out for said job? I have many thoughts on this topic, if you couldn't tell.</p>
+<p>Now that the lows are out of the way (and how cathartic that was), time for the happy times!</p>
+<h4><b>highs.</b></h4>
+<p>1. <b>Love.</b> Before residency started in 2015, I spent a lot of time alone reflecting. My goal was to be able to do things on my own. Eat at restaurants, go to movies, shop, and make decisions for me. Once I felt comfortable doing all of these things, I found the one. It was quite amazing timing. And two years later it's like spending every day with my best friend who doesn't make me feel like I need to change anything about me but supports my hopes for self-improvement and dreams for the future. So this is what happiness with a significant other feels like, who knew?</p>
+<p>2. <b>Moving to New York City.</b> Remember those feelings of burnout, uncertainty, and worthlessness? Well, those were squashed (after plenty of wallowing) and out popped an opportunity to where I now agree to be the greatest city in the world. A lot of people ask me how long I plan to be there as if New York City has been a temporary Millenial phase. But now that I've been here almost 7 months, I don't see an end to it. It may be because it's the first time I've not had an end date imposed on me, but I also believe it's because I love it here. And that's, that.</p>
+<p>3. <b>Job status.</b> This is a high because it's the reason for all of the lows and triumphs throughout the last 10 years since graduating high school and leaving home. The really expensive mansion that is my student loans, long days, little sleep, tears, new friends, and Tar Heel adventures culminated to the job that I wanted all along. I finally have autonomy to make decisions and analyze situations without the 24/7 feedback loop of residency. I get to find my style and see how I do on my own two feet with a great boss to work with. It's a great situation so far.</p>
+<p>4. <b>New Baby.</b> My little sister gave birth to a beautiful baby boy in 2017. His name is Zeke (short for Ezekiel) and I got to spend a whole 12 days with him. I created some deep bonds that he won't remember since he's less than a month old but I'll keep with me forever. I can't wait for him to visit (and his parents too, of course).</p>
+<p>5. <b>Empowerment.</b> If 2017 was filled with anything it was filled with my highest levels of empowerment. Like a phoenix from the ashes I feel like I came out of a tough training period with resolve to succeed in what I wanted and the environment of New York City only amplifies it.</p>
+<p>I can't wait to see what 2018 has in store. Even though 2017 had lows, it had many more highs that absolutely outweighed them. I will continue seeking the positive outcomes and lessons in any situation. While I'm imperfect and problematic, I now believe those traits to be great things because they are part of who I am.</p>
+</div>
+},
+
 {id: "54", title: <a href="/articles/54">5 Things I Loved in December</a>, date: "December 31, 2017", category: "Life", photo: "/images/donyc.jpg",  description: <div>I remember it being the end of 2016 and thinking, "I can’t wait for 2016 to be over. It sucked." Now it’s a year later, and I find myself (and others) discussing how awful 2017 was and that it needs to be just over. There’s a lot happening in this country and around the world that make me feel angry, sad, and without hope for a good outcome. However, with the rise of evil has also creating a shift from complacency to activism, of non-belief to belief, and an overall resilience of hope. There are so many changes, opportunities, and adventures from 2017 that I have to be grateful for. December was filled with new experiences in New York City, and new life in my family. Here are 5 things I loved this month. <a href="/articles/54">[Read more]</a></div>, post:
 <div>
 <p>I remember it being the end of 2016 and thinking, “I can’t wait for 2016 to be over. It sucked.” Now it’s a year later, and I find myself (and others) discussing how awful 2017 was and that it needs to be just over. There’s a lot happening in this country and around the world that make me feel angry, sad, and without hope for a good outcome. However, with the rise of evil has also creating a shift from complacency to activism, of non-belief to belief, and an overall resilience of hope. There are so many changes, opportunities, and adventures from 2017 that I have to be grateful for.</p>
@@ -1104,6 +1189,5 @@ The action plan has four objectives:
 <p>Thanks for joining, and welcome!</p>
 </div>}
 ]
-
 
 export default ARTICLES

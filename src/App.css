@@ -760,6 +760,10 @@ footer .developed-by {
   margin: 20px 0px 20px 40px;
 }
 
+.article .centered {
+  text-align: center;
+}
+
 .article .cell-phone {
   margin: auto;
   width: 70%;
@@ -888,6 +892,10 @@ footer .developed-by {
   margin-bottom: 6px;
 }
 
+a {color:#213960;}      /* unvisited link */
+a:visited {color:#213960;}  /* visited link */
+a:hover {color:#213960;}  /* mouse over link */
+a:active {color:#213960;}  /* selected link */
 
 /* Pages Styles */
 
