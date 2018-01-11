@@ -5,7 +5,7 @@ import Header from './layout/Header.js';
 import SocialForm from './layout/SocialForm.js';
 import Sidebar from './layout/Sidebar.js';
 import AboutMe from './pages/About.js';
-import ContactInfo from './pages/Contact.js';
+import Archive from './pages/Archive.js';
 import ArticlePage from './pages/ArticlePage.js';
 import ArticleList from './pages/ArticleList.js';
 import ARTICLES from './data/Articles.js';
@@ -30,8 +30,8 @@ const App = () => (
                 <ArticleList articles={ARTICLES} />
               } />
 
-            <Route path="/contact" render={() =>
-                <ContactInfo />
+            <Route path="/archive" render={() =>
+                <Archive />
               } />
 
             <Route path="/about" render={() =>
