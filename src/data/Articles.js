@@ -1,6 +1,27 @@
 import React from 'react';
 
 const ARTICLES = [
+{id: "59", title: <a href="/articles/59">Topics to Normalize in 2018: PERIODS</a>, date: "January 9, 2018", category: "Activism", photo: "/images/normalizedconvoperiods.png",  description: <div>Many women are uncomfortable asking if fellow ladies have an extra tampon or pad. I was recently asked this by someone whispering in my ear, and I thought, "Wouldn't it be nice to live in a world where we can ask these things aloud and not feel embarrassed, or feel like others may feel uncomfortable?" There are consequences to the topic of periods being silenced in society. Read more to find out some ways to normalize conversation around periods and provide a platform for change. <a href="/articles/59">[Read more]</a></div>, post:
+<div>
+<img src="/images/normalizedconvoperiods.png" alt="Topics to Normalize:Periods" />
+<p>I spent a lot of 2017 reflecting on certain topics that are considered "taboo" and tried to figure out why they were categorized as such. I observed attitudes of different generations, genders, and races on topics that illicit visceral reactions, problematic thoughts, and conflicting conversation.</p>
+<p>In today's kick off to the series, we're talking about <b>PERIODS</b>.</p>
+<p>These opinions are my own. My hope is that after reading this, it sparks some thoughts for you too.</p>
+<p>I realized that many women are uncomfortable asking if fellow ladies have an extra tampon or pad (since they're not readily available in public bathrooms for free). I was recently asked this by someone whispering in my ear, and I thought, "Wouldn't it be nice to live in a world where we can ask these things aloud and not feel embarrassed, or feel like others may feel uncomfortable?"</p>
+<p>I believe periods have become taboo because history set up and society today reinforces the notion that periods are unhealthy, gross, or something to be ashamed of because women "aren't at their best" while on periods. This is perpetuated by the <a href="http://mashable.com/2016/03/02/period-stigma/?linkId=21898002#AVSGx7scxuqQ" target="_blank" rel="noopener noreferrer">lack of adequate period education</a> for both women and men.</p>
+<p>There are real consequences to the silencing (intended or unintended) of this topic. In some countries, women are still <a href="https://www.nytimes.com/2018/01/10/world/asia/nepal-woman-menstruation.html" target="_blank" rel="noopener noreferrer">sent to huts</a> while on her period or <a href="http://www.thecitizen.in/index.php/en/NewsDetail/index/7/7836/Menstruation-Keeps-Girls-From-School-In-India-20-Drop-Out-Reaching-Puberty" target="_blank" rel="noopener noreferrer">stay home from school</a> because of lack of appropriate bathrooms and products to use. There's a luxury tax on tampons. <a href="https://news.vice.com/en_ca/article/434qzg/prisons-are-still-charging-female-inmates-for-having-their-periods" target="_blank" rel="noopener noreferrer">Incarcerated women are still struggling</a> for free feminine hygiene products.</p>
+<p>Not promoting openness and awareness with periods allows the silence to continue for those who suffer from the consequences. Here are some suggestions to normalize period talk:</p>
+<h4><b>women.</b></h4>
+<p>Understand the biology of periods and learn to love the amazing complexity of our bodies. Ask for pads and tampons aloud whether men are present or not. Support openness when women wish to discuss our periods with you. Don't be ashamed of your period underwear.</p> 
+<h4><b>men.</b></h4>
+<p>Support openness when women wish to discuss our periods with you. Empathize with women if they are feeling uncomfortable and/or in pain because they are on their periods. Don't assume a bad mood is because she is hormonal (due to periods). Do not react when women discuss periods or ask for pads/tampons in front of you. <a href="https://medium.com/clued-in/the-manly-guide-to-menstruation-833d97d811ea" target="_blank" rel="noopener noreferrer">Lean in, and learn</a>.</p>
+<h4><b>policymakers.</b></h4>
+<p><a href="https://news.vice.com/en_ca/article/434qzg/prisons-are-still-charging-female-inmates-for-having-their-periods" target="_blank" rel="noopener noreferrer">Ensure compliance</a> with the new law requiring free tampons and pads in federal prisons. Remove luxury tampon tax across the country.  Promote period education in schools.</p>	
+<h4><b>advertising and marketing.</b></h4>
+<p>Make commercials and ads for tampons and pads contain red liquid, not blue liquid, to more accurately represent a woman's period. Involve more women in development of advertising to ensure messages that relate most closely to the key demographic.</p>
+<p>There are many ways to change a conversation, but it takes a collective voice, and one person at a time.</p>	
+</div>
+},
 
 {id: "58", title: <a href="/articles/58">#HopefulFor</a>, date: "January 4, 2018", category: "Activism", photo: "/images/hopefulfor2018.png",  description: <div>The first time I saw the #HopefulFor tag was on Sheryl Sandberg's <a href="https://www.instagram.com/p/BdOMkSXBOTL/?hl=en&taken-by=sherylsandberg" target="_blank" rel="noopener noreferrer">Instagram</a>.  This inspired me to reflect what I'm hopeful for this year. I realized that there is a lot I'm hopeful for, and while this list may seem ambitious I hope to add to the archives of hopes and dreams for the future. <a href="/articles/58">[Read more]</a></div>, post:
 <div>
