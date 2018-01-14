@@ -18,24 +18,60 @@ const App = () => (
       <body className="container">
 
         <div className="row">
-          <main className="col-md-8 col-lg-9">
+          <main>
 
             <Switch>
 
             <Route exact path="/" render={() =>           
-                <ArticleList articles={ARTICLES} />
+                <div>
+                  <div className="col-md-8 col-lg-9">
+                    <ArticleList articles={ARTICLES} />
+                  </div>
+                  <div>
+                    <aside className="col-md-4 col-lg-3 side-bar">
+                      <Sidebar />
+                    </aside>
+                  </div>
+                </div>
               } />
 
             <Route path="/home" render={() =>           
-                <ArticleList articles={ARTICLES} />
+                <div>
+                  <div className="col-md-8 col-lg-9">
+                    <ArticleList articles={ARTICLES} />
+                  </div>
+                  <div>
+                    <aside className="col-md-4 col-lg-3 side-bar">
+                      <Sidebar />
+                    </aside>
+                  </div>
+                </div>
               } />
 
             <Route path="/archive" render={() =>
-                <Archive />
+                <div>
+                  <div className="col-md-8 col-lg-9">
+                    <Archive />
+                  </div>
+                  <div>
+                    <aside className="col-md-4 col-lg-3 side-bar">
+                      <Sidebar />
+                    </aside>
+                  </div>
+                </div>
               } />
 
             <Route path="/about" render={() =>
-                <AboutMe />
+                <div>
+                  <div className="col-md-8 col-lg-9">
+                    <AboutMe />
+                  </div>
+                  <div>
+                    <aside className="col-md-4 col-lg-3 side-bar">
+                      <Sidebar />
+                    </aside>
+                  </div>
+                </div>
               } />
 
             <Route path="/life" render={() =>           
@@ -51,6 +87,7 @@ const App = () => (
               } />
 
             <Route path="/beauty" render={() =>           
+                
                 <ArticleList articles={ARTICLES.filter((article) => article.category === 'Beauty')} />
               } />
 
@@ -58,8 +95,8 @@ const App = () => (
                 <ArticleList articles={ARTICLES.filter((article) => article.category === 'Activism')} />
               } />
 
-            <Route path="/essays" render={() =>           
-                <ArticleList articles={ARTICLES.filter((article) => article.category === 'Essays')} />
+            <Route path="/opinion" render={() =>           
+                <ArticleList articles={ARTICLES.filter((article) => article.category === 'Opinion')} />
               } />
 
             <Route path="/articles/:id" render={({match}) => {
@@ -76,9 +113,7 @@ const App = () => (
 
             </main>
           
-          <aside className="col-md-4 col-lg-3 side-bar">
-            <Sidebar />
-          </aside>
+        
 
         </div>
 
