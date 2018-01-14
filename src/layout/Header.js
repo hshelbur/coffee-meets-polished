@@ -17,7 +17,7 @@ class Header extends Component {
             <li><NavLink to={{pathname: "/career"}}>CAREER</NavLink></li>
             <li><NavLink to={{pathname: "/activism"}}>ACTIVISM</NavLink></li>
             <li><NavLink to={{pathname: "/beauty"}}>BEAUTY</NavLink></li>
-            <li><NavLink to={{pathname: "/essays"}}>ESSAYS</NavLink></li>
+            <li><NavLink to={{pathname: "/opinion"}}>OPINION</NavLink></li>
             <li><NavLink to={{pathname: "/archive"}}>ARCHIVE</NavLink></li>
           </ul>
         </nav>

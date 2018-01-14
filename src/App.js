@@ -95,8 +95,8 @@ const App = () => (
                 <ArticleList articles={ARTICLES.filter((article) => article.category === 'Activism')} />
               } />
 
-            <Route path="/essays" render={() =>           
-                <ArticleList articles={ARTICLES.filter((article) => article.category === 'Essays')} />
+            <Route path="/opinion" render={() =>           
+                <ArticleList articles={ARTICLES.filter((article) => article.category === 'Opinion')} />
               } />
 
             <Route path="/articles/:id" render={({match}) => {
