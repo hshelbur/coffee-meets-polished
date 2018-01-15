@@ -920,7 +920,7 @@ footer .developed-by {
 
 a {color:#213960;}      /* unvisited link */
 a:visited {color:#213960;}  /* visited link */
-a:hover {color:#555;}  /* mouse over link */
+a:hover {color:#f5dbbc;}  /* mouse over link */
 a:active {color:#213960;}  /* selected link */
 
 /* Pages Styles */
