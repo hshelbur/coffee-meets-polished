@@ -11,15 +11,43 @@ const ARTICLES = [
 <p>I believe periods have become taboo because history set up and society today reinforces the notion that periods are unhealthy, gross, or something to be ashamed of because women "aren't at their best" while on periods. This is perpetuated by the <a href="http://mashable.com/2016/03/02/period-stigma/?linkId=21898002#AVSGx7scxuqQ" target="_blank" rel="noopener noreferrer">lack of adequate period education</a> for both women and men.</p>
 <p>There are real consequences to the silencing (intended or unintended) of this topic. In some countries, women are still <a href="https://www.nytimes.com/2018/01/10/world/asia/nepal-woman-menstruation.html" target="_blank" rel="noopener noreferrer">sent to huts</a> while on her period or <a href="http://www.thecitizen.in/index.php/en/NewsDetail/index/7/7836/Menstruation-Keeps-Girls-From-School-In-India-20-Drop-Out-Reaching-Puberty" target="_blank" rel="noopener noreferrer">stay home from school</a> because of lack of appropriate bathrooms and products to use. There's a luxury tax on tampons. <a href="https://news.vice.com/en_ca/article/434qzg/prisons-are-still-charging-female-inmates-for-having-their-periods" target="_blank" rel="noopener noreferrer">Incarcerated women are still struggling</a> for free feminine hygiene products.</p>
 <p>Not promoting openness and awareness with periods allows the silence to continue for those who suffer from the consequences. Here are some suggestions to normalize period talk:</p>
-<h4><b>women.</b></h4>
-<p>Understand the biology of periods and learn to love the amazing complexity of our bodies. Ask for pads and tampons aloud whether men are present or not. Support openness when women wish to discuss our periods with you. Don't be ashamed of your period underwear.</p> 
-<h4><b>men.</b></h4>
-<p>Support openness when women wish to discuss our periods with you. Empathize with women if they are feeling uncomfortable and/or in pain because they are on their periods. Don't assume a bad mood is because she is hormonal (due to periods). Do not react when women discuss periods or ask for pads/tampons in front of you. <a href="https://medium.com/clued-in/the-manly-guide-to-menstruation-833d97d811ea" target="_blank" rel="noopener noreferrer">Lean in, and learn</a>.</p>
-<h4><b>policymakers.</b></h4>
-<p><a href="https://news.vice.com/en_ca/article/434qzg/prisons-are-still-charging-female-inmates-for-having-their-periods" target="_blank" rel="noopener noreferrer">Ensure compliance</a> with the new law requiring free tampons and pads in federal prisons. Remove luxury tampon tax across the country.  Promote period education in schools.</p>	
-<h4><b>advertising and marketing.</b></h4>
-<p>Make commercials and ads for tampons and pads contain red liquid, not blue liquid, to more accurately represent a woman's period. Involve more women in development of advertising to ensure messages that relate most closely to the key demographic.</p>
+	<h4><b>women.</b></h4>
+<p className="tabbed">➢Understand the biology of periods and learn to love the amazing complexity of our bodies.</p>
+<p className="tabbed">➢Ask for pads and tampons aloud whether men are present or not.</p>
+<p className="tabbed">➢Support openness when women wish to discuss our periods with you.</p>
+<p className="tabbed">➢Don't be ashamed of your period underwear.</p> 
+	<h4><b>men.</b></h4>
+<p className="tabbed">➢Support openness when women wish to discuss our periods with you.</p>
+<p className="tabbed">➢Empathize with women if they are feeling uncomfortable and/or in pain because they are on their periods.</p>
+<p className="tabbed">➢Don't assume a bad mood is because she is hormonal (due to periods).</p>
+<p className="tabbed">➢Do not react when women discuss periods or ask for pads/tampons in front of you.</p>
+<p className="tabbed">➢<a href="https://medium.com/clued-in/the-manly-guide-to-menstruation-833d97d811ea" target="_blank" rel="noopener noreferrer">Lean in, and learn</a>.</p>
+	<h4><b>policymakers.</b></h4>
+<p className="tabbed">➢<a href="https://news.vice.com/en_ca/article/434qzg/prisons-are-still-charging-female-inmates-for-having-their-periods" target="_blank" rel="noopener noreferrer">Ensure compliance</a> with the new law requiring free tampons and pads in federal prisons.</p>
+<p className="tabbed">➢Remove luxury tampon tax across the country.</p>
+<p className="tabbed">➢Promote period education in schools.</p>	
+	<h4><b>advertising and marketing.</b></h4>
+<p className="tabbed">➢Make commercials and ads for tampons and pads contain red liquid, not blue liquid, to more accurately represent a woman's period.</p>
+<p className="tabbed">➢Involve more women in development of advertising to ensure messages that relate most closely to the key demographic.</p>
 <p>There are many ways to change a conversation, but it takes a collective voice, and one person at a time.</p>	
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
+	<h4>YOU MIGHT ALSO LIKE:</h4>
+	    <a className="three-up" href="/articles/my-family-planning-journey">
+	        <img src="/images/familyplanningpreview.png" alt="My Family Planning Journey" />
+	        <p className="centered">My Family Planning Journey: A Contraceptive Story</p>
+	    </a>
+	    <a className="three-up" href="/articles/10-places-to-start-to-improve-your-feminism-literacy">
+	        <img src="/images/feminismliteracy-preview.png" alt="10 Places to Start to Improve Your Feminism Literacy" />
+	        <p className="centered">10 Places to Start to Improve Your Feminism Literacy</p>
+	    </a>
+	    <a className="three-up" href="/articles/feminist-book-list-winter-edition">
+	        <img src="/images/feministbooklistwinter-preview.png" alt="Feminist Book List: The Winter Edition" />
+	        <p className="centered">Feminist Book List: The Winter Edition</p>
+	    </a>
 </div>
 },
 
@@ -29,23 +57,28 @@ const ARTICLES = [
 <p>The first time I saw the #HopefulFor tag was on Sheryl Sandberg's <a href="https://www.instagram.com/p/BdOMkSXBOTL/?hl=en&taken-by=sherylsandberg" target="_blank" rel="noopener noreferrer">Instagram</a> where she said:</p>
 <p>"Starting today, we're asking people to share what they're #HopefulFor next year. I'm #HopefulFor a world where we elevate all women's voices and help get more women – especially those from groups that have been traditionally marginalized – into positions of power. Our time is now."</p>
 <p>This inspired me to reflect what I'm hopeful for this year. I realized that there is a lot I'm hopeful for, and while this list may seem ambitious I hope to add to the archives of hopes and dreams for the future.</p>
-<h4><b>women.</b></h4>
+	<h4><b>women.</b></h4>
 <p>➢Women to continue momentum to stand our ground, be heard, and reckoned with</p>
 <p>➢Women not to be burdened with emotional labor that isn't ours</p>
 <p>➢Women to be valued and marketed towards for our minds and talents, not our looks</p>
-<h4><b>men.</b></h4>
+	<h4><b>men.</b></h4>
 <p>➢More men to amplify women's voices</p>
 <p>➢Men to have the space to express their emotions in a healthy, productive way</p>
 <p>➢Masculinity to be culturally evolved to incorporate equality with strength</p>
-<h4><b>introverts.</b></h4>
+	<h4><b>introverts.</b></h4>
 <p>➢Introverts to be asked for our opinion if we don't say something</p>
 <p>➢Quiet and shy not to be thought of as the same</p>
 <p>➢Solitude to be seen as a necessity, not a commodity</p>
-<h4><b>policy.</b></h4>
+	<h4><b>policy.</b></h4>
 <p>➢Paid family leave for the entire gender spectrum</p>
 <p>➢Reproductive freedoms for women</p>
 <p>➢Equal pay for everyone with the same job title and standardized merit-based raises</p>
 <p> These may seem more like part of a 5-year strategic plan, and maybe it will be someday. For now, I'll spend this year focusing on changing conversations, taking action, and organizing others to make these hopes a reality.</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>
 },
 
@@ -53,30 +86,35 @@ const ARTICLES = [
 <div>
 <img src="/images/favoritepodcastsof2017.png" alt="Favorite Podcasts of 2017" />
 <p>I know I'm really behind on the Podcast bandwagon, but now I can't get enough. I'm able to listen to episodes when I'm walking throughout the City and on the train and it lets me take my eyes off my phone while in transit. Not only that, but it's a new avenue of content where I can improve my literacy on current events and cultural topics. These were my favorite ones of the year, or at least last 5 months since moving to New York.</p>
-<h4><b>Lessons from a year full of toxic masculinity</b></h4>
+	<h4><b>Lessons from a year full of toxic masculinity</b></h4>
 <p>An interview with <a href="https://www.youtube.com/watch?v=umKKrbmdHFM" target="_blank" rel="noopener noreferrer">Wade Davis</a>, the NFL's first Diversity and Inclusion consultant and, well, a professional feminist. (Ok, maybe that one's not on his business card). Davis uses his public platform to talk to men and boys about masculinity as a societal construct -- one that is a performance as harmful to men as it is to women. We'll also hear from Vox.com reporter <a href="https://www.vox.com/identities/2017/11/6/16571570/female-candidates-trump-clinton-2016-election" target="_blank" rel="noopener noreferrer">Anna North</a>, who attended the Women's Convention in Detroit and talked to women interested in running for office in 2018 about how Donald Trump's win, and Hillary Clinton's loss, have motivated their candidacies.</p>
 <p className="centered"><iframe width="100%" height="205" src="https://art19.com/shows/divided-states-of-women/episodes/e65d8bd1-55a2-460d-8241-decb6540ebf6/embed?theme=light-gray-blue" scrolling="no" frameborder="0" allowfullscreen title="Lessons"></iframe></p>
-<h4><b>Does Marriage Make Women Happy?</b></h4>
+	<h4><b>Does Marriage Make Women Happy?</b></h4>
 <p>What are the benefits of marriage for women? Liz Plank talks to feminist writer Jill Fillipovic about how the institution has changed over the last decade, and what that means for women’s happiness and economic stability in 2017. Hitha Herzog is hiding in a closet at her sister’s wedding, but she calls in to talk about the pragmatism of her marriage being governed by “1950s” values.</p>
 <p className="centered"><iframe width="100%" height="205" src="https://art19.com/shows/divided-states-of-women/episodes/02aaeb07-ad58-41ca-9a0e-850429fb40f3/embed?theme=light-gray-blue" scrolling="no" frameborder="0" allowfullscreen title="Marriage"></iframe></p>
-<h4><b>The Edge of Gender</b></h4>
+	<h4><b>The Edge of Gender</b></h4>
 <p>Gender is one of the first things we notice about the people around us. But where do our ideas about gender come from? Can gender differences be explained by genes and chromosomes, or are they the result of upbringing, culture and the environment? This week, we delve into the debate over nature vs. nurture, and meet the first person in the United States to officially reject the labels of both male and female, and be recognized as "non-binary."</p>
 <p className="centered"><iframe width="100%" height="205" src="https://www.npr.org/player/embed/556115299/556763934" scrolling="no" frameborder="0" allowfullscreen title="Gender"></iframe></p>
-<h4><b>Misbehaving with Richard Thaler</b></h4>
+	<h4><b>Misbehaving with Richard Thaler</b></h4>
 <p>We don't always do what we're supposed to do. We don't save enough for retirement. We order dessert — even when we're supposed to be dieting. In other words, we misbehave. That's the title of Richard Thaler's most recent book: Misbehaving: The Making of Behavioral Economics. If you've read Thaler's previous book, Nudge, you know he's an economist who studies why people don't really act the way traditional economists say they will. Thaler recently won a Nobel Prize for his contributions to the field of behavioral economics — so we thought we'd celebrate by giving you this encore episode. It's still one of our favorites.</p>
 <p className="centered"><iframe width="100%" height="205" src="https://www.npr.org/player/embed/559511691/559626842" scrolling="no" frameborder="0" allowfullscreen title="Misbehaving"></iframe></p>
-<h4><b>When Women Say I'm Sorry</b></h4> 
+	<h4><b>When Women Say I'm Sorry</b></h4> 
 <p>Apologizing is an important step towards reconciliation, but sometimes we say "sorry" too much. Why do women typically apologize more than men? Can you still be a feminist and use these undermining words? How can you be more aware of them in your everyday speech? We also investigate the issues of assuming girls are "more difficult," the dilemma of policing how women speak, and a letter from a listener who wants to stop over-apologizing at work. Language is one of the essential ways we express ourselves, and ultimately your vocabulary is your choice. How will your use of words make you feel you proud and confident about who you are?</p>
 <p className="centered"><iframe width="100%" height="166" scrolling="no" frameborder="no" title="Sorry" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/318210449&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe></p>
-<h4><b>Women and the Trades</b></h4>
+	<h4><b>Women and the Trades</b></h4>
 <p>Women are underrepresented in trades like autoworking, plumbing, and welding. E&B unpack what can be done to increase representation of women in these critical fields.</p>
 <p className="centered"><iframe width="100%" height="300" src="https://www.howstuffworks.com/embed/928441" scrolling="no" frameborder="0" allowfullscreen title="Trade"></iframe></p>
-<h4><b>Pregnant in Prison</b></h4>
+	<h4><b>Pregnant in Prison</b></h4>
 <p>How should we be treating imprisoned pregnant women? Perhaps we could start by not shackling them to the hospital bed during labor.</p>
 <p className="centered"><iframe width="100%" height="300" src="https://www.howstuffworks.com/embed/928588" scrolling="no" frameborder="0" allowfullscreen title="Pregnant in Prison"></iframe></p>
-<h4><b>Problematic Faves: Judge Judy</b></h4>
+	<h4><b>Problematic Faves: Judge Judy</b></h4>
 <p>Are you a fan of someone...even though you KNOW their record on feminist issues isn't exactly stellar? Today we're introducing a series profiling women we love, imperfections and all. First up? The queen of courtroom TV: Judge Judy.</p>
 <p className="centered"><iframe width="100%" height="300" src="https://www.howstuffworks.com/embed/928557" scrolling="no" frameborder="0" allowfullscreen title="Judge Judy"></iframe></p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>
 },
 
@@ -108,6 +146,11 @@ const ARTICLES = [
 18. Create a monthly challenge <br></br>
 19. Do a giveaway and/or collaboration </p>
 <p>I do have this as a spread in my bullet journal, but it's not pretty like most others' out there so I'll stick with the digital list. Cheers to 2018 goals, everyone!</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>
 },
 
@@ -131,6 +174,11 @@ const ARTICLES = [
 <p>4. <b>New Baby.</b> My little sister gave birth to a beautiful baby boy in 2017. His name is Zeke (short for Ezekiel) and I got to spend a whole 12 days with him. I created some deep bonds that he won't remember since he's less than a month old but I'll keep with me forever. I can't wait for him to visit (and his parents too, of course).</p>
 <p>5. <b>Empowerment.</b> If 2017 was filled with anything it was filled with my highest levels of empowerment. Like a phoenix from the ashes I feel like I came out of a tough training period with resolve to succeed in what I wanted and the environment of New York City only amplifies it.</p>
 <p>I can't wait to see what 2018 has in store. Even though 2017 had lows, it had many more highs that absolutely outweighed them. I will continue seeking the positive outcomes and lessons in any situation. While I'm imperfect and problematic, I now believe those traits to be great things because they are part of who I am.</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>
 },
 
@@ -155,6 +203,11 @@ const ARTICLES = [
 <p>We got a membership to American Museum of Natural History because there was a $20 discount during the holidays. Usually you pay what you want to enter but the membership helps to support the museum and gives you unlimited entry to temporary exhibits. This month we went into 
 <a href="https://www.amnh.org/global-business-development/traveling-exhibitions/our-senses-an-immersive-experience" target="_blank" rel="noopener noreferrer"> Our Senses</a> which was awesome. It was an immersive experience through all the senses of different animals. Would definitely recommend.</p>
 <p>What were some things you loved this December? I can’t wait to see what’s in store for 2018.</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>
 },
 
@@ -175,12 +228,17 @@ const ARTICLES = [
 <p className="tabbed">➢ Every time you look at a news feed and feel <a href= "https://www.urbandictionary.com/define.php?term=fomo" target="_blank" rel="noopener noreferrer">FOMO</a>, think of one thing you are grateful for in your life in that moment</p>
 <p className="tabbed">➢ Become more vocal with my feelings and provide timely, productive feedback to others</p></b>
 <p>I hope these give you some ideas for the upcoming year. What are your mental health resolutions for 2018?</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>
 },
 
-{id: "feminist-book-list-winter-edition", title: <a href="/articles/feminist-book-list-winter-edition">Feminist Book List: Winter Edition</a>, date: "December 26, 2017", category: "Activism", photo: "/images/feministbookswinter.jpg",  description: <div>Reading has become my re-found love since moving to New York City. Now that I have the strength to place it on my priority list for mindfulness and wellbeing, I'm excited for a whole new world of opportunities to replenish my cultural bucket. I’ve also been going to different feminist events with insightful panelists and it has opened my eyes to the world of feminist literature. If you’re looking for a list to start with to embrace your feminist empowerment, keep on reading. <a href="/articles/feminist-book-list-winter-edition">[Read More]</a></div>, post:
+{id: "feminist-book-list-winter-edition", title: <a href="/articles/feminist-book-list-winter-edition">Feminist Book List: The Winter Edition</a>, date: "December 26, 2017", category: "Activism", photo: "/images/feministbooklistwinter-preview.png",  description: <div>Reading has become my re-found love since moving to New York City. Now that I have the strength to place it on my priority list for mindfulness and wellbeing, I'm excited for a whole new world of opportunities to replenish my cultural bucket. I’ve also been going to different feminist events with insightful panelists and it has opened my eyes to the world of feminist literature. If you’re looking for a list to start with to embrace your feminist empowerment, keep on reading. <a href="/articles/feminist-book-list-winter-edition">[Read More]</a></div>, post:
 <div>
-<img src="/images/feministbookswinter.jpg" alt="Feminist Books Winter" />
+<img src="/images/feministbooklistwinter.jpg" alt="Feminist Books Winter" />
 <p>Winter is here, which means unless I don't have to go outside it's hot tea and a book for me. What I love about feminist books is that it helps wake me up to issues I didn't realize existed because of my particular intersections and experiences. Also, it helps to put words to experiences I have feelings about but don't know how to express yet. And finally, sometimes I just want to know that I'm not alone.</p>
 <p>If you're one of my male readers, please don't think that because this is a "feminist list" that it's not for you. In fact, you should read some of these too. Every time I make progress in my books I discuss it with my boyfriend. It helps me to be able to share what I learn in a productive way, teaches him so he can join the movement (whether he realizes he is or not), and keeps me grounded if I start getting too deep in the trenches and think all men suck.</p>
 <p>I'm excited to start these next year and book club with you all. </p>
@@ -205,6 +263,11 @@ const ARTICLES = [
 <p>New York Times Bestseller, #1 Boston Globe Bestseller, USA Today Bestseller</p>
 <p>Roxane Gay's Favorite Book of 2017, Washington Post</p>
 <p>"In this gorgeous, page-turning saga, four generations of a poor Korean immigrant family fight to control their destiny in 20th-century Japan, exiled from a home they never knew."</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>
 },
 
@@ -226,6 +289,11 @@ const ARTICLES = [
 <p><b>New York Public Library Tree.</b> Checking this one out was inspired by good ol’ Instagram. It looked beautiful in pictures and I love the Mid-Manhattan branch. Would definitely check this out but wouldn’t go out of my way to do it. If you’re around Bryant Park definitely take the extra walk over.</p>
 <p>The trees on my list I didn’t get to see include the Metropolitan Museum and Park Avenue. That's what next year is for. By then, there will be more discovered ceremonies.</p>
 <p>Merry Christmas!</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>
 },
 
@@ -245,6 +313,11 @@ const ARTICLES = [
 <p>9. <b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/0307886271/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307886271&linkCode=as2&tag=offeeeetsolis-20&linkId=d6e3b0f18909fddbe30c640c918ff22a">Is Everyone Hanging Out Without Me? (And Other Concerns)</a> by Mindy Kaling</b> (via audiobook). Once I finished Amy Poehler’s audiobook, I knew I had to listen to Mindy Kaling’s next. It was a little more relatable because of the parents-of-immigrants factor we both share. Plus, who doesn’t love The Office?</p>
 <p>10. <b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/1501117203/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1501117203&linkCode=as2&tag=offeeeetsolis-20&linkId=2322fc3a69a3787f2662dc7718bd05a7">Scrappy Little Nobody</a> by Anna Kendrick</b> (via audiobook). This was my last audiobook of the year, and my favorite I think of the three. I related to Anna Kendrick the most and found her wit and humor the most realistic to my age group. I finished this one just in time to watch Pitch Perfect 3.</p>
 <p>I recommend all of the books I read this year. They’ve each served a different purpose in my journey to learn more about myself and the world around me. Now that I’ve learned I can indeed finish a book again, I’m working on my [much longer] list of books for 2018.</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>
 },
 
@@ -284,6 +357,24 @@ const ARTICLES = [
 <h4><b>the bottom line.</b></h4>
 <p>A woman’s choice and access to family planning means the choice of family and career. Individual institutions and states are progressing forward with resources like paid family leave, paternity leave, and more. Massachusetts recently became the first state to <a href= "https://www.npr.org/2017/11/20/565430858/massachusetts-set-to-approve-law-protecting-access-to-birth-control" target="_blank" rel="noopener noreferrer">guarantee free access to birth control</a> for all. But until ALL women have the choices they need, the decision between family and career (and as a result, financial independence) will continue to be a gap in this country.</p>
 <p>It’s not easy to make these choices with or without government- and culture-imposed barriers. Why make it harder for women to make independent choices? When will the woman’s body cease to be a political and cultural punching bag? Until I no longer need to ask these questions, I will continue to try and shift the conversation and fight for the women who continue to lose out.</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
+		<h4>YOU MIGHT ALSO LIKE:</h4>
+	    <a className="three-up" href="/articles/Topics to Normalize in 2018:PERIODS">
+	        <img src="/images/normalizedconvoperiods.png" alt="Topics to Normalize in 2018:PERIODS" />
+	        <p className="centered">Topics to Normalize in 2018:PERIODS</p>
+	    </a>
+	    <a className="three-up" href="/articles/10-places-to-start-to-improve-your-feminism-literacy">
+	        <img src="/images/feminismliteracy-preview.png" alt="10 Places to Start to Improve Your Feminism Literacy" />
+	        <p className="centered">10 Places to Start to Improve Your Feminism Literacy</p>
+	    </a>
+	    <a className="three-up" href="/articles/feminist-book-list-winter-edition">
+	        <img src="/images/feministbooklistwinter-preview.png" alt="Feminist Book List: The Winter Edition" />
+	        <p className="centered">Feminist Book List: The Winter Edition</p>
+	    </a>
 </div>
 },
 
@@ -318,6 +409,11 @@ const ARTICLES = [
 ➢ Morgan Jerkins, whose essay collection <b>This Will be My Undoing</b> comes out in January 2018<br></br>
 ➢ Sanhita Mukhopadhyay (Moderator), co-editor of <b>Nasty Women: Feminism, Resistance and Revolution in Trump’s America</b></p>
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/6_uDLeRN8-s" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>
 },
 
@@ -334,6 +430,11 @@ const ARTICLES = [
 <p className="tabbed">➢Obviously unless you live here you may not be able to bring a step ladder. One of my co-workers took a train early (~7AM) to 72nd Street Station and got a spot around West 70th St. and Central Park West with good viewing along the street.</p>
 <p className="tabbed">➢If you’re mainly interested in the balloons, check out the Upper West Side for viewing. If you want to see the performances, they likely would start closer to Columbus Circle where the parade turns. I was perfectly happy watching the performances from the comfort of my own home.</p>
 <p>I hope you all had a great Thanksgiving! There’s a lot to be grateful for. Next year, maybe better post punctuality will be one for me.</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>
 },
 
@@ -383,6 +484,11 @@ const ARTICLES = [
 ➢Harm reduction for people who inject and use drugs<br></br>
 ➢Elimination of mother-to-child transmission of HIV</p>
 <p>Together we can raise awareness and fight stigma about HIV. People diagnosed with HIV/AIDS can live the lives they desire with the proper treatment and self-care. They’re living longer and healthier thanks to advancement in treatments, and their HIV is being treated the same as any other chronic disease.</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>
 },
 
@@ -405,6 +511,11 @@ const ARTICLES = [
 <img src="/images/stepladder.jpg" alt="Step Ladder" />
 <p>The Macy’s Thanksgiving Day Parade is on my New York City Winter Holiday Bucket List, and I was able to do it! Because it was along my home street, I was able to follow through comfortably with my plan to bring a step ladder and see above the crowds. I still got there about an hour before it started, but got a spot against the side of a building so no one behind me would be overshadowed. Highly recommended prop for parade viewing, if possible.</p>
 <p>We’ve officially reached the final month of the year, but before we prepare for 2018 I’m still happy with how great November was. And I’m determined to end this year on a great note.</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>
 },
 
@@ -425,6 +536,11 @@ const ARTICLES = [
 <p>9. <b>Write notes.</b> After each program, find a table to briefly write notes about what you discussed and learned. You could write it on your own notebook, but also on the back of the business cards you received. My preference is the latter because it helps with follow up emails afterwards.</p>
 <p>10. <b>Send follow up emails.</b> This is helpful for next steps. If you decide to pursue a program with an application after the showcase, send a follow up email to the people you spoke with. You can keep it short and sweet, but thank them for their time and that you look forward to the application and interview process. It helps for the program to know you’re interested and have name recognition when your application arrives.</p>
 <p>Those who are recruiting for spaces with their programs want you as much as you want them. Be yourself, take care of yourself, and trust the process.</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>
 },
 
@@ -439,6 +555,11 @@ const ARTICLES = [
 <p>5. <b><a href="http://bryantpark.org/amenities/bank-of-america-winter-village-at-bryant-park" target="_blank" rel="noopener noreferrer">Winter Village at Bryant Park</a></b>. ​Bank of America sponsors the Winter Village at Bryant Park is Midtown Manhattan. There’s the Holiday Shops, food, and New York City’s only free admission ice skating rink. Since it’s free to enter but you pay for skate rentals, my plan is to invest in my own pair. I’ve only gone ice skating twice in my life, so I’m excited to do it more often and get a nice workout in (added bonus).</p>
 <p>6. <b><a href="https://www.timeout.com/newyork/things-to-do/dyker-heights-christmas-lights" target="_blank" rel="noopener noreferrer">Dyker Heights Christmas Lights</a></b>. One of my work colleagues told me about this place in Brooklyn that I had to see for the most insane residential light show ever. Looking at some pictures, I’d have to agree. I’m excited to fit this one into the schedule!</p>
 <p>While there’s no shortage of events you can attend that are paid entry, like seeing The Nutcracker® at Lincoln Square or the Radio City Rockettes, there are plenty of things to do around the city that are free. I’m guessing these events will get get pretty crowded and will have to get there early for good spots, but I’m happy to invest time over money for these exciting experiences.</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>
 },
 
@@ -458,6 +579,11 @@ const ARTICLES = [
 <p>It's taken time to find the words to articulate what I've shared so far. As I searched for the words to explain, I also came to mental tools for shifting my approach to the Asian part of my identity. I don’t need to actively push away the stereotypes that apply to me in hopes to deter my other traits from being overlooked. If they are overlooked, that is not my problem - it’s the overlookers’. The bottom line is, I’m Asian. I’m Filipina. I’m American. My identity includes traits from the household I grew up in and the world around me. And that’s okay. In fact, there’s no need to qualify it as okay or not okay - it just IS. I need to stop apologizing (implicitly or explicitly) for my tendencies just because it’s the minority trait. I’m proud of how I was raised and the culture I grew up in, and I’ve never been ashamed of it. Nor do I ever plan to be. As the Huffington Post article proclaims, there is an “Asian-American” blend with its own individualities that does not require betrayal or denial of one part or the other.</p>
 <p>When I have kids, I want them to address their elders the way I was raised to. I want them to grow up with the Filipino dishes I grew up with (granted, I should learn how to cook them first). But I also want them to embrace the wonders of being an American and all of its opportunity.</p>
 <p>Until that happens, it’s time to live by example.</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>
 },
 
@@ -474,6 +600,11 @@ const ARTICLES = [
 <p>5. <b>Adaptability</b>. Millenials have been raised in an environment where the rates of change are exponentially increasing. As a result, we can respond to change and while uncomfortable, we don’t resist it. We embrace it and see it as a challenge to find the solution. We have entrepreneurial spirits that allow us to adapt to situations outside of our control, and create new spaces that we can.</p>
 <p>If you believe in the <a href="https://en.wikipedia.org/wiki/Strauss%E2%80%93Howe_generational_theory" target="_blank" rel="noopener noreferrer">Strauss-Howe generational theory</a>, Millenials are part of the “<a href="http://www.lifecourse.com/about/method/the-four-turnings.html" target="_blank" rel="noopener noreferrer">fourth turn</a>” and will experience world crisis. With that, we will also be the ones to solve the problems of the world with increasing civic engagement and a re-evaluation of behaviors so the next generation can flourish. I hear in negative tones how Millenials want to travel the world, will leave our jobs if we're not happy with them, and are constantly on our phones. I challenge those statements not for accuracy in content but in tone, and encourage others to think from a different perspective - a more positive one. The world is at our fingertips in ways it never used to be, and with that comes perspective and open-mindedness for others different from ourselves. With the challenges placed upon us by generations before us and desire for progress, Millenials will rise up to lead the charge back in the right direction for generations after us.</p>
 <p>I'm proud to be a Millenial and am excited to see what we do over the next few decades.</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>
 },
 
@@ -496,6 +627,11 @@ const ARTICLES = [
 <img src="/images/hanisidewalk.jpg" alt="Hani Sidewalk Art" />
 <p>One of my favorite things to do in the City is take a random walk with my boyfriend without destination. One recent walk took us through Central Park and to the Upper East Side. Along the way, we saw this beautiful artwork on the sidewalk. It turns out this artist has done a lot of art on sidewalks throughout the years and has his own <a href="http://www.hanisidewalkart.com/index2.html" target="_blank" rel="noopener noreferrer">website</a>.</p>
 <p>Adventures await all of us, if we have the space within ourselves to lean into them. What microadventures have you had lately?</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>
 },
 
@@ -518,6 +654,11 @@ const ARTICLES = [
 <p>A. <b>Be adaptable.</b> My boss has thanked me for riding the wave of things and being flexible. I think its important to be comfortable with the unknown and go with the flow. It will demonstrate to those around you that you are professional and good to work with.</p>
 <p>B. <b>Be strategically assertive.</b> Don’t always wait for what you need to fall into your lap. Take advantage of opportunities that you think might benefit from being proactive. There were some resources I didn’t have that weren’t under control of my boss. But I knew they were needed, so I placed myself in a position to assert myself and be able to secure the resources on my own in a way that also built relationships with other people (ambiguous, but I hope you get the point). After a couple months, since I laid the groundwork from the tips above, I was able to know what I needed and how to get it.</p>
 <p>Overall, I feel these guiding principles have been essential as I navigated my first 90 days. Even though 90 days have passed, I still will continue to use these to guide me. I know that I still have a lot more learning to go, but now that I’ve gotten to know my institution well I can focus on my professional development plan, goals for my position, and what my next steps will be.</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>
 },
 
@@ -532,6 +673,11 @@ const ARTICLES = [
 <p>5. <b><a href="https://www.sephora.com/product/rise-and-glow-P414671" target="_blank" rel="noopener noreferrer">Drunk Elephant Rise + Glow™ Duo (0.27 oz each, $23)</a>.</b> This includes a small bottle of B-Hydra™ Intensive Hydration Gel and C-Firma™ Day Serum. I really like that Drunk Elephant™ has these small sizes to try. In my opinion it shows that they believe in the quality of their products to allow consumers to try them in a smaller size before committing to the full size. I like the hydration gel because it absorbs quickly, but it’s not something I plan to re-purchase. The serum in full size, however, is on my wishlist! There is also the <a href="https://www.sephora.com/product/nightbright-P414672" target="_blank" rel="noopener noreferrer">NightBright™ Duo</a> that has the Virgin Marula Luxury Facial Oil and T.L.C. Framboo™ Glycolic Night Serum that I may try in the future, but not now. I’ll work first in incorporating the vitamin C and then move to exfoliating serums.</p>
 <p>6. <b><a href="https://www.sephora.com/product/metal-palette-P391918" target="_blank" rel="noopener noreferrer">Make Up For Ever Metal Palettes (multiple sizes)</a>.</b> These are currently out-of-stock in all sizes. However, if you’re interested you can have the site notify you when it’s back in stock to jump on. I have the 8.5”H x 4.3W x 0.95” D size and love it. It is slim and large and feels very sturdy for travel. Hopefully it will be back this sale, but if not there’s always next sale in 2018!</p>
 <p>These are some of my favorite products that you can get at Sephora through the VIB Sale! If  you’re interested in my Skincare Wishlist that I plan to purchase, you can find it <a href="https://coffeemeetspolished.com/articles/my-sephora-vib-sale-skincare-wishlist" target="_blank" rel="noopener noreferrer">here</a>.</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>
 },
 
@@ -553,6 +699,11 @@ INSIDER: 11/10-11/15 (USE CODE “INSIDER15”)</p>
 <p>7. <b><a href="https://www.sephora.com/product/watermelon-glow-sleeping-mask-P420160" target="_blank" rel="noopener noreferrer">Glow Recipe Watermelon Glow Sleeping Mask (2.7 oz, $45)</a></b>. I’m slowly becoming more and more of a fan of <a href="https://www.glowrecipe.com/" target="_blank" rel="noopener noreferrer">Glow Recipe</a> fan ever since getting some deluxe samples at their Glow Studio in New York City. I smelled this at their studio and it smells so good. But I’m interested in seeing what it’s like to use this while sleeping. It may be too messy so I might use it as a general face mask.</p>
 <p>8. <b><a href="https://www.sephora.com/product/facial-cotton-P173726" target="_blank" rel="noopener noreferrer">Shiseido Facial Cotton (165 sheets, $10)</a></b>. I got the smaller package at last year’s sale and have decided to replenish my stocks. I cut them in half to maximize their use. It’s such a soft cotton pad and absorbs products in a way that doesn’t waste product. This is definitely only for skincare; I wouldn’t use it for nail polish removal.</p>
 <p>All of these are in my cart right now, so I’m excited to replenish some favorites and try new ones. What’s on your VIB wishlist this year?</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>
 },
 
@@ -575,6 +726,11 @@ INSIDER: 11/10-11/15 (USE CODE “INSIDER15”)</p>
 <img src="/images/buffalowings.jpg" alt="Buffalo Wings" />
 <p>I love buffalo wings. I have specific needs in a good wing. It can’t be too hot, but hot enough. It needs to have a vinegar base but not straight up vinegar. It needs to be wet with sauce but still crispy when I bite into it. It basically needs to be perfect. I’ve tried a few different types of wings in my Upper West Side area, and found the ones at Amsterdam Ale House to be the current favorite. Just in the past month I’ve had them 3 times. That’s some dedication.</p>
 <p>I’m excited to see what November 2017 has in store. It’s the start of the countdown to the countdown of 25 days of Christmas (thank you Freeform), and I can’t wait!</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>
 },
 
@@ -613,6 +769,11 @@ INSIDER: 11/10-11/15 (USE CODE “INSIDER15”)</p>
 <p>27. Pay it forward whenever you can. You will always be better for it.</p>
 <p>28. Lean in to every opportunity to learn, take a risk, and be uncomfortable.</p>
 <p>At the end of the day, there’s a lot we can learn from those more seasoned that us. If you could tell you younger self anything, what would it be?</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>
 },
 
@@ -631,6 +792,11 @@ INSIDER: 11/10-11/15 (USE CODE “INSIDER15”)</p>
 <p>6. Don’t let conflict fester. This applies extra if you’re roommates. <b>Pro tip:</b> agree on the temperature settings before you move in together.</p>
 <p>7. Call her out if she’s not being her best self, but don’t judge. Instead, empower her and guide her to where she wants to be. <b>Pro tip:</b> don’t assume where you want to be is where she wants to be.</p>
 <p>Real talk, a lot of these are tips for being a good person and friend overall. The bottom line is, being friends with women may seem more complicated because women are complicated. But when you find friends that respect you and help you navigate the crazy thing called life, it’s an amazing thing. And not just because they’re women.</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>
 },
 
@@ -677,6 +843,11 @@ INSIDER: 11/10-11/15 (USE CODE “INSIDER15”)</p>
 <p>Charity Navigator is another system that uses star ratings to evaluate how efficiently a charity uses your donations. The highest rating is four stars. Four star-rated organizations from this system include <a href="https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=8776" target="_blank" rel="noopener noreferrer">National Breast Cancer Foundation</a>, <a href="https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=11077" target="_blank" rel="noopener noreferrer">Dr. Susan Love Research Foundation</a>, and <a href="https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=10168" target="_blank" rel="noopener noreferrer">Lynn Sage Cancer Research Foundation</a>.</p>
 <p>Personally, I chose to donate by also supporting a YouTube Beauty Influencer whose grandmother died of breast cancer. KathleenLights launched her own nail polish line, <a href="https://www.klpolish.com/" target="_blank" rel="noopener noreferrer">KL Polish</a> last year and this month she released a limited edition nail polish, <a href="https://www.klpolish.com/products/mami-martha" target="_blank" rel="noopener noreferrer">Mami Martha</a> where <a href="https://www.youtube.com/watch?v=hT27F1zfItM" target="_blank" rel="noopener noreferrer">100% of profits</a> go to the Breast Cancer Research Foundation. I’ve been wearing this color to show my support for research of treatments to fight cancer.</p>
 <img src="/images/mamimartha.jpg" alt="KL Polish Mami Martha" />
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>
 },
 
@@ -696,6 +867,11 @@ INSIDER: 11/10-11/15 (USE CODE “INSIDER15”)</p>
 3. <b>Ethnicity.</b> Based on a group that is generally based on similar traits such as a common language, common heritage, and cultural similarities within the group<br></br>
 4. <b>Culture.</b> Set of values, conventions, or social practices associated with a particular racial, religious, or social group<br></br></p>
 <p>It’s a wonderful thing when the diversity of a population is embraced. We learn from each other and recognize strengths in others where we have weakness and capitalize on teamwork for the greater good. When you ask about someone’s ethnicity, follow up with questions about their culture and take the opportunity to broaden your horizons and understand their perspectives. Start a conversation, don’t just say, “I knew it!” and move along. We can all benefit from learning more about each other.</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>
 },
 
@@ -718,6 +894,11 @@ INSIDER: 11/10-11/15 (USE CODE “INSIDER15”)</p>
 <img src="/images/narscombo.jpeg" alt="Nars Combo" />
 <p><b><a href="https://www.sephora.com/product/cream-lip-stain-liquid-lipstick-P281411?skuId=1296060" target="_blank" rel="noopener noreferrer">Nars Velvet Lip Glide in Le Palace</a>.</b> If you love the Audacious Lipstick line (who doesn’t, really?) then you’ll love their liquid lipstick line. It’s the Audacious Lipstick liquified and poured into a bottle. This shade is a beautiful, comfortable, and creamy formulation that leaves a shiny finish and isn’t drying. Side note, this transfers.</p>
 <p>I hope these give you some ideas of red lips that you can rock for medium skin. Don’t be afraid to go bold and wear these colors any time of year. I pair these reds with a basic black eyeliner and loaded up mascara and walk out the door. Be confident in red - trust me, you’ll look great.</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>
 },
 
@@ -732,6 +913,11 @@ INSIDER: 11/10-11/15 (USE CODE “INSIDER15”)</p>
 <p>4. <b><a href="http://www.hbo.com/the-deuce/about.html" target="_blank" rel="noopener noreferrer">The Deuce</a>.</b> My boyfriend and I have been watching one of the new HBO shows, The Deuce, where <a href="http://nytlive.nytimes.com/womenintheworld/2017/10/02/maggie-gyllenhaal-changes-her-mind-on-sex-work-after-portraying-a-prostitute-in-the-deuce/" target="_blank" rel="noopener noreferrer">Maggie Gyllenhaal stars as “Candy”, a prostitute and single mother</a>. The show chronicles the rise of pornography and is set in 1970’s New York City - mostly Times Square. Needless to say, 42nd Street was different then than it is now. I find myself challenging a lot of what I thought about sex work after each episode. My instincts are to judge negatively, feel sorry for, and want to save these women. However, what I’m learning is that a woman’s sexuality is incredibly complex. My brain goes in circles when I consider how things like prostitution and pornography can entrap women so strongly yet also be liberating and empowering. Highly recommend you check it out; it’s not for the faint of heart, but speaks such an important message.</p>
 <p>5. <b><a href="http://girlsautoclinic.com/shecanic/" target="_blank" rel="noopener noreferrer">#sheCANics</a>.</b> I just started subscribing to the podcast called Stuff Mom Never Told You and it’s AWESOME. All of them leave me so much more informed about important topics but also get my mind flowing to challenge how things are versus how they could be in the world. One of my favorite ones so far was about <a href="http://www.stuffmomnevertoldyou.com/podcasts/women-trades.htm" target="_blank" rel="noopener noreferrer">Women and the Trades</a> starring Patrice Banks, founder of Girls Auto Clinic. It’s an auto shop that provides a safe space for women to get their car maintenance and repair without getting bamboozled by male mechanics that feel women don’t know any better. Unfortunately, I have definitely felt the need to bring a male friend with me to get my car fixed so I don’t get taken advantage of. I always just did it and never considered ways to fix that. But Patrice has created a movement that empowers women to learn more about auto repair, which almost makes me wish I still had a car so I could go to the shop. You can get your nails and hair done while you wait. So genius.</p>
 <p>That’s a wrap for this roundup topics that stuck with me this week and my thoughts on them. Every day I feel more and more empowered to improve my literacy on topics so I can speak mindfully and intelligently to those with opposing views. I never want to say (as I have in the past), “I’m not well-versed enough to have an opinion yet” because then I lose my chance to speak my peace and attempt to provide well-rounded perspective to others. I hope these provide you with some resources to help you form your own well-informed opinions and feel empowered to seek change.</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>
 },
 
@@ -754,6 +940,11 @@ INSIDER: 11/10-11/15 (USE CODE “INSIDER15”)</p>
 <img src="/images/coffeewallshelf.jpg" alt="Coffee Wall Shelf" />
 <p>Since moving to New York City, I’ve been collecting shelves that I see tossed for trash along my walk home from work. I finally got to the point where I felt comfortable with what I collected and it was time to mount. My boyfriend was a trooper trying to get nails through some tough early 1900’s building walls and I’m in love. Here’s just one of the wall shelves that helped make some working counter space for making coffee and smoothies.</p>
 <p>What have been some of your microadventures lately?</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>
 },
 
@@ -771,6 +962,11 @@ INSIDER: 11/10-11/15 (USE CODE “INSIDER15”)</p>
 <p>4. <b>Self-doubt.</b> This one is hard. It’s uncomfortable. It makes me want to hide under my blankets and never come out. It multiplies <a href="https://en.wikipedia.org/wiki/Impostor_syndrome" target="_blank" rel="noopener noreferrer">imposter syndrome</a>. Here’s what to do: lean into this feeling. It forces you to reflect what it is you’re doubting, and why. This is when I really need to rely on my support system. During one of my worst episodes of self-doubt, one of my residency mentors hugged me for a full minute in her office while I cried on her shoulder. After I let that out, she gave me an assignment. She had me write down 10 things that I liked about myself and was proud of. I could only think of 8, and she filled in the rest for me plus more. It wasn’t an instant fix, but it was the first step to pick myself up brick-by-brick and come out of it with more self-love and empowerment.</p>
 <p>5. <b>Failure.</b> In residency (and in life), you will have failures. You will not reach one of your goals you set. You will get bad feedback from preceptors, some of which is non-actionable. You will make mistakes. When this happens, don’t hide from it. Don’t sweep it under the rug and pretend it didn’t happen. Don’t blame others. Instead, self reflect. Recognize what happened and how your actions may have led you there. Acknowledge how it could have been prevented and make it a lesson for your mental toolkit. Because the important truth is, you will fail again.</p>
 <p>Despite all of the tough days, the stress, the breakdowns, the self-doubt, the wondering if I could finish; I can honestly say I don’t regret it. Without the experience I wouldn’t have hit walls, break through them, and rebuild a stronger ones. If you’re in a difficult phase of your life where you’re in a tunnel, I hope these can provide you with tools start seeing the light.</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>
 },
 
@@ -792,6 +988,11 @@ The action plan has four objectives:
 5. Multisectoral approach (health, education, employment, judicial, housing, social, private, etc.)<br></br>
 6. Empowerment of persons with mental disorders and psychosocial disabilities to be involved in mental health advocacy, policy, planning, legislation, service provision, monitoring, research, and evaluation</p>
 <p>The document outlines global targets and indicators for a percentage of countries to meet by the year 2020. I HIGHLY recommend you give this a read if you’ve recognized the importance of mental health action and need a place to start. If we complement awareness with action, we can build enough momentum to truly create change.</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>
 },
 
@@ -805,6 +1006,11 @@ The action plan has four objectives:
 <p>3. <b>Lip mask overnight.</b> I keep a jar of Vaseline/petroleum jelly next to my bed and lather up before I fall asleep. It does wonders to create a barrier while I’m sleeping and give my lips time to heal. When you apply, make sure you go beyond the lip area and also apply on the skin around it. Other options you may have around the house include coconut oil and olive oil, but I find that those don’t last overnight so my preference is the thicker Vaseline.</p>
 <p>4. <b>Do not lick your lips.</b> When you lick your lips, the evaporation will also pull on what little moisture is in your lips and the skin around it, which worsens the situation especially in the skin around the lip area.</p>
 <p>5. <b>Create lip barriers during the day.</b> Prevent the wind and dryness of the environment from having contact with your lips by creating a barrier throughout the day. I’ve found that even having a liquid lipstick on my lips is better than nothing at all when the air is extremely dry, but I generally use a lip balm. My everyday use is a lip balm like the <a href="https://www.sephora.com/product/agave-lip-mask-P384629" target="_blank" rel="noopener noreferrer">Bite Beauty Agave Lip Mask</a> . It’s expensive, but lasts forever and works really well. Side benefit - it also tastes good!</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>
 },
 
@@ -823,6 +1029,11 @@ The action plan has four objectives:
 <p>6. <b>Can my kids get the vaccine, too?</b> Yes! It is recommended that children start getting the flu vaccine every year starting at <b>6 months of age and older</b>. You can find a link to flu vaccine recommendations for every age, and what vaccine product is available <a href="https://www.cdc.gov/mmwr/volumes/66/rr/rr6602a1.htm#T1_down" target="_blank" rel="noopener noreferrer">HERE</a>.</p>
 <p>You can get more FAQ’s answered for this <b>2017-2018 flu season</b> directly from the <b>Centers for Disease Control and Prevention (CDC) website</b> <a href="https://www.cdc.gov/flu/about/season/flu-season-2017-2018.htm" target="_blank" rel="noopener noreferrer">HERE</a>.</p>
 <p>It’s important to stay informed for your health and the health of your family and friends. The bottom line is that licensed healthcare professionals and evidence-based science are the strongest tools we have to make recommendations that benefit the health of society as a whole.</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>
 },
 
@@ -842,6 +1053,11 @@ The action plan has four objectives:
 <p>9. <b>End on time.</b> This is as paramount as starting on time. Once there are 5-10 minutes left, acknowledge this and transition to discussing follow up items, including agenda points that need to be tabled for the next meeting.</p>
 <p>10. <b>Send minutes within 3 business days.</b> The sooner you send minutes, the better because the meeting is still fresh in everyone’s minds. If there are actionable items people may be waiting for the minutes to know the assignments, especially if there were people unable to attend.</p>
 <p>At the end of the day, time and productivity are important for everyone. Running an efficient and effective meeting demonstrates quality leadership. As a rule, if you have scheduled a meeting, assume you must be the one to get these things done unless told otherwise. Meetings can be your only opportunity to get key stakeholders in a room to push initiatives forward, and not taking advantage of these can be detrimental to the team. </p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>
 },
 
@@ -856,6 +1072,11 @@ The action plan has four objectives:
 <img className="cell-phone" src="/images/text-examples.jpg" alt="Text Examples" />
 <p>I’ve said it before and I’ll keep saying it, residency was one of the most difficult periods of my life so far and I needed all the help I could get to stay motivated and build resilience. There were days the text was as if Shine knew exactly what I was going through that day. Some messages help validate some of my feelings when I was down but also empowered me to get out of my slumps and take risks.</p>
 <p>Overall, I highly recommend adding it to your daily mindfulness routine for happiness and productivity.</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>
 },
 
@@ -877,6 +1098,11 @@ The action plan has four objectives:
 <h4><b>happy hour independence.</b></h4>
 <img src="/images/happy-hour-marg.jpg" alt="Margarita" />
 <p>I had an evening where I was meeting with an old co-resident who works in the City now too. I went to the place early, ordered a margarita, and had a seat by myself. When I grabbed a chair, I realized this was a significant moment. Years before I would have never thought to go to a restaurant by myself and sit alone in a place that was busting at the seams with people. What it told me was that I had come a long way to reach independence and confidence to do what I wanted. It was a great feeling.</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>
 },
 
@@ -889,6 +1115,11 @@ The action plan has four objectives:
 <p>Pictured above is our cozy Manhattan coffee shop, fully equipped with an <a href="https://www.amazon.com/gp/product/B0018RY8H0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0018RY8H0&linkCode=as2&tag=offeeeetsolis-20&linkId=a2319e902e983a73033c2c76052eb6d7" target="_blank" rel="noopener noreferrer">AeroPress</a>, electric kettle, Trader Joe’s coffee, and honey. And it’s all that I need to get ready for the day! The night before I’ll make sure the kettle is full and cup is set up so all I have to do in the morning is heat up coffee, go to the bathroom, and by the time I’m done the water is ready to brew. I couldn’t be happier with the <a href="https://www.amazon.com/gp/product/B0018RY8H0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0018RY8H0&linkCode=as2&tag=offeeeetsolis-20&linkId=a2319e902e983a73033c2c76052eb6d7" target="_blank" rel="noopener noreferrer">AeroPress</a> except that if you want bigger cups to fill. But luckily, it just takes another minute to make another cup.</p>
 <p>I haven’t bought a coffee outside of Trader Joe’s replenishments for my home shop in weeks. When I was a resident I got up super early, or at least snoozed too much to have any time to make coffee, and went straight to the hospital half asleep, dropped by the 24-hour Starbucks thinking I was getting a deal with my employee discount. What a waste of money that was when I could have woken up 15 minutes earlier and made my own cup.</p>
 <p>When I think back to the days of drinking tons of coffee just to make it through the day, it makes me all the more grateful for the phase of life I’m in now. I have weekends, I can leave my work at the hospital (for the most part), and I can do things I enjoy without feeling guilty. I don’t drink coffee out of necessity, but rather to kickstart my day the right way alongside breakfast and catching up on the morning news. It’s more social than survival, and that makes me happy.</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>
 },
 
@@ -911,6 +1142,11 @@ The action plan has four objectives:
 <p><iframe title="Masculinity" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbbctwo%2Fvideos%2F10155359731070659%2F&show_text=0&width=476" width="476" height="476" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe></p>
 <p>10. <b>Intersectionalism.</b> I started hearing about this “third wave” of feminism being branded as <a href="https://www.usatoday.com/story/news/2017/01/19/feminism-intersectionality-racism-sexism-class/96633750/" target="_blank" rel="noopener noreferrer">intersectional</a> and realized I needed to learn a lot more about it. A very basic understanding can be explained by the fact that women can have more or less disadvantage to find opportunity based a combination of her race, sexual orientation, gender identity, nationality, language, religion, economic class, etc. In the big picture of diversity around the world, people have different privilege and disadvantage depending on which intersection you are look into. In order to recognize these intersections we must first understand our own privilege. Then we can begin to disentangle a “woman” from an “African American woman” and from a “Muslim transgender woman”.</p>
 <p>This is not meant to be man-bashing or diminish the struggles that men also go through. I simply seek to provide you with a starting place to open your eyes and see some of the most basic and common things that happen right under our noses may in fact be an opportunity to create positive change that benefits everyone. It’s as easy as staying curious, asking questions, and having a conversation.</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>
 },
 
@@ -926,6 +1162,11 @@ The action plan has four objectives:
 <p className="tabbed">3. <b>Have support structures around you to keep you accountable.</b> Surround yourself with people who enrich and fulfill your life, make you feel empowered to achieve your goals but also keep you in check when you’re falling into your Hobbit hole.</p>
 <p className="tabbed">4. <b>Start small.</b> Like any skill, it takes practice and strength to flex your boundary-setting muscles. Start by setting a boundary that isn’t threatening and incrementally raise the bar to others. For me, I started with not using my phone when I was out on a date with my boyfriend. One of the more challenging ones was not checking my email after 7:00PM.</p>
 <p>The key here is to know that there will be times of imbalance in our lives and to make these choices with purpose. Be open and honest with your needs and this will take you far in your pursuit of boundaries.</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>
 },
 
@@ -944,6 +1185,11 @@ The action plan has four objectives:
 <p className="tabbed">8. <b>Apples.</b> Apple combined with cinnamon in any form during the fall is the best. Cider, pie, applesauce, apple butter, donuts... okay brb going to buy some apples.</p>
 <p>Until next year, summer. You were a great one in 2017...</p>
 <p>...I’ll be missing you more this winter.</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>
 },
 
@@ -961,6 +1207,11 @@ The action plan has four objectives:
 <p className="tabbed">5. <b>Plan.</b> Being an introvert does not mean you are shy (you can be, of course, but they do not come hand-in-hand). If there is an event where you know you’ll be around a lot of people, have a lot of interactions, publicly speak etc. schedule time afterwards to have your solitary recharge. Take a bathroom break and relax for an extra minute or two. Block time off your calendar for yourself so no one else can book time in your office.</p>
 <p className="tabbed">6. <b>Educate others.</b> 99% of the time when I tell someone I’m an introvert, they’re surprised. Every time this happens, I see it as a perfect chance to advocate for understanding introversion. I explain how I am an introvert and that being an introvert does not mean a person is shy (among other things).</p>
 <p>I hope these tips are helpful if you’re like me and feel that so much of social and business success is set up for extrovert success. I believe this balance is shifting little by little, but for the time being take these steps to own it!</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>
 },
 
@@ -975,6 +1226,11 @@ The action plan has four objectives:
 <p className="tabbed">5. Do your self-care activities. This can be whatever you want. The important thing is to do it. You can check out my Sunday Self-Care routine <a href="https://coffeemeetspolished.com/articles/10" target="_blank" rel="noopener noreferrer">here</a>.</p>
 <p className="tabbed">6. Unplug. Don't check your email for at least one of the days. I usually pick Saturday so that Sunday evening I can prepare for the week ahead. Practice mindfulness by minimizing your time on the devices and doing things like read a book, play board games, try a new restaurant, take a walk.</p>
 <p>I hope these ideas help you maximize the free time you have on a weekend. It’s only 2 days for most of us, but there is so much you can do that has a huge impact on your resilience and mental health.</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>
 },
 
@@ -1003,6 +1259,11 @@ The action plan has four objectives:
 <p>Despite not remembering this timeline minute-by-minute, I remember the feelings I had, of fear and curiosity as to what was happening in the world. As an 8th grader the important things in my life were making sure I practiced enough for my piano lessons and when the next time I would talk to my crush was. I was just exploring things like makeup and hair straightening. Then something so significant happened in the world and I didn’t understand that it would cause a chain of events that would continue to affect my day-to-day now. I didn’t know at the time that I would live in New York City at Ground Zero and get to experience the memorialization of this day 16 years ago.</p>
 <p>I learned what terrorism as an 8th grader. There are those around the world who learn what terrorism is before they even learn how to walk. Today, the threat of terrorism still exists but it has also empowered and strengthened the activism against it.</p>
 <p>I value perspective and open-mindedness. The older I get, the more I see the definitions of “good” and “bad” are incredibly complex, and may not even exist at all in some cases. After moving from North Carolina to New York City, my eyes have opened further to the value diversity plays in peaceful co-existence. I hope to bask in it now, but wherever I go continue to spread the same beliefs. With diversity of culture, race, gender, sexual orientation, comes a beautiful synergy of innovation and strength that the world needs more than ever.</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>
 },
 
@@ -1015,6 +1276,11 @@ The action plan has four objectives:
 <p className="tabbed">3. <b>Chia seeds.</b> These are full of antioxidants, fiber, and protein. And they help thicken your smoothie, too! One option is <a target="_blank" href="https://www.amazon.com/gp/product/B00AQFGL3O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00AQFGL3O&linkCode=as2&tag=offeeeetsolis-20&linkId=e9af5418f1a48916678a5bbbef92d5a7" rel="noopener noreferrer">Nutiva Organic Chia Seed, Black, 32 Ounce</a>.</p>
 <p className="tabbed">4. <b>Kefir/Greek yogurt.</b> Kefir looks like milk but it’s so much more. It’s filled with nutrients (protein, calcium, vitamin B12, vitamin D) and probiotics that aid in digestion and the health of your gastrointestinal (GI) tract. Greek yogurt has similar benefits.</p>
 <p>With these I get in a lot of nutrients and fiber I (unfortunately) don't in other meals of the day. I can't taste the difference except with the seeds but it doesn't feel any different than having some strawberries or kiwi. I hope you give these a try!</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>
 },
 
@@ -1040,6 +1306,11 @@ The action plan has four objectives:
 <p className="tabbed">4. Of the reasons why a goal did not get accomplished, which reasons were under my own control?</p>
 <p className="tabbed">5. Of the reasons that were under my own control, how can I improve for the next time to get closer to my goal?</p>
 <p>Achieving our goals is an iterative process. Remember, life is a marathon, not a sprint. Don't beat yourself down if a goal isn't achieved at the exact time you allotted. Instead, see it as an opportunity to learn and grow.</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>
 },
 
@@ -1062,6 +1333,11 @@ The action plan has four objectives:
 <img src="/images/central-park-summer.jpg" alt="Central Park Summer" />
 <p>This place will forever have a special spot in my heart. I call it our back yard for good reason - it's a half an avenue away from our door. We've had access to it since the day we moved and it’s been a beautiful escape from our otherwise urban environment. The views, the bike rides, the fresh air, the free music, the free performances. I wanted to capture this moment because it represents our beginning here.</p>
 <p>All in all, August was an amazing month. I started my career and this blog, I started a new life in a brand new place, and I'm continuing to find my ever-evolving sense of self. Thank you for embarking on this journey with me!</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>
 },
 
@@ -1082,6 +1358,11 @@ The action plan has four objectives:
 <p>From left to right, they are: Beaches and Cream (MUG), Frappe (MUG), Unexpected (MUG), Fudge (ABG), Unexpected (MUG), Americano (MUG), Shimma Shimma (MUG), Toasted (UD), Smog (UD), Darkhorse (UD)</p>
 <p>I have them organized in a <a href="https://www.makeupgeek.com/makeup-geek-travel-vault-palette.html" target="_blank" rel="noopener noreferrer"> Makeup Geek Travel Vault Palette</a>. I love it because it has a mirror, matted bottom to grip, and PERFECT size for travel. I plan to get another one for blush/highlight/contour in the future. I hope these give you some ideas for everyday eyeshadow essentials.</p>
 <p><img src="/images/neutral-eyeshadows-travel-palette.jpg" alt="Neutral Eyeshadows Travel Palette" /></p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>
 },
 
@@ -1095,6 +1376,11 @@ The action plan has four objectives:
 <p className="tabbed">4. <b>Nail care.</b> This is an example of one #treatyoself I like to do on Sundays when I have the time to paint my nails and not do anything for a while as they dry. Nail care is something that helps me to feel polished and confident. Treat yourself to what you enjoy to feel pampered and polished.</p>
 <p className="tabbed">5. <b>Skin care.</b> This is another example of my self-pamper regimen. I like to mask either with clay or a sheet depending on what I think my skin needs are. Putting on a mask is a mindfulness activity for me while doubling as skin care. It also helps me not look so tired on Monday morning (but coffee does this, too!). If you’re looking for a great, affordable, heavy duty clay mask, try out <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/B0014P8L9W/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0014P8L9W&linkCode=as2&tag=offeeeetsolis-20&linkId=2cfe5b6a34a4eb1d543e9a60860fe801">Aztec Secret Indian Healing Clay</a>. My boyfriend and I will do these masks together and our faces feel so soft and clean afterwards!</p>
 <p>These are a few examples of little things you can do to feel empowered to kick ass and take names at work this week. The important thing is to find what works for you and dedicate to self-care.</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>
 },
 
@@ -1110,6 +1396,11 @@ The action plan has four objectives:
 <p>We weren’t in the “path of totality” here in New York, but we got to see a part of the eclipse! I was able to borrow someone’s eclipse glasses at work to see it. Seeing the totality videos were truly amazing.</p>
 <img src="/images/evening-walk.jpg" alt="Evening Walk" />
 <p>After happy hour one night this week, the weather was perfect for a walk in Central Park. Made for a great photo, don’t you think?</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>
 },
 
@@ -1122,6 +1413,11 @@ The action plan has four objectives:
 <p>We reached the stop where we would transfer trains, which was the same stop these kids were getting off to go home. Our next train was already at the station and we eagerly pushed our way through the crowd to try to make it. When we made it across to the next train, we saw the oldest kid there keeping the door open for us! “I got you,” he said. He had our backs, and it was SO awesome.</p>
 <p>The first thing my boyfriend said when we sat on our next train home was, “Those kids need to go to a soccer game.”</p>
 <p>It was such a refreshing interaction to speak to these kids. In the whirlwind of politics, career, and trying to get our own sh*t together, we can forget that we have to foster the next generation, too. We have to make our surroundings better than how we found it (or made it) so that kids like the ones we met never lose hope in their own possibilities.</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>
 },
 
@@ -1135,6 +1431,11 @@ The action plan has four objectives:
 <p className="tabbed">4. <b>New York apartment interior design.</b> When preparing to move to New York City, I was addicted to watching apartment tours to see how people stored and organized their things in a small space. This was a great way for me to get an idea of what could (and could not be) possible. I'll admit, I did some YouTube window shopping for penthousesRead More anything's possible, right?</p>
 <p className="tabbed">5. <b>Piano.</b> This tip come from my boyfriend who taught himself some tunes via YouTube! I love listening to him play different songs especially knowing it was self-taught.</p>
 <p>I hope these give you some ideas of YouTube lessons. The possibilities are endless.</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>
 },
 
@@ -1153,6 +1454,11 @@ The action plan has four objectives:
 <p className="tabbed">8. <b>Try a new hobby.</b> Campuses are full of clubs for anything you can think of. And if it doesn't exist, feel empowered to create it! Joining clubs and exploring hobbies are a great way to create balance in your life, have fun, and in some cases pursue leadership positions within the ranks.</p>
 <p className="tabbed">9. <b>Learn to share spaces.</b> With the first taste of freedom of living on your own, it's easy to let go of the rest of your self-care. Make your bed, keep your room clean, wash your dishes, and maintain your regular hygiene. Odds are you share a space (dorm, kitchen, living room, bathroom, etc.). It's important now to develop productive habits and make sure your cone of freedom doesn't interfere with anyone else's.</p>
 <p className="tabbed">10. <b>Don't isolate your family.</b> If you're lucky, you made it to college with the support of your family in one way or another. In this phase of your life you begin to learn that your parents are human beings who went through similar struggles with their sense of self. Take advantage of their wisdom. If they don't treat you like an independent adult yet, give them time to also learn to let go. And never deny the gift packages from home. Your roommates/dorm-mates will appreciate it, too!</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>
 },
 
@@ -1172,6 +1478,11 @@ The action plan has four objectives:
 <p>I keep it simple with powder to set the foundation. I find this to be essential if you have oily skin. Pictured is Estee Lauder Double Matte Oil-Control Pressed Powder in Medium/Deep (04). As you can see it's hitting pan and I plan to replace it with Maybelline Fit Me Pressed Powder next!</p>
 <p><b>What are products you don't use every day?</b></p>
 <p>When I'm getting ready for work in the morning, I keep it simple but effective. I don't use concealer under the eyes, instead I do a second layer of foundation. I don't use any sort of setting spray. And I don't contour/bronze. I am interested in pursuing this someday but for now, I only use blush and highlight.</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>
 },
 
@@ -1189,6 +1500,11 @@ The action plan has four objectives:
 <img className="landscape" src="/images/brunch-wellington.jpg" alt="The Wellington"/>
 <p><b>Wellington Eggs Benedict.</b>Poached eggs on house-baked English muffin, roasted chile hollandaise & home fries. Grass-fed skirt steak & sauteed spinach. My boyfriend got this meal, and let's just say there was no leftover. Can you blame him?</p>
 <p>Where are your favorite brunch spots, and how do you pick them?</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>
 },
 
@@ -1210,6 +1526,11 @@ The action plan has four objectives:
 <p>9. <b>Build good habits from day 1.</b> This is your opportunity to set your environment within appropriate bounds. Your email is empty so you can start your organization system from scratch. You can create your boundaries for working after hours/weekends now (unless your boss has different expectations). If you build good habits now, it will help in the long run for resilience in the workplace and happiness at home.</p>
 <p>10. <b>Start with the basics.</b> Learn where the bathroom is, how to clock in, make sure you get paid.</p>
 <p>Stay tuned to see if these tips worked for me in the long run. I hope some of these will work for you.</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>},
 
 {id: "when-the-graduations-end", title: <a href="/articles/when-the-graduations-end">When The Graduations End</a>, date: "August 15, 2017", category: "Opinion", photo: "/images/graduation-end.jpg", description: <div><p>What I've learned is that when the graduation days end, life is just beginning. There is still so much more to learn and I choose to see it as a fun challenge. If you're in a similar boat where you are coming into the workforce feeling behind, I encourage you to take on the challenge with a positive perspective. </p> <a href="/articles/when-the-graduations-end">[Read More]</a></div>, post:
@@ -1219,6 +1540,11 @@ The action plan has four objectives:
 <p>What's funny about it is that I feel like I'm learning the same #adulting struggles now as those just finishing their undergraduate degrees. Except now I'm in much more debt and haven't been able to hold a saving's account because of school. Coming out of it and transitioning to the workforce, I wonder if it was worth it. At times I feel really behind after all of those long days, sleep lost, and money left on the table. I'm in my late 20's and just learning about 401k's, taxable income, and health insurance (despite being a healthcare professional). But at least I know how to cook?</p> 
 <p>The truth is, without all of the experiences I had before today I wouldn't be exploring New York City with someone I love, with the potential for amazing new experiences ahead of us. Yes, I've spent a lot of my life studying and struggling, but I learned so much along the way. I learned a lot about life, what I want from it, and how to get it. I've gained independence and perspective that had I rushed out into the real world a decade earlier I may not have in the same way.</p> 
 <p>What I've learned is that when the graduation days end, life is just beginning. There is still so much more to learn and I choose to see it as a fun challenge. If you're in a similar boat where you are coming into the workforce feeling behind, I encourage you to take on the challenge with a positive perspective. Take value in where you came from, the mistakes you made, and accomplishments you earned. Use them to take on the unknown future and make it what you want.</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>},
 
 {id: "welcome-to-coffee-meets-polished", title: <a href="/articles/welcome-to-coffee-meets-polished">Welcome to Coffee Meets Polished</a>, date: "August 13, 2017", category: "Life", photo: "/images/cute-kitten.jpg", description: <div><p>Welcome to Coffee Meets Polished, a forum to share everything from what we enjoy when we are our bare-it-all selves with our first coffee of the day, to when we have to go out into the world as our more polished selves. </p> <a href="/articles/welcome-to-coffee-meets-polished">[Read More]</a></div>, post: 
@@ -1235,6 +1561,11 @@ The action plan has four objectives:
 <b>But, what do I get out of it?</b>
 <p>It’s my hope that you may be able to relate or find tools that will work for you to create the necessary boundaries between home and work to maintain resilience and happiness. At a minimum, my goal is that you leave this page feeling happy with you who are. If I'm lucky, you'll feel empowered to make a difference in the world.</p>
 <p>Thanks for joining, and welcome!</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
 </div>}
 ]
 
