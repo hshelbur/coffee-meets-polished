@@ -2,43 +2,136 @@ import React from 'react';
 
 const ARTICLES = [
 {id: "topics-to-normalize-in-2018-periods", title: <a href="/articles/topics-to-normalize-in-2018-periods">Topics to Normalize in 2018: PERIODS</a>, date: "January 9, 2018", category: "Opinion", photo: "/images/normalizedconvoperiods.png",  description: <div>Many women are uncomfortable asking if fellow ladies have an extra tampon or pad. I was recently asked this by someone whispering in my ear, and I thought, "Wouldn't it be nice to live in a world where we can ask these things aloud and not feel embarrassed, or feel like others may feel uncomfortable?" There are consequences to the topic of periods being silenced in society. Read more to find out some ways to normalize conversation around periods and provide a platform for change. <a href="/articles/topics-to-normalize-in-2018-periods">[Read more]</a></div>, post:
-<div>
-<img src="/images/normalizedconvoperiods.png" alt="Topics to Normalize:Periods" />
-<p>I spent a lot of 2017 reflecting on certain topics that are considered "taboo" and tried to figure out why they were categorized as such. I observed attitudes of different generations, genders, and races on topics that illicit visceral reactions, problematic thoughts, and conflicting conversation.</p>
-<p>In today's kick off to the series, we're talking about <b>PERIODS</b>.</p>
-<p>These opinions are my own. My hope is that after reading this, it sparks some thoughts for you too.</p>
-<p>I realized that many women are uncomfortable asking if fellow ladies have an extra tampon or pad (since they're not readily available in public bathrooms for free). I was recently asked this by someone whispering in my ear, and I thought, "Wouldn't it be nice to live in a world where we can ask these things aloud and not feel embarrassed, or feel like others may feel uncomfortable?"</p>
-<p>I believe periods have become taboo because history set up and society today reinforces the notion that periods are unhealthy, gross, or something to be ashamed of because women "aren't at their best" while on periods. This is perpetuated by the <a href="http://mashable.com/2016/03/02/period-stigma/?linkId=21898002#AVSGx7scxuqQ" target="_blank" rel="noopener noreferrer">lack of adequate period education</a> for both women and men.</p>
-<p>There are real consequences to the silencing (intended or unintended) of this topic. In some countries, women are still <a href="https://www.nytimes.com/2018/01/10/world/asia/nepal-woman-menstruation.html" target="_blank" rel="noopener noreferrer">sent to huts</a> while on her period or <a href="http://www.thecitizen.in/index.php/en/NewsDetail/index/7/7836/Menstruation-Keeps-Girls-From-School-In-India-20-Drop-Out-Reaching-Puberty" target="_blank" rel="noopener noreferrer">stay home from school</a> because of lack of appropriate bathrooms and products to use. There's a luxury tax on tampons. <a href="https://news.vice.com/en_ca/article/434qzg/prisons-are-still-charging-female-inmates-for-having-their-periods" target="_blank" rel="noopener noreferrer">Incarcerated women are still struggling</a> for free feminine hygiene products.</p>
-<p>Not promoting openness and awareness with periods allows the silence to continue for those who suffer from the consequences. Here are some suggestions to normalize period talk:</p>
-	<h4><b>women.</b></h4>
-<p className="tabbed">➢Understand the biology of periods and learn to love the amazing complexity of our bodies.</p>
-<p className="tabbed">➢Ask for pads and tampons aloud whether men are present or not.</p>
-<p className="tabbed">➢Support openness when women wish to discuss our periods with you.</p>
-<p className="tabbed">➢Don't be ashamed of your period underwear.</p> 
-	<h4><b>men.</b></h4>
-<p className="tabbed">➢Support openness when women wish to discuss our periods with you.</p>
-<p className="tabbed">➢Empathize with women if they are feeling uncomfortable and/or in pain because they are on their periods.</p>
-<p className="tabbed">➢Don't assume a bad mood is because she is hormonal (due to periods).</p>
-<p className="tabbed">➢Do not react when women discuss periods or ask for pads/tampons in front of you.</p>
-<p className="tabbed">➢<a href="https://medium.com/clued-in/the-manly-guide-to-menstruation-833d97d811ea" target="_blank" rel="noopener noreferrer">Lean in, and learn</a>.</p>
-	<h4><b>policymakers.</b></h4>
-<p className="tabbed">➢<a href="https://news.vice.com/en_ca/article/434qzg/prisons-are-still-charging-female-inmates-for-having-their-periods" target="_blank" rel="noopener noreferrer">Ensure compliance</a> with the new law requiring free tampons and pads in federal prisons.</p>
-<p className="tabbed">➢Remove luxury tampon tax across the country.</p>
-<p className="tabbed">➢Promote period education in schools.</p>	
-	<h4><b>advertising and marketing.</b></h4>
-<p className="tabbed">➢Make commercials and ads for tampons and pads contain red liquid, not blue liquid, to more accurately represent a woman's period.</p>
-<p className="tabbed">➢Involve more women in development of advertising to ensure messages that relate most closely to the key demographic.</p>
-<p>There are many ways to change a conversation, but it takes a collective voice, and one person at a time.</p>	
-	<br></br>
-	<h4>❖❖❖</h4>
-	<br></br>
-	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
-	<br></br>
-	<h4>YOU MIGHT ALSO LIKE:</h4>
-	    <a className="three-up" href="/articles/my-family-planning-journey">
-	        <img src="/images/familyplanningpreview.png" alt="My Family Planning Journey" />
-	        <p className="centered">My Family Planning Journey: A Contraceptive Story</p>
+	<div>
+	<img src="/images/normalizedconvoperiods.png" alt="Topics to Normalize:Periods" />
+	<p>I spent a lot of 2017 reflecting on certain topics that are considered "taboo" and tried to figure out why they were categorized as such. I observed attitudes of different generations, genders, and races on topics that illicit visceral reactions, problematic thoughts, and conflicting conversation.</p>
+	<p>In today's kick off to the series, we're talking about <b>PERIODS</b>.</p>
+	<p>These opinions are my own. My hope is that after reading this, it sparks some thoughts for you too.</p>
+	<p>I realized that many women are uncomfortable asking if fellow ladies have an extra tampon or pad (since they're not readily available in public bathrooms for free). I was recently asked this by someone whispering in my ear, and I thought, "Wouldn't it be nice to live in a world where we can ask these things aloud and not feel embarrassed, or feel like others may feel uncomfortable?"</p>
+	<p>I believe periods have become taboo because history set up and society today reinforces the notion that periods are unhealthy, gross, or something to be ashamed of because women "aren't at their best" while on periods. This is perpetuated by the <a href="http://mashable.com/2016/03/02/period-stigma/?linkId=21898002#AVSGx7scxuqQ" target="_blank" rel="noopener noreferrer">lack of adequate period education</a> for both women and men.</p>
+	<p>There are real consequences to the silencing (intended or unintended) of this topic. In some countries, women are still <a href="https://www.nytimes.com/2018/01/10/world/asia/nepal-woman-menstruation.html" target="_blank" rel="noopener noreferrer">sent to huts</a> while on her period or <a href="http://www.thecitizen.in/index.php/en/NewsDetail/index/7/7836/Menstruation-Keeps-Girls-From-School-In-India-20-Drop-Out-Reaching-Puberty" target="_blank" rel="noopener noreferrer">stay home from school</a> because of lack of appropriate bathrooms and products to use. There's a luxury tax on tampons. <a href="https://news.vice.com/en_ca/article/434qzg/prisons-are-still-charging-female-inmates-for-having-their-periods" target="_blank" rel="noopener noreferrer">Incarcerated women are still struggling</a> for free feminine hygiene products.</p>
+	<p>Not promoting openness and awareness with periods allows the silence to continue for those who suffer from the consequences. Here are some suggestions to normalize period talk:</p>
+		<h4><b>women.</b></h4>
+	<p className="tabbed">➢Understand the biology of periods and learn to love the amazing complexity of our bodies.</p>
+	<p className="tabbed">➢Ask for pads and tampons aloud whether men are present or not.</p>
+	<p className="tabbed">➢Support openness when women wish to discuss our periods with you.</p>
+	<p className="tabbed">➢Don't be ashamed of your period underwear.</p> 
+		<h4><b>men.</b></h4>
+	<p className="tabbed">➢Support openness when women wish to discuss our periods with you.</p>
+	<p className="tabbed">➢Empathize with women if they are feeling uncomfortable and/or in pain because they are on their periods.</p>
+	<p className="tabbed">➢Don't assume a bad mood is because she is hormonal (due to periods).</p>
+	<p className="tabbed">➢Do not react when women discuss periods or ask for pads/tampons in front of you.</p>
+	<p className="tabbed">➢<a href="https://medium.com/clued-in/the-manly-guide-to-menstruation-833d97d811ea" target="_blank" rel="noopener noreferrer">Lean in, and learn</a>.</p>
+		<h4><b>policymakers.</b></h4>
+	<p className="tabbed">➢<a href="https://news.vice.com/en_ca/article/434qzg/prisons-are-still-charging-female-inmates-for-having-their-periods" target="_blank" rel="noopener noreferrer">Ensure compliance</a> with the new law requiring free tampons and pads in federal prisons.</p>
+	<p className="tabbed">➢Remove luxury tampon tax across the country.</p>
+	<p className="tabbed">➢Promote period education in schools.</p>	
+		<h4><b>advertising and marketing.</b></h4>
+	<p className="tabbed">➢Make commercials and ads for tampons and pads contain red liquid, not blue liquid, to more accurately represent a woman's period.</p>
+	<p className="tabbed">➢Involve more women in development of advertising to ensure messages that relate most closely to the key demographic.</p>
+	<p>There are many ways to change a conversation, but it takes a collective voice, and one person at a time.</p>	
+		<br></br>
+		<h4>❖❖❖</h4>
+		<br></br>
+		<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+		<h4>YOU MIGHT ALSO LIKE:</h4>
+		    <a className="three-up" href="/articles/my-family-planning-journey">
+		        <img src="/images/familyplanningpreview.png" alt="My Family Planning Journey" />
+		        <p className="centered">My Family Planning Journey: A Contraceptive Story</p>
+		    </a>
+		    <a className="three-up" href="/articles/10-places-to-start-to-improve-your-feminism-literacy">
+		        <img src="/images/feminismliteracy-preview.png" alt="10 Places to Start to Improve Your Feminism Literacy" />
+		        <p className="centered">10 Places to Start to Improve Your Feminism Literacy</p>
+		    </a>
+		    <a className="three-up" href="/articles/feminist-book-list-winter-edition">
+		        <img src="/images/feministbooklistwinter-preview.png" alt="Feminist Book List: The Winter Edition" />
+		        <p className="centered">Feminist Book List: The Winter Edition</p>
+		    </a>
+	</div>
+},
+
+{id: "hopeful-for-in-2018", title: <a href="/articles/hopeful-for-in-2018">#HopefulFor</a>, date: "January 4, 2018", category: "Activism", photo: "/images/hopefulfor2018.png",  description: <div>The first time I saw the #HopefulFor tag was on Sheryl Sandberg's <a href="https://www.instagram.com/p/BdOMkSXBOTL/?hl=en&taken-by=sherylsandberg" target="_blank" rel="noopener noreferrer">Instagram</a>.  This inspired me to reflect what I'm hopeful for this year. I realized that there is a lot I'm hopeful for, and while this list may seem ambitious I hope to add to the archives of hopes and dreams for the future. <a href="/articles/hopeful-for-in-2018">[Read more]</a></div>, post:
+	<div>
+	<img src="/images/hopefulfor2018.png" alt="Hopeful For 2018" />
+	<p>The first time I saw the #HopefulFor tag was on Sheryl Sandberg's <a href="https://www.instagram.com/p/BdOMkSXBOTL/?hl=en&taken-by=sherylsandberg" target="_blank" rel="noopener noreferrer">Instagram</a> where she said:</p>
+	<p>"Starting today, we're asking people to share what they're #HopefulFor next year. I'm #HopefulFor a world where we elevate all women's voices and help get more women – especially those from groups that have been traditionally marginalized – into positions of power. Our time is now."</p>
+	<p>This inspired me to reflect what I'm hopeful for this year. I realized that there is a lot I'm hopeful for, and while this list may seem ambitious I hope to add to the archives of hopes and dreams for the future.</p>
+		<h4><b>women.</b></h4>
+	<p>➢Women to continue momentum to stand our ground, be heard, and reckoned with</p>
+	<p>➢Women not to be burdened with emotional labor that isn't ours</p>
+	<p>➢Women to be valued and marketed towards for our minds and talents, not our looks</p>
+		<h4><b>men.</b></h4>
+	<p>➢More men to amplify women's voices</p>
+	<p>➢Men to have the space to express their emotions in a healthy, productive way</p>
+	<p>➢Masculinity to be culturally evolved to incorporate equality with strength</p>
+		<h4><b>introverts.</b></h4>
+	<p>➢Introverts to be asked for our opinion if we don't say something</p>
+	<p>➢Quiet and shy not to be thought of as the same</p>
+	<p>➢Solitude to be seen as a necessity, not a commodity</p>
+		<h4><b>policy.</b></h4>
+	<p>➢Paid family leave for the entire gender spectrum</p>
+	<p>➢Reproductive freedoms for women</p>
+	<p>➢Equal pay for everyone with the same job title and standardized merit-based raises</p>
+	<p> These may seem more like part of a 5-year strategic plan, and maybe it will be someday. For now, I'll spend this year focusing on changing conversations, taking action, and organizing others to make these hopes a reality.</p>
+		<br></br>
+		<h4>❖❖❖</h4>
+		<br></br>
+		<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+		<h4>YOU MIGHT ALSO LIKE:</h4>
+	    <a className="three-up" href="/articles/19-before-2019-a-goal-setting-challenge">
+	        <img src="/images/hopefulfor2018.png" alt="HopefulFor2018" />
+	        <p className="centered">19 Before 19: A Goal Setting Challenge</p>
+	    </a>
+	    <a className="three-up" href="/articles/favorite-podcasts-of-2017">
+	        <img src="/images/favoritepodcastsof2017.png" alt="Favorite Podcasts of 2017" />
+	        <p className="centered">Favorite Podcasts of 2017</p>
+	    </a>
+	    <a className="three-up" href="/articles/topics-to-normalize-in-2018-periods">
+	        <img src="/images/normalizedconvoperiods.png" alt="Topics to Normalize in 2018 PERIODS" />
+	        <p className="centered">Topics to Normalize in 2018: PERIODS</p>
+	    </a>
+	</div>
+},
+
+{id: "favorite-podcasts-of-2017", title: <a href="/articles/favorite-podcasts-of-2017">Favorite Podcasts of 2017</a>, date: "January 3, 2018", category: "Activism", photo: "/images/favoritepodcastsof2017.png",  description: <div>I know I'm really behind on the Podcast bandwagon, but now I can't get enough. I'm able to listen to episodes when I'm walking throughout the City and on the train and it lets me take my eyes off my phone while in transit. These were my favorite ones of the year, or at least last 5 months since moving to New York. <a href="/articles/favorite-podcasts-of-2017">[Read more]</a></div>, post:
+	<div>
+	<img src="/images/favoritepodcastsof2017.png" alt="Favorite Podcasts of 2017" />
+	<p>I know I'm really behind on the Podcast bandwagon, but now I can't get enough. I'm able to listen to episodes when I'm walking throughout the City and on the train and it lets me take my eyes off my phone while in transit. Not only that, but it's a new avenue of content where I can improve my literacy on current events and cultural topics. These were my favorite ones of the year, or at least last 5 months since moving to New York.</p>
+		<h4><b>Lessons from a year full of toxic masculinity</b></h4>
+	<p>An interview with <a href="https://www.youtube.com/watch?v=umKKrbmdHFM" target="_blank" rel="noopener noreferrer">Wade Davis</a>, the NFL's first Diversity and Inclusion consultant and, well, a professional feminist. (Ok, maybe that one's not on his business card). Davis uses his public platform to talk to men and boys about masculinity as a societal construct -- one that is a performance as harmful to men as it is to women. We'll also hear from Vox.com reporter <a href="https://www.vox.com/identities/2017/11/6/16571570/female-candidates-trump-clinton-2016-election" target="_blank" rel="noopener noreferrer">Anna North</a>, who attended the Women's Convention in Detroit and talked to women interested in running for office in 2018 about how Donald Trump's win, and Hillary Clinton's loss, have motivated their candidacies.</p>
+	<p className="centered"><iframe width="100%" height="205" src="https://art19.com/shows/divided-states-of-women/episodes/e65d8bd1-55a2-460d-8241-decb6540ebf6/embed?theme=light-gray-blue" scrolling="no" frameborder="0" allowfullscreen title="Lessons"></iframe></p>
+		<h4><b>Does Marriage Make Women Happy?</b></h4>
+	<p>What are the benefits of marriage for women? Liz Plank talks to feminist writer Jill Fillipovic about how the institution has changed over the last decade, and what that means for women’s happiness and economic stability in 2017. Hitha Herzog is hiding in a closet at her sister’s wedding, but she calls in to talk about the pragmatism of her marriage being governed by “1950s” values.</p>
+	<p className="centered"><iframe width="100%" height="205" src="https://art19.com/shows/divided-states-of-women/episodes/02aaeb07-ad58-41ca-9a0e-850429fb40f3/embed?theme=light-gray-blue" scrolling="no" frameborder="0" allowfullscreen title="Marriage"></iframe></p>
+		<h4><b>The Edge of Gender</b></h4>
+	<p>Gender is one of the first things we notice about the people around us. But where do our ideas about gender come from? Can gender differences be explained by genes and chromosomes, or are they the result of upbringing, culture and the environment? This week, we delve into the debate over nature vs. nurture, and meet the first person in the United States to officially reject the labels of both male and female, and be recognized as "non-binary."</p>
+	<p className="centered"><iframe width="100%" height="205" src="https://www.npr.org/player/embed/556115299/556763934" scrolling="no" frameborder="0" allowfullscreen title="Gender"></iframe></p>
+		<h4><b>Misbehaving with Richard Thaler</b></h4>
+	<p>We don't always do what we're supposed to do. We don't save enough for retirement. We order dessert — even when we're supposed to be dieting. In other words, we misbehave. That's the title of Richard Thaler's most recent book: Misbehaving: The Making of Behavioral Economics. If you've read Thaler's previous book, Nudge, you know he's an economist who studies why people don't really act the way traditional economists say they will. Thaler recently won a Nobel Prize for his contributions to the field of behavioral economics — so we thought we'd celebrate by giving you this encore episode. It's still one of our favorites.</p>
+	<p className="centered"><iframe width="100%" height="205" src="https://www.npr.org/player/embed/559511691/559626842" scrolling="no" frameborder="0" allowfullscreen title="Misbehaving"></iframe></p>
+		<h4><b>When Women Say I'm Sorry</b></h4> 
+	<p>Apologizing is an important step towards reconciliation, but sometimes we say "sorry" too much. Why do women typically apologize more than men? Can you still be a feminist and use these undermining words? How can you be more aware of them in your everyday speech? We also investigate the issues of assuming girls are "more difficult," the dilemma of policing how women speak, and a letter from a listener who wants to stop over-apologizing at work. Language is one of the essential ways we express ourselves, and ultimately your vocabulary is your choice. How will your use of words make you feel you proud and confident about who you are?</p>
+	<p className="centered"><iframe width="100%" height="166" scrolling="no" frameborder="no" title="Sorry" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/318210449&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe></p>
+		<h4><b>Women and the Trades</b></h4>
+	<p>Women are underrepresented in trades like autoworking, plumbing, and welding. E&B unpack what can be done to increase representation of women in these critical fields.</p>
+	<p className="centered"><iframe width="100%" height="300" src="https://www.howstuffworks.com/embed/928441" scrolling="no" frameborder="0" allowfullscreen title="Trade"></iframe></p>
+		<h4><b>Pregnant in Prison</b></h4>
+	<p>How should we be treating imprisoned pregnant women? Perhaps we could start by not shackling them to the hospital bed during labor.</p>
+	<p className="centered"><iframe width="100%" height="300" src="https://www.howstuffworks.com/embed/928588" scrolling="no" frameborder="0" allowfullscreen title="Pregnant in Prison"></iframe></p>
+		<h4><b>Problematic Faves: Judge Judy</b></h4>
+	<p>Are you a fan of someone...even though you KNOW their record on feminist issues isn't exactly stellar? Today we're introducing a series profiling women we love, imperfections and all. First up? The queen of courtroom TV: Judge Judy.</p>
+	<p className="centered"><iframe width="100%" height="300" src="https://www.howstuffworks.com/embed/928557" scrolling="no" frameborder="0" allowfullscreen title="Judge Judy"></iframe></p>
+		<br></br>
+		<h4>❖❖❖</h4>
+		<br></br>
+		<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+		<h4>YOU MIGHT ALSO LIKE:</h4>
+	    <a className="three-up" href="/articles/topics-to-normalize-in-2018-periods">
+	        <img src="/images/normalizedconvoperiods.png" alt="Topics to Normalize in 2018:PERIODS" />
+	        <p className="centered">Topics to Normalize in 2018:PERIODS</p>
 	    </a>
 	    <a className="three-up" href="/articles/10-places-to-start-to-improve-your-feminism-literacy">
 	        <img src="/images/feminismliteracy-preview.png" alt="10 Places to Start to Improve Your Feminism Literacy" />
@@ -48,138 +141,97 @@ const ARTICLES = [
 	        <img src="/images/feministbooklistwinter-preview.png" alt="Feminist Book List: The Winter Edition" />
 	        <p className="centered">Feminist Book List: The Winter Edition</p>
 	    </a>
-</div>
-},
-
-{id: "hopeful-for-in-2018", title: <a href="/articles/hopeful-for-in-2018">#HopefulFor</a>, date: "January 4, 2018", category: "Activism", photo: "/images/hopefulfor2018.png",  description: <div>The first time I saw the #HopefulFor tag was on Sheryl Sandberg's <a href="https://www.instagram.com/p/BdOMkSXBOTL/?hl=en&taken-by=sherylsandberg" target="_blank" rel="noopener noreferrer">Instagram</a>.  This inspired me to reflect what I'm hopeful for this year. I realized that there is a lot I'm hopeful for, and while this list may seem ambitious I hope to add to the archives of hopes and dreams for the future. <a href="/articles/hopeful-for-in-2018">[Read more]</a></div>, post:
-<div>
-<img src="/images/hopefulfor2018.png" alt="Hopeful For 2018" />
-<p>The first time I saw the #HopefulFor tag was on Sheryl Sandberg's <a href="https://www.instagram.com/p/BdOMkSXBOTL/?hl=en&taken-by=sherylsandberg" target="_blank" rel="noopener noreferrer">Instagram</a> where she said:</p>
-<p>"Starting today, we're asking people to share what they're #HopefulFor next year. I'm #HopefulFor a world where we elevate all women's voices and help get more women – especially those from groups that have been traditionally marginalized – into positions of power. Our time is now."</p>
-<p>This inspired me to reflect what I'm hopeful for this year. I realized that there is a lot I'm hopeful for, and while this list may seem ambitious I hope to add to the archives of hopes and dreams for the future.</p>
-	<h4><b>women.</b></h4>
-<p>➢Women to continue momentum to stand our ground, be heard, and reckoned with</p>
-<p>➢Women not to be burdened with emotional labor that isn't ours</p>
-<p>➢Women to be valued and marketed towards for our minds and talents, not our looks</p>
-	<h4><b>men.</b></h4>
-<p>➢More men to amplify women's voices</p>
-<p>➢Men to have the space to express their emotions in a healthy, productive way</p>
-<p>➢Masculinity to be culturally evolved to incorporate equality with strength</p>
-	<h4><b>introverts.</b></h4>
-<p>➢Introverts to be asked for our opinion if we don't say something</p>
-<p>➢Quiet and shy not to be thought of as the same</p>
-<p>➢Solitude to be seen as a necessity, not a commodity</p>
-	<h4><b>policy.</b></h4>
-<p>➢Paid family leave for the entire gender spectrum</p>
-<p>➢Reproductive freedoms for women</p>
-<p>➢Equal pay for everyone with the same job title and standardized merit-based raises</p>
-<p> These may seem more like part of a 5-year strategic plan, and maybe it will be someday. For now, I'll spend this year focusing on changing conversations, taking action, and organizing others to make these hopes a reality.</p>
-	<br></br>
-	<h4>❖❖❖</h4>
-	<br></br>
-	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
-	<br></br>
-</div>
-},
-
-{id: "favorite-podcasts-of-2017", title: <a href="/articles/favorite-podcasts-of-2017">Favorite Podcasts of 2017</a>, date: "January 3, 2018", category: "Activism", photo: "/images/favoritepodcastsof2017.png",  description: <div>I know I'm really behind on the Podcast bandwagon, but now I can't get enough. I'm able to listen to episodes when I'm walking throughout the City and on the train and it lets me take my eyes off my phone while in transit. These were my favorite ones of the year, or at least last 5 months since moving to New York. <a href="/articles/favorite-podcasts-of-2017">[Read more]</a></div>, post:
-<div>
-<img src="/images/favoritepodcastsof2017.png" alt="Favorite Podcasts of 2017" />
-<p>I know I'm really behind on the Podcast bandwagon, but now I can't get enough. I'm able to listen to episodes when I'm walking throughout the City and on the train and it lets me take my eyes off my phone while in transit. Not only that, but it's a new avenue of content where I can improve my literacy on current events and cultural topics. These were my favorite ones of the year, or at least last 5 months since moving to New York.</p>
-	<h4><b>Lessons from a year full of toxic masculinity</b></h4>
-<p>An interview with <a href="https://www.youtube.com/watch?v=umKKrbmdHFM" target="_blank" rel="noopener noreferrer">Wade Davis</a>, the NFL's first Diversity and Inclusion consultant and, well, a professional feminist. (Ok, maybe that one's not on his business card). Davis uses his public platform to talk to men and boys about masculinity as a societal construct -- one that is a performance as harmful to men as it is to women. We'll also hear from Vox.com reporter <a href="https://www.vox.com/identities/2017/11/6/16571570/female-candidates-trump-clinton-2016-election" target="_blank" rel="noopener noreferrer">Anna North</a>, who attended the Women's Convention in Detroit and talked to women interested in running for office in 2018 about how Donald Trump's win, and Hillary Clinton's loss, have motivated their candidacies.</p>
-<p className="centered"><iframe width="100%" height="205" src="https://art19.com/shows/divided-states-of-women/episodes/e65d8bd1-55a2-460d-8241-decb6540ebf6/embed?theme=light-gray-blue" scrolling="no" frameborder="0" allowfullscreen title="Lessons"></iframe></p>
-	<h4><b>Does Marriage Make Women Happy?</b></h4>
-<p>What are the benefits of marriage for women? Liz Plank talks to feminist writer Jill Fillipovic about how the institution has changed over the last decade, and what that means for women’s happiness and economic stability in 2017. Hitha Herzog is hiding in a closet at her sister’s wedding, but she calls in to talk about the pragmatism of her marriage being governed by “1950s” values.</p>
-<p className="centered"><iframe width="100%" height="205" src="https://art19.com/shows/divided-states-of-women/episodes/02aaeb07-ad58-41ca-9a0e-850429fb40f3/embed?theme=light-gray-blue" scrolling="no" frameborder="0" allowfullscreen title="Marriage"></iframe></p>
-	<h4><b>The Edge of Gender</b></h4>
-<p>Gender is one of the first things we notice about the people around us. But where do our ideas about gender come from? Can gender differences be explained by genes and chromosomes, or are they the result of upbringing, culture and the environment? This week, we delve into the debate over nature vs. nurture, and meet the first person in the United States to officially reject the labels of both male and female, and be recognized as "non-binary."</p>
-<p className="centered"><iframe width="100%" height="205" src="https://www.npr.org/player/embed/556115299/556763934" scrolling="no" frameborder="0" allowfullscreen title="Gender"></iframe></p>
-	<h4><b>Misbehaving with Richard Thaler</b></h4>
-<p>We don't always do what we're supposed to do. We don't save enough for retirement. We order dessert — even when we're supposed to be dieting. In other words, we misbehave. That's the title of Richard Thaler's most recent book: Misbehaving: The Making of Behavioral Economics. If you've read Thaler's previous book, Nudge, you know he's an economist who studies why people don't really act the way traditional economists say they will. Thaler recently won a Nobel Prize for his contributions to the field of behavioral economics — so we thought we'd celebrate by giving you this encore episode. It's still one of our favorites.</p>
-<p className="centered"><iframe width="100%" height="205" src="https://www.npr.org/player/embed/559511691/559626842" scrolling="no" frameborder="0" allowfullscreen title="Misbehaving"></iframe></p>
-	<h4><b>When Women Say I'm Sorry</b></h4> 
-<p>Apologizing is an important step towards reconciliation, but sometimes we say "sorry" too much. Why do women typically apologize more than men? Can you still be a feminist and use these undermining words? How can you be more aware of them in your everyday speech? We also investigate the issues of assuming girls are "more difficult," the dilemma of policing how women speak, and a letter from a listener who wants to stop over-apologizing at work. Language is one of the essential ways we express ourselves, and ultimately your vocabulary is your choice. How will your use of words make you feel you proud and confident about who you are?</p>
-<p className="centered"><iframe width="100%" height="166" scrolling="no" frameborder="no" title="Sorry" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/318210449&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe></p>
-	<h4><b>Women and the Trades</b></h4>
-<p>Women are underrepresented in trades like autoworking, plumbing, and welding. E&B unpack what can be done to increase representation of women in these critical fields.</p>
-<p className="centered"><iframe width="100%" height="300" src="https://www.howstuffworks.com/embed/928441" scrolling="no" frameborder="0" allowfullscreen title="Trade"></iframe></p>
-	<h4><b>Pregnant in Prison</b></h4>
-<p>How should we be treating imprisoned pregnant women? Perhaps we could start by not shackling them to the hospital bed during labor.</p>
-<p className="centered"><iframe width="100%" height="300" src="https://www.howstuffworks.com/embed/928588" scrolling="no" frameborder="0" allowfullscreen title="Pregnant in Prison"></iframe></p>
-	<h4><b>Problematic Faves: Judge Judy</b></h4>
-<p>Are you a fan of someone...even though you KNOW their record on feminist issues isn't exactly stellar? Today we're introducing a series profiling women we love, imperfections and all. First up? The queen of courtroom TV: Judge Judy.</p>
-<p className="centered"><iframe width="100%" height="300" src="https://www.howstuffworks.com/embed/928557" scrolling="no" frameborder="0" allowfullscreen title="Judge Judy"></iframe></p>
-	<br></br>
-	<h4>❖❖❖</h4>
-	<br></br>
-	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
-	<br></br>
-</div>
+	</div>
 },
 
 {id: "19-before-2019-a-goal-setting-challenge", title: <a href="/articles/19-before-2019-a-goal-setting-challenge">19 Before 2019</a>, date: "January 2, 2018", category: "Life", photo: "/images/19before2019.png",  description: <div>There's a lot to be said for writing down goals. It holds me accountable. And I'd like to tell myself that publishing it online means I'll be extra accountable. Right? This list was inspired after doing research for my new bullet journal for 2019. I decided to reflect and see if I would be able to come up with 19 things I wanted to accomplish. Turns out I do. I hope this list gives you some ideas of what you may want to pursue this year, and give you a sneak peak of some future projects for CMP. <a href="/articles/19-before-2019-a-goal-setting-challenge">[Read more]</a></div>, post:
-<div>
-<img src="/images/19before2019.png" alt="19 Before 2019" />
-<p>There's a lot to be said for writing down goals. It holds me accountable. And I'd like to tell myself that publishing it online means I'll be extra accountable. Right?</p>
-<p>This list was inspired after doing research for my new bullet journal for 2019. I saw some spreads of this "19 by 2019" thing where people write down 19 goals they hope to achieve before the end of the year 2019. I thought it was interesting and decided to reflect and see if I would be able to come up with 19 things I wanted to accomplish.</p>
-<p>It turns out I do. As I curated the list, two natural categories came out of it. One of my life, and one for this blog and the Coffee Meets Polished brand. I hope this list gives you some ideas of what you may want to pursue this year, and give you a sneak peak of some future projects for CMP.</p>
-<h4><b>personal.</b></h4>
-<p>1. Run a 5K in Manhattan<br></br>
-2. Travel out of the country twice <br></br>
-3. Participate in a protest/march<br></br>
-4. Submit 10 essays/articles for websites<br></br>
-5. Take a creative writing course <br></br>
-6. Learn how to curl hair with a curler<br></br>
-7. Pay more rent than student loan bill each month <br></br>
-8. Wear more lipstick <br></br>
-9. Finish Project Pan 2018 (18 skin care/make up products)<br></br>
-10. Explore all of the New York City boroughs <br></br>
-11. Go to a cultural/activist event every month </p>
-<h4><b>coffee meets polished.</b></h4>
-<p>12. Reach 500 followers on Instagram<br></br>
-13. Reach 100 MailChimp subscriptions<br></br>
-14. Reach 500 followers of Twitter<br></br>
-15. Start YouTube channel<br></br>
-16. Create worksheets for reader downloads <br></br>
-17. Finish draft for merchandise <br></br>
-18. Create a monthly challenge <br></br>
-19. Do a giveaway and/or collaboration </p>
-<p>I do have this as a spread in my bullet journal, but it's not pretty like most others' out there so I'll stick with the digital list. Cheers to 2018 goals, everyone!</p>
-	<br></br>
-	<h4>❖❖❖</h4>
-	<br></br>
-	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
-	<br></br>
-</div>
+	<div>
+	<img src="/images/19before2019.png" alt="19 Before 2019" />
+	<p>There's a lot to be said for writing down goals. It holds me accountable. And I'd like to tell myself that publishing it online means I'll be extra accountable. Right?</p>
+	<p>This list was inspired after doing research for my new bullet journal for 2019. I saw some spreads of this "19 by 2019" thing where people write down 19 goals they hope to achieve before the end of the year 2019. I thought it was interesting and decided to reflect and see if I would be able to come up with 19 things I wanted to accomplish.</p>
+	<p>It turns out I do. As I curated the list, two natural categories came out of it. One of my life, and one for this blog and the Coffee Meets Polished brand. I hope this list gives you some ideas of what you may want to pursue this year, and give you a sneak peak of some future projects for CMP.</p>
+	<h4><b>personal.</b></h4>
+	<p>1. Run a 5K in Manhattan<br></br>
+	2. Travel out of the country twice <br></br>
+	3. Participate in a protest/march<br></br>
+	4. Submit 10 essays/articles for websites<br></br>
+	5. Take a creative writing course <br></br>
+	6. Learn how to curl hair with a curler<br></br>
+	7. Pay more rent than student loan bill each month <br></br>
+	8. Wear more lipstick <br></br>
+	9. Finish Project Pan 2018 (18 skin care/make up products)<br></br>
+	10. Explore all of the New York City boroughs <br></br>
+	11. Go to a cultural/activist event every month </p>
+	<h4><b>coffee meets polished.</b></h4>
+	<p>12. Reach 500 followers on Instagram<br></br>
+	13. Reach 100 MailChimp subscriptions<br></br>
+	14. Reach 500 followers of Twitter<br></br>
+	15. Start YouTube channel<br></br>
+	16. Create worksheets for reader downloads <br></br>
+	17. Finish draft for merchandise <br></br>
+	18. Create a monthly challenge <br></br>
+	19. Do a giveaway and/or collaboration </p>
+	<p>I do have this as a spread in my bullet journal, but it's not pretty like most others' out there so I'll stick with the digital list. Cheers to 2018 goals, everyone!</p>
+		<br></br>
+		<h4>❖❖❖</h4>
+		<br></br>
+		<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+		<h4>YOU MIGHT ALSO LIKE:</h4>
+	    <a className="three-up" href="/articles/mental-health-resolutions-for-2018">
+	        <img src="/images/mentalhealthresolutions.png" alt="Mental Health Resolutions" />
+	        <p className="centered">Mental Health Resolutions for 2018</p>
+	    </a>
+	    <a className="three-up" href="/articles/10-places-to-start-to-improve-your-feminism-literacy">
+	        <img src="/images/feminismliteracy-preview.png" alt="10 Places to Start to Improve Your Feminism Literacy" />
+	        <p className="centered">10 Places to Start to Improve Your Feminism Literacy</p>
+	    </a>
+	    <a className="three-up" href="/articles/how-to-set-smart-goals-for-yourself">
+	        <img src="/images/goals-preview.png" alt="Setting SMART goals" />
+	        <p className="centered">How to Set Smart Goals for Yourself</p>
+	    </a>
+	</div>
 },
 
 {id: "highs-and-lows-of-2017", title: <a href="/articles/highs-and-lows-of-2017">Highs and Lows of 2017</a>, date: "January 1, 2018", category: "Life", photo: "/images/highsof2017preview.png",  description: <div>Some people say that things have to get worse before they get better. I always tell myself this when I clean. I have to remove everything from their original places to declutter, re-organize, and have a fresh start. The same went for my 2017 experience. Here are my top five and bottom five moments of the past year, starting with the lowest of the low so we can end on a high note. <a href="/articles/highs-and-lows-of-2017">[Read more]</a></div>, post:
-<div>
-<img src="/images/highsof2017.jpg" alt="Baby Zeke" />
-<p>I had a pretty eventful 2017, and so did the United States of America and world. My personal life had moments that inspired me and broke me down. The world around me felt turbulent and bubbling with momentum for change. Conversations are coming forward, being challenged, and changing. Awareness is becoming acute enough to recognize subtle nuance, implicit bias, and unfair institutionalized limits for certain populations.</p>
-<p>Some people say that things have to get worse before they get better. I always tell myself this when I clean. I have to remove everything from their original places to declutter, re-organize, and have a fresh start. The same went for my 2017 experience.</p>
-<p>Here are my top five and bottom five moments of the past year, starting with the lowest of the low so we can end on a high note.</p>
-<h4><b>lows.</b></h4>
-<p>1. <b>Burnout.</b> Most of the lows happened related to residency. One of them was the burnout. I felt stretched thin with tons of assignments and short deadlines. I don't remember ever being so busy or feeling so overwhelmed. The positive out of it is that I know my limits, and I know that they can be stretched and expanded. I also have new appreciations for wellness and selfcare.</p>
-<p>2. <b>Worthlessness.</b> The volume of work that caused burnout was layered with feedback that was sometimes unedited, unproductive, and the hardest kind: true. When you're not your best self mentally/physically/emotionally, feedback is not something you have the capacity to take and process healthily. The only way I found out of the darkness and put together the pieces are my mentors, friends, and family. These are the times you realize how valuable humility is and how important support structures are.</p>
-<p>3. <b>Uncertainty.</b> The third layer of this was the whole point of doing residency in the first place: employment. It was difficult to complete my daily, monthly, quarterly, annual, two-year deadlines; recruit the next class of residents to replace you; while also finding a job. The uncertainty of where you'll live, what you'll be doing, when the alarm clock on your lease is also pending. I was so used to program end dates, application timelines, results dates, that told me on a certain day where I would be and when. Now, it was under my control and I didn't know how to process it.</p>
-<p>4. <b>Politics.</b> This doesn't need explaining. I don't want to oversimplify it by trying to. But if you don't know, please spend 2018 improving your literacy on current events. You won't regret it.</p>
-<p> 5. <b>Student Loan Debt.</b> I made it a goal for my second year of residency to begin paying my student loans even through deferment. I succeeded with that goal and now am embarking on the journey through repayment plans. The reason this is a low is because of the principles behind why I have to pay them in the first place. I am frustrated with the burden placed on people who are determined to get a higher education, to provide for themselves with jobs that contribute to the workforce. To be locked into decisions made in a time when I barely knew who I was and without alternatives. All I can tell myself is that things will work out and I'll be able to pay them off. But why are tuitions so high? Why do colleges and universities get to profit from students who pursue their dreams, or paths that were imposed on them by their parents and society? What if I had changed my mind or wasn't able to find a job to pay the loan bill taken out for said job? I have many thoughts on this topic, if you couldn't tell.</p>
-<p>Now that the lows are out of the way (and how cathartic that was), time for the happy times!</p>
-<h4><b>highs.</b></h4>
-<p>1. <b>Love.</b> Before residency started in 2015, I spent a lot of time alone reflecting. My goal was to be able to do things on my own. Eat at restaurants, go to movies, shop, and make decisions for me. Once I felt comfortable doing all of these things, I found the one. It was quite amazing timing. And two years later it's like spending every day with my best friend who doesn't make me feel like I need to change anything about me but supports my hopes for self-improvement and dreams for the future. So this is what happiness with a significant other feels like, who knew?</p>
-<p>2. <b>Moving to New York City.</b> Remember those feelings of burnout, uncertainty, and worthlessness? Well, those were squashed (after plenty of wallowing) and out popped an opportunity to where I now agree to be the greatest city in the world. A lot of people ask me how long I plan to be there as if New York City has been a temporary Millenial phase. But now that I've been here almost 7 months, I don't see an end to it. It may be because it's the first time I've not had an end date imposed on me, but I also believe it's because I love it here. And that's, that.</p>
-<p>3. <b>Job status.</b> This is a high because it's the reason for all of the lows and triumphs throughout the last 10 years since graduating high school and leaving home. The really expensive mansion that is my student loans, long days, little sleep, tears, new friends, and Tar Heel adventures culminated to the job that I wanted all along. I finally have autonomy to make decisions and analyze situations without the 24/7 feedback loop of residency. I get to find my style and see how I do on my own two feet with a great boss to work with. It's a great situation so far.</p>
-<p>4. <b>New Baby.</b> My little sister gave birth to a beautiful baby boy in 2017. His name is Zeke (short for Ezekiel) and I got to spend a whole 12 days with him. I created some deep bonds that he won't remember since he's less than a month old but I'll keep with me forever. I can't wait for him to visit (and his parents too, of course).</p>
-<p>5. <b>Empowerment.</b> If 2017 was filled with anything it was filled with my highest levels of empowerment. Like a phoenix from the ashes I feel like I came out of a tough training period with resolve to succeed in what I wanted and the environment of New York City only amplifies it.</p>
-<p>I can't wait to see what 2018 has in store. Even though 2017 had lows, it had many more highs that absolutely outweighed them. I will continue seeking the positive outcomes and lessons in any situation. While I'm imperfect and problematic, I now believe those traits to be great things because they are part of who I am.</p>
-	<br></br>
-	<h4>❖❖❖</h4>
-	<br></br>
-	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
-	<br></br>
-</div>
+	<div>
+	<img src="/images/highsof2017.jpg" alt="Baby Zeke" />
+	<p>I had a pretty eventful 2017, and so did the United States of America and world. My personal life had moments that inspired me and broke me down. The world around me felt turbulent and bubbling with momentum for change. Conversations are coming forward, being challenged, and changing. Awareness is becoming acute enough to recognize subtle nuance, implicit bias, and unfair institutionalized limits for certain populations.</p>
+	<p>Some people say that things have to get worse before they get better. I always tell myself this when I clean. I have to remove everything from their original places to declutter, re-organize, and have a fresh start. The same went for my 2017 experience.</p>
+	<p>Here are my top five and bottom five moments of the past year, starting with the lowest of the low so we can end on a high note.</p>
+	<h4><b>lows.</b></h4>
+	<p>1. <b>Burnout.</b> Most of the lows happened related to residency. One of them was the burnout. I felt stretched thin with tons of assignments and short deadlines. I don't remember ever being so busy or feeling so overwhelmed. The positive out of it is that I know my limits, and I know that they can be stretched and expanded. I also have new appreciations for wellness and selfcare.</p>
+	<p>2. <b>Worthlessness.</b> The volume of work that caused burnout was layered with feedback that was sometimes unedited, unproductive, and the hardest kind: true. When you're not your best self mentally/physically/emotionally, feedback is not something you have the capacity to take and process healthily. The only way I found out of the darkness and put together the pieces are my mentors, friends, and family. These are the times you realize how valuable humility is and how important support structures are.</p>
+	<p>3. <b>Uncertainty.</b> The third layer of this was the whole point of doing residency in the first place: employment. It was difficult to complete my daily, monthly, quarterly, annual, two-year deadlines; recruit the next class of residents to replace you; while also finding a job. The uncertainty of where you'll live, what you'll be doing, when the alarm clock on your lease is also pending. I was so used to program end dates, application timelines, results dates, that told me on a certain day where I would be and when. Now, it was under my control and I didn't know how to process it.</p>
+	<p>4. <b>Politics.</b> This doesn't need explaining. I don't want to oversimplify it by trying to. But if you don't know, please spend 2018 improving your literacy on current events. You won't regret it.</p>
+	<p> 5. <b>Student Loan Debt.</b> I made it a goal for my second year of residency to begin paying my student loans even through deferment. I succeeded with that goal and now am embarking on the journey through repayment plans. The reason this is a low is because of the principles behind why I have to pay them in the first place. I am frustrated with the burden placed on people who are determined to get a higher education, to provide for themselves with jobs that contribute to the workforce. To be locked into decisions made in a time when I barely knew who I was and without alternatives. All I can tell myself is that things will work out and I'll be able to pay them off. But why are tuitions so high? Why do colleges and universities get to profit from students who pursue their dreams, or paths that were imposed on them by their parents and society? What if I had changed my mind or wasn't able to find a job to pay the loan bill taken out for said job? I have many thoughts on this topic, if you couldn't tell.</p>
+	<p>Now that the lows are out of the way (and how cathartic that was), time for the happy times!</p>
+	<h4><b>highs.</b></h4>
+	<p>1. <b>Love.</b> Before residency started in 2015, I spent a lot of time alone reflecting. My goal was to be able to do things on my own. Eat at restaurants, go to movies, shop, and make decisions for me. Once I felt comfortable doing all of these things, I found the one. It was quite amazing timing. And two years later it's like spending every day with my best friend who doesn't make me feel like I need to change anything about me but supports my hopes for self-improvement and dreams for the future. So this is what happiness with a significant other feels like, who knew?</p>
+	<p>2. <b>Moving to New York City.</b> Remember those feelings of burnout, uncertainty, and worthlessness? Well, those were squashed (after plenty of wallowing) and out popped an opportunity to where I now agree to be the greatest city in the world. A lot of people ask me how long I plan to be there as if New York City has been a temporary Millenial phase. But now that I've been here almost 7 months, I don't see an end to it. It may be because it's the first time I've not had an end date imposed on me, but I also believe it's because I love it here. And that's, that.</p>
+	<p>3. <b>Job status.</b> This is a high because it's the reason for all of the lows and triumphs throughout the last 10 years since graduating high school and leaving home. The really expensive mansion that is my student loans, long days, little sleep, tears, new friends, and Tar Heel adventures culminated to the job that I wanted all along. I finally have autonomy to make decisions and analyze situations without the 24/7 feedback loop of residency. I get to find my style and see how I do on my own two feet with a great boss to work with. It's a great situation so far.</p>
+	<p>4. <b>New Baby.</b> My little sister gave birth to a beautiful baby boy in 2017. His name is Zeke (short for Ezekiel) and I got to spend a whole 12 days with him. I created some deep bonds that he won't remember since he's less than a month old but I'll keep with me forever. I can't wait for him to visit (and his parents too, of course).</p>
+	<p>5. <b>Empowerment.</b> If 2017 was filled with anything it was filled with my highest levels of empowerment. Like a phoenix from the ashes I feel like I came out of a tough training period with resolve to succeed in what I wanted and the environment of New York City only amplifies it.</p>
+	<p>I can't wait to see what 2018 has in store. Even though 2017 had lows, it had many more highs that absolutely outweighed them. I will continue seeking the positive outcomes and lessons in any situation. While I'm imperfect and problematic, I now believe those traits to be great things because they are part of who I am.</p>
+		<br></br>
+		<h4>❖❖❖</h4>
+		<br></br>
+		<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+	<h4>YOU MIGHT ALSO LIKE:</h4>
+	    <a className="three-up" href="/articles/5-things-i-loved-in-december-2017">
+	        <img src="/images/lovedindecember.png" alt="Things I Loved in December" />
+	        <p className="centered">5 Things I Loved in December</p>
+	    </a>
+	    <a className="three-up" href="/articles/nyc-holiday-microadventures-city-trees-2017">
+	        <img src="/images/nypltree-preview.png" alt="NYC Holiday Microadventures City Trees" />
+	        <p className="centered">NYC Holiday Microadventures: City Trees</p>
+	    </a>
+	    <a className="three-up" href="/articles/books-i-read-in-2017">
+	        <img src="/images/reading2017.jpg" alt="Books I Read in 2017" />
+	        <p className="centered">Books I Read in 2017</p>
+	    </a>
+	</div>
 },
 
 {id: "5-things-i-loved-in-december-2017", title: <a href="/articles/5-things-i-loved-in-december-2017">5 Things I Loved in December</a>, date: "December 31, 2017", category: "Life", photo: "/images/lovedindecember.png",  description: <div>I remember it being the end of 2016 and thinking, "I can’t wait for 2016 to be over. It sucked." Now it’s a year later, and I find myself (and others) discussing how awful 2017 was and that it needs to be just over. There’s a lot happening in this country and around the world that make me feel angry, sad, and without hope for a good outcome. However, with the rise of evil has also creating a shift from complacency to activism, of non-belief to belief, and an overall resilience of hope. There are so many changes, opportunities, and adventures from 2017 that I have to be grateful for. December was filled with new experiences in New York City, and new life in my family. Here are 5 things I loved this month. <a href="/articles/5-things-i-loved-in-december-2017">[Read more]</a></div>, post:
