@@ -6,6 +6,8 @@ class Archive extends Component {
         <section className="article">
         <h4><b>Coffee Meets Polished Archives</b></h4>
    			  <p><b>JANUARY 2018</b></p>
+            <p className="tabbed"><a href="https://coffeemeetspolished.com/articles/everything-you-need-to-know-about-the-2018-womens-march" rel="noopener noreferrer">Everything You Need To Know About The 2018 Women's March</a>
+              </p>
             <p className="tabbed"><a href="https://coffeemeetspolished.com/articles/topics-to-normalize-in-2018-periods" rel="noopener noreferrer">Topics to Normalize in 2018: PERIODS</a>
               </p>
             <p className="tabbed"><a href="https://coffeemeetspolished.com/articles/hopeful-for-in-2018" rel="noopener noreferrer">What I'm Hopeful For in 2018</a>
