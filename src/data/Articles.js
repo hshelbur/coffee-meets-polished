@@ -138,7 +138,7 @@ const ARTICLES = [
 		<br></br>
 		<h4>YOU MIGHT ALSO LIKE:</h4>
 	    <a className="three-up" href="/articles/19-before-2019-a-goal-setting-challenge">
-	        <img src="/images/hopefulfor2018.png" alt="HopefulFor2018" />
+	        <img src="/images/19before2019.png" alt="19 Before 2019 Goals" />
 	        <p className="centered">19 Before 19: A Goal Setting Challenge</p>
 	    </a>
 	    <a className="three-up" href="/articles/favorite-podcasts-of-2017">
@@ -377,6 +377,19 @@ const ARTICLES = [
 	<br></br>
 	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
 	<br></br>
+	<h4>YOU MIGHT ALSO LIKE:</h4>
+    <a className="three-up" href="/articles/10-places-to-start-to-improve-your-feminism-literacy">
+        <img src="/images/feminismliteracy-preview.png" alt="10 Places to Start to Improve Your Feminism Literacy" />
+        <p className="centered">10 Places to Start to Improve Your Feminism Literacy</p>
+    </a>
+   	<a className="three-up" href="/articles/topics-to-normalize-in-2018-periods">
+        <img src="/images/normalizedconvoperiods.png" alt="Topics to Normalize in 2018 PERIODS" />
+        <p className="centered">Topics to Normalize in 2018: PERIODS</p>
+    </a>
+  	<a className="three-up" href="/articles/hopeful-for-in-2018">
+        <img src="/images/hopefulfor2018.png" alt="Hopeful For in 2018" />
+        <p className="centered">#HopefulFor in 2018</p>
+    </a>
 </div>
 },
 

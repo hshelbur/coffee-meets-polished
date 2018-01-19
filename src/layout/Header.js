@@ -11,7 +11,7 @@ class Header extends Component {
         <nav className="nav-bar">
           <ul>
             <li><NavLink to={{pathname: "/home"}}>HOME</NavLink></li>
-            <li><NavLink to={{pathname: "/about"}}>ABOUT</NavLink></li>
+            <li><NavLink to={{pathname: "/about"}}>START HERE!</NavLink></li>
             <li><NavLink to={{pathname: "/life"}}>LIFE</NavLink></li>
             <li><NavLink to={{pathname: "/wellness"}}>WELLNESS</NavLink></li>
             <li><NavLink to={{pathname: "/career"}}>CAREER</NavLink></li>
