@@ -1,6 +1,63 @@
 import React from 'react';
 
 const ARTICLES = [
+{id: "everything-you-need-to-know-about-the-2018-womens-march", title: <a href="/articles/everything-you-need-to-know-about-the-2018-womens-march">Everything You Need To Know About The 2018 Women's March</a>, date: "January 17, 2018", category: "Activism", photo: "/images/womens-march-2018-preview.png",  description: <div>This weekend, millions of people across the gender spectrum will march for equality. Have questions about what it is, where it will be, and how to get involved? Look no further. <a href="/articles/everything-you-need-to-know-about-the-2018-womens-march">[Read more]</a></div>, post:
+	<div>
+	<img src="/images/womens-march-2018-preview.png" alt="2018 Womens March" />
+	<p>I try not to have regrets, but one last year was definitely not participating in the Women's March. Oh, how I wish I could be part of the millions who marched in their pussy hats and scream, "This is what democracy looks like!" Looking at the pictures, published magazines and books, and hearing stories from others I experience some serious FOMO especially with the level of empowerment I feel now. Last year, I don't know how I didn't participate but the only excuse I have is the same one that caused me to black out from the world around me: residency.</p>
+	<p>But it's a new day, a new year, and now I live in New York City where the <a href="https://www.eventbrite.com/e/2018-womens-march-on-nyc-tickets-39150171216" rel="noopener noreferrer">2018 Women's March NYC</a> already has over 85,000 registered marchers as of yesterday.</p>
+	<br></br>
+	<h4><b>I'm one of them.</b></h4>
+	<br></br>
+	<img src="/images/nastywomenunite.jpg" alt="Nasty Women Unite" />
+	<p>Last year, the Women's March was hosted in Washington D.C. (and all over the country) and was the largest single-day protest in American history, with other marches around the world on the same day.  It was born out of resistance to the new administration in the White House and in support of equality for all.</p> 
+		<br></br>
+	<p>[RELATED] <b><a href="http://bit.ly/2DuawZE" rel="noopener noreferrer">10 Places to Start to Improve Your Feminism Literacy</a></b></p>
+		<br></br>
+	<p>This year, the march's theme is <b><a href="http://www.powertothepolls.com/" rel="noopener noreferrer">Power to the Polls</a></b> and officially being held in Las Vegas. The goal of this year's Power to the Polls event to launch a national voter registration tour to "channel the energy and activism into tangible strategies and concrete wins in 2018". <b><a href="https://www.womensmarch.com/register/" rel="noopener noreferrer">Click here to register to VOTE!</a></b></p>
+	<p>One reason it is being held in Las Vegas is because Nevada is a key battleground state in the 2018 midterm elections. Another reason is because the deadliest mass shooting in modern U.S. history happened there in 2017.</p>
+	<p>I will admit, I had confusion as to when the other marches were vs. the Women's March anniversary event. Here's the scoop:</p>
+	<p className="tabbed">1. The Women's March event is being held on <b>Sunday, January 21st,</b> the one-year anniversary of the 2017 protest. It will be held at Sam Boyd Stadium and will be streamed live for those who cannot make it.</p>
+	<p className="tabbed">2. Everywhere else in the country, there are marches and events planned for <b>Saturday, January 20th</b>.  The Women's March website has a handy directory of event where you can <a href="https://www.womensmarch.com/" rel="noopener noreferrer">search for events</a> to participate near your zip code.</p>
+		<br></br>
+	<h4><b>What else does Women's March have going on?</b></h4>
+		<br></br>
+	<img src="/images/fightlikeagirl.jpg" alt="Womens March Empower" />
+		<br></br>
+	<p>The initiative of Women's March Youth, called <a href="https://www.womensmarch.com/empower/" rel="noopener noreferrer">Women's March EMPOWER</a>, seek to "provide young people with the tools needed to create high school and college chapters that guide students in making a positive impact in their communities". They have a great 4-part printable toolkit to provide tangible resources for our youth to become leaders in their communities. The initiative is in partnership with Rock the Vote, Teen Vogue, Peace First, Rise to Run, The Gathering for Justice, and Justice League NYC.</p>
+		<br></br>
+	<img src="/images/togetherwerisecover.jpg" alt="Together We Rise Cover" />
+		<br></br>
+	<p>Women's March also published a book that came out this week, called <a target="_blank" href="https://www.amazon.com/gp/product/0062843435/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062843435&linkCode=as2&tag=offeeeetsolis-20&linkId=f020f6f7d7d161f3199cc45d43dd929c">Together We Rise: Behind the Scenes at the Protest Heard Around the World</a>. It is a full-color book that show behind-the-scenes images of the 2017 Women's March. In addition to the images it interweaves a series of essays by writers, celebrities, and artists including Jill Soloway, America Ferrera, Roxane Gay, Ilana Glazer, and more. Proceeds from <a href="https://www.womensmarch.com/togetherwerise/" rel="noopener noreferrer">Together we Rise</a> will be shared between three grassroots, women-led organizations: The Gathering for Justice, SisterSong Women of Color Reproductive Justice Collective, and Indigenous Women Rise.</p>
+		<br></br>
+	<p>[RELATED] <b><a href="http://bit.ly/2DshUrC" rel="noopener noreferrer">Feminist Book List: Winter Edition</a></b></p>
+		<br></br>
+	<p>Will you be marching for equality this weekend? If so, please share your pictures to my <a href="https://www.instagram.com/coffeemeetspolished/" rel="noopener noreferrer">Instagram</a>, I would love to see them! I'll be sharing my experience on my <a href="https://www.instagram.com/coffeemeetspolished/" rel="noopener noreferrer">Instagram Stories</a> from New York City.</p>
+		<br></br>
+	<img src="/images/womensmarchpinterest.png" alt="Womens March Quotes" />
+		<br></br>
+	<p>*This article contains affiliate links*</p>
+		<br></br>
+		<h4>❖❖❖</h4>
+		<br></br>
+		<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+		<h4>YOU MIGHT ALSO LIKE:</h4>
+		    <a className="three-up" href="/articles/my-family-planning-journey">
+		        <img src="/images/familyplanningpreview.png" alt="My Family Planning Journey" />
+		        <p className="centered">My Family Planning Journey: A Contraceptive Story</p>
+		    </a>
+		    <a className="three-up" href="/articles/10-places-to-start-to-improve-your-feminism-literacy">
+		        <img src="/images/feminismliteracy-preview.png" alt="10 Places to Start to Improve Your Feminism Literacy" />
+		        <p className="centered">10 Places to Start to Improve Your Feminism Literacy</p>
+		    </a>
+		    <a className="three-up" href="/articles/feminist-book-list-winter-edition">
+		        <img src="/images/feministbooklistwinter-preview.png" alt="Feminist Book List: The Winter Edition" />
+		        <p className="centered">Feminist Book List: The Winter Edition</p>
+		    </a>
+	</div>
+},
+
 {id: "topics-to-normalize-in-2018-periods", title: <a href="/articles/topics-to-normalize-in-2018-periods">Topics to Normalize in 2018: PERIODS</a>, date: "January 9, 2018", category: "Opinion", photo: "/images/normalizedconvoperiods.png",  description: <div>Many women are uncomfortable asking if fellow ladies have an extra tampon or pad. I was recently asked this by someone whispering in my ear, and I thought, "Wouldn't it be nice to live in a world where we can ask these things aloud and not feel embarrassed, or feel like others may feel uncomfortable?" There are consequences to the topic of periods being silenced in society. Read more to find out some ways to normalize conversation around periods and provide a platform for change. <a href="/articles/topics-to-normalize-in-2018-periods">[Read more]</a></div>, post:
 	<div>
 	<img src="/images/normalizedconvoperiods.png" alt="Topics to Normalize:Periods" />
