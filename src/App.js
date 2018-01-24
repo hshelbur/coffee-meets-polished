@@ -9,6 +9,7 @@ import Archive from './pages/Archive.js';
 import ArticlePage from './pages/ArticlePage.js';
 import ArticleList from './pages/ArticleList.js';
 import ARTICLES from './data/Articles.js';
+import DisqusThread from './layout/DisqusThread.js';
 
 const App = () => (
   <Router>
@@ -104,7 +105,12 @@ const App = () => (
               const {id} = match.params
               const matches = ARTICLES.filter(article => article.id === id)
               return matches.length > 0 
-                ? <ArticlePage articles={matches} />
+                ? <div>
+                  <ArticlePage articles={matches} />
+                  <DisqusThread id={id}
+                                title={window.location.pathname}
+                                path={window.location.href} />
+                </div>
                 : <h1>Sorry, Article Not Found</h1>
             }} />
 
