@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 class ArticlePreview extends Component {
   render() {
 
-    const {title, date, category, description, photo} = this.props
+    const {key, title, date, category, description, photo} = this.props
 
     return(
         <article className="preview">
@@ -11,7 +11,7 @@ class ArticlePreview extends Component {
           <h3 className="article-timestamp"><time>{date}</time></h3>
           <p className="category"><a href={`/${category.toLowerCase()}`}>{category}</a></p>
           <div className="article-preview">
-            <img src={photo} alt="Article Preview" />
+            <a href={`/articles/${key}`}><img src={photo} alt="Article Preview" /></a>
             <p>{description}</p>
           </div>
         </article>
