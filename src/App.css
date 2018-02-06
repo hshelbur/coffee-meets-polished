@@ -688,12 +688,14 @@ footer .developed-by {
   display: inline-block;
   width: 30%;
   margin: 1.5%;
+  vertical-align: top;
 }
 
 .article .two-up {
   display: inline-block;
   width: 46.5%;
   margin: 1.5%;
+  vertical-align: top;
 }
 
 .article .portrait {

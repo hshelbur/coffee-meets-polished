@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 class ArticlePreview extends Component {
   render() {
 
-    const {title, date, category, description, photo} = this.props
+    const {key, title, date, category, description, photo} = this.props
 
     return(
         <article className="preview">

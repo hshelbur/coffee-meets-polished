@@ -890,7 +890,7 @@ INSIDER: 11/10-11/15 (USE CODE “INSIDER15”)</p>
 <p>26. You decide what defines you.</p>
 <p>27. Pay it forward whenever you can. You will always be better for it.</p>
 <p>28. Lean in to every opportunity to learn, take a risk, and be uncomfortable.</p>
-<p>At the end of the day, there’s a lot we can learn from those more seasoned that us. If you could tell you younger self anything, what would it be?</p>
+<p>At the end of the day, there’s a lot we can learn from those more seasoned than us. If you could tell your younger self anything, what would it be?</p>
 	<br></br>
 	<h4>❖❖❖</h4>
 	<br></br>
