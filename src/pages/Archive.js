@@ -5,7 +5,12 @@ class Archive extends Component {
     return(
         <section className="article">
         <h4><b>Coffee Meets Polished Archives</b></h4>
+          <p><b>FEBRUARY 2018</b></p>
+            <p className="tabbed"><a href="https://coffeemeetspolished.com/articles/favorite-podcasts-in-january-2018" rel="noopener noreferrer">Favorite Podcasts in January</a>
+              </p>
    			  <p><b>JANUARY 2018</b></p>
+            <p className="tabbed"><a href="https://coffeemeetspolished.com/articles/5-things-i-loved-in-january-2018" rel="noopener noreferrer">5 Things I Loved in January</a>
+              </p>
             <p className="tabbed"><a href="https://coffeemeetspolished.com/articles/everything-you-need-to-know-about-the-2018-womens-march" rel="noopener noreferrer">Everything You Need To Know About The 2018 Women's March</a>
               </p>
             <p className="tabbed"><a href="https://coffeemeetspolished.com/articles/topics-to-normalize-in-2018-periods" rel="noopener noreferrer">Topics to Normalize in 2018: PERIODS</a>

@@ -1,10 +1,89 @@
 import React from 'react';
 
 const ARTICLES = [
+{id: "favorite-podcasts-in-january-2018", title: <a href="/articles/favorite-podcasts-in-january-2018">Favorite Podcasts in January</a>, date: "February 5, 2018", category: "Activism", photo: "/images/podcastsofjanuary.png",  description: <div><p>Last year, I started listening to podcasts as a way to get my morning news on the way to work. Then it pivoted to an avenue to expand my knowledge using auditory learning, and I'm developing quite the expansive subscription list. Here are my absolute favorites from January, which includes new podcasts discoveries and topics on politics, race, identity, and feminism. </p> <a href="/articles/favorite-podcasts-in-january-2018">[Read more]</a></div>,
+post: 
+	<div>
+	<img src="/images/podcastsofjanuary.png" alt="Favorite Podcasts in January 2018" />
+		<br></br>
+	<p>Last year, I started listening to podcasts as a way to get my morning news on the way to work. Then it pivoted to an avenue to expand my knowledge using auditory learning, and I'm developing quite the expansive subscription list. Here are my absolute favorites from January, which includes new podcasts discoveries and topics on politics, race, identity, and feminism. </p>
+	<h4>❖❖❖</h4>
+	<h4><b>favorite new discovery.</b></h4>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="https://radiowolfgang.com/s/the-heart-of-it-with-est%C3%A9e-lalonde">The Heart of It with Estée Lalonde</a></b>: One of my favorite online creators and influencers, <a target="_blank" rel="noopener noreferrer" href="http://www.esteelalonde.com/">Estée Lalonde</a>, created a podcast and season one was last year. I only started listening to it this January and once I listened to one, I binge-listened to all of them. Needless to say, I CAN'T WAIT for season two. One channel description says:</p>
+	<p>"In this series, lifestyle blogger and author, Estée Lalonde explores subjects close to her heart, through the unique experiences and perspectives of her guests. This season, it's all about women. From makeup to identity, tattoos to strength, Estée talks to fascinating individuals from all walks of life as they share their personal stories in a celebration of all things female."</p>
+	<p>It's really difficult for me to pick one, but if I had to, it would be the episode on <b>Identity</b>. She talks about her Canadian roots combined with her immigration to Britain, and other components of the "recipe of Estée". Topics surrounding nationality, heritage, codeswitching, and relating to others are discussed.</p>
+		<br></br>
+	<p><a href="https://radiowolfgang.com/s/the-heart-of-it-with-est%C3%A9e-lalonde/identity"><img src="/images/esteelalondeidentitypodcast.png" alt="The Heart of It with Estée Lalonde Identity" /></a></p>
+		<br></br>
+	<p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2r7hlxE">Being "Not That" Asian</a></b></p>
+	<h4><b>politics.</b></h4>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="https://www.npr.org/podcasts/510308/hidden-brain">NPR Hidden Brain</a></b>: This channel is no stranger to my favorites list. I love the variety of topics with great research and interviews. I have two favorites from this channel in January.</p>
+		<br></br>
+	<p className="centered"><iframe width="100%" height="205" src="https://www.npr.org/player/embed/578165785/578210216" scrolling="no" frameborder="0" allowfullscreen title="NPR embedded audio player"></iframe></p>
+	<p>"Our airwaves are filled with debates about immigrants and refugees. Who should be in the United States, who shouldn't, and who should decide? These modern debates often draw upon our ideas about past waves of immigration. We sometimes assume that earlier generations of newcomers quickly learned English and integrated into American society. But historian Maria Cristina Garcia says these ideas are often false." <a target="_blank" rel="noopener noreferrer" href="https://www.npr.org/templates/transcript/transcript.php?storyId=578169724">Transcript found here</a>.</p>
+		<br></br>
+	<p className="centered"><iframe width="100%" height="205" src="https://www.npr.org/player/embed/575959966/576606076" scrolling="no" frameborder="0" allowfullscreen title="NPR embedded audio player"></iframe></p>
+	<p>"The tone of American politics can be...nasty. It doesn't take a seasoned political analyst to see that. But is this nastiness really worse than in previous eras, and if so, what does that mean for our democracy? Historian David Moss takes the long view. He argues that our political systems are much more resilient than we realize, and that conflict, however bitter it may seem, can be productive." <a target="_blank" rel="noopener noreferrer" href="https://www.npr.org/templates/transcript/transcript.php?storyId=575942968">Transcript found here</a>.</p>
+		<br></br>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="https://www.washingtonpost.com/podcasts/constitutional/?utm_term=.12fa616c87f1">Washington Post Constitutional</a></b>: This is another new podcast discovery for me that's become one of my favorites to listen to while I <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2nY1tsT">run in Central Park</a>. This is the follow-up series created after <a target="_blank" rel="noopener noreferrer" href="https://www.washingtonpost.com/graphics/business/presidential-podcast/">Washington Post's Presidential Podcast</a>, which I will be listening to next. Constitutional episodes are set up how I wish my AP U.S. History class was in high school. But perhaps I wasn't in a place yet to appreciate how history ties into most of what we experience today. Better late than never, right? My favorite episode so far (there are many great ones) was on the First Amendment. You can listen below and check out the <a target="_blank" rel="noopener noreferrer" href="https://www.washingtonpost.com/news/on-leadership/wp/2018/01/29/episode-16-of-the-constitutional-podcast-the-first-amendment/?utm_term=.795fa51c1acc">podcast transcript</a>.</p>
+		<br></br>
+	<p className="centered"><iframe width="100%" height="205"  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/389621415&amp;auto_play=false&amp;color=ff1388" scrolling="no" frameborder="0" allowfullscreen title="Washington Post embedded audio player"></iframe></p>
+		<br></br>
+	<h4><b>race and identity.</b></h4>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="https://www.npr.org/sections/codeswitch/">NPR Code Switch</a></b>:  The topics on this channel always leave me amazed at how much I relate, and grateful to be given examples of ways to express it. Two favorites this month were on race and identity.</p>
+		<br></br>
+	<p className="centered"><iframe width="100%" height="205"  src="https://www.npr.org/player/embed/578386796/578464261" scrolling="no" frameborder="0" allowfullscreen title="NPR embedded audio player"></iframe></p>
+	<p>"Our episode about multi-racial people and their search for identity struck a nerve. Now we're asking, 'What other stories do you want to hear?'" <a target="_blank" rel="noopener noreferrer" href="https://www.npr.org/templates/transcript/transcript.php?storyId=578447949">Transcript found here</a>.</p>
+		<br></br>
+	<p className="centered"><iframe width="100%" height="205" src="https://www.npr.org/player/embed/579757002/580129041" scrolling="no" frameborder="0" allowfullscreen title="NPR embedded audio player"></iframe></p>
+	<p>"When Donald Trump allegedly referred to Haiti, El Salvador and some African countries as 's******es,' we called his comments r-...rr-...really really vulgar. Why were we so afraid to call them racist?" <a target="_blank" rel="noopener noreferrer" href="https://www.npr.org/templates/transcript/transcript.php?storyId=578169724">Transcript found here</a>.</p>
+		<br></br>
+	<p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2DCGp2p">"What Are You?" How I’ve Been Asked About My Ethnicity</a></b></p>
+		<br></br>
+	<h4><b>feminism.</b></h4>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="https://www.unladylike.co/episodes">Unladylike</a></b>: This channel premiered in January and came out with a bang talking about <a target="_blank" rel="noopener noreferrer" href="https://www.unladylike.co/episodes/01payforabortion">how to pay for an abortion</a>. I think it's extremely important to bring up controversial or "taboo" topics and break down why they may be that way. And once you discover reasons why topics have been deemed "unladylike", challenge it and normalize it. Abortion is not an easy topic to do without causing extreme divisiveness that clouds the conversation. The style of this podcast is to go full force into a topic and provide tools of support. If you haven't yet, definitely see their other episodes so far.</p>
+		<br></br>
+	<p className="centered"><iframe width="100%" height="205" src="https://art19.com/shows/unladylike/episodes/69cfd523-cf14-4425-8b80-67f1e5faf7a8/embed?theme=light-custom" scrolling="no" frameborder="0" allowfullscreen title="Unladylike embedded audio player"></iframe></p>
+		<br></br>
+	<p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2DuawZE">10 Places to Start to Improve Your Feminism Literacy</a></b></p>
+		<br></br>
+	<h4><b>career.</b></h4>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="https://soundcloud.com/ladies-who-lunch">Ladies Who Lunch</a></b>: This channel recently had a return after some time without publishing episodes and I'm all for it. One of the episodes in January was around "non-romantic rejection". When I saw the title, I wasn't sure what it was about but when I read the description found it extremely relatable and grateful that it was being discussed. The description is:</p>
+	<p>"Our friend Chris Klemens joins us this week to talk about rejection. Being involuntary forced to leave a job or professional relationship can swirl you into a downpour of emotion: embarrassment, depression, worthlessness, self-pity and shame. As someone who recently got fired, Chris gives us insight into how that feeling of failure affected his self-worth. Cat unexpectedly reached the end of a professional relationship, and her confidence took a massive hit. Your identity is deeply embedded with what you do, so how does being rejected affect your relationship to vulnerability in your life?"</p>
+		<br></br>
+	<p className="centered"><iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/387718175&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe></p>
+		<br></br>
+	<p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2DGQ4nX">10 Tips for Orienting Yourself to a New Job</a></b></p>
+		<br></br>
+	<p>Have you checked any of these out? If so, comment below to tell me what you think! I would also love any suggestions for me to listen to!</p>
+		<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+	<h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>YOU MIGHT ALSO LIKE:</h4>
+	    <a className="three-up" href="/articles/favorite-podcasts-of-2017">
+	        <img src="/images/favoritepodcastsof2017.png" alt="Favorite Podcasts of 2017" />
+	        <p className="centered">Favorite Podcasts of 2017</p>
+	    </a>
+	    <a className="three-up" href="/articles/being-not-that-asian">
+	        <img src="/images/notthatasian-preview.png" alt="Not That Asian" />
+	        <p className="centered">Being "Not That" Asian</p>
+	    </a>
+	    <a className="three-up" href="/articles/topics-to-normalize-in-2018-periods">
+	        <img src="/images/normalizedconvoperiods.png" alt="Topics to Normalize in 2018 PERIODS" />
+	        <p className="centered">Topics to Normalize in 2018: PERIODS</p>
+	    </a>
+	</div>
+},
+
+
 {id: "5-things-i-loved-in-january-2018", title: <a href="/articles/5-things-i-loved-in-january-2018">5 Things I Loved in January</a>, date: "January 31, 2018", category: "Life", photo: "/images/centralparkonassis.jpg",  description: <div><p>This month felt like it went by faster than others. Do I say that every month?  After an amazing holiday season with family, New York City welcomed me back with frigid temperatures after a canceled flight due to the <a target="_blank" rel="noopener noreferrer" href="https://www.vox.com/science-and-health/2018/1/3/16845048/winter-storm-2018-bomb-cyclone-blizzard-florida-new-york-boston-new-england">bomb cyclone</a>. After that, the month was pleasant and filled with microadventures, activism, fitness, and learning. Check out my top 5 loves in January.</p> <a href="/articles/5-things-i-loved-in-january-2018">[Read more]</a></div>,
 post: 
 	<div>
-	<br></br>
+		<br></br>
 	<p>This month felt like it went by faster than others. Do I say that every month?  After an amazing holiday season with family, New York City welcomed me back with frigid temperatures after a canceled flight due to the <a target="_blank" rel="noopener noreferrer" href="https://www.vox.com/science-and-health/2018/1/3/16845048/winter-storm-2018-bomb-cyclone-blizzard-florida-new-york-boston-new-england">bomb cyclone</a>. After that, the month was pleasant and filled with microadventures, activism, fitness, and learning. Here are 5 things I loved in January!</p>
 	<h4><b>facetime.</b></h4>
 	<img src="/images/facetimezeke.jpg" alt="Facetime Zeke" />
