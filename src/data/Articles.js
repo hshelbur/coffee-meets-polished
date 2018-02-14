@@ -1,6 +1,80 @@
 import React from 'react';
 
 const ARTICLES = [
+{id: "10-affordable-date-night-ideas-in-nyc", title: <a href="/articles/10-affordable-date-night-ideas-in-nyc">10 Affordable Date Night Ideas in NYC</a>, date: "February 13, 2018", category: "Life", photo: "/images/affordabledatenight-preview.png",  description: <div><p>One thing you quickly learn either visiting or living in NYC is that it's really easy to spend money whether you want to or not. No matter the time of year, these budget-friendly date ideas are great options for you to do solo (#selflovematters) or with your loved one(s). These dates have been tested over and over with my significant other, and they never disappoint. </p> <a href="/articles/10-affordable-date-night-ideas-in-nyc">[Read more]</a></div>,
+post: 
+	<div>
+		<img src="/images/affordabledatenight-preview.png" alt="10 Affordable Date Night Ideas in NYC" />
+	<p>One thing you quickly learn either visiting or living in NYC is that it's really easy to spend money whether you want to or not. It's a much more active process to live on a budget. And I understand it's like that everywhere, but in this city you can't walk a block without passing store and restaurant windows that magically open your wallet. Sometimes it's worth it, and sometimes you get thoughts like "I could have made that dinner myself."</p>
+	<p>No matter the time of year, these budget-friendly date ideas are great options for you to do solo (#selflovematters) or with your loved one(s). These dates have been tested over and over with my significant other, and they never disappoint.</p>
+	<p>1. <b>Museums:</b> ($0 - Pay as you wish/person)</p>
+		<img src="/images/amnhmember.jpg" alt="American Museum of Natural History" />
+	<p>There are museums with paid entry, ones that are "pay as you wish", and ones with special deals on certain days of the week. Here is a great website for reference with <a target="_blank" rel="noopener noreferrer" href="https://www.nyc-arts.org/collections/35/free-museum-days-or-pay-what-you-wish">free museum days</a>. My personal favorites are the <a target="_blank" rel="noopener noreferrer" href="https://www.amnh.org/">American Museum of Natural History</a> and <a target="_blank" rel="noopener noreferrer" href="https://www.metmuseum.org/">Metropolitan Museum</a>.</p>
+	<p>2. <b><a target="_blank" rel="noopener noreferrer" href="http://www.centralparknyc.org/">Central Park</a>:</b> ($0/person)</p>
+		<img src="/images/centralparkpicnic.jpg" alt="Central Park" />
+	<p>Take a walk through Central Park. Don't be tricked into getting around with the carriages or bikes if you're on a budget - you pay for these by the MINUTE (use Citi Bike instead… keep reading). If you'd like, take some food from the nearby grocery and have yourself a picnic on the Great Lawn or one of the many benches throughout the expansive park. There are also tours throughout the day that are free if you want to learn some <a target="_blank" rel="noopener noreferrer" href="http://www.centralparknyc.org/events/">Central Park fun facts</a>!</p>
+	<p>3. <b><a target="_blank" rel="noopener noreferrer" href="https://www.citibikenyc.com/">Citi Bike</a> through the city:</b> ($12/day-$14.95/month annual commitment)</p>
+		<img src="/images/citi-bike.jpg" alt="Citi Bike NYC" />
+	<p>One way to get around besides walking, metro, cab, there's also a bike share program called <a target="_blank" rel="noopener noreferrer" href="https://www.citibikenyc.com/">Citi Bike</a>. There are over 6,000 stations throughout the city and the day or year passes afford you unlimited rides. The day pass gives you 30 minutes per ride, and the year pass gives you 45 minutes per ride. My boyfriend and I will bike around and when time is getting close to the limit, we return at the nearest station and unlock another bike. One of our favorite ways to use this is to bike through Central Park.</p>
+	<p>4. <b><a target="_blank" rel="noopener noreferrer" href="http://bryantpark.org/amenities/bank-of-america-winter-village-at-bryant-park">Ice Skating in Bryant Park</a>:</b> ($0 - $20/person)</p>
+		<img src="/images/bryantparkrink.jpg" alt="Bryant Park Rink" />
+	<p>The Rink is open generally from October to March and is especially great during the holidays with the <a target="_blank" rel="noopener noreferrer" href="http://bryantpark.org/amenities/bank-of-america-winter-village-at-bryant-park">Winter Village</a>. Admission is FREE and if you have your own ice skates, you're good to go! They do have the option to rent skates for $20 per pair. Bryant Park is one of my favorite parks in NYC (can't beat Central Park, but this is high up on the list) and it's right in the middle of some tall buildings and great shopping.</p>
+	<p>5. <b><a target="_blank" rel="noopener noreferrer" href="https://www.nypl.org/locations/mid-manhattan-library">New York Public Library, Mid-Manhattan location</a>:</b> ($0/person)</p>
+		<img src="/images/nypl.jpg" alt="New York Public Library Mid-Manhattan" />
+	<p>After a nice skating workout, check out the New York Public Library while you're at it. It's right next door! There are beautiful, history sites and collection all throughout the interior. It's a great date location for quiet, calm, cultural learning together. In addition to the sites inside, there is a whole <a target="_blank" rel="noopener noreferrer" href="https://www.nypl.org/events/calendar?location=45">calendar of events</a> that are available for the public.</p>
+		<br></br>
+	<p>[RELATED] <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2Ec4Unv">My [free] NYC Winter Holiday Bucket List</a></p>
+		<br></br> 
+	<p>6. <b>Home-Cooked Dinner + Streaming:</b> ($0-whatever grocery budget you decide!)</p>
+		<img src="/images/homecookedmeal.jpg" alt="Home Cooked Dinner" />
+	<p>Tried and true, stay-at-home, DIY classic date. One of my favorite things to do with my significant other is cook and stream a TV show or movie on Amazon Prime, Netflix, or HBO (no Hulu yet!). These streams provide tons of choices for a great date night, especially when your local theater in NYC is $16-18 per movie ticket (unless you get Movie Pass… keep on reading)!</p>
+	<p>7. <b><a target="_blank" rel="noopener noreferrer" href="https://www.moviepass.com/">Movie Pass</a>:</b> ($9.95/month)</p>
+		<img src="/images/moviepass.jpg" alt="Wrinkle In Time Movie Pass" />
+	<p>I talked about <a target="_blank" rel="noopener noreferrer" href="https://www.moviepass.com/">Movie Pass</a> in my <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2nY1tsT">5 Things I Loved in January</a> post and continue to be in love with it! When the movie theater tickets run over $16 here plus the inevitable popcorn and drinks, one-time use of the Movie Pass more than pays for itself. So if you're tired of your streaming options, you can still go to the theater with this great option.</p>
+		<br></br>
+	<p>[RELATED] <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2nY1tsT">5 Things I Loved in January</a></p>
+		<br></br>
+	<p>8. <b>Comedy Show at <a target="_blank" rel="noopener noreferrer" href="https://thepit-nyc.com/">The People's Improv Theater</a>:</b> ($0-$8/person)</p>
+		<img src="/images/pit-1.jpg" alt="Pe0ple's Improv Theater" />
+	<p>The <a target="_blank" rel="noopener noreferrer" href="https://thepit-nyc.com/">People's Improv Theater (PIT)</a> is a training center and comedy theater where you can see trainees and up-and-coming comedians perform at really affordable prices. There are shows, open mic nights, and class performances from all levels. If you're tired of drink limits at your comedy shows, this place is for you too. On their <a target="_blank" rel="noopener noreferrer" href="https://thepit-nyc.com/events">calendar of events</a> you can see upcoming shows and prices.</p>
+	<p>9. <b>Happy Hour:</b> ($10-$30/person)</p>
+		<img src="/images/happyhour.jpg" alt="Happy Hour" />
+	<p>If you still want to go out but don't want the full-blown dinner entrée + drinks, Happy Hour is the way to go. They have drink and food specials throughout the city. Most of my recommendations are around my 'hood, the Upper West Side. My favorite spot is <a target="_blank" rel="noopener noreferrer" href="http://www.ellakitchenbar.com/">Ella Kitchen and Bar</a> (tapas, Sangria, cocktails).</p>
+	<p>Other options include:</p>
+	<p className="tabbed">➢<a target="_blank" rel="noopener noreferrer" href="http://e-barnyc.com/"> E's Bar</a> (board games, beer, burgers)</p>
+	<p className="tabbed">➢<a target="_blank" rel="noopener noreferrer" href="https://www.beerculture.nyc/gebhards">Gebhard's Beer Culture</a> (shuffle board, beer, chili, nachos)</p>
+	<p className="tabbed">➢<a target="_blank" rel="noopener noreferrer" href="http://cravefishbar.com/"> Crave Fishbar</a> - 2 locations (oysters, cocktails)</p>
+	<p className="tabbed">➢<a target="_blank" rel="noopener noreferrer" href="http://www.nycbestbar.com/ginmill/"> The Gin Mill</a> (great beer specials)</p>
+		<br></br>
+	<p>[RELATED] <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2DS9bhW">4 Considerations for Picking Weekend Brunch + My Favorite UWS Spot</a></p>
+		<br></br>
+	<p>10. <b><a target="_blank" rel="noopener noreferrer" href="https://www.juilliard.edu/stage-beyond/performance-calendar">Julliard School recitals</a>:</b> ($0-$30/person)</p>
+		<img src="/images/julliardschool.jpg" alt="Julliard School" />
+	<p>This is a new one for me, and I am so excited to explore this more often. Over the summer, there are tons of free performances in parks but other than that I haven't figured out a way to quench my classical arts thirst in an affordable way. Then it was suggested to me to check out the Julliard performance calendar and it's absolutely perfect. So many performances and recitals almost every day. Some are free, most are $30/ticket (which is so much cheaper than Carnegie Hall or Lincoln Center) and $15/ticket for a fulltime non-Julliard student.</p>
+	<p>What are your budget-friendly date ideas? Share them in the comments below!</p>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+	<h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+		<br></br>
+	<h4>YOU MIGHT ALSO LIKE:</h4>
+	    <a className="three-up" href="/articles/my-free-nyc-winter-holiday-bucket-list">
+	        <img src="/images/nycholiday-preview.png" alt="Free NYC Winter Holiday Bucket List" />
+	        <p className="centered">My [free] NYC Winter Holiday Bucket List</p>
+	    </a>
+	    <a className="three-up" href="/articles/nyc-holiday-microadventures-city-trees-2017">
+	        <img src="/images/nypltree-preview.png" alt="NYC Holiday Microadventures: City Trees" />
+	        <p className="centered">NYC Holiday Microadventures: City Trees</p>
+	    </a>
+	    <a className="three-up" href="/articles/6-ways-to-own-your-introversion">
+	        <img src="/images/owned-introversion-preview.png" alt="Owning Your Introversion" />
+	        <p className="centered">6 Ways to Own Your Own Introversion</p>
+	    </a>
+	</div>
+},
+
 {id: "favorite-podcasts-in-january-2018", title: <a href="/articles/favorite-podcasts-in-january-2018">Favorite Podcasts in January</a>, date: "February 5, 2018", category: "Activism", photo: "/images/podcastsofjanuary.png",  description: <div><p>Last year, I started listening to podcasts as a way to get my morning news on the way to work. Then it pivoted to an avenue to expand my knowledge using auditory learning, and I'm developing quite the expansive subscription list. Here are my absolute favorites from January, which includes new podcasts discoveries and topics on politics, race, identity, and feminism. </p> <a href="/articles/favorite-podcasts-in-january-2018">[Read more]</a></div>,
 post: 
 	<div>
@@ -81,7 +155,7 @@ post:
 
 
 {id: "5-things-i-loved-in-january-2018", title: <a href="/articles/5-things-i-loved-in-january-2018">5 Things I Loved in January</a>, date: "January 31, 2018", category: "Life", photo: "/images/centralparkonassis.jpg",  description: <div><p>This month felt like it went by faster than others. Do I say that every month?  After an amazing holiday season with family, New York City welcomed me back with frigid temperatures after a canceled flight due to the <a target="_blank" rel="noopener noreferrer" href="https://www.vox.com/science-and-health/2018/1/3/16845048/winter-storm-2018-bomb-cyclone-blizzard-florida-new-york-boston-new-england">bomb cyclone</a>. After that, the month was pleasant and filled with microadventures, activism, fitness, and learning. Check out my top 5 loves in January.</p> <a href="/articles/5-things-i-loved-in-january-2018">[Read more]</a></div>,
-post: 
+	post: 
 	<div>
 		<br></br>
 	<p>This month felt like it went by faster than others. Do I say that every month?  After an amazing holiday season with family, New York City welcomed me back with frigid temperatures after a canceled flight due to the <a target="_blank" rel="noopener noreferrer" href="https://www.vox.com/science-and-health/2018/1/3/16845048/winter-storm-2018-bomb-cyclone-blizzard-florida-new-york-boston-new-england">bomb cyclone</a>. After that, the month was pleasant and filled with microadventures, activism, fitness, and learning. Here are 5 things I loved in January!</p>
