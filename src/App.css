@@ -789,7 +789,7 @@ footer .developed-by {
 }
 
 @media (max-width: 768px) {
-  .article .cell-phone {
+  .article .cell-phone, .article .two-up, .article .three-up {
     width: 100%; } }
 
 .article-footer {
