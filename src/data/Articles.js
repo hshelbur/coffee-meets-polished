@@ -75,12 +75,12 @@ post:
 	</div>
 },
 
-{id: "19-before-2019-goals-update-january", title: <a href="/articles/19-before-2019-goals-update-january">19 Before 2019 Goals Update: January</a>, date: "February 8, 2018", category: "Life", photo: "/images/januarygoalsupdate2018-preview.png",  description: <div><p>So far this year, my 19 Before 2019 post has been the most popular one. Because of that, I decided to keep you all updated each month with my progress to ensure they weren't just goals made on a whim and show you how I plan to accomplish them, step-by-step. If you're enjoying this kind of content, be sure to let me know in the comment section! </p> <a href="/articles/19-before-2019-goals-update-january">[Read more]</a></div>,
+{id: "19-before-2019-january-goals-update", title: <a href="/articles/19-before-2019-january-goals-update">19 Before 2019: January Goals Update</a>, date: "February 8, 2018", category: "Life", photo: "/images/januarygoalsupdate2018-preview.png",  description: <div><p>So far this year, my <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2mCwVg9">19 Goals Before 2019</a> post has been the most popular one. Because of that, I decided to keep you all updated each month with my progress to ensure they weren't just goals made on a whim and show you how I plan to accomplish them, step-by-step. If you're enjoying this kind of content, be sure to let me know in the comment section! </p> <a href="/articles/19-before-2019-january-goals-update">[Read more]</a></div>,
 post: 
 	<div>
 		<img src="/images/januarygoalsupdate2018-preview.png" alt="January Goals Update" />
 	<p>So far this year, my <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2mCwVg9">19 Goals Before 2019</a> post has been the most popular one. Because of that, I decided to keep you all updated each month with my progress to ensure they weren't just goals made on a whim and show you how I plan to accomplish them, step-by-step.</p>
-	<p>If you're enjoying this kind of content, be sure to let me know in the comment section! </p>
+	<p>If you're enjoying this kind of content, be sure to <b>let me know in the comment section</b>! </p>
 	<h4>❖❖❖</h4>
 	<h4>personal.</h4>
 		<p>1. Run a 5K in Manhattan - <b>IN PROGRESS</b></p>
