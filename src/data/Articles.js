@@ -75,6 +75,81 @@ post:
 	</div>
 },
 
+{id: "19-before-2019-january-goals-update", title: <a href="/articles/19-before-2019-january-goals-update">19 Before 2019: January Goals Update</a>, date: "February 8, 2018", category: "Life", photo: "/images/januarygoalsupdate2018-preview.png",  description: <div><p>So far this year, my <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2mCwVg9">19 Goals Before 2019</a> post has been the most popular one. Because of that, I decided to keep you all updated each month with my progress to ensure they weren't just goals made on a whim and show you how I plan to accomplish them, step-by-step. If you're enjoying this kind of content, be sure to let me know in the comment section! </p> <a href="/articles/19-before-2019-january-goals-update">[Read more]</a></div>,
+post: 
+	<div>
+		<img src="/images/januarygoalsupdate2018-preview.png" alt="January Goals Update" />
+	<p>So far this year, my <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2mCwVg9">19 Goals Before 2019</a> post has been the most popular one. Because of that, I decided to keep you all updated each month with my progress to ensure they weren't just goals made on a whim and show you how I plan to accomplish them, step-by-step.</p>
+	<p>If you're enjoying this kind of content, be sure to <b>let me know in the comment section</b>! </p>
+	<h4>❖❖❖</h4>
+	<h4>personal.</h4>
+		<p>1. Run a 5K in Manhattan - <b>IN PROGRESS</b></p>
+		<p className="tabbed">I set a weekly goal to start running 1 mile per week, and I did it! By the last week of January, I actually ran 2 miles twice in one week. My February goal is to do 2 miles twice per week consistently with the goal of 3 miles once per week by the end.</p>
+		<p>2. Travel out of the country twice - <b>IN PROGRESS</b></p>
+		<p className="tabbed">This goal is officially <b>in progress</b>! My boyfriend and I have booked a trip to Barcelona in May, after jumping on an alert from Scott's Cheap Flights. I'm so excited and currently doing a lot of research of places to go and things to do. If you have any recommendations, please share them in the comments section!</p>
+		<p>3. Participate in a protest/march - <b>COMPLETE!</b></p>
+		<p className="tabbed">Women's march. 'Nuff said. ✓</p>
+		<p>4. Submit 10 essays/articles for websites - <b>IN PROGRESS</b></p>
+		<p className="tabbed">Submitting 10 essays/articles means creating new content not for my own, so this requires some extra effort. The first step I wanted to do was collate a list of websites that would accept articles. I've collected a list of 12 and will work on outlines for a few in February as the next step.</p>
+		<p>5. Take a creative writing course - <b>NOT STARTED</b></p>
+		<p className="tabbed">This one I did a little bit of research for in January. Through my work, I have some education credits where I can take courses with reimbursed tuition at places like Columbia University (!). I looked at some class schedules for creative writing courses at Columbia to see that they existed in the first place. They have classes for fiction, non-fiction, writing memoirs, and so much more. I hope to explore some options when I know that I will not be traveling so much.</p>
+		<p>6. Learn how to curl hair with a curler - <b>NOT STARTED</b></p>
+		<p className="tabbed">Haven't make much progress here; but I watched <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=3qulMLhziCA">Estée  Lalonde's video</a> to inspire me to buy a curler! In February I will commit to doing more research. Buying new larger products takes time for me; I've also had the same hair straightener since high school and it's still going strong, so I want this curler purchase to be a good one.</p>
+		<p>7. Pay more rent than student loan bill each month - <b>IN PROGRESS</b></p>
+		<p className="tabbed">I'm proud to say that I paid >$1000 more than the bill I owed. It's put me in "pay-ahead" status for a lot of my loans and thus my February has $0.00 due. I plan to continue paying them off since this means they will go towards my principal balance, not the interest!</p>
+		<p>8. Wear more lipstick - <b>IN PROGRESS</b></p>
+		<p className="tabbed">Did not do so well with this one in January. Work got busy and I wanted more sleep in the mornings. These are not good excuses. But alas, they are my excuses. I will work better on this in February and beyond. I think the struggle here is that it's not a SMART goal. What's the objective? How will I know I've achieved this? I will need to figure this out for this to feel accomplished.</p>
+		<p>9. Finish Project Pan 2018 (18 skin care/make up products) - <b>IN PROGRESS</b></p>
+		<p className="tabbed">I've finished 2 products so far! If you're interested in me writing a post about what my 18 products are, leave me a comment below!</p>
+		<p>10. Explore all of the New York City boroughs - <b>NOT STARTED</b></p>
+		<p className="tabbed">I didn't get out of Manhattan much this month at all! In February, I hope to go to Queens or Brooklyn.</p>
+		<p>11. Go to a cultural/activist event every month - <b>IN PROGRESS</b></p>
+		<p className="tabbed">Does Women's March count for January? It should.</p>
+	<h4>coffee meets polished.</h4>
+		<p>12. Reach 500 followers on Instagram - <b>IN PROGRESS</b></p>
+		<p className="tabbed">I reached 300 followers by the end of January! And as of today, I am at 335. Inching my way to 500 and hope to surpass it way before the year is out.</p>
+		<p>13. Reach 100 MailChimp subscriptions - <b>IN PROGRESS</b></p>
+		<p className="tabbed">This one is a bit more difficult. I gained 9 more subscribers, but have some strategies in my back pocket that are planned. Stay tuned!</p>
+		<p>14. Reach 500 followers of Twitter - <b>IN PROGRESS</b></p>
+		<p className="tabbed">I've reached 300 followers by the end of January, just like Instagram! I'm confident this goal will be achieved.</p>
+		<p>15. Start YouTube channel - <b>NOT STARTED</b></p>
+		<p className="tabbed">No plans to create the channel quite yet. Well, I have plans, but it's lower on my personal strategic plan (more to come). </p>
+		<p>16. Create worksheets for reader downloads - <b>IN PROGRESS</b></p>
+		<p className="tabbed">I've drafted ideas for worksheets, but need to learn how to create them digitally! Final drafts will be worked on in February as next steps.</p>
+		<p>17. Finish draft for merchandise - <b>NOT STARTED</b></p>
+		<p className="tabbed">I have a list of ideas, but nothing in final draft stages. More to come in the next months, but honestly no progress has been made.</p>
+		<p>18. Create a monthly challenge - <b>NOT STARTED</b></p>
+		<p className="tabbed">I didn't pursue some of my ideas this month. I was hoping to do a "self love" challenge in February but clearly that didn't pan out. I have more ideas for later months and hope to have one planned out far enough in advance.</p>
+		<p>19. Do a giveaway and/or collaboration - <b>NOT STARTED</b></p>
+		<p className="tabbed">I honestly haven't gotten the guts yet to reach out for a collaboration. But I'm hoping once I reach some of my follower milestones that I'll do a giveaway. I'm excited to keep growing and expanding with other content creators!</p>
+		<p>Each month it's important to celebrate your progress and not get bogged down with how many more "in progress" and "not started" there are compared to "complete". Focus on <b>continuous improvement</b>. Our job is rarely completely finished, especially when it comes to our personal growth.</p>
+	<h4>How are your goals this year moving along?</h4>
+		<br></br>
+		<h4>❖❖❖</h4>
+		<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+	<h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>YOU MIGHT ALSO LIKE:</h4>
+		<a className="three-up" href="/articles/hopeful-for-in-2018">
+		    <img src="/images/hopefulfor2018.png" alt="HopefulFor2018" />
+		    <p className="centered">Hopeful For in 2018</p>
+	    </a>
+	    <a className="three-up" href="/articles/5-things-i-loved-in-january-2018">
+	        <img src="/images/centralparkonassis.jpg" alt="5 Things I Loved in January 2018" />
+	        <p className="centered">5 Things I Loved in January</p>
+	    </a>
+	    <a className="three-up" href="/articles/19-before-2019-a-goal-setting-challenge">
+	        <img src="/images/19before2019.png" alt="19 Before 2019 Goals" />
+	        <p className="centered">19 Before 19: A Goal Setting Challenge</p>
+	    </a>
+
+	</div>
+},
+
 {id: "favorite-podcasts-in-january-2018", title: <a href="/articles/favorite-podcasts-in-january-2018">Favorite Podcasts in January</a>, date: "February 5, 2018", category: "Activism", photo: "/images/podcastsofjanuary.png",  description: <div><p>Last year, I started listening to podcasts as a way to get my morning news on the way to work. Then it pivoted to an avenue to expand my knowledge using auditory learning, and I'm developing quite the expansive subscription list. Here are my absolute favorites from January, which includes new podcasts discoveries and topics on politics, race, identity, and feminism. </p> <a href="/articles/favorite-podcasts-in-january-2018">[Read more]</a></div>,
 post: 
 	<div>
