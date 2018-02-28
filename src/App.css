@@ -805,6 +805,20 @@ footer .developed-by {
   margin-bottom: 20px;
 }
 
+.quoteStyling {
+  font-family: 'Lato' , sans-serif;
+  text-align: center;
+  display: block;
+  color: black;
+  font-size: 32px;
+  border: 0;
+  border-top: 5px solid #293160;
+  border-bottom: 5px solid #293160;
+  line-height: 50px;
+  padding: 30px;
+  margin: 50px;
+}
+
 /* Side Bar Styles */
 
 .side-bar {
@@ -1503,16 +1517,3 @@ a:active {color:#213960;}  /* selected link */
 .form-horizontal .form-group:after {
   clear: both; }
 
-  .quoteStyling {
-    font-family: 'Lato' , sans-serif;
-    text-align: center;
-    display: block;
-    color: black;
-    font-size: 32px;
-    border: 0;
-    border-top: 5px solid #293160;
-    border-bottom: 5px solid #293160;
-    line-height: 50px;
-    padding: 30px;
-    margin: 50px;
-  }
