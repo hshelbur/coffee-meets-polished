@@ -66,6 +66,60 @@ post:
 	</div>
 },
 
+{id: "10-essential-tips-for-your-first-protest", title: <a href="/articles/10-essential-tips-for-your-first-protest">10 Essential Tips For Your First Protest</a>, date: "February 20, 2018", category: "Activism", photo: "/images/protest-preview.png",  description: <div><p>Protesting is powerful and inspiring. It's important to speak your truth, share your story, and exercise your right to free speech. A month ago, I had my first protesting experience at the Women's March in New York City. It was so empowering to be around thousands of other humans and animals in support of women's rights and equality. Since the first march, which I did not attend, I knew I wanted to be a part of it this year. And let me tell you - it did not disappoint. I learned so many things I want to share with you, and I hope these tips help whether it's your first of your 100th act of resistance. </p> <a href="/articles/10-essential-tips-for-your-first-protest">[Read more]</a></div>,
+post: 
+	<div>
+	<img src="/images/protest-preview.png" alt="Protest" />
+	<br></br>
+<p>A month ago, I had my first protesting experience at the Women's March in New York City. It was so empowering to be around thousands of other humans and animals in support of women's rights and equality. Since the first march, which I did not attend, I knew I wanted to be a part of it this year. And let me tell you - it did not disappoint.</p>
+<p>I learned so many things that day and I hope you can use these tips and pointers to optimize your protesting/march experience.</p>
+<h4>❖❖❖</h4>
+<p>1. <b>Get there early</b>. I made the mistake of getting to the Women's March a few minutes before it officially started. With how large it was I didn't get to start walking for over an hour. Oops! One benefit was that I got to stick to the outside of the crowd for fresh air and space.</p>
+<p>2. <b>Have a sign with a handle</b>. Holding a sign with one hand is more comfortable than two. I didn't have a handle on my sign and was jealous of everyone who did. It was hard to take pictures and send texts to others.</p>
+<p>3. <b>Have content on both sides of your sign</b>. I didn't realize this beforehand, but when it hit me I felt pretty silly. In a march, most people who see your sign are actually <b>behind you</b>. Yes, there are people on the sidelines cheering you on, but give a little something to fellow protesters behind you so they aren't staring at a blank sign the whole time.</p>
+<img className="two-up" src="/images/protest1.jpg" alt="Protest 1" />
+<img className="two-up" src="/images/protest2.jpg" alt="Protest 2" />
+<br></br>
+<p>4. <b>Be prepared for hecklers</b> - There's always a yin to the yang, especially in a protest. There is likely going to be others who are counter-protesting or will say/do things that attempt to weaken your protest. Always remember to stick to your "why" and march forward. You have support around you, lean on them.</p>
+<p>5. <b>Use the buddy system</b>. Emotions are high for everyone during a march, no matter what your views are and it's better to be safe than sorry. I went with a co-worker to the March and my boyfriend was home as my emergency contact. Because there were so many people at the Women's March my phone actually didn't work for most of it and my phone started draining quickly so I kept it on Airplane Mode to take pictures (see tip #9).</p>
+<p>6. <b>Talk with the people around you</b> - You know your "why", take the time to learn about others'. At the Women's March, it was so inspiring to chat with the people around me. We all have so many different experiences that add to our collective voice.</p>
+<p>7. <b>Take notes of what's on other signs</b> - You'll want to remember all of the creativity and cleverness on protest signs, but you won't. Take notes in your phone to write down ones you like! I had quite the list collected by the end that I can't wait to use as inspiration for my next protest. If you want me to share the list on this site, leave me a comment below!</p>
+<p>8. <b>Bring snacks + water</b>. Take a little backpack with you to put bottles of water and snacks. The Women's March was many hours, and there was lots of yelling and cheering. Stay hydrated and energized to fuel your activism.</p>
+<p>9. <b>Document the experience</b> - This should go without saying at this day and age, but nevertheless, definitely do it. I took both pictures and videos, saved Instagram Stories and Snapchats. </p>
+<p>10. <b>Share your story</b> - I'm hoping that years from now and generations to come I can still share my experience. By sharing your story and adding to the archives of activism, you are paying it forward and leading  by example. Channel your energy in to <b>action</b>. You never know, you may inspire other people to protest too.</p>
+<p>Protesting is powerful and inspiring. It's important to speak your truth, share your story, and exercise your right to free speech. I hope these tips help whether it's your first of your 100th protest.</p>
+<p>Have you been to a protest or march? If so, share your tips below for others to learn from!</p>
+<br></br>
+<h4>❖❖❖</h4>
+<br></br>
+<h4><b>tl;dr?</b></h4>
+<h4><b>PIN this image below!</b></h4>
+<img src="/images/protest-pinterest.png" alt="10 Tips for Protesting Pinterest" />
+<br></br>
+<h4>❖❖❖</h4>
+<br></br>
+<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+<br></br>
+<h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+<br></br>
+<h4>❖❖❖</h4>
+<br></br>
+<h4>YOU MIGHT ALSO LIKE:</h4>
+    <a className="three-up" href="/articles/feminist-book-list-winter-edition">
+        <img src="/images/feministbooklistwinter-preview.png" alt="Feminist Book List: The Winter Edition" />
+        <p className="centered">Feminist Book List: The Winter Edition</p>
+    </a>
+    <a className="three-up" href="/articles/hopeful-for-in-2018">
+        <img src="/images/hopefulfor2018.png" alt="HopefulFor2018" />
+        <p className="centered">Hopeful For in 2018</p>
+    </a>
+    <a className="three-up" href="/articles/favorite-podcasts-in-january-2018">
+        <img src="/images/podcastsofjanuary.png" alt="Favorite Podcasts of January 2018" />
+        <p className="centered">Favorite Podcasts of January 2018</p>
+    </a>
+</div>
+},
+
 {id: "10-affordable-date-night-ideas-in-nyc", title: <a href="/articles/10-affordable-date-night-ideas-in-nyc">10 Affordable Date Night Ideas in NYC</a>, date: "February 13, 2018", category: "Life", photo: "/images/affordabledatenight-preview.png",  description: <div><p>One thing you quickly learn either visiting or living in NYC is that it's really easy to spend money whether you want to or not. No matter the time of year, these budget-friendly date ideas are great options for you to do solo (#selflovematters) or with your loved one(s). These dates have been tested over and over with my significant other, and they never disappoint. </p> <a href="/articles/10-affordable-date-night-ideas-in-nyc">[Read more]</a></div>,
 post: 
 	<div>
