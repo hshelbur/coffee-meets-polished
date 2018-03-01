@@ -1,7 +1,59 @@
 import React from 'react';
 
 const ARTICLES = [
-{id: "favorite-podcasts-in-february-2018", title: <a href="/articles/favorite-podcasts-in-february-2018">Favorite Podcasts in February</a>, date: "February 28, 2018", category: "Activism", photo: "/images/podcastsoffebruary.png",  description: <div><p>February podcasts were all about love: love of self, love of one another, the cost of love, etc. Here are my absolute favorites from February, which includes new podcasts discoveries and topics on love, race, identity, and feminism. </p> <a href="/articles/favorite-podcasts-in-february-2018">[Read more]</a></div>,
+{id: "5-things-i-loved-in-february-2018", title: <a href="/articles/5-things-i-loved-in-february-2018">5 Things I Loved in February</a>, date: "February 28, 2018", category: "Life", photo: "/images/februaryloves2018-preview.png",  description: <div><p>What better a month than February to focus on love? There were so many things to love this month that it was hard to pin down just five. A lot happened this month around the country that were horrible and tragic, but it's reflections of things we love that help us remember our "why". Check out my top 5 loves in February.</p> <a href="/articles/5-things-i-loved-in-february-2018">[Read more]</a></div>,
+post: 
+	<div>
+	<br></br>
+	<img src="/images/februaryloves2018-preview.png" alt="5 Things I Loved in February" />
+	<p>What better a month than February to focus on love? There were so many things to love this month that it was hard to pin down just five. A lot happened this month around the country that were horrible and tragic, but it's reflections of things we love that help us remember our "why". Check out my top 5 loves in February.</p>
+		<br></br>
+	<p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="https://coffeemeetspolished.com/articles/5-things-i-loved-in-january-2018">5 Things I Loved in January</a></b></p>
+		<br></br>
+	<h4><b>teenage empowerment.</b></h4>
+	<p>I love when the younger generations are portrayed in a positive light. Being a Millenial, I can relate to being misunderstood or inappropriately labeled. The teenagers and teachers who survived the <a target="_blank" rel="noopener noreferrer" href="https://www.nytimes.com/2018/02/28/us/stoneman-douglas-parkland-shooting.html">Parkland School shooting</a> are heroes and agents for change. They channeled their energy into making the world better than the one that allowed their experience to happen. I look up to these students and hope they continue to heal and strengthen, and get what they want in life.</p>
+		<br></br>
+	<p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2DdLdOM">Power of Millenials
+	</a></b></p>
+		<br></br>
+	<h4><b>black panther.</b></h4>
+	<p>I watched this on opening weekend, and I don't remember the last time I did that (thank you, <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2HVpzNJ">Movie Pass</a>)! It was such an amazing experience to watch, and I felt very similarly to how I felt watching Wonder Woman. I felt this sense of importance of the movie, thinking of what kind of impact it has for African Americans and how they are represented in the media. If you haven't seen it yet, you must. There's a reason it's breaking records.</p>
+		<br></br>
+	<h4><b>winter olympics.</b></h4>
+	<p>Of course this is a favorite! I loved watching curling, alpine events, halfpipe, speed skating, and bob sled. I didn't watch as much figure skating since it played so late, but I did get to watch the female Russians compete for gold and silver and my jaw dropped. The coverage of the Olympics highlighted a lot of diversity of gender and race which was exciting to see. </p>
+		<br></br>
+	<h4><b>milk and honey.</b></h4>
+	<p>I've had <a target="_blank" rel="noopener noreferrer" href="http://www.bookculture.com/book/9781449474256">Milk and Honey</a> by <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/rupikaur_/?hl=en">Rupi Kaur</a> on my hold list for eBooks at the New York Public Library for months and months, and I finally got it! I had to force myself to take my time and reflect on each page. There were passages that took my breath away. Her ability to portray emotions into words on a page just amazes me. If you haven't read it yet, you must. I am considering purchasing the book for re-reading. On deck is her second book, <a target="_blank" rel="noopener noreferrer" href="http://www.bookculture.com/book/9781449486792">The Sun and Her Flowers.</a> </p>
+		<br></br>
+	<h4><b>love.</b></h4>
+	<p>February isn't the only month for love, but it's highlighted enough that it causes you to reflect on it. I feel grateful that I grew up in a home filled with love, and now that I'm independent I work towards self-love and mutual love with my boyfriend as we build a new home. Love is such an essential part of our human lives; it's important to nurture it and not take it for granted.</p>
+	<p>What did you love in February? Leave a comment below to share with us!</p>
+		<br></br>
+		<h4>❖❖❖</h4>
+		<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+	<h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+		<br></br>
+		<h4>❖❖❖</h4>
+		<br></br>
+		<h4>YOU MIGHT ALSO LIKE:</h4>
+		    <a className="three-up" href="/articles/hopeful-for-in-2018">
+		        <img src="/images/hopefulfor2018.png" alt="HopefulFor2018" />
+		        <p className="centered">Hopeful For in 2018</p>
+		    </a>
+		    <a className="three-up" href="/articles/power-of-millenials">
+		        <img src="/images/powerofmillenials-preview.png" alt="Power of Millenials" />
+		        <p className="centered">Power of Millenials</p>
+		    </a>
+		    <a className="three-up" href="/articles/favorite-podcasts-in-february-2018">
+		        <img src="/images/podcastsoffebruary.png" alt="Favorite Podcasts of February" />
+			    <p className="centered">Favorite Podcasts of February</p>
+    		</a>
+	</div>
+},
+
+{id: "favorite-podcasts-in-february-2018", title: <a href="/articles/favorite-podcasts-in-february-2018">Favorite Podcasts in February</a>, date: "February 27, 2018", category: "Activism", photo: "/images/podcastsoffebruary.png",  description: <div><p>February podcasts were all about love: love of self, love of one another, the cost of love, etc. Here are my absolute favorites from February, which includes new podcasts discoveries and topics on love, race, identity, and feminism. </p> <a href="/articles/favorite-podcasts-in-february-2018">[Read more]</a></div>,
 post: 
 	<div>
 	<img src="/images/podcastsoffebruary.png" alt="Favorite Podcasts in February 2018" />
