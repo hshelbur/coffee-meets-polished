@@ -1,0 +1,23 @@
+.about-me h1, .beauty h1, .life h1, .archive h1, .career h1, .food h1, .home h1 {
+    display: none;
+  }
+  
+  .about-me img, .archive img {
+    margin-top: 30px;
+  }
+  
+  .about-me p, .archive p {
+    font-size: 15px;
+    font-weight: 200;
+    line-height: 200%;
+    color: #4a5050;
+    margin: auto;
+    width: 80%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .archive .email {
+    color: #213960;
+  }
+  
