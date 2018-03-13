@@ -1,6 +1,88 @@
 import React from 'react';
 
 const ARTICLES = [
+{id: "19-before-2019-february-goals-update", title: <a href="/articles/19-before-2019-february-goals-update">19 Before 2019: February Goals Update</a>, date: "March 4, 2018", category: "Life", photo: "/images/februarygoalsupdate2018-preview.png",  description: <div><p>My <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2mCwVg9">19 Goals Before 2019</a> post has been the most page on this site so far. Because of that, I decided to keep you all updated each month with my progress to ensure they weren't just goals made on a whim and show you how I plan to accomplish them, step-by-step. If you're enjoying this kind of content, be sure to let me know in the comment section! </p> <a href="/articles/19-before-2019-february-goals-update">[Read more]</a></div>,
+post: 
+	<div>
+		<img src="/images/februarygoalsupdate2018-preview.png" alt="February Goals Update" />
+	<p>So far this year, my <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2mCwVg9">19 Goals Before 2019</a> post has been the most popular one. Because of that, I decided to keep you all updated each month with my progress to ensure they weren't just goals made on a whim and show you how I plan to accomplish them, step-by-step.</p>
+	<p>If you're enjoying this kind of content, be sure to <b>let me know in the comment section</b>! </p>
+	<h4>❖❖❖</h4>
+	<h4>personal.</h4>
+		<p>1. Run a 5K in Manhattan - <b>IN PROGRESS</b></p>
+		<p className="tabbed">At the beginning of February, I set the goal of running 2 miles twice per week with the goal of 3 miles once per week (plus a second run of a different distance) by the end. Not only did I achieve that, but I signed up for a 5K in March! Stay tuned for March updates.</p>
+		
+		<p>2. Travel out of the country twice - <b>IN PROGRESS</b></p>
+		<p className="tabbed">This goal is officially <b>in progress</b>! My boyfriend and I have booked a trip to Barcelona in May, after jumping on an alert from Scott's Cheap Flights. I'm so excited and currently doing a lot of research of places to go and things to do. If you have any recommendations, please share them in the comments section!</p>
+		<p>3. Participate in a protest/march - <b>COMPLETE!</b></p>
+		<p className="tabbed">Women's march. 'Nuff said. ✓</p>
+		<p>4. Submit 10 essays/articles for websites - <b>NOT STARTED</b></p>
+		<p className="tabbed">I've made no progress on this one since January. I continue to have a list of websites to contribute to. Honestly, I've been spending a lot of time with Coffee Meets Polished that my capacity for external work is slim. I hope that in March I can write an outline for one or two articles for contributions. In the meantime, I've gone ahead and changed the goal to "not started" instead of "in progress". </p>
+		
+		<p>5. Take a creative writing course - <b>NOT STARTED</b></p>
+		<p className="tabbed">Still not progress for this. Work kicked my butt in February…</p>
+		<p>6. Learn how to curl hair with a curler - <b>NOT STARTED</b></p>
+		<p className="tabbed">I started doing some research on this one in February. I've got a few in mind, but if you have recommendations for curlers please share them in the comments below!</p>
+		<p>7. Pay more rent than student loan bill each month - <b>IN PROGRESS</b></p>
+		<p className="tabbed">Completed this one in February! 10 more months to go. I'm also considering re-financing...</p>
+		<p>8. Wear more lipstick - <b>IN PROGRESS</b></p>
+		<p className="tabbed">I started using lipstick more often (2-3x/week) at work using <a target="_blank" rel="noopener noreferrer" href="https://www.target.com/p/maybelline-174-color-sensational-174-creamy-mattes-lip-color/-/A-17242975?preselect=17242975#lnk=sametab">Maybelline Clay Crush</a>, <a target="_blank" rel="noopener noreferrer" href="https://www.sephora.com/product/cream-lip-stain-liquid-lipstick-P281411?skuId=1805753">Sephora Cream Lip Stain Liquid Lipstick in Vintage Rosewood</a>, and <a target="_blank" rel="noopener noreferrer" href="https://www.ulta.com/lipstick-matte?productId=xlsImpprod15921176#">Mac Taupe</a>. I also wore some fun colors like <a target="_blank" rel="noopener noreferrer" href="https://doseofcolors.com/products/cold-shoulder">Dose of Colors Cold Shoulder</a>! Excited to use some more colors next month as we transition into spring.</p>
+		
+		<img src="/images/lipstickcoldshoulder.jpg" alt="Dose of Colors Cold Shoulder" />
+		
+		<p>9. Finish Project Pan 2018 (18 skin care/make up products) - <b>IN PROGRESS</b></p>
+		<p className="tabbed">I've finished 2 products so far! If you're interested in me writing a post about what my 18 products are, leave me a comment below!</p>
+		<p>10. Explore all of the New York City boroughs - <b>NOT STARTED</b></p>
+		<p className="tabbed">I didn't get out of Manhattan much this month at all! However, in March the 5K is in Roosevelt Island so I hope to explore Queens afterwards.</p>
+		<p>11. Go to a cultural/activist event every month - <b>IN PROGRESS</b></p>
+		<p className="tabbed"><b>January:</b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2FVnQr0"> Women's March</a></p>
+		<p className="tabbed"><b>February:</b><a target="_blank" rel="noopener noreferrer" href="https://pen.org/event/me-too-a-writers-reckoning/"> PEN America's #MeToo: A Writer's Reckoning</a></p>
+	<h4>coffee meets polished.</h4>
+		<p>12. Reach 500 followers on Instagram - <b>IN PROGRESS</b></p>
+		<p className="tabbed"><b>January:</b> 278 followers</p>
+		<p className="tabbed"><b>February:</b> 397 followers</p>
+		<p>13. Reach 100 MailChimp subscriptions - <b>IN PROGRESS</b></p>
+		<p className="tabbed">This one is a bit more difficult. I gained 9 more subscribers, but have some strategies in my back pocket that are planned. Stay tuned!</p>
+		<p>14. Reach 500 followers of Twitter - <b>IN PROGRESS</b></p>
+		<p className="tabbed"><b>January:</b> 253 followers</p>
+		<p className="tabbed"><b>February:</b> 378 followers</p>
+		<p>15. Start YouTube channel - <b>NOT STARTED</b></p>
+		<p className="tabbed">No plans to create the channel quite yet. Well, I have plans, but it's lower on my personal strategic plan (more to come). </p>
+		<p>16. Create worksheets for reader downloads - <b>IN PROGRESS</b></p>
+		<p className="tabbed">I've finished one worksheet! If you want to check it out, <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2ByiGBn"> subscribe to Coffee Meets Polished</a>!</p>
+		<p>17. Finish draft for merchandise - <b>NOT STARTED</b></p>
+		<p className="tabbed">Nothing changed from January. I have a list of ideas, but nothing in final draft stages yet.</p>
+		<p>18. Create a monthly challenge - <b>NOT STARTED</b></p>
+		<p className="tabbed">I didn't pursue some of my ideas this month. I was hoping to do a "self love" challenge in February but clearly that didn't pan out. I have more ideas for later months and hope to have one planned out far enough in advance.</p>
+		<p>19. Do a giveaway and/or collaboration - <b>NOT STARTED</b></p>
+		<p className="tabbed">I honestly haven't gotten the guts yet to reach out for a collaboration. But I'm hoping once I reach some of my follower milestones that I'll do a giveaway. I'm excited to keep growing and expanding with other content creators!</p>
+		<p>Each month it's important to celebrate your progress and not get bogged down with how many more "in progress" and "not started" there are compared to "complete". Focus on <b>continuous improvement</b>. Our job is rarely completely finished, especially when it comes to our personal growth.</p>
+	<h4>How are your goals this year moving along?</h4>
+		<br></br>
+		<h4>❖❖❖</h4>
+		<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+	<h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>YOU MIGHT ALSO LIKE:</h4>
+		<a className="three-up" href="/articles/hopeful-for-in-2018">
+		    <img src="/images/hopefulfor2018.png" alt="HopefulFor2018" />
+		    <p className="centered">Hopeful For in 2018</p>
+	    </a>
+	    <a className="three-up" href="/articles/5-things-i-loved-in-february-2018">
+	        <img src="/images/februaryloves2018-preview.png" alt="5 Things I Loved in February 2018" />
+	        <p className="centered">5 Things I Loved in February</p>
+	    </a>
+	    <a className="three-up" href="/articles/19-before-2019-a-goal-setting-challenge">
+	        <img src="/images/19before2019.png" alt="19 Before 2019 Goals" />
+	        <p className="centered">19 Before 19: A Goal Setting Challenge</p>
+	    </a>
+	</div>
+},
+
 {id: "5-things-i-loved-in-february-2018", title: <a href="/articles/5-things-i-loved-in-february-2018">5 Things I Loved in February</a>, date: "February 28, 2018", category: "Life", photo: "/images/februaryloves2018-preview.png",  description: <div><p>What better a month than February to focus on love? There were so many things to love this month that it was hard to pin down just five. A lot happened this month around the country that were horrible and tragic, but it's reflections of things we love that help us remember our "why". Check out my top 5 loves in February.</p> <a href="/articles/5-things-i-loved-in-february-2018">[Read more]</a></div>,
 post: 
 	<div>
