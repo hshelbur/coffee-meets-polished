@@ -11,14 +11,12 @@ post:
 	<h4>personal.</h4>
 		<p>1. Run a 5K in Manhattan - <b>IN PROGRESS</b></p>
 		<p className="tabbed">At the beginning of February, I set the goal of running 2 miles twice per week with the goal of 3 miles once per week (plus a second run of a different distance) by the end. Not only did I achieve that, but I signed up for a 5K in March! Stay tuned for March updates.</p>
-		
 		<p>2. Travel out of the country twice - <b>IN PROGRESS</b></p>
 		<p className="tabbed">This goal is officially <b>in progress</b>! My boyfriend and I have booked a trip to Barcelona in May, after jumping on an alert from Scott's Cheap Flights. I'm so excited and currently doing a lot of research of places to go and things to do. If you have any recommendations, please share them in the comments section!</p>
 		<p>3. Participate in a protest/march - <b>COMPLETE!</b></p>
 		<p className="tabbed">Women's march. 'Nuff said. ✓</p>
 		<p>4. Submit 10 essays/articles for websites - <b>NOT STARTED</b></p>
 		<p className="tabbed">I've made no progress on this one since January. I continue to have a list of websites to contribute to. Honestly, I've been spending a lot of time with Coffee Meets Polished that my capacity for external work is slim. I hope that in March I can write an outline for one or two articles for contributions. In the meantime, I've gone ahead and changed the goal to "not started" instead of "in progress". </p>
-		
 		<p>5. Take a creative writing course - <b>NOT STARTED</b></p>
 		<p className="tabbed">Still not progress for this. Work kicked my butt in February…</p>
 		<p>6. Learn how to curl hair with a curler - <b>NOT STARTED</b></p>
@@ -27,9 +25,7 @@ post:
 		<p className="tabbed">Completed this one in February! 10 more months to go. I'm also considering re-financing...</p>
 		<p>8. Wear more lipstick - <b>IN PROGRESS</b></p>
 		<p className="tabbed">I started using lipstick more often (2-3x/week) at work using <a target="_blank" rel="noopener noreferrer" href="https://www.target.com/p/maybelline-174-color-sensational-174-creamy-mattes-lip-color/-/A-17242975?preselect=17242975#lnk=sametab">Maybelline Clay Crush</a>, <a target="_blank" rel="noopener noreferrer" href="https://www.sephora.com/product/cream-lip-stain-liquid-lipstick-P281411?skuId=1805753">Sephora Cream Lip Stain Liquid Lipstick in Vintage Rosewood</a>, and <a target="_blank" rel="noopener noreferrer" href="https://www.ulta.com/lipstick-matte?productId=xlsImpprod15921176#">Mac Taupe</a>. I also wore some fun colors like <a target="_blank" rel="noopener noreferrer" href="https://doseofcolors.com/products/cold-shoulder">Dose of Colors Cold Shoulder</a>! Excited to use some more colors next month as we transition into spring.</p>
-		
-		<img src="/images/lipstickcoldshoulder.jpg" alt="Dose of Colors Cold Shoulder" />
-		
+			<img src="/images/lipstickcoldshoulder.jpg" alt="Dose of Colors Cold Shoulder" />
 		<p>9. Finish Project Pan 2018 (18 skin care/make up products) - <b>IN PROGRESS</b></p>
 		<p className="tabbed">I've finished 2 products so far! If you're interested in me writing a post about what my 18 products are, leave me a comment below!</p>
 		<p>10. Explore all of the New York City boroughs - <b>NOT STARTED</b></p>
