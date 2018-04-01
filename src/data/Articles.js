@@ -1,6 +1,82 @@
 import React from 'react';
 
 const ARTICLES = [
+{id: "test", title: <a href="/articles/test">5 Things I Loved in March</a>, date: "March 31, 2018", category: "Life", photo: "/images/marchloves2018-preview.png",  description: <div><p>March was so busy and filled with new experiences and inspirational movements across the country. It seems to be a monthly theme that life is so full it's hard to only pick 5 things to highlight. But I consider that pretty lucky. Check out the top 5 things I loved in March. </p> <a href="/articles/test">[Read more]</a></div>,
+post: 
+	<div>
+	<br></br>
+	<img src="/images/marchloves2018-preview.png" alt="5 Things I Loved in March" />
+	<p>March was so busy and filled with new experiences and inspirational movements across the country. It seems to be a monthly theme that life is so full it's hard to only pick 5 things to highlight. But I consider that pretty lucky. Check out the top 5 things I loved in March. </p>
+		<br></br>
+	<p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="https://coffeemeetspolished.com/articles/5-things-i-loved-in-February-2018">5 Things I Loved in February</a></b></p>
+		<br></br>
+	<h4><b>international women's day.</b></h4>
+	<p>Every year, March 8th is <a target="_blank" rel="noopener noreferrer" href="https://www.internationalwomensday.com/">International Women's Day</a>. Some would argue that should be every day and ask why we need a dedicated day of the year for us. But until society sees women as equal to men and masculinity is re-defined for true feminism to exist, I will support this day. My first IWD in New York City was pretty awesome! I got to attend an event at <a target="_blank" rel="noopener noreferrer" href="http://www.uospaces.com/ninety8/williamsburg-ny">Space Ninety 8</a> celebrating the launch of <a target="_blank" rel="noopener noreferrer" href="https://www.huffingtonpost.com/author/emma-gray">HuffPost Senior Reporter</a> and Co-Host of <a target="_blank" rel="noopener noreferrer" href="https://soundcloud.com/here-to-make-friends">Here to Make Friends Podcast</a> Emma Gray's new book: <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Girls-Guide-Joining-Resistance-Feminist/dp/0062748084/ref=as_sl_pc_tf_til?tag">A Girl's Guide to Joining the Resistance: A Feminist Handbook on Fighting for Good</a>. The event was so empowering and the book is great. I also loved getting to meet her panelists, including Liz Plank! You can find tons of  pictures from the event on the <a target="_blank" rel="noopener noreferrer" href="http://www.uospaces.com/ninety8/en/williamsburg-ny/blog/posts/uo-happenings-international-womens-day-celebration">Space Ninety 8 site</a>. </p>
+		<br></br>
+	<img src="/images/intlwomensday1.jpg" alt="International Womens Day1" />
+	<img src="/images/intlwomensday2.jpg" alt="International Womens Day Liz Plank" />
+		<br></br>
+	<p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2Fer8V8">How to be Friends with Women
+	</a></b></p>
+		<br></br>
+	<h4><b>personal records.</b></h4>
+	<p>One of my <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2mCwVg9">19 Before 2019</a> goals was to run a 5K. I started training in January without any 5K registration by starting with the goal of 1 mile per week. That quickly escalated in February (thank you NYC walking) and my boyfriend found a <a target="_blank" rel="noopener noreferrer" href="https://tristateruns.com/nycstpaddys7k">5K in Roosevelt Island</a>! Thanks to great training I was able to stick to a running plan and accomplish my goal of finishing without walking for the first time in my life! I was really proud of myself and continue to try and run 1-2 times per week to remind myself that I still can. </p>
+		<br></br>
+	<img src="/images/personalrecords5k.jpg" alt="St. Paddys Day 5k" />
+		<br></br>
+	<p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2mCwVg9">19 Before 2019: A Goal-Setting Challenge
+	</a></b></p>
+		<br></br>
+	<h4><b>march for our lives.</b></h4>
+	<p>On March 24th, the <a target="_blank" rel="noopener noreferrer" href="https://marchforourlives.com/">March for Our Lives</a> in New York City started right around the corner from my house, just like the <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2FVnQr0">Women's March</a> in January. This time, I stood in the sidewalks cheering on protesters and sharing their signs on the <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2Go3xlx">Coffee Meets Polished Twitter</a>. I'm so grateful to live where I can participate in and amplify voices of these activist movements.</p>
+		<br></br>
+	<img src="/images/marchforourlives.jpg" alt="March For Our Lives" />
+		<br></br>
+	<p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2FGFL55">10 Essential Tips for Your First Protest
+	</a></b></p>
+		<br></br>
+	<h4><b>winter microadventures.</b></h4>
+	<p>This month was filled with tons of firsts, including my first time skiing! I went to <a target="_blank" rel="noopener noreferrer" href="http://www.windhammountain.com/">Windham Mountain</a> and it was an amazing experience. I was a master of the bunny slopes by the end of the day, and I can't wait to try skiing again next year. </p>
+		<br></br>
+	<img src="/images/windhammountainpano.jpg" alt="Windham Mountain Panoramic" />
+	<img src="/images/windhammountainexperience.jpg" alt="Windham Mountain Experience" />
+		<br></br>
+	<p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2FGFL55">10 Life Lessons for Your First Skiing Experience
+	</a></b></p>
+		<br></br>
+	<h4><b>winter's last ditch effort.</b></h4>
+	<p>The first day of Spring was March 20th, but New York City didn't get the message and gave us a big snow that rivaled the first snow of the season. It was fluffy and perfect for making snow-women and sledding in Central Park. While the snow was beautiful, I can't wait for the weather to warm up and flowers to come out.</p>
+		<br></br>
+	<img src="/images/centralparksnow1.jpg" alt="Central Park Snow 1" />
+	<img src="/images/centralparksnow2.jpg" alt="Central Park Snow 2" />
+	<img src="/images/centralparksnow3.jpg" alt="Central Park Snow 3" />
+		<br></br>
+	<p>What did you love in March? Leave a comment below to share!</p>
+		<br></br>
+		<h4>❖❖❖</h4>
+		<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+	<h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+		<br></br>
+		<h4>❖❖❖</h4>
+		<br></br>
+		<h4>YOU MIGHT ALSO LIKE:</h4>
+		    <a className="three-up" href="/articles/10-life-lessons-for-your-first-skiing-experience">
+		        <img src="/images/windhammountainpano-preview.png" alt="Skiing Life Lessons Windham Mountain" />
+		        <p className="centered">10 Life Lessons for Your First Skiing Experience</p>
+		    </a>
+		    <a className="three-up" href="/articles/10-essential-tips-for-your-first-protest">
+		        <img src="/images/protest-preview.png" alt="10 Tips for your First Protest" />
+		        <p className="centered">10 Essential Tips for Your First Protest</p>
+		    </a>
+		    <a className="three-up" href="/articles/19-before-2019-february-goals-update">
+		        <img src="/images/februarygoalsupdate2018-preview.png" alt="February Goals Update" />
+			    <p className="centered">19 Before 2019: February Goals Update</p>
+    		</a>
+	</div>
+},
+
 {id: "10-life-lessons-for-your-first-skiing-experience", title: <a href="/articles/10-life-lessons-for-your-first-skiing-experience">10 Life Lessons for Your First Skiing Experience</a>, date: "March 19, 2018", category: "Life", photo: "/images/windhammountainpano-preview.png",  description: <div><p>This weekend I went skiing for the first time, and it was not as easy as I thought it would be. I thought I would be able to rock the skis quickly but I was so new that I needed instruction on how to put my boot into the skis. I learned a lot of tips and tricks to get going on skis. I also realized there are a lot of life lessons that apply to the whole experience. Thank you to <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2GuiUt7">Windham Mountain</a> for the great experience and service overall! I can't wait to go back. </p> <a href="/articles/10-life-lessons-for-your-first-skiing-experience">[Read more]</a></div>,
 post: 
 	<div>
