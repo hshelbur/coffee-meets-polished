@@ -1,7 +1,7 @@
 import React from 'react';
 
 const ARTICLES = [
-{id: "test", title: <a href="/articles/test">5 Things I Loved in March</a>, date: "March 31, 2018", category: "Life", photo: "/images/marchloves2018-preview.png",  description: <div><p>March was so busy and filled with new experiences and inspirational movements across the country. It seems to be a monthly theme that life is so full it's hard to only pick 5 things to highlight. But I consider that pretty lucky. Check out the top 5 things I loved in March. </p> <a href="/articles/test">[Read more]</a></div>,
+{id: "5-things-i-loved-in-march-2018", title: <a href="/articles/5-things-i-loved-in-march-2018">5 Things I Loved in March</a>, date: "March 31, 2018", category: "Life", photo: "/images/marchloves2018-preview.png",  description: <div><p>March was so busy and filled with new experiences and inspirational movements across the country. It seems to be a monthly theme that life is so full it's hard to only pick 5 things to highlight. But I consider that pretty lucky. Check out the top 5 things I loved in March. </p> <a href="/articles/5-things-i-loved-in-march-2018">[Read more]</a></div>,
 post: 
 	<div>
 	<br></br>
