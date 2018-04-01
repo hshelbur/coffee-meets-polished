@@ -1,6 +1,55 @@
 import React from 'react';
 
 const ARTICLES = [
+{id: "10-life-lessons-for-your-first-skiing-experience", title: <a href="/articles/10-life-lessons-for-your-first-skiing-experience">10 Life Lessons for Your First Skiing Experience</a>, date: "March 19, 2018", category: "Life", photo: "/images/windhammountainpano-preview.png",  description: <div><p>This weekend I went skiing for the first time, and it was not as easy as I thought it would be. I thought I would be able to rock the skis quickly but I was so new that I needed instruction on how to put my boot into the skis. I learned a lot of tips and tricks to get going on skis. I also realized there are a lot of life lessons that apply to the whole experience. Thank you to <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2GuiUt7">Windham Mountain</a> for the great experience and service overall! I can't wait to go back. </p> <a href="/articles/10-life-lessons-for-your-first-skiing-experience">[Read more]</a></div>,
+post: 
+	<div>
+	<img src="/images/windhammountainpano.jpg" alt="Windham Mountain Panoramic" />
+	<p>This weekend I went skiing for the first time, and it was not as easy as I thought it would be. I thought I would be able to rock the skis quickly but I was so new that I needed instruction on how to put my boot into the skis. However, thanks to some great instructors at <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2GuiUt7">Windham Mountain</a> I was rocking the bunny slopes by the end of the day.</p>
+	<img src="/images/windhammountainmap.jpg" alt="Windham Mountain Map" />
+	<p>I learned a lot of tips and tricks to get going on skis. I also realized there are a lot of life lessons that apply to the whole experience.</p>
+	<img src="/images/windhammountainexperience.jpg" alt="Windham Mountain Experience" />
+	<p>1. <b>You have to walk before you can run.</b> Or in my case, learn how to put skis on before the bunny runs. If it's your first time skiing, take a lesson.</p>
+	<p>2. <b>Master the fundamentals before incorporating short cuts.</b> I was given a set of poles to use immediately which I used to balance but also move around. I saw a lot of other beginners without poles in order to master their legs first and wished I had done that. Incorporating the poles caused me to feel less comfortable balancing with just my legs.</p>
+	<p>3. <b>Invest in good tools.</b> Tools help you do your best work. I learned that rental boots aren't something I want to use again. They were painful and bruised me, but it's also probably because my jeans were digging into my foot and the boots were so tight. Bottom line is, invest in good tools to get the job done.</p>
+	<img src="/images/windhammountainskis.jpg" alt="Windham Mountain Skis" />
+	<p>4. <b>Be ready.</b> The end of the ski lift will come whether you're ready or not. Make sure you're ready.</p>
+	<p>5. <b>Don't apologize for falling.</b> The first time I got off a lift, I had my first fall 2 seconds later. I looked at the sky and thought, "How do I get back up?" My boyfriend was there with me and I was determined to figure out how to get up by myself. But I wasn't able to. I kept apologizing for not being able to and slowing us down from going down the bunny slope. Thinking back, why was I apologizing? Falling is part of the process.</p>
+	<p>6. <b>After you fall, get right back up.</b> With help, I got back up from falling right after getting off the ski lift. The rest of my first bunny slope run was bad. I was afraid of the speed (upon looking at video footage, I was barely moving) and I couldn't stop. I tried the strategy with roller skating where you lightly run into the wall to stop. However, with skiing that doesn't really exist. Instead, I turned into another run and went into the side of a wall of snow. And once I officially reached 0 mph I shuffled to my boyfriend and said, "I'm not ready for this." Instead of taking me back to the training ground, he said, "We're doing it again. You are ready." And with that second run and the rest thereafter, I focused on incremental improvements each time. </p>
+	<img src="/images/windhammountainlift.jpg" alt="Windham Mountain Lift" />
+	<p>7. <b>Embrace your support system.</b> See #6. If it wasn't for my support in helping me get back up after falling, and taking me back to the lift right away I likely wouldn't have gone skiing for the rest of the day, or ever again.</p>
+	<p>8. <b>Learn from the younger generation.</b> Hanging out in the training grounds and bunny slopes was such a humbling experience. Not just because of my lack of skills, but because there were 3-5 year olds who were masters at skiing. Watching them be fearless, fall, get back up (without poles!), and have fun all along the way was inspiring. These little humans could be the next Olympians! I tried to apply their fearless attitude to myself and all of my adult self-doubt.</p>
+	<p>9. <b>Don't compare yourself to others.</b> It's easy to get caught up in seeing all of the other skiers go effortlessly down the slopes and think, "I'll never be able to do that." Whether that is true or not, it is not productive to think this way. Remember that if it's your first time, everyone has been where you are at some point. Focus on your goals and your improvement at your own pace.</p>
+	<p>10.  <b>Don't take yourself too seriously.</b> Some things are supposed to be fun! Let them be fun, and stay fun.</p>
+	<img src="/images/windhammountainfun.jpg" alt="Windham Mountain Fun" />
+	<p>My first skiing experience was filled with self-doubt, stress, and pain at times but it was also filled with sense of accomplishment and confidence that the next time I strap on some skis I'll be able to keep growing from where I ended that day.</p>
+	<p>Thank you to <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2GuiUt7">Windham Mountain</a> for the great experience and service overall! I can't wait to go back.</p>
+	<p>Are you an expert skier? If so, please share your tips and tricks for the rest of us beginners below!</p>
+	<br></br>
+		<h4>❖❖❖</h4>
+		<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+	<h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>YOU MIGHT ALSO LIKE:</h4>
+		<a className="three-up" href="/articles/the-5-toughest-mental-health-lessons-from-residency">
+		    <img src="/images/residency-leanin-preview.png" alt="Mental Health Lessons from Residency" />
+		    <p className="centered">The 5 Toughest Mental Health Lessons from Residency</p>
+	    </a>
+	    <a className="three-up" href="/articles/5-things-i-loved-in-february-2018">
+	        <img src="/images/februaryloves2018-preview.png" alt="5 Things I Loved in February 2018" />
+	        <p className="centered">5 Things I Loved in February</p>
+	    </a>
+	    <a className="three-up" href="/articles/19-before-2019-a-goal-setting-challenge">
+	        <img src="/images/19before2019.png" alt="19 Before 2019 Goals" />
+	        <p className="centered">19 Before 19: A Goal Setting Challenge</p>
+	    </a>
+	</div>
+},
+
 {id: "19-before-2019-february-goals-update", title: <a href="/articles/19-before-2019-february-goals-update">19 Before 2019: February Goals Update</a>, date: "March 4, 2018", category: "Life", photo: "/images/februarygoalsupdate2018-preview.png",  description: <div><p>My <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2mCwVg9">19 Goals Before 2019</a> post has been the most page on this site so far. Because of that, I decided to keep you all updated each month with my progress to ensure they weren't just goals made on a whim and show you how I plan to accomplish them, step-by-step. If you're enjoying this kind of content, be sure to let me know in the comment section! </p> <a href="/articles/19-before-2019-february-goals-update">[Read more]</a></div>,
 post: 
 	<div>
