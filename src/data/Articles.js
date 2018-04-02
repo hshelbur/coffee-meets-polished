@@ -1,6 +1,209 @@
 import React from 'react';
 
 const ARTICLES = [
+{id: "5-things-i-loved-in-march-2018", title: <a href="/articles/5-things-i-loved-in-march-2018">5 Things I Loved in March</a>, date: "March 31, 2018", category: "Life", photo: "/images/marchloves2018-preview.png",  description: <div><p>March was so busy and filled with new experiences and inspirational movements across the country. It seems to be a monthly theme that life is so full it's hard to only pick 5 things to highlight. But I consider that pretty lucky. Check out the top 5 things I loved in March. </p> <a href="/articles/5-things-i-loved-in-march-2018">[Read more]</a></div>,
+post: 
+	<div>
+	<br></br>
+	<img src="/images/marchloves2018-preview.png" alt="5 Things I Loved in March" />
+	<p>March was so busy and filled with new experiences and inspirational movements across the country. It seems to be a monthly theme that life is so full it's hard to only pick 5 things to highlight. But I consider that pretty lucky. Check out the top 5 things I loved in March. </p>
+		<br></br>
+	<p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="https://coffeemeetspolished.com/articles/5-things-i-loved-in-February-2018">5 Things I Loved in February</a></b></p>
+		<br></br>
+	<h4><b>international women's day.</b></h4>
+	<p>Every year, March 8th is <a target="_blank" rel="noopener noreferrer" href="https://www.internationalwomensday.com/">International Women's Day</a>. Some would argue that should be every day and ask why we need a dedicated day of the year for us. But until society sees women as equal to men and masculinity is re-defined for true feminism to exist, I will support this day. My first IWD in New York City was pretty awesome! I got to attend an event at <a target="_blank" rel="noopener noreferrer" href="http://www.uospaces.com/ninety8/williamsburg-ny">Space Ninety 8</a> celebrating the launch of <a target="_blank" rel="noopener noreferrer" href="https://www.huffingtonpost.com/author/emma-gray">HuffPost Senior Reporter</a> and Co-Host of <a target="_blank" rel="noopener noreferrer" href="https://soundcloud.com/here-to-make-friends">Here to Make Friends Podcast</a> Emma Gray's new book: <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Girls-Guide-Joining-Resistance-Feminist/dp/0062748084/ref=as_sl_pc_tf_til?tag">A Girl's Guide to Joining the Resistance: A Feminist Handbook on Fighting for Good</a>. The event was so empowering and the book is great. I also loved getting to meet her panelists, including Liz Plank! You can find tons of  pictures from the event on the <a target="_blank" rel="noopener noreferrer" href="http://www.uospaces.com/ninety8/en/williamsburg-ny/blog/posts/uo-happenings-international-womens-day-celebration">Space Ninety 8 site</a>. </p>
+		<br></br>
+	<img src="/images/intlwomensday1.jpg" alt="International Womens Day1" />
+	<img src="/images/intlwomensday2.jpg" alt="International Womens Day Liz Plank" />
+		<br></br>
+	<p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2Fer8V8">How to be Friends with Women
+	</a></b></p>
+		<br></br>
+	<h4><b>personal records.</b></h4>
+	<p>One of my <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2mCwVg9">19 Before 2019</a> goals was to run a 5K. I started training in January without any 5K registration by starting with the goal of 1 mile per week. That quickly escalated in February (thank you NYC walking) and my boyfriend found a <a target="_blank" rel="noopener noreferrer" href="https://tristateruns.com/nycstpaddys7k">5K in Roosevelt Island</a>! Thanks to great training I was able to stick to a running plan and accomplish my goal of finishing without walking for the first time in my life! I was really proud of myself and continue to try and run 1-2 times per week to remind myself that I still can. </p>
+		<br></br>
+	<img src="/images/personalrecords5k.jpg" alt="St. Paddys Day 5k" />
+		<br></br>
+	<p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2mCwVg9">19 Before 2019: A Goal-Setting Challenge
+	</a></b></p>
+		<br></br>
+	<h4><b>march for our lives.</b></h4>
+	<p>On March 24th, the <a target="_blank" rel="noopener noreferrer" href="https://marchforourlives.com/">March for Our Lives</a> in New York City started right around the corner from my house, just like the <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2FVnQr0">Women's March</a> in January. This time, I stood in the sidewalks cheering on protesters and sharing their signs on the <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2Go3xlx">Coffee Meets Polished Twitter</a>. I'm so grateful to live where I can participate in and amplify voices of these activist movements.</p>
+		<br></br>
+	<img src="/images/marchforourlives.jpg" alt="March For Our Lives" />
+		<br></br>
+	<p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2FGFL55">10 Essential Tips for Your First Protest
+	</a></b></p>
+		<br></br>
+	<h4><b>winter microadventures.</b></h4>
+	<p>This month was filled with tons of firsts, including my first time skiing! I went to <a target="_blank" rel="noopener noreferrer" href="http://www.windhammountain.com/">Windham Mountain</a> and it was an amazing experience. I was a master of the bunny slopes by the end of the day, and I can't wait to try skiing again next year. </p>
+		<br></br>
+	<img src="/images/windhammountainpano.jpg" alt="Windham Mountain Panoramic" />
+	<img src="/images/windhammountainexperience.jpg" alt="Windham Mountain Experience" />
+		<br></br>
+	<p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2FGFL55">10 Life Lessons for Your First Skiing Experience
+	</a></b></p>
+		<br></br>
+	<h4><b>winter's last ditch effort.</b></h4>
+	<p>The first day of Spring was March 20th, but New York City didn't get the message and gave us a big snow that rivaled the first snow of the season. It was fluffy and perfect for making snow-women and sledding in Central Park. While the snow was beautiful, I can't wait for the weather to warm up and flowers to come out.</p>
+		<br></br>
+	<img src="/images/centralparksnow1.jpg" alt="Central Park Snow 1" />
+	<img src="/images/centralparksnow2.jpg" alt="Central Park Snow 2" />
+	<img src="/images/centralparksnow3.jpg" alt="Central Park Snow 3" />
+		<br></br>
+	<p>What did you love in March? Leave a comment below to share!</p>
+		<br></br>
+		<h4>❖❖❖</h4>
+		<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+	<h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+		<br></br>
+		<h4>❖❖❖</h4>
+		<br></br>
+		<h4>YOU MIGHT ALSO LIKE:</h4>
+		    <a className="three-up" href="/articles/10-life-lessons-for-your-first-skiing-experience">
+		        <img src="/images/windhammountainpano-preview.png" alt="Skiing Life Lessons Windham Mountain" />
+		        <p className="centered">10 Life Lessons for Your First Skiing Experience</p>
+		    </a>
+		    <a className="three-up" href="/articles/10-essential-tips-for-your-first-protest">
+		        <img src="/images/protest-preview.png" alt="10 Tips for your First Protest" />
+		        <p className="centered">10 Essential Tips for Your First Protest</p>
+		    </a>
+		    <a className="three-up" href="/articles/19-before-2019-february-goals-update">
+		        <img src="/images/februarygoalsupdate2018-preview.png" alt="February Goals Update" />
+			    <p className="centered">19 Before 2019: February Goals Update</p>
+    		</a>
+	</div>
+},
+
+{id: "10-life-lessons-for-your-first-skiing-experience", title: <a href="/articles/10-life-lessons-for-your-first-skiing-experience">10 Life Lessons for Your First Skiing Experience</a>, date: "March 19, 2018", category: "Life", photo: "/images/windhammountainpano-preview.png",  description: <div><p>This weekend I went skiing for the first time, and it was not as easy as I thought it would be. I thought I would be able to rock the skis quickly but I was so new that I needed instruction on how to put my boot into the skis. I learned a lot of tips and tricks to get going on skis. I also realized there are a lot of life lessons that apply to the whole experience. Thank you to <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2GuiUt7">Windham Mountain</a> for the great experience and service overall! I can't wait to go back. </p> <a href="/articles/10-life-lessons-for-your-first-skiing-experience">[Read more]</a></div>,
+post: 
+	<div>
+	<img src="/images/windhammountainpano.jpg" alt="Windham Mountain Panoramic" />
+	<p>This weekend I went skiing for the first time, and it was not as easy as I thought it would be. I thought I would be able to rock the skis quickly but I was so new that I needed instruction on how to put my boot into the skis. However, thanks to some great instructors at <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2GuiUt7">Windham Mountain</a> I was rocking the bunny slopes by the end of the day.</p>
+	<img src="/images/windhammountainmap.jpg" alt="Windham Mountain Map" />
+	<p>I learned a lot of tips and tricks to get going on skis. I also realized there are a lot of life lessons that apply to the whole experience.</p>
+	<img src="/images/windhammountainexperience.jpg" alt="Windham Mountain Experience" />
+	<p>1. <b>You have to walk before you can run.</b> Or in my case, learn how to put skis on before the bunny runs. If it's your first time skiing, take a lesson.</p>
+	<p>2. <b>Master the fundamentals before incorporating short cuts.</b> I was given a set of poles to use immediately which I used to balance but also move around. I saw a lot of other beginners without poles in order to master their legs first and wished I had done that. Incorporating the poles caused me to feel less comfortable balancing with just my legs.</p>
+	<p>3. <b>Invest in good tools.</b> Tools help you do your best work. I learned that rental boots aren't something I want to use again. They were painful and bruised me, but it's also probably because my jeans were digging into my foot and the boots were so tight. Bottom line is, invest in good tools to get the job done.</p>
+	<img src="/images/windhammountainskis.jpg" alt="Windham Mountain Skis" />
+	<p>4. <b>Be ready.</b> The end of the ski lift will come whether you're ready or not. Make sure you're ready.</p>
+	<p>5. <b>Don't apologize for falling.</b> The first time I got off a lift, I had my first fall 2 seconds later. I looked at the sky and thought, "How do I get back up?" My boyfriend was there with me and I was determined to figure out how to get up by myself. But I wasn't able to. I kept apologizing for not being able to and slowing us down from going down the bunny slope. Thinking back, why was I apologizing? Falling is part of the process.</p>
+	<p>6. <b>After you fall, get right back up.</b> With help, I got back up from falling right after getting off the ski lift. The rest of my first bunny slope run was bad. I was afraid of the speed (upon looking at video footage, I was barely moving) and I couldn't stop. I tried the strategy with roller skating where you lightly run into the wall to stop. However, with skiing that doesn't really exist. Instead, I turned into another run and went into the side of a wall of snow. And once I officially reached 0 mph I shuffled to my boyfriend and said, "I'm not ready for this." Instead of taking me back to the training ground, he said, "We're doing it again. You are ready." And with that second run and the rest thereafter, I focused on incremental improvements each time. </p>
+	<img src="/images/windhammountainlift.jpg" alt="Windham Mountain Lift" />
+	<p>7. <b>Embrace your support system.</b> See #6. If it wasn't for my support in helping me get back up after falling, and taking me back to the lift right away I likely wouldn't have gone skiing for the rest of the day, or ever again.</p>
+	<p>8. <b>Learn from the younger generation.</b> Hanging out in the training grounds and bunny slopes was such a humbling experience. Not just because of my lack of skills, but because there were 3-5 year olds who were masters at skiing. Watching them be fearless, fall, get back up (without poles!), and have fun all along the way was inspiring. These little humans could be the next Olympians! I tried to apply their fearless attitude to myself and all of my adult self-doubt.</p>
+	<p>9. <b>Don't compare yourself to others.</b> It's easy to get caught up in seeing all of the other skiers go effortlessly down the slopes and think, "I'll never be able to do that." Whether that is true or not, it is not productive to think this way. Remember that if it's your first time, everyone has been where you are at some point. Focus on your goals and your improvement at your own pace.</p>
+	<p>10.  <b>Don't take yourself too seriously.</b> Some things are supposed to be fun! Let them be fun, and stay fun.</p>
+	<img src="/images/windhammountainfun.jpg" alt="Windham Mountain Fun" />
+	<p>My first skiing experience was filled with self-doubt, stress, and pain at times but it was also filled with sense of accomplishment and confidence that the next time I strap on some skis I'll be able to keep growing from where I ended that day.</p>
+	<p>Thank you to <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2GuiUt7">Windham Mountain</a> for the great experience and service overall! I can't wait to go back.</p>
+	<p>Are you an expert skier? If so, please share your tips and tricks for the rest of us beginners below!</p>
+	<br></br>
+		<h4>❖❖❖</h4>
+		<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+	<h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>YOU MIGHT ALSO LIKE:</h4>
+		<a className="three-up" href="/articles/the-5-toughest-mental-health-lessons-from-residency">
+		    <img src="/images/residency-leanin-preview.png" alt="Mental Health Lessons from Residency" />
+		    <p className="centered">The 5 Toughest Mental Health Lessons from Residency</p>
+	    </a>
+	    <a className="three-up" href="/articles/5-things-i-loved-in-february-2018">
+	        <img src="/images/februaryloves2018-preview.png" alt="5 Things I Loved in February 2018" />
+	        <p className="centered">5 Things I Loved in February</p>
+	    </a>
+	    <a className="three-up" href="/articles/19-before-2019-a-goal-setting-challenge">
+	        <img src="/images/19before2019.png" alt="19 Before 2019 Goals" />
+	        <p className="centered">19 Before 19: A Goal Setting Challenge</p>
+	    </a>
+	</div>
+},
+
+{id: "19-before-2019-february-goals-update", title: <a href="/articles/19-before-2019-february-goals-update">19 Before 2019: February Goals Update</a>, date: "March 4, 2018", category: "Life", photo: "/images/februarygoalsupdate2018-preview.png",  description: <div><p>My <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2mCwVg9">19 Goals Before 2019</a> post has been the most page on this site so far. Because of that, I decided to keep you all updated each month with my progress to ensure they weren't just goals made on a whim and show you how I plan to accomplish them, step-by-step. If you're enjoying this kind of content, be sure to let me know in the comment section! </p> <a href="/articles/19-before-2019-february-goals-update">[Read more]</a></div>,
+post: 
+	<div>
+		<img src="/images/februarygoalsupdate2018-preview.png" alt="February Goals Update" />
+	<p>So far this year, my <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2mCwVg9">19 Goals Before 2019</a> post has been the most popular one. Because of that, I decided to keep you all updated each month with my progress to ensure they weren't just goals made on a whim and show you how I plan to accomplish them, step-by-step.</p>
+	<p>If you're enjoying this kind of content, be sure to <b>let me know in the comment section</b>! </p>
+	<h4>❖❖❖</h4>
+	<h4>personal.</h4>
+		<p>1. Run a 5K in Manhattan - <b>IN PROGRESS</b></p>
+		<p className="tabbed">At the beginning of February, I set the goal of running 2 miles twice per week with the goal of 3 miles once per week (plus a second run of a different distance) by the end. Not only did I achieve that, but I signed up for a 5K in March! Stay tuned for March updates.</p>
+		<p>2. Travel out of the country twice - <b>IN PROGRESS</b></p>
+		<p className="tabbed">This goal is officially <b>in progress</b>! My boyfriend and I have booked a trip to Barcelona in May, after jumping on an alert from Scott's Cheap Flights. I'm so excited and currently doing a lot of research of places to go and things to do. If you have any recommendations, please share them in the comments section!</p>
+		<p>3. Participate in a protest/march - <b>COMPLETE!</b></p>
+		<p className="tabbed">Women's march. 'Nuff said. ✓</p>
+		<p>4. Submit 10 essays/articles for websites - <b>NOT STARTED</b></p>
+		<p className="tabbed">I've made no progress on this one since January. I continue to have a list of websites to contribute to. Honestly, I've been spending a lot of time with Coffee Meets Polished that my capacity for external work is slim. I hope that in March I can write an outline for one or two articles for contributions. In the meantime, I've gone ahead and changed the goal to "not started" instead of "in progress". </p>
+		<p>5. Take a creative writing course - <b>NOT STARTED</b></p>
+		<p className="tabbed">Still not progress for this. Work kicked my butt in February…</p>
+		<p>6. Learn how to curl hair with a curler - <b>NOT STARTED</b></p>
+		<p className="tabbed">I started doing some research on this one in February. I've got a few in mind, but if you have recommendations for curlers please share them in the comments below!</p>
+		<p>7. Pay more rent than student loan bill each month - <b>IN PROGRESS</b></p>
+		<p className="tabbed">Completed this one in February! 10 more months to go. I'm also considering re-financing...</p>
+		<p>8. Wear more lipstick - <b>IN PROGRESS</b></p>
+		<p className="tabbed">I started using lipstick more often (2-3x/week) at work using <a target="_blank" rel="noopener noreferrer" href="https://www.target.com/p/maybelline-174-color-sensational-174-creamy-mattes-lip-color/-/A-17242975?preselect=17242975#lnk=sametab">Maybelline Clay Crush</a>, <a target="_blank" rel="noopener noreferrer" href="https://www.sephora.com/product/cream-lip-stain-liquid-lipstick-P281411?skuId=1805753">Sephora Cream Lip Stain Liquid Lipstick in Vintage Rosewood</a>, and <a target="_blank" rel="noopener noreferrer" href="https://www.ulta.com/lipstick-matte?productId=xlsImpprod15921176#">Mac Taupe</a>. I also wore some fun colors like <a target="_blank" rel="noopener noreferrer" href="https://doseofcolors.com/products/cold-shoulder">Dose of Colors Cold Shoulder</a>! Excited to use some more colors next month as we transition into spring.</p>
+			<img src="/images/lipstickcoldshoulder.jpg" alt="Dose of Colors Cold Shoulder" />
+		<p>9. Finish Project Pan 2018 (18 skin care/make up products) - <b>IN PROGRESS</b></p>
+		<p className="tabbed">I've finished 2 products so far! If you're interested in me writing a post about what my 18 products are, leave me a comment below!</p>
+		<p>10. Explore all of the New York City boroughs - <b>NOT STARTED</b></p>
+		<p className="tabbed">I didn't get out of Manhattan much this month at all! However, in March the 5K is in Roosevelt Island so I hope to explore Queens afterwards.</p>
+		<p>11. Go to a cultural/activist event every month - <b>IN PROGRESS</b></p>
+		<p className="tabbed"><b>January:</b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2FVnQr0"> Women's March</a></p>
+		<p className="tabbed"><b>February:</b><a target="_blank" rel="noopener noreferrer" href="https://pen.org/event/me-too-a-writers-reckoning/"> PEN America's #MeToo: A Writer's Reckoning</a></p>
+	<h4>coffee meets polished.</h4>
+		<p>12. Reach 500 followers on Instagram - <b>IN PROGRESS</b></p>
+		<p className="tabbed"><b>January:</b> 278 followers</p>
+		<p className="tabbed"><b>February:</b> 397 followers</p>
+		<p>13. Reach 100 MailChimp subscriptions - <b>IN PROGRESS</b></p>
+		<p className="tabbed">This one is a bit more difficult. I gained 9 more subscribers, but have some strategies in my back pocket that are planned. Stay tuned!</p>
+		<p>14. Reach 500 followers of Twitter - <b>IN PROGRESS</b></p>
+		<p className="tabbed"><b>January:</b> 253 followers</p>
+		<p className="tabbed"><b>February:</b> 378 followers</p>
+		<p>15. Start YouTube channel - <b>NOT STARTED</b></p>
+		<p className="tabbed">No plans to create the channel quite yet. Well, I have plans, but it's lower on my personal strategic plan (more to come). </p>
+		<p>16. Create worksheets for reader downloads - <b>IN PROGRESS</b></p>
+		<p className="tabbed">I've finished one worksheet! If you want to check it out, <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2ByiGBn"> subscribe to Coffee Meets Polished</a>!</p>
+		<p>17. Finish draft for merchandise - <b>NOT STARTED</b></p>
+		<p className="tabbed">Nothing changed from January. I have a list of ideas, but nothing in final draft stages yet.</p>
+		<p>18. Create a monthly challenge - <b>NOT STARTED</b></p>
+		<p className="tabbed">I didn't pursue some of my ideas this month. I was hoping to do a "self love" challenge in February but clearly that didn't pan out. I have more ideas for later months and hope to have one planned out far enough in advance.</p>
+		<p>19. Do a giveaway and/or collaboration - <b>NOT STARTED</b></p>
+		<p className="tabbed">I honestly haven't gotten the guts yet to reach out for a collaboration. But I'm hoping once I reach some of my follower milestones that I'll do a giveaway. I'm excited to keep growing and expanding with other content creators!</p>
+		<p>Each month it's important to celebrate your progress and not get bogged down with how many more "in progress" and "not started" there are compared to "complete". Focus on <b>continuous improvement</b>. Our job is rarely completely finished, especially when it comes to our personal growth.</p>
+	<h4>How are your goals this year moving along?</h4>
+		<br></br>
+		<h4>❖❖❖</h4>
+		<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+	<h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>YOU MIGHT ALSO LIKE:</h4>
+		<a className="three-up" href="/articles/hopeful-for-in-2018">
+		    <img src="/images/hopefulfor2018.png" alt="HopefulFor2018" />
+		    <p className="centered">Hopeful For in 2018</p>
+	    </a>
+	    <a className="three-up" href="/articles/5-things-i-loved-in-february-2018">
+	        <img src="/images/februaryloves2018-preview.png" alt="5 Things I Loved in February 2018" />
+	        <p className="centered">5 Things I Loved in February</p>
+	    </a>
+	    <a className="three-up" href="/articles/19-before-2019-a-goal-setting-challenge">
+	        <img src="/images/19before2019.png" alt="19 Before 2019 Goals" />
+	        <p className="centered">19 Before 19: A Goal Setting Challenge</p>
+	    </a>
+	</div>
+},
+
 {id: "5-things-i-loved-in-february-2018", title: <a href="/articles/5-things-i-loved-in-february-2018">5 Things I Loved in February</a>, date: "February 28, 2018", category: "Life", photo: "/images/februaryloves2018-preview.png",  description: <div><p>What better a month than February to focus on love? There were so many things to love this month that it was hard to pin down just five. A lot happened this month around the country that were horrible and tragic, but it's reflections of things we love that help us remember our "why". Check out my top 5 loves in February.</p> <a href="/articles/5-things-i-loved-in-february-2018">[Read more]</a></div>,
 post: 
 	<div>
