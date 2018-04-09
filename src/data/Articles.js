@@ -1,6 +1,113 @@
 import React from 'react';
 
 const ARTICLES = [
+{id: "favorite-podcasts-in-march-2018", title: <a href="/articles/favorite-podcasts-in-march-2018">Favorite Podcasts in March</a>, date: "April 8, 2018", category: "Activism", photo: "/images/podcastsofmarch.png",  description: <div><p>March was Women's History Month, which resulted in so many podcasts being published about female empowerment. I also discovered some amazing new channels that I binge-listened multiple episodes in one sitting. From Boss Files to Bossed Up, check out my favorite podcasts of March relating to <b>empowerment</b>!</p> <a href="/articles/favorite-podcasts-in-march-2018">[Read more]</a></div>,
+post: 
+	<div>
+	<img src="/images/podcastsofmarch.png" alt="Favorite Podcasts in March 2018" />
+		<br></br>
+	<p>March was Women's History Month, which resulted in so many podcasts being published about female empowerment. I also discovered some amazing new channels that I binge-listened multiple episodes in one sitting. From Boss Files to Bossed Up, here are my favorite podcasts of March relating to <b>female empowerment</b>!</p>
+		<br></br>
+	<h4>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2CVTgKV">Favorite Podcasts of February</a></b></h4>	
+	<h4>❖❖❖</h4>
+	<h4><b>favorite new podcast discovery.</b></h4>
+		<br></br>
+	<p><img src="/images/bosseduppodcast.jpg" alt="Bossed Up Podcast" /></p>
+	<p>If you listen to Stuff Mom Never Told You (a regular in this Podcast Favorites series), then you heard that one of the co-hosts, Emilie Aires transitioned to launch the <a target="_blank" rel="noopener noreferrer" href="https://bossedup.org/podcast/">xBossed Up Podcast</a> this month. Emilie brings her same energy and inspiration and channeling it to career empowerment for women. I've really enjoyed all of the podcasts on this channel so far and look forward to more content.</p>
+		<br></br>
+	<h4>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2FeaPHG">Favorite Podcasts of 2017</a></b></h4>
+		<br></br>
+	<h4>❖❖❖</h4>
+	<h4><b>career.</b></h4>
+		<br></br>
+	<a target="_blank" rel="noopener noreferrer" href="http://money.cnn.com/news/boss-files/">
+		<img src="/images/bossfilespodcast.jpg" alt="Boss Files Podcast" />
+	    </a>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="http://money.cnn.com/news/boss-files/">Deloitte CEO Cathy Engelbert on being a first</a>:</b> "Deloitte CEO Cathy Engelbert is the first woman to become CEO of a major professional services firm. She instituted a 16-week family leave program and recounts being underestimated early in her career."</p>
+		<br></br>
+	<h4>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2DuawZE">10 Places to Start to Improve Your Feminism Literacy</a></b></h4>
+		<br></br>
+	<a target="_blank" rel="noopener noreferrer" href="https://unladylike.co/">
+		<img src="/images/unladylikepodcast.jpg" alt="Unladylike Podcast" />
+	    </a>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="https://unladylike.co/episodes/09/nanny-up">How to Nanny Up</a>:</b> "Behind every Sheryl Sandberg, there's a pink-collar workforce of caregivers and housekeepers who makes her success sustainable. So Cristen and Caroline want to know: what does "leaning in" look like for them? Ai-jen Poo and Allison Julien of the National Domestic Workers Alliance reveal the unsung power of nannies and feminism within domestic work."</p>
+	<p>I'm so excited for May because Unladylike is coming to Brooklyn for a <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2GG90bX">live recording at The Bell House</a>! If you're going too, leave a comment below!</p>
+		<br></br>
+	<a target="_blank" rel="noopener noreferrer" href="https://www.theskinnyconfidential.com/podcast/">
+		<img src="/images/theskinnyconfidentialpodcast.jpg" alt="The Skinny Confidential Podcast" />
+	    </a>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="https://www.theskinnyconfidential.com/podcast/">Glow Recipe Founders and Creators Sarah Lee & Christine Chang - Building a Global Beauty Brand, Shark Tank, Skincare, & Pursuing Your Dreams</a>:</b> "This week we have the founders & creators of Glow Recipe Christine Chang and Sarah Lee on the show. This week we talk about building a beauty brand from the ground up, quitting a full time job to pursue your dreams, appearing on Shark Tank, skin care, and what it takes to go all in on a new business."</p>
+	<p>I've been using Glow Recipe products for months and months now and I'm in love with this company. Product reviews are to come, but if you're interested in checking out their products you can use my <a target="_blank" rel="noopener noreferrer" href="http://i.refs.cc/8Ob4dP1f?u=1523124130415">Glow Recipe referral link</a>.</p>
+		<br></br>
+	<a target="_blank" rel="noopener noreferrer" href="http://www.emmagannon.co.uk/category/podcast/">
+		<img src="/images/ctrlaltdeletepodcast.jpg" alt="Ctrl Alt Delete Podcast" />
+	    </a>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="http://www.emmagannon.co.uk/2018/03/18/ctrl-alt-delete-podcast-118-ava-duvernay-on-making-movies/">Ava Duvernay on how it's never too late to do what you love</a>:</b> The Director of A Wrinkle in Time talks with Emma Gannon about her career experience. I was inspired by her story of not carrying a video camera until she was 30 years old. One of my favorite quotes from the podcast was, "I reject the word workaholic. I work all the time but I love what I do, and to not do it would make me less happy."</p>
+		<br></br>
+	<h4>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2Ge6BkR">28 Things I Would Tell My Younger Self</a></b></h4>
+	<h4>❖❖❖</h4>
+	<h4><b>activism.</b></h4>
+		<br></br>
+	<a target="_blank" rel="noopener noreferrer" href="http://letstalkaboutitwithtaylornolan.libsyn.com/website">
+		<img src="/images/letstalkaboutitpodcast.jpg" alt="Let's Talk About It Podcast" />
+	    </a>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="http://letstalkaboutitwithtaylornolan.libsyn.com/website/ep15-girls-guide-to-joining-the-resistance">A Girl's Guide to Joining the Resistance</a>:</b> "The wonderful co-host of the Here to Make Friends podcast and Senior Women’s Reporter at HuffPost, Emma Gray, joins Taylor to discuss her new book A Girl’s Guide to Joining the Resistance. Post Presidential election and covering the Women’s March, Emma interviewed activists, senators, march organizations, and women from all different backgrounds to curate her book. From intersectionality, to therapy, to lady clubs, to feminist mixtapes, this book has you covered!  Emma opens up about her struggle with anxiety and how to avoid losing your mind while changing the world."</p>
+		<br></br>
+	<h4>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2uF0lkb">5 Things I Loved in March</a></b></h4>
+		<br></br>
+	<a target="_blank" rel="noopener noreferrer" href="https://www.stuffmomnevertoldyou.com/podcasts">
+		<img src="/images/smntypodcast.jpg" alt="SMNTY Podcast" />
+	    </a>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="https://www.stuffmomnevertoldyou.com/podcasts/gender-disparity-from-beyond-the-grave.htm">Gender Disparity from Beyond the Grave</a>:</b> "Men get more obituaries than women. The New York Times' Jessica Bennett is trying to fix that."</p>
+		<br></br>
+	<a target="_blank" rel="noopener noreferrer" href="https://itunes.apple.com/us/podcast/ladies-who-lunch/id1097918480">
+		<img src="/images/ladieswholunchpodcast.jpg" alt="Ladies Who Lunch Podcast" />
+	    </a>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="https://itunes.apple.com/us/podcast/ladies-who-lunch/id1097918480">When the People You Love are Sexist</a>:</b> "This week, we're talking about how we deal with sexism from people we love: how it relates to people who mean well but may be ignorant, how to navigate through conversations with people who are actually sexist and oppressive, and how to deal with a lack of respect for people who are complacent with sexist people. At some point in every woman’s life, she will face sexism somewhere - in a relationship, in a workplace, walking down the street. We are all part of social systems or environments where women face hostility and oppression because they’re women in a man's world. Navigating sexism can be difficult, but there's another level added when it's coming from the people closest to you. The only way we’re going to change anti-woman culture is if we have each other’s backs."</p>
+	<h4>❖❖❖</h4>
+	<h4><b>leadership.</b></h4>
+		<br></br>
+	<a target="_blank" rel="noopener noreferrer" href="https://www.npr.org/podcasts/510308/hidden-brain">
+		<img src="/images/nprhiddenbrainpodcast.jpg" alt="NPR Hidden Brain Podcast" />
+	    </a>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="https://www.npr.org/2018/03/05/590881966/-shes-shrill-but-hes-just-being-a-boss-the-double-bind-for-women-in-leadership">Men: 45, Women: 0</a>:</b> "More women are running for political office than ever before in American history. But in politics and many other fields, women still struggle to attain positions of power. Researchers say they're often trapped in a "double bind" — a series of unconscious, interlocking stereotypes we have about men, women and the nature of leadership. This week, we take a closer look at the double bind as we revisit a favorite episode from October 2016."</p>
+		<br></br>
+	<a target="_blank" rel="noopener noreferrer" href="https://bossedup.org/podcast/">
+		<img src="/images/bosseduppodcast.jpg" alt="Bossed Up Podcast" />
+	    </a>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="https://bossedup.org/episode01/">To Lead or Be Liked</a>:</b> "Emilie talks with the Harvard Business Review’s Sarah Green Carmichael to understand the double-binds women leaders face – and how to persist in the face of them."</p>
+	<h4>❖❖❖</h4>
+	<h4><b>happiness.</b></h4>
+		<br></br>
+	<a target="_blank" rel="noopener noreferrer" href="https://katebowler.com/everything-happens/">
+		<img src="/images/everythinghappenspodcast.jpg" alt="Everything Happens Podcast" />
+	    </a>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="https://itunes.apple.com/us/podcast/margaret-feinberg-joyful-anyway/id1341076079?i=1000405095155&mt=2">Margaret Feinbert: Joyful, Anyway</a>:</b> "Bestselling author and speaker, Margaret Feinberg was writing a book about joy when her world fell apart. Suddenly, she was fighting for her life and re-writing the book from scratch. Feinberg talks about how she learned how to be happy again, despite everything."</p>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+	<h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>YOU MIGHT ALSO LIKE:</h4>
+	    <a className="three-up" href="/articles/favorite-podcasts-of-2017">
+	        <img src="/images/favoritepodcastsof2017.png" alt="Favorite Podcasts of 2017" />
+	        <p className="centered">Favorite Podcasts of 2017</p>
+	    </a>
+	    <a className="three-up" href="/articles/favorite-podcasts-in-january-2018">
+	        <img src="/images/podcastsofjanuary.png" alt="Favorite Podcasts of January 2018" />
+	        <p className="centered">Favorite Podcasts of January 2018</p>
+		    </a>
+	    <a className="three-up" href="/articles/favorite-podcasts-in-february-2018">
+	        <img src="/images/podcastsoffebruary.png" alt="Favorite Podcasts of February 2018" />
+	        <p className="centered">Favorite Podcasts of February 2018</p>
+	    </a>
+	</div>
+},
+
 {id: "5-things-i-loved-in-march-2018", title: <a href="/articles/5-things-i-loved-in-march-2018">5 Things I Loved in March</a>, date: "March 31, 2018", category: "Life", photo: "/images/marchloves2018-preview.png",  description: <div><p>March was so busy and filled with new experiences and inspirational movements across the country. It seems to be a monthly theme that life is so full it's hard to only pick 5 things to highlight. But I consider that pretty lucky. Check out the top 5 things I loved in March. </p> <a href="/articles/5-things-i-loved-in-march-2018">[Read more]</a></div>,
 post: 
 	<div>
@@ -41,7 +148,7 @@ post:
 	<img src="/images/windhammountainpano.jpg" alt="Windham Mountain Panoramic" />
 	<img src="/images/windhammountainexperience.jpg" alt="Windham Mountain Experience" />
 		<br></br>
-	<p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2FGFL55">10 Life Lessons for Your First Skiing Experience
+	<p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2Ec42NK">10 Life Lessons for Your First Skiing Experience
 	</a></b></p>
 		<br></br>
 	<h4><b>winter's last ditch effort.</b></h4>
