@@ -983,13 +983,13 @@ a:active {color:#213960;}  /* selected link */
   .container {
     width: 750px; } }
 
-@media (min-width: 1024px) {
+/*@media (min-width: 1024px) {
   .container {
     width: 970px; } }
 
 @media (min-width: 1280px) {
   .container {
-    width: 1170px; } }
+    width: 1170px; } }*/
 
 .row {
   margin-left: -10px;
