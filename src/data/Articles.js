@@ -1,6 +1,89 @@
 import React from 'react';
 
 const ARTICLES = [
+{id: "sephora-vib-spring-sale-2018-wishlist", title: <a href="/articles/sephora-vib-spring-sale-2018-wishlist">Sephora VIB Spring Sale 2018 Wish List</a>, date: "April 12, 2018", category: "Beauty", photo: "/images/sephoravibspringsalewishlist2018-preview.png",  description: <div><p>Last year I tried a lot great new makeup and skincare brands with products that have become some of my holy grails. One of my goals for the year was to use up products more than purchasing them, but it doesn't mean that I can't replace products once I'm done with them. There's a Sephora VIB Sale and there's a list of products on my wish list… It's during this time I think about treating myself with an item (or six?). See my top wish list items of makeup, skin care, and hair care and share what's on your wish list!</p> <a href="/articles/sephora-vib-spring-sale-2018-wishlist">[Read more]</a></div>,
+post: 
+	<div>
+	<img src="/images/sephoravibspringsalewishlist2018-preview.png" alt="Favorite Podcasts in March 2018" />
+		<br></br>
+	<p>Last year I tried a lot great new makeup and skincare brands with products that have become some of my holy grails. One of my goals for the year was to use up products more than purchasing them, but it doesn't mean that I can't replace products once I'm done with them. I am actually proud to say that I've not purchased ANY makeup or skincare products so far in 2018. And I have 4 products I've used up!</p>
+	<p>But now there's a Sephora VIB Sale and there's a list of products on my wish list… It's during this time I think about treating myself with an item (or six?).</p>
+	<p>Before I get started on my wish list, here are the details of the sale:</p>
+	<p><b>VIB ROUGE DATES:</b></p>
+	<p className="tabbed">APRIL 13TH - APRIL 16TH AND APRIL 20th - APRIL 23rd: 15% Off ➡️use code: YAYROUGE (April 13th for one day you can bring a friend and extend your rouge discount)</p>
+	<p><b>VIB DATES:</b></p>
+	<p className="tabbed">APRIL 20th - APRIL 23rd: 15% Off ➡️use code: YAYVIB</p>
+	<p><b>BeautyInsider DATES:</b></p>
+	<p className="tabbed">APRIL 20th - APRIL 23rd: 10% Off ➡️use code: YAYINSIDER</p>
+	<p>The products on my wish list for the Sephora sale are divided into makeup, skin care, and hair care. Have you used any of these products below? If so, please share with me any of your thoughts in the comment section!</p>
+	<h4><b>makeup.</b></h4>
+	<p>I'm pretty happy with the makeup products I have now. When I moved from North Carolina to New York City last summer, I did a huge de-clutter knowing that I wouldn't have much space to house a big collection. The process required me to only keep products that I truly enjoyed and use. That being said, I always am up for a fun new lip color, and need to replace high-use products (foundation, mascara, brow pencils, etc.) every few months.</p>
+	<p>The two brands I want to try products from for this sale are Fenty and It Cosmetics. I'm definitely behind the wagon for both of these, but one product is for fun and the other is for a test run replacement for a high-use product. Can you guess which is which category?</p>
+	    <a className="two-up" href="https://www.sephora.com/product/match-stix-matte-skinstick-P18975403?skuId=1925668">
+	        <img src="/images/fentybeautymatchstix.jpg" alt="Fenty Beauty" />
+	        <p className="centered">Fenty Beauty Match Stix</p>
+	    </a>
+
+	    <a className="two-up" href="https://www.sephora.com/product/your-skin-but-better-cc-cream-spf-50-P411885?skuId=1942762">
+	        <img src="/images/itcosmeticscccream.jpg" alt="IT Cosmetics CC Cream" />
+	        <p className="centered">It Cosmetics CC Cream SPF 50</p>
+	    </a>
+		<br></br>
+		<br></br>		
+	<h4>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2DGdnhr">My Skin Type and Foundation</a></b></h4>
+		<br></br>
+	<h4><b>skin care.</b></h4>
+	<p>I spent a lot of effort learning about my skincare needs over the past year and it has strengthened my self-awareness and self-love. I've learned to embrace my skin and appreciate the mindfulness of my skin care routine. Right now I've got some great products for my needs but there are some things I can use to enhance even more.</p>
+	<p>One product is curated by Glow Recipe, a company that I love! I gifted my mom the Blithe Chaga Serum for Christmas and got really intrigued to try a pressed serum as part of my regimen. I've also heard great things about the Laneige Lip Mask. It looks like a amazing things and that it lasts forever (and therefore a good value). I keep Vaseline on the side of my bed to put on my lips each night, but I'm always up for trying something new and may have some other hydrating properties.</p>
+	    <a className="two-up" href="https://www.sephora.com/product/crystal-iceplant-pressed-serum-P408254">
+	        <img src="/images/blithecrystaliceplantpressedserum.jpg" alt="Blithe Crystal Iceplant Pressed Serum" />
+	        <p className="centered">Blithe Crystal Iceplant Pressed Serum</p>
+	    </a>
+	    <a className="two-up" href="https://www.sephora.com/product/lip-sleeping-mask-P420652">
+	        <img src="/images/laneigelipmask.jpg" alt="Laneige Lip Mask" />
+	        <p className="centered">Laneige Lip Mask</p>
+	    </a>
+		<br></br>
+		<br></br>
+	<h4>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2nar0zi">My Sephora VIB Sale Skincare Wish List</a></b></h4>
+		<br></br>
+	<h4><b>hair care.</b></h4>
+	<p>I've evolved from focusing on makeup, then skin care, and this year I really want to focus on my hair routine. I have very dry, flaky scalp and hair that is partially wavy and thick. I've always just either straightened it or put it in a ponytail, but one of my goals was to learn how to use a hair curler. But before I figure out how to style in this way, I really want to get down what my hair care regimen is.</p>
+	<p>These two products are ones that I've heard really great things about and are high priority on my wish list.</p>
+	    <a className="two-up" href="https://www.sephora.com/product/scalp-revival-charcoal-coconut-oil-micro-exfoliating-shampoo-P418507">
+	        <img src="/images/briogeoexfoliatingshampoo.jpg" alt="Briogeo Scalp Revival Exfoliating Shampoo" />
+	        <p className="centered">Briogeo Exfoliating Shampoo</p>
+	    </a>
+	    <a className="two-up" href="https://www.sephora.com/product/olaplex-hair-perfector-no-3-P428224">
+	        <img src="/images/olaplexhairperfector.jpg" alt="Olaplex Hair Perfector No. 3" />
+	        <p className="centered">Olaplex Hair Perfector No. 3</p>
+	    </a>
+	<p>What's on your makeup/skin care/hair care wish list? Let me know in the comments below!</p>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+	<h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>YOU MIGHT ALSO LIKE:</h4>
+	    <a className="three-up" href="/articles/power-of-the-red-lip">
+	        <img src="/images/powerredlip-preview.png" alt="Power of the Red Lip" />
+	        <p className="centered">Power of the Red Lip</p>
+	    </a>
+	    <a className="three-up" href="/articles/sephora-vib-sale-makeup-recommendations-2017">
+	        <img src="/images/vibsale.jpg" alt="Sephora VIB Sale" />
+	        <p className="centered">Sephora VIB Sale Makeup Recommendations</p>
+	    </a>
+	    <a className="three-up" href="/articles/everyday-neutral-eyeshadows-for-medium-skin">
+	        <img src="/images/everydayneutraleyeshadows-preview.png" alt="Neutral Eyeshadows for Medium Skin" />
+	        <p className="centered">Everyday Neutral Eyeshadows for Medium Skin</p>
+	    </a>
+	</div>
+	},
+
 {id: "favorite-podcasts-in-march-2018", title: <a href="/articles/favorite-podcasts-in-march-2018">Favorite Podcasts in March</a>, date: "April 8, 2018", category: "Activism", photo: "/images/podcastsofmarch.png",  description: <div><p>March was Women's History Month, which resulted in so many podcasts being published about female empowerment. I also discovered some amazing new channels that I binge-listened multiple episodes in one sitting. From Boss Files to Bossed Up, check out my favorite podcasts of March relating to <b>empowerment</b>!</p> <a href="/articles/favorite-podcasts-in-march-2018">[Read more]</a></div>,
 post: 
 	<div>
@@ -2244,7 +2327,7 @@ The action plan has four objectives:
 </div>
 },
 
-{id: "everyday-neutral-eyeshadows-for-medium-skin", title: <a href="/articles/everyday-neutral-eyeshadows-for-medium-skin">Everyday Neutral Eyeshadows for Medium Skin</a>, date: "August 29, 2017", category: "Beauty", photo: "/images/neutral-eyeshadow-arrangement.jpg", description: <div><p>One of my favorite parts of any makeup routine is eyeshadow. I don’t consider myself creative or artistic, but with eyeshadows I feel that I’m able to completely transform my look and feel more confident. Here are my essential, everyday eyeshadows for medium tan (Filipina) skin. </p> <a href="/articles/everyday-neutral-eyeshadows-for-medium-skin">[Read More]</a></div>, post: 
+{id: "everyday-neutral-eyeshadows-for-medium-skin", title: <a href="/articles/everyday-neutral-eyeshadows-for-medium-skin">Everyday Neutral Eyeshadows for Medium Skin</a>, date: "August 29, 2017", category: "Beauty", photo: "/images/everydayneutraleyeshadows-preview.png", description: <div><p>One of my favorite parts of any makeup routine is eyeshadow. I don’t consider myself creative or artistic, but with eyeshadows I feel that I’m able to completely transform my look and feel more confident. Here are my essential, everyday eyeshadows for medium tan (Filipina) skin. </p> <a href="/articles/everyday-neutral-eyeshadows-for-medium-skin">[Read More]</a></div>, post: 
 <div>
 <p>One of my favorite parts of any makeup routine is eyeshadow. I don’t consider myself creative or artistic, but with eyeshadows I feel that I’m able to completely transform my look and feel more confident. Whether it’s a simple look while still half-asleep in the morning or ultra glam for a night out, I have a lot of fun doing it. <b>Remember: makeup should first and foremost be applied for you, not anyone else.</b></p>
 <p>Here are my essential, everyday eyeshadows. These are the ones that I travel with and reach for with almost every look. These are basically my default shadows when I’m on autopilot. For reference, I’m a Filipina and have medium brown skin with neutral undertones (Mac NW44, Revlon Colorstay Combination/Oily in Toast, Maybelline Matte Fit Me Matte + Poreless Foundation in Natural Tan). I have very dark brown eyes and my eyelids get oily so I prime and set with a base every time.</p>
