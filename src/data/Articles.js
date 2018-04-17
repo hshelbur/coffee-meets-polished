@@ -1,6 +1,61 @@
 import React from 'react';
 
 const ARTICLES = [
+{id: "19-before-2019-first-quarter-update", title: <a href="/articles/19-before-2019-first-quarter-update">19 Before 2019: First Quarter Update</a>, date: "March 16, 2018", category: "Life", photo: "/images/19before2019firstquarter-preview.png",  description: <div><p>When you make goals, it's easy to focus on the end target. But the <b>juice is in the journey</b>. I've been sharing with you all the monthly updates of my <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2mCwVg9">19 Goals Before 2019</a> goals, which continues to be the most viewed post on this site since it started last year. Along with monthly check-ins, it's important to have periodic reflections to take a step back and reflect on the big picture. The end of March was also the end of quarter one, and here are my thoughts on how it went. </p> <a href="/articles/19-before-2019-first-quarter-update">[Read more]</a></div>,
+post: 
+	<div>
+		<img src="/images/19before2019firstquarter-preview.png" alt="First Quarter Goals Reflection" />
+		<br></br>
+	<p>When you make goals, it's easy to focus on the end target. But the <b>juice is in the journey</b>. I've been sharing with you all the monthly updates of my <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2mCwVg9">19 Goals Before 2019</a> goals, which continues to be the most viewed post on this site since it started last year. It's been great to hold myself accountable by sharing the progress with you all. Along with monthly check-ins, it's important to have period reflections to take a step back and reflect on the big picture. I like to do this every quarter of whatever time period is allotted for any goal. The end of March was also the end of quarter one, and here are my thoughts on how it went.</p>
+		<br></br>
+	<h4>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="https://coffeemeetspolished.com/articles/how-to-set-smart-goals-for-yourself">How to Set Smart Goals For Yourself</a></b></h4>
+		<br></br>
+	<p>1. <b>How do I keep a goal going I've already accomplished?</b></p>
+	<p>In March, I completed a 5K run. CHECK!  I got a lot more fit than I probably ever have, but what next? I’ve run once since then and was in a really good place and motivated to keep going, but I’m in a drought. How do we keep continuously improving after a goal is accomplished that should be incorporated into every day wellbeing?</p>
+		<br></br>
+	<h4>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="https://coffeemeetspolished.com/articles/5-things-i-loved-in-march-2018">5 Things I Loved in March</a></b></h4>
+		<br></br>
+	<p>2. <b>I need help.</b></p>
+	<p>Sometimes you need to build a team to get what you need accomplished. I got some help with organization and management of the marketing side of Coffee Meets Polished and while we are still in the workflow-building phase, I'm excited for how much this will increase my capacity and help me focus on content creation.</p>
+		<br></br>
+	<p>3. <b>Does this goal still align with my personal strategic plan?</b></p>
+	<p>Not every goal needs to continue. I haven’t gotten to the point where I plan to cut any out, but for a quarterly reflection I want to bring up that point.</p>
+		<br></br>
+	<p>4. <b>It's a marathon, not a sprint.</b></p>
+	<p>There are a few of my goals that haven't gotten any traction and that is okay. Not every goal needs to be going at the same time. To continue long-term motivation, we must focus on the small wins to propel us to the next small win and these will snowball to the larger wins. If we have all goals going at the same time and going one inch at a time, you will burn out. But if you direct a larger piece of the energy pie to one that you can get done over a pre-defined period (you define it!) you will have more capacity to move on to the next goal.</p>
+		<br></br>
+	<p>5. <b>Face your stalls.</b></p>
+	<p>Keep yourself accountable. It’s easy to think of reasons outside yourself that a goal may not be met or progressing well enough. Take my subscriber count for example. I had a huge rate of increase in the first couple of months but it has slowed down quite a bit. But I know the reasons why, I haven’t been consistent. And that’s okay. To have the breakthrough, you need to have a breakdown. While I am not at breakdown point I did re-group and decide to get some help (see point #2).</p>
+		<br></br>
+	<h4>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="https://coffeemeetspolished.com/articles/mental-health-resolutions-for-2018">Mental Health Resolutions for 2018</a></b></h4>
+		<br></br>
+	<p>It's my hope that by sharing these reflections it empowers you to reflect on your own. Going into the two middle quarters of the year can make it hard to find motivation and puts us at the highest risk of letting go of our goals before picking it back up towards the end. But by doing these reflections so we are able to take a step back to see the bigger picture and we realize how far we've actually come. In the life principle of <b>continuous improvement</b>, always remember that it's the journey that matters most.</p>
+	<p>How are you doing with your goals? What reflections do you have? Share them in the comments below!</p>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+	<h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>YOU MIGHT ALSO LIKE:</h4>
+		<a className="three-up" href="/articles/19-before-2019-february-goals-update">
+	    	<img src="/images/februarygoalsupdate2018-preview.png" alt="19 Before 2019: February Goals Update" />
+	    	<p className="centered">19 Before 2019: February Goals Update</p>
+	    </a>
+	    <a className="three-up" href="/articles/19-before-2019-a-goal-setting-challenge">
+	        <img src="/images/19before2019.png" alt="19 Before 2019 Goals" />
+	        <p className="centered">19 Before 19: A Goal Setting Challenge</p>
+	    </a>
+	    <a className="three-up" href="/articles/19-before-2019-january-goals-update">
+	        <img src="/images/januarygoalsupdate2018-preview.png" alt="19 Before 2019: January Goals Update" />
+	        <p className="centered">19 Before 2019: January Goals Update</p>
+	    </a>
+	</div>
+	},
+
 {id: "sephora-vib-spring-sale-2018-wishlist", title: <a href="/articles/sephora-vib-spring-sale-2018-wishlist">Sephora VIB Spring Sale 2018 Wish List</a>, date: "April 12, 2018", category: "Beauty", photo: "/images/sephoravibspringsalewishlist2018-preview.png",  description: <div><p>Last year I tried a lot great new makeup and skincare brands with products that have become some of my holy grails. One of my goals for the year was to use up products more than purchasing them, but it doesn't mean that I can't replace products once I'm done with them. There's a Sephora VIB Sale and there's a list of products on my wish list… It's during this time I think about treating myself with an item (or six?). See my top wish list items of makeup, skin care, and hair care and share what's on your wish list!</p> <a href="/articles/sephora-vib-spring-sale-2018-wishlist">[Read more]</a></div>,
 post: 
 	<div>
