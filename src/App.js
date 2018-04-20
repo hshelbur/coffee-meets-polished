@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Switch} from 'react-router-dom';
-import './App.css';
+import './index.css';
 import Header from './layout/Header.js';
 import SocialForm from './layout/SocialForm.js';
 import Sidebar from './layout/Sidebar.js';

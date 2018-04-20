@@ -1,0 +1,101 @@
+footer {
+    padding: 30px 0;
+    border-top: 1px solid #ccc;
+    background-color: #f5dbbc;
+  }
+  
+  footer .social-form .main-button {
+    width: 120px;
+    border: 1px solid #aaa;
+  }
+  
+  footer .social-icons li {
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+    object-fit: cover;
+    overflow: hidden;
+    vertical-align: top;
+    background-color: white;
+    transition: all .2s ease;
+  }
+  
+  footer .developed-by {
+    text-align: center;
+  }
+  
+  .social-icons a:hover {
+    transform: scale(.9);
+  }
+  
+  .social-icons img {
+    width: 15px;
+  }
+  
+  #mc_embed_signup {
+    border-bottom: 1px solid #ccc;
+  }
+  
+  #mc_embed_signup h2 {
+    text-align: center;
+    margin-bottom: 15px;
+  }
+  
+  #mc_embed_signup input {
+    margin-bottom: 10px;
+    width: 100%;
+  }
+  
+  
+  #mc_embed_signup label {
+    font-family: Lato, helvetica, sans-serif;
+  }
+  
+  #mc_embed_signup .clear {
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 20px;
+  }
+  
+  
+  
+  #mc_embed_signup input.button {
+    width: 100%;
+    background-color: #f5dbbc;
+    margin-bottom: 20px;
+    padding: 15px 0 15px 0;
+    font-family: Lato, helvetica, sans-serif;
+    font-size: 14px;
+    color: #444;
+    border: none;
+    transition: all .2s ease;
+  }
+  
+  #mc_embed_signup input.button:hover {
+    cursor: pointer;
+    background-color: #e5cbac;
+  }
+  
+  .social-form section{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 20px;
+  }
+  
+  .social-form .instagram-icon {
+    width: 28px;
+    margin-left: 4px;
+    padding-bottom: 7px;
+  }
+  
+  .social-form .pinterest-icon {
+    width: 15px;
+    margin-left: 5px;
+  }
+  
+  .social-form .bloglovin-icon {
+    width: 15px;
+    margin-left: 9px;
+  }
