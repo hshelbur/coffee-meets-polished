@@ -1,6 +1,67 @@
 import React from 'react';
 
 const ARTICLES = [
+{id: "6-essential-ways-to-prepare-for-residency", title: <a href="/articles/6-essential-ways-to-prepare-for-residency">6 Essential Ways to Prepare for Residency</a>, date: "April 19, 2018", category: "Career", photo: "/images/essentialresidencyprep-preview.png",  description: <div><p>Today's article comes at the specific request from one of the Coffee Meets Polished subscribers who recently found out she matched to a pharmacy residency program! This is an exciting but also intimidating time because you are in transition. You're excited and ready to finish pharmacy school, but also realizing the journey still to come. Being in between, it's understandable to want to prepare as much as possible. If you're about to enter a transition in life or career and unsure how to approach it, this article is for you. </p> <a href="/articles/6-essential-ways-to-prepare-for-residency">[Read more]</a></div>,
+post: 
+	<div>
+		<img src="/images/essentialresidencyprep-preview.png" alt="6 Essential Ways to Prepare for Residency" />
+		<br></br>
+	<p>Today's article comes at the specific request from one of the Coffee Meets Polished subscribers who recently found out she matched to a pharmacy residency program! The "Match" was in March and it was a great day for many to find out where you will be for the next one to two years. In the pharmacy training world, there are multiple paths to take after graduating. These include going straight to work, fellowship, and one or two years of residency. For those pursuing residency, it is a way to specialize and it's said that one year of residency equates to approximately three years of on-the-job experience.</p>
+		<br></br>
+	<h4>[RELATED] <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2DGQ4nX">10 Tips for Orienting Yourself to a New Job</a></h4>
+		<br></br>
+	<p>I've written a lot about residency, and in fact it is a large part of the reason I wanted to launch Coffee Meets Polished. Some of the toughest times I've had mentally and emotionally were in residency but I can honestly say I came out the other side more empowered than I have in my life.</p>
+		<br></br>
+	<h4>[RELATED] <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2rDbjoN">The 5 Toughest Mental Health Lessons from Residency</a></h4>
+		<br></br>
+	<p>While it's an exciting time to have a fresh start, it's also intimidating especially with the daunting reputation of residency training. Pharmacy school is four years of post-college coursework with the final year being direct patient care experiences. But school can only prepare you for so much once your license is on the line.</p>
+	<p>But don't fret! Today I'm sharing the most important things to remember during your transition period, which I consider Match Day to your first day of residency orientation. These tips don't just apply to preparing for residency but can also apply to any transition.</p>
+	<p>1. <b>Finish strong.</b> It's so tempting after you find out your post-graduate plans to completely check out. And to some extent, it's okay. After all, you got your goal! No need to impress anyone anymore, right? The trick is: you still have to graduate. You also don't want to burn any potential bridges by "slacking off" at the end. Remember that first impressions AND last impressions are extremely important.</p>
+	<p>2. <b>Take a trip.</b> Leave, and don't look back. A lot of people will schedule a trip away, and I highly recommend it. For me, my trip was going home for a month. As an introvert, this is what I needed (I also wanted to save money). Going on a trip is a way to celebrate your awesome accomplishment and also disconnect from pharmacy for a bit. By disconnecting, you're able to close that chapter mentally in order to make room in your mind for the next step when orientation arrives.</p>
+	<p>3. <b>Don't get out of bed until noon.</b> I can't express enough how important it is to rest. You'll have adrenaline after getting into residency and graduating, but you must still rest. Do nothing. Don't get out of bed until noon (I didn't for a week after arriving home). Re-unite with your loved ones. Rest. This combined with a trip is part of the cleansing process of your mind, and recovery from the rigors of pharmacy school. </p>
+	<p>4. <b>Think about everything except residency.</b> Can you detect a pattern here? Take a trip, rest, and do things you enjoy. Find where you're going to live. Figure out how and when you're going to move. Go back to your happiness roots and connect back with the hobbies you may have put on hold during pharmacy school. If you were able to hold on to it all while in school, then I admire you. If not, heed this advice and find yourself again. </p>
+		<br></br>
+	<h4>[RELATED] <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2njBbRl">Futile Pursuit of Balance: Set Boundaries Instead</a></h4>
+		<br></br>
+	<p>5. <b>Connect with your new co-residents.</b> You don't have to do this right away, but I'm sure a group text will be in the near future. If you're going to residency where you went to pharmacy school, be one of the leaders to start the conversation. It's helpful to get to know your co-residents especially when it comes to finding housing, roommates, and getting into some social habits before residency gets hard. For my cohort, we had BBQ's at apartments and went to some local bars. A GroupMe was created with everyone and it ended up being the main form of communication between us besides email listservs. The group texts continue to live on even today!</p>
+	<p>6. <b>Pass your boards.</b> This is related to finishing strong, but if you don't pass your boards then you can't practice as a resident, or a pharmacist for that matter. A lot of people will ask me when they should take their MPJE (law) and NAPLEX between graduating pharmacy school and starting residency, and I'm not sure there's a single best way. The first thing I would find out is when your residency program requires you to complete your licensures. For some this is not until a couple months after your first day, and some require upon starting.</p>
+	<p className="tabbed"><b>Pro tip #1:</b> Even if your program doesn't require until later in the orientation period, your learning experience is INFINITELY better as early as possible.</p>
+	<p className="tabbed"><b>Pro tip #2:</b> You can take the licensing exams anywhere there is a testing site.</p>
+	<p>For me, I needed to be licensed in North Carolina but was spending a lot of time at home in Florida after graduating, so I took the exam in Florida. I took my law exam just a few weeks after graduating for a few reasons. For one, in case I didn't pass I would have enough time to try again (there's a waiting period) before starting residency. Also, I knew that was the harder one for most people and wanted to get it over with. I didn't take the NAPLEX until after orientation for residency started. This was actually quite helpful because I had my co-residents to share their experiences with me and they also shared some of their study materials. Also, having been in orientation I was able to dust off the clinical cobwebs as I was training to get my brain back in gear.</p>
+		<br></br>
+	<h4><b>TL;DR?</b> Pass your boards, rest, and don't think about residency. You'll be forced to think about it more than you want to soon enough.</h4>
+		<br></br>
+	<p>In all seriousness, you should be proud of how far you've come. Residency will be tough. If it wasn't, then anyone could do it. But you worked hard, applied, interviewed, matched. The next stage will test you to show up, and keep showing up. You will build relationships with your co-residents, pharmacy staff, and preceptors that will last a lifetime. And you will be a better health care professional for your team and most importantly: patients.</p>
+		<br></br>
+	<h4>[RELATED] <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2FpaJ09">When the Graduations End</a></h4>
+		<br></br>
+	<p>Do you have a career transition you are going through? How are you feeling about it? Share it in the comments below!</p>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+	<h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>YOU MIGHT ALSO LIKE:</h4>
+	    <a className="three-up" href="/articles/when-the-graduations-end">
+	        <img src="/images/graduation-end.jpg" alt="When the Graduations End" />
+	        <p className="centered">When the Graduations End</p>
+	    </a>
+	    <a className="three-up" href="/articles/highs-and-lows-of-2017">
+	        <img src="/images/highsof2017preview.png" alt="Highs and Lows of 2017" />
+	        <p className="centered">Highs and Lows of 2017</p>
+	    </a>
+	    <a className="three-up" href="/articles/28-things-i-would-tell-my-younger-self">
+	        <img src="/images/kindness.jpg" alt="28 Things I Would Tell My Younger Self" />
+	        <p className="centered">28 Things I Would Tell My Younger Self</p>
+	    </a>
+	</div>
+	},
+
+
 {id: "19-before-2019-first-quarter-update", title: <a href="/articles/19-before-2019-first-quarter-update">19 Before 2019: First Quarter Update</a>, date: "March 16, 2018", category: "Life", photo: "/images/19before2019firstquarter-preview.png",  description: <div><p>When you make goals, it's easy to focus on the end target. But the <b>juice is in the journey</b>. I've been sharing with you all the monthly updates of my <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2mCwVg9">19 Goals Before 2019</a> goals, which continues to be the most viewed post on this site since it started last year. Along with monthly check-ins, it's important to have periodic reflections to take a step back and reflect on the big picture. The end of March was also the end of quarter one, and here are my thoughts on how it went. </p> <a href="/articles/19-before-2019-first-quarter-update">[Read more]</a></div>,
 post: 
 	<div>
