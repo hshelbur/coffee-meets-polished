@@ -1,0 +1,33 @@
+/* InstagramPhotos Styles https://www.instagram.com/coffeemeetspolished/media/ */
+
+.instagram-photos h1 {
+    font-family: Lato, helvetica;
+    font-size: 16px;
+    text-decoration: none;
+    color: #213960;
+    padding: 10px 0 3px 0;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  
+  .instagram-photos ul {
+    padding-left: 0;
+    margin-left: 0;
+  }
+  
+  .instagram-photos li {
+    display: inline;
+    list-style-type: none;
+    margin: auto;
+  }
+  
+  .instagram-photos img:hover {
+    opacity:0.5;
+  }
+  
+  .instagram-photos img {
+    width: 33%;
+    float: left;
+    border: 2px solid white;
+    transition: all .2s ease;
+  }
