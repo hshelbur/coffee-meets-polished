@@ -61,7 +61,6 @@ post:
 	</div>
 	},
 
-
 {id: "19-before-2019-first-quarter-update", title: <a href="/articles/19-before-2019-first-quarter-update">19 Before 2019: First Quarter Update</a>, date: "March 16, 2018", category: "Life", photo: "/images/19before2019firstquarter-preview.png",  description: <div><p>When you make goals, it's easy to focus on the end target. But the <b>juice is in the journey</b>. I've been sharing with you all the monthly updates of my <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2mCwVg9">19 Goals Before 2019</a> goals, which continues to be the most viewed post on this site since it started last year. Along with monthly check-ins, it's important to have periodic reflections to take a step back and reflect on the big picture. The end of March was also the end of quarter one, and here are my thoughts on how it went. </p> <a href="/articles/19-before-2019-first-quarter-update">[Read more]</a></div>,
 post: 
 	<div>
