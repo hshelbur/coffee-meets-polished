@@ -5,6 +5,22 @@ class Archive extends Component {
     return(
         <section className="article">
         <h4><b>Coffee Meets Polished Archives</b></h4>
+          <p><b>APRIL 2018</b></p>
+            <p className="tabbed"><a href="https://coffeemeetspolished.com/articles/6-essential-ways-to-prepare-for-residency" rel="noopener noreferrer">6 Essential Ways to Prepare for Residency</a>
+              </p>
+            <p className="tabbed"><a href="https://coffeemeetspolished.com/articles/19-before-2019-first-quarter-update" rel="noopener noreferrer">19 Before 2019: First Quarter Update</a>
+              </p>
+            <p className="tabbed"><a href="https://coffeemeetspolished.com/articles/sephora-vib-spring-sale-2018-wishlist" rel="noopener noreferrer">Sephora VIB Spring Sale 2018 Wish List</a>
+              </p>
+            <p className="tabbed"><a href="https://coffeemeetspolished.com/articles/favorite-podcasts-in-march-2018" rel="noopener noreferrer">Favorite Podcasts in March 2018</a>
+              </p>    
+          <p><b>MARCH 2018</b></p>
+            <p className="tabbed"><a href="https://coffeemeetspolished.com/articles/5-things-i-loved-in-march-2018" rel="noopener noreferrer">5 Things I Loved in March</a>
+              </p>
+            <p className="tabbed"><a href="https://coffeemeetspolished.com/articles/10-life-lessons-for-your-first-skiing-experience" rel="noopener noreferrer">10 Life Lessons For Your First Skiing Experience</a>
+              </p>
+            <p className="tabbed"><a href="https://coffeemeetspolished.com/articles/19-before-2019-february-goals-update" rel="noopener noreferrer">19 Before 2019: February Goals Update</a>
+              </p>
           <p><b>FEBRUARY 2018</b></p>
             <p className="tabbed"><a href="https://coffeemeetspolished.com/articles/favorite-podcasts-in-february-2018" rel="noopener noreferrer">Favorite Podcasts in February</a>
               </p>
