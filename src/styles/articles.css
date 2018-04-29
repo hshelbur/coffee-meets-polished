@@ -126,13 +126,14 @@
     margin-bottom: 20px;
   }
 
-  .quoteStyling{
+  .quote-emphasis{
       font-family: 'Lato', sans-serif;
+      font-weight: 600;
       text-align: center;
       font-size: 32px;
       line-height: 50px;
-      border-top: 5px solid #213690;
-      border-bottom: 5px solid #213690;
+      border-top: 5px solid #f5dbbc;
+      border-bottom: 5px solid #f5dbbc;
       padding: 30px;
-      margin: 50px;
+      margin-bottom: 50px !important;
   }
