@@ -1,6 +1,62 @@
 import React from 'react';
 
 const ARTICLES = [
+{id: "5-things-i-loved-in-april-2018", title: <a href="/articles/5-things-i-loved-in-april-2018">5 Things I Loved in April</a>, date: "April 30, 2018", category: "Life", photo: "/images/5-things-i-loved-in-april-2018.gif",  description: <div><p>I knew April was going to be a busy month, but there were a lot of unexpected positive things that I would argue has changed the course of my year, potentially beyond. Here are the 5 things I loved! Leave a comment below with some things you loved in April, I would be excited to know! </p> <a href="/articles/5-things-i-loved-in-april-2018">[Read more]</a></div>,
+post: 
+	<div>
+		<img src="/images/5-things-i-loved-in-april-2018.gif" alt="5 Things I Loved in April" />
+		<br></br>
+	<p>I knew April was going to be a busy month, but there were a lot of unexpected positive things that I would argue has changed the course of my year, potentially beyond. Here are the 5 things I loved! Leave a comment below with some things you loved in April, I would be excited to know!</p>
+		<br></br>
+	<h4>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="https://coffeemeetspolished.com/articles/5-things-i-loved-in-march-2018">5 Things I Loved in March</a></b></h4>
+	<h4><b>family.</b></h4>
+	<p><img src="/images/zekefeet.jpg" alt="Zeke Feet" /></p>
+	<p>There's nothing like reuniting with family, especially with the next generation of our family. I hadn't seen my nephew since December when he was born and was able to reunite this month - 4 months later! He was baptized into the Catholic faith and I am honored to be one of his Godmothers ("Ninang" in Tagalog). I extended my visit a couple of days to be able to babysit and have time with him to myself. It was such a great time.</p>
+		<br></br>
+	<h4><b>youtube.</b></h4>
+	<p><img src="/images/caseyneistat-tweet.png" alt="Casey Neistat Tweet" /></p>
+	<p>Starting a YouTube channel for Coffee Meets Polished was one of my <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2mCwVg9">19 Before 2019 goals</a> but I had no plans or thought about its conception so far this year. And it's mostly because it's intimidating to me but also because I was trying to figure out what the voice would be on that platform. But I also discovered so many YouTube channels that I'm definitely behind the bandwagon on but have empowered me to believe that I do in fact have a story to tell, and that I should just go for it. Some of my newly discovered favorites include: <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/user/caseyneistat">Casey Neistat</a> (I know, I'm behind), <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/user/petermckinnon24">Peter McKinnon</a>, <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/user/saradietschy">Sara Dietschy</a> (rhymes with peachy), <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/user/rowenatsai">Rowena Tsai</a>, <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/user/savvysexysocial">Amy Landino</a>,and so many more.</p>
+		<br></br>
+	<h4>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2DIIxJb"> 5 Things I Learned on YouTube</a></b></h4>
+		<br></br>
+	<h4>canon eos m50.</h4>
+	<p><img src="/images/canoneosm50.jpg" alt="Canon EOS M50" /></p>
+	<p>Related to YouTube, I was inspired to get some new toys (thank you tax refund). One of them was a new camera! I've been setting this puppy up to record time lapses everywhere I'm able. I can't wait to see what this means for the future of Coffee Meets Polished. But it also will make for some pretty awesome vlogging and photo opportunities when going to Barcelona. I love a new tech toy to learn, and the mirrorless line of cameras is exciting.</p>
+		<br></br>
+	<h4><b>the wing.</b></h4>
+	<p><img src="/images/thewinghandmaids.jpg" alt="The Wing Handmaids Tale" /></p>
+	<p>When I first heard about <a target="_blank" rel="noopener noreferrer" href="https://www.the-wing.com/">The Wing</a>, I didn't quite get the point. But as I followed through its social media I quickly came to realize how much it aligns with my female empowerment journey. At its foundation it is a co-working space for women. But if you ever step foot into the space and look behind it's aesthetically pleasing interior design, you see how important it is that a space like this exists. It is a space FOUNDED BY women, FOR women, DESIGNED BY women. And every in of the space you realize this. While I am enamored with all of the beauty and skin care products available and comfortable couches, feminist café dishes and cocktails; I'm also in love with the free feminine products in the bathroom, and pumping room for mothers. In addition to the space, it has events hosted in all of its locations that I signed up for and attended for the first time this month. I've already gone to so many events and so many scheduled, that it will need its own post - stay tuned.</p>
+		<br></br>
+	<h4><b>researching for barcelona.</b></h4>
+	<p><img src="/images/barcelonametro.png" alt="Barcelona Metro" /></p>
+	<p>I'm an avid supporter for incorporating <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2ned9aa">microadventures</a> to our lives and have been doing many microadventures within my own home city. But sometimes, there's a MACRO-adventure to be had. In January, my boyfriend and I booked our first international trip in two years: Barcelona. Because it was booked so far ahead, I had to push it from my mind so I didn't get too impatient. But with April the researching fun came in full force! I can't wait to share the adventures had. Be sure to follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2Ea1ba1">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2Go3xlx">Twitter</a> for real-time, behind-the-scenes updates.</p>
+		<br></br>
+	<h4>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2ned9aa">Taste of Microadventures Vol. 3</a></b></h4>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+	<h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>YOU MIGHT ALSO LIKE:</h4>
+		<a className="three-up" href="/articles/5-things-i-loved-in-february-2018">
+		    <img src="/images/februaryloves2018-preview.png" alt="5 Things I Loved in February 2018" />
+		    <p className="centered">5 Things I Loved in February</p>
+		</a>
+	    <a className="three-up" href="/articles/highs-and-lows-of-2017">
+	        <img src="/images/highsof2017preview.png" alt="Highs and Lows of 2017" />
+	        <p className="centered">Highs and Lows of 2017</p>
+	    </a>
+	    <a className="three-up" href="/articles/28-things-i-would-tell-my-younger-self">
+	        <img src="/images/kindness.jpg" alt="28 Things I Would Tell My Younger Self" />
+	        <p className="centered">28 Things I Would Tell My Younger Self</p>
+	    </a>
+	</div>
+	},
+
 {id: "6-essential-ways-to-prepare-for-residency", title: <a href="/articles/6-essential-ways-to-prepare-for-residency">6 Essential Ways to Prepare for Residency</a>, date: "April 19, 2018", category: "Career", photo: "/images/essentialresidencyprep-preview.png",  description: <div><p>Today's article comes at the specific request from one of the Coffee Meets Polished subscribers who recently found out she matched to a pharmacy residency program! This is an exciting but also intimidating time because you are in transition. You're excited and ready to finish pharmacy school, but also realizing the journey still to come. Being in between, it's understandable to want to prepare as much as possible. If you're about to enter a transition in life or career and unsure how to approach it, this article is for you. </p> <a href="/articles/6-essential-ways-to-prepare-for-residency">[Read more]</a></div>,
 post: 
 	<div>
@@ -61,7 +117,7 @@ post:
 	</div>
 	},
 
-{id: "19-before-2019-first-quarter-update", title: <a href="/articles/19-before-2019-first-quarter-update">19 Before 2019: First Quarter Update</a>, date: "March 16, 2018", category: "Life", photo: "/images/19before2019firstquarter-preview.png",  description: <div><p>When you make goals, it's easy to focus on the end target. But the <b>juice is in the journey</b>. I've been sharing with you all the monthly updates of my <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2mCwVg9">19 Goals Before 2019</a> goals, which continues to be the most viewed post on this site since it started last year. Along with monthly check-ins, it's important to have periodic reflections to take a step back and reflect on the big picture. The end of March was also the end of quarter one, and here are my thoughts on how it went. </p> <a href="/articles/19-before-2019-first-quarter-update">[Read more]</a></div>,
+{id: "19-before-2019-first-quarter-update", title: <a href="/articles/19-before-2019-first-quarter-update">19 Before 2019: First Quarter Update</a>, date: "April 16, 2018", category: "Life", photo: "/images/19before2019firstquarter-preview.png",  description: <div><p>When you make goals, it's easy to focus on the end target. But the <b>juice is in the journey</b>. I've been sharing with you all the monthly updates of my <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2mCwVg9">19 Goals Before 2019</a> goals, which continues to be the most viewed post on this site since it started last year. Along with monthly check-ins, it's important to have periodic reflections to take a step back and reflect on the big picture. The end of March was also the end of quarter one, and here are my thoughts on how it went. </p> <a href="/articles/19-before-2019-first-quarter-update">[Read more]</a></div>,
 post: 
 	<div>
 		<img src="/images/19before2019firstquarter-preview.png" alt="First Quarter Goals Reflection" />
