@@ -1,6 +1,55 @@
 import React from 'react';
 
 const ARTICLES = [
+{id: "when-i-stopped-apologizing-for-needing-solitude", title: <a href="/articles/when-i-stopped-apologizing-for-needing-solitude">When I Stopped Apologizing for Needing Solitude</a>, date: "May 3, 2018", category: "Wellness", photo: "/images/solitude-preview.png",  description: <div><p>I think of empowerment in a few stages. The first one, is self-awareness. Second, is learning/unlearning about your identity and those around you. Third, is agency to make change. Part of my agency has been asking for the things I want and need. For my introversion and wellness, that's <b>solitude</b>. Here are 6 things that happened when I stopped apologizing for needing solitude.</p> <a href="/articles/when-i-stopped-apologizing-for-needing-solitude">[Read more]</a></div>,
+post: 
+	<div>
+	<img src="/images/solitude-preview.png" alt="Solitude Unsplash" />
+		<br></br>
+	<p>I think of empowerment in a few stages. The first one, is self-awareness. Second, is learning/unlearning about your identity and those around you. Third, is agency to make change. Part of my agency has been asking for the things I want and need. For my introversion and wellness, that's <b>solitude</b>.</p>
+	<p>I know what my needs are but communicating them is a whole different ballgame. At first, expressing my needs was <b>really uncomfortable</b>. I felt guilty for asking. I felt afraid to hear no. I felt like I would be judged. I felt a lot of negative things. And it didn't go away at first, But over time, in conjunction with owning my needs more and more, I was able to come to peace with it.</p>
+		<br></br>
+	<h4>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2FAv9UJ">6 Ways to Own Your Introversion</a></b></h4>	
+		<br></br>
+	<p>One of the big things I wanted to get better at was saying no to social engagements. There's a lot of pressure that comes with an introvert trying to live in a world that celebrates extrovert activities. After work happy hour, after-parties, co-working office spaces, BBQ's, weekend beach retreats, and so much more.</p>
+	<p>In residency, there were a lot of scheduled bonding activities. I was really glad they happened because it helped us get to know each other outside of the rigorous work environment. But the immediately afterwards I was drained. I needed at least a day of doing nothing for recovery but that kind of time is nonexistent during residency. As a result, my energy suffered and my work suffered. It made me stronger, but I wasn't happy.</p>
+	<p>Being in a large residency group, there were a lot of un-official bonding activities too. Some of the leaders of the group would organize a lot of different events for whoever would make it. I rarely made it out, and I felt punished for it in different ways (mostly self-imposed). I felt like everyone thought I didn't want to be part of the group, that I was a spoil-sport, or even felt above it all. But the reality was I was barely keeping up with the energy needed to get through a work day and my time out of the hospital was much-needed solitude.</p>
+	<p>I knew something needed to change otherwise I would keep falling into the vicious circle of guilt and exhaustion. It took baby steps but I finally built the confidence and my environment was accepting. Here are 6 things that happened when I stopped apologizing for needing solitude.</p>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<p>1. <b>People came to expect it.</b> I was with a group of co-workers at my new job when they were planning weekly happy hours, and I said upfront that I probably wouldn't be attending many of them because I was an introvert and it wears me out. I don't remember exactly what I said, but that was the gist. I was first met with the usual disbelief because I didn't seem shy (more on that later), but afterwards I didn't feel guilty at not attending some invitations. I was met with understanding and didn't require explanation when I stated I would be staying in that night. I asked those who attended how the events went afterwards, and this was the new normal.</p>
+	<p>2. <b>People accommodated to my needs.</b> Introverts don't hate people. In fact, I love people but I prefer interacting with them in a smaller group. Before I was comfortable saying no to outings, I would also pair it with an offer to do lunch or coffee instead. My friends started offering other ways to hang out and invited me to outings but didn't force it if I said I wasn't feeling it that night.</p>
+	<p>3. <b>Others admit they have similar needs.</b> There are many situations where a group goes with the idea of whoever made the first suggestion, assuming consensus automatically. Once I started feeling comfortable stating my preference and being the one to propose the alternative option, more people felt comfortable expressing similar feelings. They would start to offer other suggestions, or state they didn't want to do the activity either and thank me. This sounds very adversary but it's not meant to be. It's mainly to emphasize that expressing your ideas empowers others to express theirs.</p>
+	<p>4. <b>I felt more rested and focused at work.</b> Because I'm wearing myself out the night before at a group event and staying up extra late afterwards to wind down, I am more rested at work. 'Nuff said.</p>
+	<p>5. <b>I feel empowered to express my needs in other things.</b> It feels good to express what I need and not be met with animosity or guilt. The more that I surrounding myself with people who respect it, the more I kept doing it. Now that I'm used to doing it with people I know, I actually am more comfortable doing it upfront with anyone I meet.</p>
+	<p>6. <b>I feel happier and more fulfilled.</b> At the end of the day, it's all about getting what you need out of life to go for what you want. When you get through the uncomfortable time period of <b>asking</b>, you release a lot of negative energy into the ether and make room for the things that make you happy.</p>
+	<p>By sharing my experiences I hope to empower you to go on your own journey too. Have you had similar feelings about expressing your needs? What happened after you tried it? Share in the comments below.</p>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+	<h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>YOU MIGHT ALSO LIKE:</h4>
+	    <a className="three-up" href="/articles/mental-health-resolutions-for-2018">
+	        <img src="/images/mentalhealthresolutions.png" alt="Mental Health Resolutions for 2018" />
+	        <p className="centered">Mental Health Resolutions for 2018</p>
+	    </a>
+	    <a className="three-up" href="/articles/futile-pursuit-of-balance-set-boundaries-instead">
+	        <img src="/images/boundaries.jpg" alt="Future Pursuit of Balance: Set Boundaries Instead" />
+	        <p className="centered">Future Pursuit of Balance: Set Boundaries Instead</p>
+	    </a>
+	    <a className="three-up" href="/articles/6-ways-to-own-your-introversion">
+	        <img src="/images/owned-introversion-preview.png" alt="6 Ways to Own Your Introversion" />
+	        <p className="centered">6 Ways to Own Your Introversion</p>
+		    </a>
+	</div>
+	},
+
 {id: "5-things-i-loved-in-april-2018", title: <a href="/articles/5-things-i-loved-in-april-2018">5 Things I Loved in April</a>, date: "April 30, 2018", category: "Life", photo: "/images/5-things-i-loved-in-april-2018.gif",  description: <div><p>I knew April was going to be a busy month, but there were a lot of unexpected positive things that I would argue has changed the course of my year, potentially beyond. Here are the 5 things I loved! Leave a comment below with some things you loved in April, I would be excited to know! </p> <a href="/articles/5-things-i-loved-in-april-2018">[Read more]</a></div>,
 post: 
 	<div>
