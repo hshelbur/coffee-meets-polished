@@ -1,7 +1,7 @@
 import React from 'react';
 
 const ARTICLES = [
-{id: "test", title: <a href="/articles/test">19 Before 2019: April Goals Update</a>, date: "May 7, 2018", category: "Life", photo: "/images/aprilgoalsupdate2018-preview.png",  description: <div><p>My <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2mCwVg9">19 Goals Before 2019</a> post has been the most page on this site so far. Because of that, I decided to keep you all updated each month with my progress to ensure they weren't just goals made on a whim and show you how I plan to accomplish them, step-by-step. If you're enjoying this kind of content, be sure to let me know in the comment section! </p> <a href="/articles/test">[Read more]</a></div>,
+{id: "19-before-2019-april-goals-update", title: <a href="/articles/19-before-2019-april-goals-update">19 Before 2019: April Goals Update</a>, date: "May 7, 2018", category: "Life", photo: "/images/aprilgoalsupdate2018-preview.png",  description: <div><p>My <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2mCwVg9">19 Goals Before 2019</a> post has been the most page on this site so far. Because of that, I decided to keep you all updated each month with my progress to ensure they weren't just goals made on a whim and show you how I plan to accomplish them, step-by-step. If you're enjoying this kind of content, be sure to let me know in the comment section! </p> <a href="/articles/19-before-2019-april-goals-update">[Read more]</a></div>,
 post: 
 	<div>
 		<img src="/images/aprilgoalsupdate2018-preview.png" alt="April Goals Update" />
