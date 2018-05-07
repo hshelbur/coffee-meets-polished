@@ -1,6 +1,100 @@
 import React from 'react';
 
 const ARTICLES = [
+{id: "test", title: <a href="/articles/test">19 Before 2019: April Goals Update</a>, date: "May 7, 2018", category: "Life", photo: "/images/aprilgoalsupdate2018-preview.png",  description: <div><p>My <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2mCwVg9">19 Goals Before 2019</a> post has been the most page on this site so far. Because of that, I decided to keep you all updated each month with my progress to ensure they weren't just goals made on a whim and show you how I plan to accomplish them, step-by-step. If you're enjoying this kind of content, be sure to let me know in the comment section! </p> <a href="/articles/test">[Read more]</a></div>,
+post: 
+	<div>
+		<img src="/images/aprilgoalsupdate2018-preview.png" alt="April Goals Update" />
+	<p>So far this year, my <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2mCwVg9">19 Goals Before 2019</a> post has been the most popular one. Because of that, I decided to keep you all updated each month with my progress to ensure they weren't just goals made on a whim and show you how I plan to accomplish them, step-by-step.</p>
+		<p>You can find prior updates here:</p>
+	<p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2mCwVg9">19 Goals Before 2019</a></b></p>
+	<p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2ooOrpg">19 Goals Before 2019: January Update</a></b></p>
+	<p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2p7iIJh">19 Goals Before 2019: February Update</a></b></p>
+	<p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2vlqo0d">19 Goals Before 2019: First Quarter Reflections</a></b></p>
+		<p>If you're enjoying this kind of content, be sure to <b>let me know in the comment section below</b>! </p>
+	<h4>❖❖❖</h4>
+	<h4>personal.</h4>
+		<p>1. Run a 5K in Manhattan - <b>COMPLETE!</b></p>
+		<p className="tabbed">I proudly completed my first 5K without stopping to walk back in March, and have already signed up for my second race in June! My time for the 5K was 34:56 minutes at a 10:31 minute/mile pace. The race felt great, like I could have run faster, but my goal was to finish without walking and I'm really proud of myself for it. How I felt running during the race was proof that the training paid off. My race in July is for a 4-miler, and this will be the longest I've run since the 5K!</p>
+		<p>2. Travel out of the country twice - <b>IN PROGRESS</b></p>
+		<p className="tabbed">I will be going to Barcelona in May! In fact, today May 7th I am currently here! I can't wait to share the experience with you all. As far as the second international trip, that's still being planned out but it will hopefully be during December.</p>
+		<p>3. Participate in a protest/march - <b>COMPLETE!</b></p>
+		<p className="tabbed"> <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2FVnQr0">Women's March</a>. 'Nuff said. ✓</p>
+		<p className="tabbed">[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2FVnQr0">Everything You Need To Know About The 2018 Women's March</a></b></p>
+		<p className="tabbed">In April, I also witnessed the March for Our Lives. I didn't walk in it, but instead made efforts to amplify the voices of those marching. I was live-tweeting protest signs and listened to the program at the start of the march. It was incredibly inspiring to hear stories of survivors and see how intersectional the protest truly was.</p>
+		<p className="tabbed">[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2FGFL55">10 Essential Tips For Your First Protest</a></b></p>
+		<p>4. Submit 10 essays/articles for websites - <b>NOT STARTED</b></p>
+		<p className="tabbed">I've made no progress on this one so far. I continue to have a list of websites to contribute to. Back in February I switched this from "in progress" to "not started" since I am only to the point of listing out potential opportunities. Since my <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2vlqo0d">first quarter reflection</a>, I still want to keep this on but perhaps pursue it differently. More to come.</p>
+		<p>5. Take a creative writing course - <b>NOT STARTED</b></p>
+		<p className="tabbed">Still not progress for this. Some options I could pursue are Lynda.com or even Coursera. Do you any of you readers have suggestions?</p>
+		<p>6. Learn how to curl hair with a curler - <b>IN PROGRESS</b></p>
+		<p className="tabbed">I'm officially changing this to "in progress" for this month. While I haven't purchased a curler, I have been able to use my straightener again to get used to doing my hair. I also stopped straightening or blowdrying for the past month and embracing the waves. I found that a lot of my resistance to curling was simply not being used to seeing my hair with more volume. But I'm learning about a whole new group of hair products I've never used before.</p>
+		<p>7. Pay more rent than student loan bill each month - <b>IN PROGRESS</b></p>
+		<p className="tabbed">Completed this one so far every month! Last month I actually got a bonus at work and dedicated a large portion of that to an even higher loan payment. Eight more months to go… (and many more years).</p>
+		<p>8. Wear more lipstick - <b>IN PROGRESS</b></p>
+		<p className="tabbed">I actually dipped down in my lipstick use in April. My morale was lower than usual given the weather and I just wasn't feeling it. But it looks like Spring is FINALLY coming to New York City which means my life will be full of color again. </p>
+		<p className="tabbed">[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2DdLdOM">Power of the Red Lip</a></b></p>
+		<p>9. Finish Project Pan 2018 (18 skin care/make up products) - <b>IN PROGRESS</b></p>
+		<p className="tabbed">I've now finished 3 products so far! If you're interested in me writing a post about what my 18 products are, leave me a comment below!</p>
+		<p>10. Explore all of the New York City boroughs - <b>IN PROGRESS</b></p>
+		<p className="tabbed">I mentioned back in the <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2p7iIJh">February update</a> that I hoped to explore Queens after the 5K in Roosevelt Island in March. That didn't happen. However, I am officially switching this to "in progress" because I explored Brooklyn multiple times now! I went to Williamsburg to see an <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2uF0lkb">event hosted by Emma Gray</a> promoting her book (<a target="_blank" rel="noopener noreferrer" href="https://amzn.to/2JOyJf7">A Girl's Guide to Joining the Resistance</a>), went to DUMBO (Down Under the Manhattan Bridge Overpass) for an event at <a target="_blank" rel="noopener noreferrer" href="https://www.the-wing.com/">The Wing</a> location there, and finally to Prospect Park for my boyfriend's <a target="_blank" rel="noopener noreferrer" href="http://www.brooklyn15k.com/">15K race</a>! Brooklyn is pretty great and I understand why so many people are wanting to live there. Two boroughs down!</p>
+		<p>11. Go to a cultural/activist event every month - <b>IN PROGRESS</b></p>
+		<p className="tabbed"><b>January: </b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2FVnQr0">Women's March</a></p>
+		<p className="tabbed"><b>February: </b><a target="_blank" rel="noopener noreferrer" href="https://pen.org/event/me-too-a-writers-reckoning/">PEN America's #MeToo: A Writer's Reckoning</a></p>
+		<p className="tabbed"><b>March: </b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2uF0lkb">Emma Gray's book event: A Girl's Guide to Joining the Resistance</a></p>
+		<p className="tabbed"><b>April:</b> Lots of events hosted by <a target="_blank" rel="noopener noreferrer" href="https://www.the-wing.com/">The Wing</a> including <a target="_blank" rel="noopener noreferrer" href="https://www.hulu.com/the-handmaids-tale">Handmaid's Tale</a> screening+panel and <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=xcD5uRVO2SE">Sweetbitter</a> screening + panel.</p>
+	<h4>❖❖❖</h4>
+	<h4>coffee meets polished.</h4>
+		<p>12. Reach 500 followers on Instagram - <b>IN PROGRESS</b></p>
+		<p className="tabbed"><b>January:</b> 278 followers</p>
+		<p className="tabbed"><b>February:</b> 397 followers</p>
+		<p className="tabbed"><b>March:</b> 416 followers</p>
+		<p className="tabbed"><b>April:</b> 443 followers</p>
+		<p>13. Reach 100 MailChimp subscriptions - <b>IN PROGRESS</b></p>
+		<p className="tabbed">This one is a bit more difficult. I didn't gain any new subscribers as I have been focusing so much on social media. I know that this is something to have a stronger focus for in this next quarter.</p>
+		<p>14. Reach 500 followers of Twitter - <b>IN PROGRESS</b></p>
+		<p className="tabbed"><b>January:</b> 253 followers</p>
+		<p className="tabbed"><b>February:</b> 378 followers</p>
+		<p className="tabbed"><b>March:</b> 421 followers</p>
+		<p className="tabbed"><b>April:</b> 450 followers</p>
+		<p>15. Start YouTube channel - <b>IN PROGRESS</b></p>
+		<p className="tabbed">April was an exciting month to rejuvenate this goal. YouTube was one of the <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2KwUgtX">Things I Loved in April</a> because I discovered so many new channels that showed me how much opportunity there is to be unique and individual on the platform. That couple with purchasing the camera to use for recording and editing software, I officially transition this month to <b>in progress</b>. </p>
+		<p>16. Create worksheets for reader downloads - <b>IN PROGRESS</b></p>
+		<p className="tabbed">I've finished one worksheet! If you want to check it out, <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2ByiGBn"> subscribe to Coffee Meets Polished</a>!</p>
+		<p>17. Finish draft for merchandise - <b>NOT STARTED</b></p>
+		<p className="tabbed">Nothing changed from so far. I have a list of ideas, but nothing in final draft stages yet.</p>
+		<p>18. Create a monthly challenge - <b>NOT STARTED</b></p>
+		<p className="tabbed">This goal is on hold so far as I focus on other components to Coffee Meets Polished.</p>
+		<p>19. Do a giveaway and/or collaboration - <b>NOT STARTED</b></p>
+		<p className="tabbed">I haven't done a giveaway or collaboration yet. However, coming in May will feature the first Coffee Meets Polished contributor essay! I can't wait to share it with you all.</p>
+		<p>Each month it's important to celebrate your progress and not get bogged down with how many more "in progress" and "not started" there are compared to "complete". Focus on <b>continuous improvement</b>. Our job is rarely completely finished, especially when it comes to our personal growth.</p>
+		<br></br>
+	<h4>How are your goals this year moving along? Share in the comments below.</h4>
+		<br></br>
+		<h4>❖❖❖</h4>
+		<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+	<h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>YOU MIGHT ALSO LIKE:</h4>
+		<a className="three-up" href="/articles/hopeful-for-in-2018">
+		    <img src="/images/hopefulfor2018.png" alt="HopefulFor2018" />
+		    <p className="centered">Hopeful For in 2018</p>
+	    </a>
+	    <a className="three-up" href="/articles/19-before-2019-first-quarter-update">
+	        <img src="/images/19before2019firstquarter-preview.png" alt="19 Before 2019: First Quarter Reflections" />
+	        <p className="centered">19 Before 2019: First Quarter Reflections</p>
+	    </a>
+	    <a className="three-up" href="/articles/19-before-2019-a-goal-setting-challenge">
+	        <img src="/images/19before2019.png" alt="19 Before 2019 Goals" />
+	        <p className="centered">19 Before 19: A Goal Setting Challenge</p>
+	    </a>
+	</div>
+	},
+
 {id: "when-i-stopped-apologizing-for-needing-solitude", title: <a href="/articles/when-i-stopped-apologizing-for-needing-solitude">When I Stopped Apologizing for Needing Solitude</a>, date: "May 3, 2018", category: "Wellness", photo: "/images/solitude-preview.png",  description: <div><p>I think of empowerment in a few stages. The first one, is self-awareness. Second, is learning/unlearning about your identity and those around you. Third, is agency to make change. Part of my agency has been asking for the things I want and need. For my introversion and wellness, that's <b>solitude</b>. Here are 6 things that happened when I stopped apologizing for needing solitude.</p> <a href="/articles/when-i-stopped-apologizing-for-needing-solitude">[Read more]</a></div>,
 post: 
 	<div>
