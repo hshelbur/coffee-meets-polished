@@ -1,6 +1,54 @@
 import React from 'react';
 
 const ARTICLES = [
+{id: "test", title: <a href="/articles/test">Thoughts On Not-A-Motherhood</a>, date: "May 14, 2018", category: "Opinion", photo: "/images/not-a-motherhood-preview.png",  description: <div><p>As a 28-going-on-29-year-old woman, there are two things society puts a lot of pressure on having in my life: <b>marriage and kids</b>. From social media FOMO, living in a neighborhood surrounded by families, and most recently becoming a Tita (aunt, in the Philippines) it's really easy to feel that I am missing out on what I've been conditioned to think is an essential component of womanhood. In today's article, I unpack my [potentially problematic] thoughts on <b>not-a-motherhood</b>. </p> <a href="/articles/test">[Read more]</a></div>,
+post: 
+	<div>
+		<img src="/images/not-a-motherhood-preview.png" alt="Thoughts On Not-A-Motherhood" />
+		<br></br>
+	<p>As a 28-going-on-29-year-old woman, there are two things society puts a lot of pressure on having in my life: <b>marriage and kids</b>. From social media FOMO, living in a neighborhood surrounded by families, and most recently becoming a Tita (aunt, in the Philippines) it's really easy to feel that I am missing out on what I've been conditioned to think is an essential component of womanhood. In today's article, I unpack my [potentially problematic] thoughts on <b>not-a-motherhood</b>.</p>
+	<p>Today's article is in tribute to all of the Mothers out there. You are inspirations to me and I immensely respect all that you do and are capable of. Being a Mother is not currently part of my identity, but I aim to support and lift Mothers in my life to achieve your dreams and go for the life you want. Motherhood is an honor that I may or may not have in my future. But this challenges me to continue pursuing my life in its current state for now.</p>
+		<br></br>
+	<h4><b>feeling of selfishness.</b></h4>
+	<p>I recently listened to a podcast about unpacking the feeling of not wanting to have kids yet, and if that made you a bad person. The guest on the show talked about how she spent much of her 20's being the sole caretaker of her grandmother. She lived with her grandmother and spent all of her time ensuring her survival. And now the guest has shifted to live independently in her early 30's and isn't ready to raise a child. She is taking this moment to find herself again. This really spoke to my feelings because now that I'm in my first year of not being a student and not being in professional training at the age of 28, I'm finding myself again. This makes me feel selfish, but I try not to think of it this way and I wonder if it's because of all of the explicit and implicit external pressure.</p>
+		<br></br>
+	<h4><b>frustration with patriarchy.</b></h4>
+	<p>Infrastructures in the United States of America don't support equality for families. Things like family leave packages (or lack thereof) make me worried whenever I am ready to start a family that I won't be able to raise the kid(s) with the equality that I feel is necessary for the next generation. I understand now that I've learned a lot about feminist history that we've come a long way, but recent political times make me worried that the pendulum may be swinging in a direction I cannot accept.</p>
+		<br></br>
+	<h4><b>fear of pregnancy.</b></h4>
+	<p>Having seen two women in my life at the same time go through very different pregnancies with their own difficulties, I have to admit it puts fears in me for going through the same or worse. I also know a woman who went through a lot of health concerns with pre-eclampsia and being bedridden in the hospital for weeks. This is definitely only looking at the negative side of it but as a healthcare professional I get concerned. On the other hand, I also know a woman who had 5 children and was absolutely in love with pregnancy and raising children. What gives me hope is that all of these women have remained resilient and are thriving.</p>
+		<br></br>
+	<h4><b>being ready too late.</b></h4>
+	<p>I have thoughts that maybe my readiness will happen after I'm able to have kids. Can I even have kids? I don't know. The imminent body clock doesn't help me believe my decision to have a child someday would be an organic one. Everyone says you never truly feel “ready”. Instead you do what you can to be prepared, set up infrastructure around you to support financially and even socially, then brace yourself. But I just don’t feel ready right now and I don’t know what it will feel like when I'm closer to ready.</p>
+	<h4><b>the bottom line.</b></h4>
+	<p>It is not lost on me that these thoughts are <b>highly privileged</b> potentially problematic. I'm fortunate to be in a place where I have the choice to decide when I have children. I have access to birth control and health insurance, a support system, and amazing women in my life as examples for me. Not everyone is this lucky. But I will keep fighting for these resources for all who want to start a family or control when it happens for them.</p>
+	<p>I will also celebrate the Mothers in my life who are absolutely rock stars as well as their partners who parent alongside them. I believe that parenting requires equality but also support that a bond between a Mother and child is a unique and special one. I know this because of the relationship I have with my own Mom who I love and admire very much.</p>
+	<p>Do you have thoughts about not-a-motherhood like mine? Share them in the comments below.</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
+	<h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>YOU MIGHT ALSO LIKE:</h4>
+	    <a className="three-up" href="/articles/when-the-graduations-end">
+	        <img src="/images/graduation-end.jpg" alt="When the Graduations End" />
+	        <p className="centered">When the Graduations End</p>
+	    </a>
+	    <a className="three-up" href="/articles/highs-and-lows-of-2017">
+	        <img src="/images/highsof2017preview.png" alt="Highs and Lows of 2017" />
+	        <p className="centered">Highs and Lows of 2017</p>
+	    </a>
+	    <a className="three-up" href="/articles/28-things-i-would-tell-my-younger-self">
+	        <img src="/images/kindness.jpg" alt="28 Things I Would Tell My Younger Self" />
+	        <p className="centered">28 Things I Would Tell My Younger Self</p>
+	    </a>
+	</div>
+},
+
 {id: "19-before-2019-april-goals-update", title: <a href="/articles/19-before-2019-april-goals-update">19 Before 2019: April Goals Update</a>, date: "May 7, 2018", category: "Life", photo: "/images/aprilgoalsupdate2018-preview.png",  description: <div><p>My <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2mCwVg9">19 Goals Before 2019</a> post has been the most page on this site so far. Because of that, I decided to keep you all updated each month with my progress to ensure they weren't just goals made on a whim and show you how I plan to accomplish them, step-by-step. If you're enjoying this kind of content, be sure to let me know in the comment section! </p> <a href="/articles/19-before-2019-april-goals-update">[Read more]</a></div>,
 post: 
 	<div>
