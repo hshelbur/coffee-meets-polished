@@ -1,7 +1,7 @@
 import React from 'react';
 
 const ARTICLES = [
-{id: "test", title: <a href="/articles/test">Thoughts On Not-A-Motherhood</a>, date: "May 14, 2018", category: "Opinion", photo: "/images/not-a-motherhood-preview.png",  description: <div><p>As a 28-going-on-29-year-old woman, there are two things society puts a lot of pressure on having in my life: <b>marriage and kids</b>. From social media FOMO, living in a neighborhood surrounded by families, and most recently becoming a Tita (aunt, in the Philippines) it's really easy to feel that I am missing out on what I've been conditioned to think is an essential component of womanhood. In today's article, I unpack my [potentially problematic] thoughts on <b>not-a-motherhood</b>. </p> <a href="/articles/test">[Read more]</a></div>,
+{id: "thoughts-on-not-a-motherhood", title: <a href="/articles/thoughts-on-not-a-motherhood">Thoughts On Not-A-Motherhood</a>, date: "May 14, 2018", category: "Opinion", photo: "/images/not-a-motherhood-preview.png",  description: <div><p>As a 28-going-on-29-year-old woman, there are two things society puts a lot of pressure on having in my life: <b>marriage and kids</b>. From social media FOMO, living in a neighborhood surrounded by families, and most recently becoming a Tita (aunt, in the Philippines) it's really easy to feel that I am missing out on what I've been conditioned to think is an essential component of womanhood. In today's article, I unpack my [potentially problematic] thoughts on <b>not-a-motherhood</b>. </p> <a href="/articles/thoughts-on-not-a-motherhood">[Read more]</a></div>,
 post: 
 	<div>
 		<img src="/images/not-a-motherhood-preview.png" alt="Thoughts On Not-A-Motherhood" />
