@@ -1,6 +1,514 @@
 import React from 'react';
 
 const ARTICLES = [
+{id: "6-essential-ways-to-prepare-for-residency", title: <a href="/articles/6-essential-ways-to-prepare-for-residency">6 Essential Ways to Prepare for Residency</a>, date: "April 19, 2018", category: "Career", photo: "/images/essentialresidencyprep-preview.png",  description: <div><p>Today's article comes at the specific request from one of the Coffee Meets Polished subscribers who recently found out she matched to a pharmacy residency program! This is an exciting but also intimidating time because you are in transition. You're excited and ready to finish pharmacy school, but also realizing the journey still to come. Being in between, it's understandable to want to prepare as much as possible. If you're about to enter a transition in life or career and unsure how to approach it, this article is for you. </p> <a href="/articles/6-essential-ways-to-prepare-for-residency">[Read more]</a></div>,
+post: 
+	<div>
+		<img src="/images/essentialresidencyprep-preview.png" alt="6 Essential Ways to Prepare for Residency" />
+		<br></br>
+	<p>Today's article comes at the specific request from one of the Coffee Meets Polished subscribers who recently found out she matched to a pharmacy residency program! The "Match" was in March and it was a great day for many to find out where you will be for the next one to two years. In the pharmacy training world, there are multiple paths to take after graduating. These include going straight to work, fellowship, and one or two years of residency. For those pursuing residency, it is a way to specialize and it's said that one year of residency equates to approximately three years of on-the-job experience.</p>
+		<br></br>
+	<h4>[RELATED] <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2DGQ4nX">10 Tips for Orienting Yourself to a New Job</a></h4>
+		<br></br>
+	<p>I've written a lot about residency, and in fact it is a large part of the reason I wanted to launch Coffee Meets Polished. Some of the toughest times I've had mentally and emotionally were in residency but I can honestly say I came out the other side more empowered than I have in my life.</p>
+		<br></br>
+	<h4>[RELATED] <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2rDbjoN">The 5 Toughest Mental Health Lessons from Residency</a></h4>
+		<br></br>
+	<p>While it's an exciting time to have a fresh start, it's also intimidating especially with the daunting reputation of residency training. Pharmacy school is four years of post-college coursework with the final year being direct patient care experiences. But school can only prepare you for so much once your license is on the line.</p>
+	<p>But don't fret! Today I'm sharing the most important things to remember during your transition period, which I consider Match Day to your first day of residency orientation. These tips don't just apply to preparing for residency but can also apply to any transition.</p>
+	<p>1. <b>Finish strong.</b> It's so tempting after you find out your post-graduate plans to completely check out. And to some extent, it's okay. After all, you got your goal! No need to impress anyone anymore, right? The trick is: you still have to graduate. You also don't want to burn any potential bridges by "slacking off" at the end. Remember that first impressions AND last impressions are extremely important.</p>
+	<p>2. <b>Take a trip.</b> Leave, and don't look back. A lot of people will schedule a trip away, and I highly recommend it. For me, my trip was going home for a month. As an introvert, this is what I needed (I also wanted to save money). Going on a trip is a way to celebrate your awesome accomplishment and also disconnect from pharmacy for a bit. By disconnecting, you're able to close that chapter mentally in order to make room in your mind for the next step when orientation arrives.</p>
+	<p>3. <b>Don't get out of bed until noon.</b> I can't express enough how important it is to rest. You'll have adrenaline after getting into residency and graduating, but you must still rest. Do nothing. Don't get out of bed until noon (I didn't for a week after arriving home). Re-unite with your loved ones. Rest. This combined with a trip is part of the cleansing process of your mind, and recovery from the rigors of pharmacy school. </p>
+	<p>4. <b>Think about everything except residency.</b> Can you detect a pattern here? Take a trip, rest, and do things you enjoy. Find where you're going to live. Figure out how and when you're going to move. Go back to your happiness roots and connect back with the hobbies you may have put on hold during pharmacy school. If you were able to hold on to it all while in school, then I admire you. If not, heed this advice and find yourself again. </p>
+		<br></br>
+	<h4>[RELATED] <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2njBbRl">Futile Pursuit of Balance: Set Boundaries Instead</a></h4>
+		<br></br>
+	<p>5. <b>Connect with your new co-residents.</b> You don't have to do this right away, but I'm sure a group text will be in the near future. If you're going to residency where you went to pharmacy school, be one of the leaders to start the conversation. It's helpful to get to know your co-residents especially when it comes to finding housing, roommates, and getting into some social habits before residency gets hard. For my cohort, we had BBQ's at apartments and went to some local bars. A GroupMe was created with everyone and it ended up being the main form of communication between us besides email listservs. The group texts continue to live on even today!</p>
+	<p>6. <b>Pass your boards.</b> This is related to finishing strong, but if you don't pass your boards then you can't practice as a resident, or a pharmacist for that matter. A lot of people will ask me when they should take their MPJE (law) and NAPLEX between graduating pharmacy school and starting residency, and I'm not sure there's a single best way. The first thing I would find out is when your residency program requires you to complete your licensures. For some this is not until a couple months after your first day, and some require upon starting.</p>
+	<p className="tabbed"><b>Pro tip #1:</b> Even if your program doesn't require until later in the orientation period, your learning experience is INFINITELY better as early as possible.</p>
+	<p className="tabbed"><b>Pro tip #2:</b> You can take the licensing exams anywhere there is a testing site.</p>
+	<p>For me, I needed to be licensed in North Carolina but was spending a lot of time at home in Florida after graduating, so I took the exam in Florida. I took my law exam just a few weeks after graduating for a few reasons. For one, in case I didn't pass I would have enough time to try again (there's a waiting period) before starting residency. Also, I knew that was the harder one for most people and wanted to get it over with. I didn't take the NAPLEX until after orientation for residency started. This was actually quite helpful because I had my co-residents to share their experiences with me and they also shared some of their study materials. Also, having been in orientation I was able to dust off the clinical cobwebs as I was training to get my brain back in gear.</p>
+		<br></br>
+	<h4><b>TL;DR?</b> Pass your boards, rest, and don't think about residency. You'll be forced to think about it more than you want to soon enough.</h4>
+		<br></br>
+	<p>In all seriousness, you should be proud of how far you've come. Residency will be tough. If it wasn't, then anyone could do it. But you worked hard, applied, interviewed, matched. The next stage will test you to show up, and keep showing up. You will build relationships with your co-residents, pharmacy staff, and preceptors that will last a lifetime. And you will be a better health care professional for your team and most importantly: patients.</p>
+		<br></br>
+	<h4>[RELATED] <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2FpaJ09">When the Graduations End</a></h4>
+		<br></br>
+	<p>Do you have a career transition you are going through? How are you feeling about it? Share it in the comments below!</p>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+	<h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>YOU MIGHT ALSO LIKE:</h4>
+	    <a className="three-up" href="/articles/when-the-graduations-end">
+	        <img src="/images/graduation-end.jpg" alt="When the Graduations End" />
+	        <p className="centered">When the Graduations End</p>
+	    </a>
+	    <a className="three-up" href="/articles/highs-and-lows-of-2017">
+	        <img src="/images/highsof2017preview.png" alt="Highs and Lows of 2017" />
+	        <p className="centered">Highs and Lows of 2017</p>
+	    </a>
+	    <a className="three-up" href="/articles/28-things-i-would-tell-my-younger-self">
+	        <img src="/images/kindness.jpg" alt="28 Things I Would Tell My Younger Self" />
+	        <p className="centered">28 Things I Would Tell My Younger Self</p>
+	    </a>
+	</div>
+	},
+
+{id: "19-before-2019-first-quarter-update", title: <a href="/articles/19-before-2019-first-quarter-update">19 Before 2019: First Quarter Update</a>, date: "March 16, 2018", category: "Life", photo: "/images/19before2019firstquarter-preview.png",  description: <div><p>When you make goals, it's easy to focus on the end target. But the <b>juice is in the journey</b>. I've been sharing with you all the monthly updates of my <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2mCwVg9">19 Goals Before 2019</a> goals, which continues to be the most viewed post on this site since it started last year. Along with monthly check-ins, it's important to have periodic reflections to take a step back and reflect on the big picture. The end of March was also the end of quarter one, and here are my thoughts on how it went. </p> <a href="/articles/19-before-2019-first-quarter-update">[Read more]</a></div>,
+post: 
+	<div>
+		<img src="/images/19before2019firstquarter-preview.png" alt="First Quarter Goals Reflection" />
+		<br></br>
+	<p>When you make goals, it's easy to focus on the end target. But the <b>juice is in the journey</b>. I've been sharing with you all the monthly updates of my <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2mCwVg9">19 Goals Before 2019</a> goals, which continues to be the most viewed post on this site since it started last year. It's been great to hold myself accountable by sharing the progress with you all. Along with monthly check-ins, it's important to have period reflections to take a step back and reflect on the big picture. I like to do this every quarter of whatever time period is allotted for any goal. The end of March was also the end of quarter one, and here are my thoughts on how it went.</p>
+		<br></br>
+	<h4>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="https://coffeemeetspolished.com/articles/how-to-set-smart-goals-for-yourself">How to Set Smart Goals For Yourself</a></b></h4>
+		<br></br>
+	<p>1. <b>How do I keep a goal going I've already accomplished?</b></p>
+	<p>In March, I completed a 5K run. CHECK!  I got a lot more fit than I probably ever have, but what next? I’ve run once since then and was in a really good place and motivated to keep going, but I’m in a drought. How do we keep continuously improving after a goal is accomplished that should be incorporated into every day wellbeing?</p>
+		<br></br>
+	<h4>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="https://coffeemeetspolished.com/articles/5-things-i-loved-in-march-2018">5 Things I Loved in March</a></b></h4>
+		<br></br>
+	<p>2. <b>I need help.</b></p>
+	<p>Sometimes you need to build a team to get what you need accomplished. I got some help with organization and management of the marketing side of Coffee Meets Polished and while we are still in the workflow-building phase, I'm excited for how much this will increase my capacity and help me focus on content creation.</p>
+		<br></br>
+	<p>3. <b>Does this goal still align with my personal strategic plan?</b></p>
+	<p>Not every goal needs to continue. I haven’t gotten to the point where I plan to cut any out, but for a quarterly reflection I want to bring up that point.</p>
+		<br></br>
+	<p>4. <b>It's a marathon, not a sprint.</b></p>
+	<p>There are a few of my goals that haven't gotten any traction and that is okay. Not every goal needs to be going at the same time. To continue long-term motivation, we must focus on the small wins to propel us to the next small win and these will snowball to the larger wins. If we have all goals going at the same time and going one inch at a time, you will burn out. But if you direct a larger piece of the energy pie to one that you can get done over a pre-defined period (you define it!) you will have more capacity to move on to the next goal.</p>
+		<br></br>
+	<p>5. <b>Face your stalls.</b></p>
+	<p>Keep yourself accountable. It’s easy to think of reasons outside yourself that a goal may not be met or progressing well enough. Take my subscriber count for example. I had a huge rate of increase in the first couple of months but it has slowed down quite a bit. But I know the reasons why, I haven’t been consistent. And that’s okay. To have the breakthrough, you need to have a breakdown. While I am not at breakdown point I did re-group and decide to get some help (see point #2).</p>
+		<br></br>
+	<h4>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="https://coffeemeetspolished.com/articles/mental-health-resolutions-for-2018">Mental Health Resolutions for 2018</a></b></h4>
+		<br></br>
+	<p>It's my hope that by sharing these reflections it empowers you to reflect on your own. Going into the two middle quarters of the year can make it hard to find motivation and puts us at the highest risk of letting go of our goals before picking it back up towards the end. But by doing these reflections so we are able to take a step back to see the bigger picture and we realize how far we've actually come. In the life principle of <b>continuous improvement</b>, always remember that it's the journey that matters most.</p>
+	<p>How are you doing with your goals? What reflections do you have? Share them in the comments below!</p>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+	<h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>YOU MIGHT ALSO LIKE:</h4>
+		<a className="three-up" href="/articles/19-before-2019-february-goals-update">
+	    	<img src="/images/februarygoalsupdate2018-preview.png" alt="19 Before 2019: February Goals Update" />
+	    	<p className="centered">19 Before 2019: February Goals Update</p>
+	    </a>
+	    <a className="three-up" href="/articles/19-before-2019-a-goal-setting-challenge">
+	        <img src="/images/19before2019.png" alt="19 Before 2019 Goals" />
+	        <p className="centered">19 Before 19: A Goal Setting Challenge</p>
+	    </a>
+	    <a className="three-up" href="/articles/19-before-2019-january-goals-update">
+	        <img src="/images/januarygoalsupdate2018-preview.png" alt="19 Before 2019: January Goals Update" />
+	        <p className="centered">19 Before 2019: January Goals Update</p>
+	    </a>
+	</div>
+	},
+
+{id: "sephora-vib-spring-sale-2018-wishlist", title: <a href="/articles/sephora-vib-spring-sale-2018-wishlist">Sephora VIB Spring Sale 2018 Wish List</a>, date: "April 12, 2018", category: "Beauty", photo: "/images/sephoravibspringsalewishlist2018-preview.png",  description: <div><p>Last year I tried a lot great new makeup and skincare brands with products that have become some of my holy grails. One of my goals for the year was to use up products more than purchasing them, but it doesn't mean that I can't replace products once I'm done with them. There's a Sephora VIB Sale and there's a list of products on my wish list… It's during this time I think about treating myself with an item (or six?). See my top wish list items of makeup, skin care, and hair care and share what's on your wish list!</p> <a href="/articles/sephora-vib-spring-sale-2018-wishlist">[Read more]</a></div>,
+post: 
+	<div>
+	<img src="/images/sephoravibspringsalewishlist2018-preview.png" alt="Favorite Podcasts in March 2018" />
+		<br></br>
+	<p>Last year I tried a lot great new makeup and skincare brands with products that have become some of my holy grails. One of my goals for the year was to use up products more than purchasing them, but it doesn't mean that I can't replace products once I'm done with them. I am actually proud to say that I've not purchased ANY makeup or skincare products so far in 2018. And I have 4 products I've used up!</p>
+	<p>But now there's a Sephora VIB Sale and there's a list of products on my wish list… It's during this time I think about treating myself with an item (or six?).</p>
+	<p>Before I get started on my wish list, here are the details of the sale:</p>
+	<p><b>VIB ROUGE DATES:</b></p>
+	<p className="tabbed">APRIL 13TH - APRIL 16TH AND APRIL 20th - APRIL 23rd: 15% Off ➡️use code: YAYROUGE (April 13th for one day you can bring a friend and extend your rouge discount)</p>
+	<p><b>VIB DATES:</b></p>
+	<p className="tabbed">APRIL 20th - APRIL 23rd: 15% Off ➡️use code: YAYVIB</p>
+	<p><b>BeautyInsider DATES:</b></p>
+	<p className="tabbed">APRIL 20th - APRIL 23rd: 10% Off ➡️use code: YAYINSIDER</p>
+	<p>The products on my wish list for the Sephora sale are divided into makeup, skin care, and hair care. Have you used any of these products below? If so, please share with me any of your thoughts in the comment section!</p>
+	<h4><b>makeup.</b></h4>
+	<p>I'm pretty happy with the makeup products I have now. When I moved from North Carolina to New York City last summer, I did a huge de-clutter knowing that I wouldn't have much space to house a big collection. The process required me to only keep products that I truly enjoyed and use. That being said, I always am up for a fun new lip color, and need to replace high-use products (foundation, mascara, brow pencils, etc.) every few months.</p>
+	<p>The two brands I want to try products from for this sale are Fenty and It Cosmetics. I'm definitely behind the wagon for both of these, but one product is for fun and the other is for a test run replacement for a high-use product. Can you guess which is which category?</p>
+	    <a className="two-up" href="https://www.sephora.com/product/match-stix-matte-skinstick-P18975403?skuId=1925668">
+	        <img src="/images/fentybeautymatchstix.jpg" alt="Fenty Beauty" />
+	        <p className="centered">Fenty Beauty Match Stix</p>
+	    </a>
+
+	    <a className="two-up" href="https://www.sephora.com/product/your-skin-but-better-cc-cream-spf-50-P411885?skuId=1942762">
+	        <img src="/images/itcosmeticscccream.jpg" alt="IT Cosmetics CC Cream" />
+	        <p className="centered">It Cosmetics CC Cream SPF 50</p>
+	    </a>
+		<br></br>
+		<br></br>		
+	<h4>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2DGdnhr">My Skin Type and Foundation</a></b></h4>
+		<br></br>
+	<h4><b>skin care.</b></h4>
+	<p>I spent a lot of effort learning about my skincare needs over the past year and it has strengthened my self-awareness and self-love. I've learned to embrace my skin and appreciate the mindfulness of my skin care routine. Right now I've got some great products for my needs but there are some things I can use to enhance even more.</p>
+	<p>One product is curated by Glow Recipe, a company that I love! I gifted my mom the Blithe Chaga Serum for Christmas and got really intrigued to try a pressed serum as part of my regimen. I've also heard great things about the Laneige Lip Mask. It looks like a amazing things and that it lasts forever (and therefore a good value). I keep Vaseline on the side of my bed to put on my lips each night, but I'm always up for trying something new and may have some other hydrating properties.</p>
+	    <a className="two-up" href="https://www.sephora.com/product/crystal-iceplant-pressed-serum-P408254">
+	        <img src="/images/blithecrystaliceplantpressedserum.jpg" alt="Blithe Crystal Iceplant Pressed Serum" />
+	        <p className="centered">Blithe Crystal Iceplant Pressed Serum</p>
+	    </a>
+	    <a className="two-up" href="https://www.sephora.com/product/lip-sleeping-mask-P420652">
+	        <img src="/images/laneigelipmask.jpg" alt="Laneige Lip Mask" />
+	        <p className="centered">Laneige Lip Mask</p>
+	    </a>
+		<br></br>
+		<br></br>
+	<h4>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2nar0zi">My Sephora VIB Sale Skincare Wish List</a></b></h4>
+		<br></br>
+	<h4><b>hair care.</b></h4>
+	<p>I've evolved from focusing on makeup, then skin care, and this year I really want to focus on my hair routine. I have very dry, flaky scalp and hair that is partially wavy and thick. I've always just either straightened it or put it in a ponytail, but one of my goals was to learn how to use a hair curler. But before I figure out how to style in this way, I really want to get down what my hair care regimen is.</p>
+	<p>These two products are ones that I've heard really great things about and are high priority on my wish list.</p>
+	    <a className="two-up" href="https://www.sephora.com/product/scalp-revival-charcoal-coconut-oil-micro-exfoliating-shampoo-P418507">
+	        <img src="/images/briogeoexfoliatingshampoo.jpg" alt="Briogeo Scalp Revival Exfoliating Shampoo" />
+	        <p className="centered">Briogeo Exfoliating Shampoo</p>
+	    </a>
+	    <a className="two-up" href="https://www.sephora.com/product/olaplex-hair-perfector-no-3-P428224">
+	        <img src="/images/olaplexhairperfector.jpg" alt="Olaplex Hair Perfector No. 3" />
+	        <p className="centered">Olaplex Hair Perfector No. 3</p>
+	    </a>
+	<p>What's on your makeup/skin care/hair care wish list? Let me know in the comments below!</p>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+	<h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>YOU MIGHT ALSO LIKE:</h4>
+	    <a className="three-up" href="/articles/power-of-the-red-lip">
+	        <img src="/images/powerredlip-preview.png" alt="Power of the Red Lip" />
+	        <p className="centered">Power of the Red Lip</p>
+	    </a>
+	    <a className="three-up" href="/articles/sephora-vib-sale-makeup-recommendations-2017">
+	        <img src="/images/vibsale.jpg" alt="Sephora VIB Sale" />
+	        <p className="centered">Sephora VIB Sale Makeup Recommendations</p>
+	    </a>
+	    <a className="three-up" href="/articles/everyday-neutral-eyeshadows-for-medium-skin">
+	        <img src="/images/everydayneutraleyeshadows-preview.png" alt="Neutral Eyeshadows for Medium Skin" />
+	        <p className="centered">Everyday Neutral Eyeshadows for Medium Skin</p>
+	    </a>
+	</div>
+	},
+
+{id: "favorite-podcasts-in-march-2018", title: <a href="/articles/favorite-podcasts-in-march-2018">Favorite Podcasts in March</a>, date: "April 8, 2018", category: "Activism", photo: "/images/podcastsofmarch.png",  description: <div><p>March was Women's History Month, which resulted in so many podcasts being published about female empowerment. I also discovered some amazing new channels that I binge-listened multiple episodes in one sitting. From Boss Files to Bossed Up, check out my favorite podcasts of March relating to <b>empowerment</b>!</p> <a href="/articles/favorite-podcasts-in-march-2018">[Read more]</a></div>,
+post: 
+	<div>
+	<img src="/images/podcastsofmarch.png" alt="Favorite Podcasts in March 2018" />
+		<br></br>
+	<p>March was Women's History Month, which resulted in so many podcasts being published about female empowerment. I also discovered some amazing new channels that I binge-listened multiple episodes in one sitting. From Boss Files to Bossed Up, here are my favorite podcasts of March relating to <b>female empowerment</b>!</p>
+		<br></br>
+	<h4>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2CVTgKV">Favorite Podcasts of February</a></b></h4>	
+	<h4>❖❖❖</h4>
+	<h4><b>favorite new podcast discovery.</b></h4>
+		<br></br>
+	<p><img src="/images/bosseduppodcast.jpg" alt="Bossed Up Podcast" /></p>
+	<p>If you listen to Stuff Mom Never Told You (a regular in this Podcast Favorites series), then you heard that one of the co-hosts, Emilie Aires transitioned to launch the <a target="_blank" rel="noopener noreferrer" href="https://bossedup.org/podcast/">xBossed Up Podcast</a> this month. Emilie brings her same energy and inspiration and channeling it to career empowerment for women. I've really enjoyed all of the podcasts on this channel so far and look forward to more content.</p>
+		<br></br>
+	<h4>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2FeaPHG">Favorite Podcasts of 2017</a></b></h4>
+		<br></br>
+	<h4>❖❖❖</h4>
+	<h4><b>career.</b></h4>
+		<br></br>
+	<a target="_blank" rel="noopener noreferrer" href="http://money.cnn.com/news/boss-files/">
+		<img src="/images/bossfilespodcast.jpg" alt="Boss Files Podcast" />
+	    </a>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="http://money.cnn.com/news/boss-files/">Deloitte CEO Cathy Engelbert on being a first</a>:</b> "Deloitte CEO Cathy Engelbert is the first woman to become CEO of a major professional services firm. She instituted a 16-week family leave program and recounts being underestimated early in her career."</p>
+		<br></br>
+	<h4>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2DuawZE">10 Places to Start to Improve Your Feminism Literacy</a></b></h4>
+		<br></br>
+	<a target="_blank" rel="noopener noreferrer" href="https://unladylike.co/">
+		<img src="/images/unladylikepodcast.jpg" alt="Unladylike Podcast" />
+	    </a>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="https://unladylike.co/episodes/09/nanny-up">How to Nanny Up</a>:</b> "Behind every Sheryl Sandberg, there's a pink-collar workforce of caregivers and housekeepers who makes her success sustainable. So Cristen and Caroline want to know: what does "leaning in" look like for them? Ai-jen Poo and Allison Julien of the National Domestic Workers Alliance reveal the unsung power of nannies and feminism within domestic work."</p>
+	<p>I'm so excited for May because Unladylike is coming to Brooklyn for a <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2GG90bX">live recording at The Bell House</a>! If you're going too, leave a comment below!</p>
+		<br></br>
+	<a target="_blank" rel="noopener noreferrer" href="https://www.theskinnyconfidential.com/podcast/">
+		<img src="/images/theskinnyconfidentialpodcast.jpg" alt="The Skinny Confidential Podcast" />
+	    </a>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="https://www.theskinnyconfidential.com/podcast/">Glow Recipe Founders and Creators Sarah Lee & Christine Chang - Building a Global Beauty Brand, Shark Tank, Skincare, & Pursuing Your Dreams</a>:</b> "This week we have the founders & creators of Glow Recipe Christine Chang and Sarah Lee on the show. This week we talk about building a beauty brand from the ground up, quitting a full time job to pursue your dreams, appearing on Shark Tank, skin care, and what it takes to go all in on a new business."</p>
+	<p>I've been using Glow Recipe products for months and months now and I'm in love with this company. Product reviews are to come, but if you're interested in checking out their products you can use my <a target="_blank" rel="noopener noreferrer" href="http://i.refs.cc/8Ob4dP1f?u=1523124130415">Glow Recipe referral link</a>.</p>
+		<br></br>
+	<a target="_blank" rel="noopener noreferrer" href="http://www.emmagannon.co.uk/category/podcast/">
+		<img src="/images/ctrlaltdeletepodcast.jpg" alt="Ctrl Alt Delete Podcast" />
+	    </a>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="http://www.emmagannon.co.uk/2018/03/18/ctrl-alt-delete-podcast-118-ava-duvernay-on-making-movies/">Ava Duvernay on how it's never too late to do what you love</a>:</b> The Director of A Wrinkle in Time talks with Emma Gannon about her career experience. I was inspired by her story of not carrying a video camera until she was 30 years old. One of my favorite quotes from the podcast was, "I reject the word workaholic. I work all the time but I love what I do, and to not do it would make me less happy."</p>
+		<br></br>
+	<h4>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2Ge6BkR">28 Things I Would Tell My Younger Self</a></b></h4>
+	<h4>❖❖❖</h4>
+	<h4><b>activism.</b></h4>
+		<br></br>
+	<a target="_blank" rel="noopener noreferrer" href="http://letstalkaboutitwithtaylornolan.libsyn.com/website">
+		<img src="/images/letstalkaboutitpodcast.jpg" alt="Let's Talk About It Podcast" />
+	    </a>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="http://letstalkaboutitwithtaylornolan.libsyn.com/website/ep15-girls-guide-to-joining-the-resistance">A Girl's Guide to Joining the Resistance</a>:</b> "The wonderful co-host of the Here to Make Friends podcast and Senior Women’s Reporter at HuffPost, Emma Gray, joins Taylor to discuss her new book A Girl’s Guide to Joining the Resistance. Post Presidential election and covering the Women’s March, Emma interviewed activists, senators, march organizations, and women from all different backgrounds to curate her book. From intersectionality, to therapy, to lady clubs, to feminist mixtapes, this book has you covered!  Emma opens up about her struggle with anxiety and how to avoid losing your mind while changing the world."</p>
+		<br></br>
+	<h4>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2uF0lkb">5 Things I Loved in March</a></b></h4>
+		<br></br>
+	<a target="_blank" rel="noopener noreferrer" href="https://www.stuffmomnevertoldyou.com/podcasts">
+		<img src="/images/smntypodcast.jpg" alt="SMNTY Podcast" />
+	    </a>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="https://www.stuffmomnevertoldyou.com/podcasts/gender-disparity-from-beyond-the-grave.htm">Gender Disparity from Beyond the Grave</a>:</b> "Men get more obituaries than women. The New York Times' Jessica Bennett is trying to fix that."</p>
+		<br></br>
+	<a target="_blank" rel="noopener noreferrer" href="https://itunes.apple.com/us/podcast/ladies-who-lunch/id1097918480">
+		<img src="/images/ladieswholunchpodcast.jpg" alt="Ladies Who Lunch Podcast" />
+	    </a>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="https://itunes.apple.com/us/podcast/ladies-who-lunch/id1097918480">When the People You Love are Sexist</a>:</b> "This week, we're talking about how we deal with sexism from people we love: how it relates to people who mean well but may be ignorant, how to navigate through conversations with people who are actually sexist and oppressive, and how to deal with a lack of respect for people who are complacent with sexist people. At some point in every woman’s life, she will face sexism somewhere - in a relationship, in a workplace, walking down the street. We are all part of social systems or environments where women face hostility and oppression because they’re women in a man's world. Navigating sexism can be difficult, but there's another level added when it's coming from the people closest to you. The only way we’re going to change anti-woman culture is if we have each other’s backs."</p>
+	<h4>❖❖❖</h4>
+	<h4><b>leadership.</b></h4>
+		<br></br>
+	<a target="_blank" rel="noopener noreferrer" href="https://www.npr.org/podcasts/510308/hidden-brain">
+		<img src="/images/nprhiddenbrainpodcast.jpg" alt="NPR Hidden Brain Podcast" />
+	    </a>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="https://www.npr.org/2018/03/05/590881966/-shes-shrill-but-hes-just-being-a-boss-the-double-bind-for-women-in-leadership">Men: 45, Women: 0</a>:</b> "More women are running for political office than ever before in American history. But in politics and many other fields, women still struggle to attain positions of power. Researchers say they're often trapped in a "double bind" — a series of unconscious, interlocking stereotypes we have about men, women and the nature of leadership. This week, we take a closer look at the double bind as we revisit a favorite episode from October 2016."</p>
+		<br></br>
+	<a target="_blank" rel="noopener noreferrer" href="https://bossedup.org/podcast/">
+		<img src="/images/bosseduppodcast.jpg" alt="Bossed Up Podcast" />
+	    </a>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="https://bossedup.org/episode01/">To Lead or Be Liked</a>:</b> "Emilie talks with the Harvard Business Review’s Sarah Green Carmichael to understand the double-binds women leaders face – and how to persist in the face of them."</p>
+	<h4>❖❖❖</h4>
+	<h4><b>happiness.</b></h4>
+		<br></br>
+	<a target="_blank" rel="noopener noreferrer" href="https://katebowler.com/everything-happens/">
+		<img src="/images/everythinghappenspodcast.jpg" alt="Everything Happens Podcast" />
+	    </a>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="https://itunes.apple.com/us/podcast/margaret-feinberg-joyful-anyway/id1341076079?i=1000405095155&mt=2">Margaret Feinbert: Joyful, Anyway</a>:</b> "Bestselling author and speaker, Margaret Feinberg was writing a book about joy when her world fell apart. Suddenly, she was fighting for her life and re-writing the book from scratch. Feinberg talks about how she learned how to be happy again, despite everything."</p>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+	<h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>YOU MIGHT ALSO LIKE:</h4>
+	    <a className="three-up" href="/articles/favorite-podcasts-of-2017">
+	        <img src="/images/favoritepodcastsof2017.png" alt="Favorite Podcasts of 2017" />
+	        <p className="centered">Favorite Podcasts of 2017</p>
+	    </a>
+	    <a className="three-up" href="/articles/favorite-podcasts-in-january-2018">
+	        <img src="/images/podcastsofjanuary.png" alt="Favorite Podcasts of January 2018" />
+	        <p className="centered">Favorite Podcasts of January 2018</p>
+		    </a>
+	    <a className="three-up" href="/articles/favorite-podcasts-in-february-2018">
+	        <img src="/images/podcastsoffebruary.png" alt="Favorite Podcasts of February 2018" />
+	        <p className="centered">Favorite Podcasts of February 2018</p>
+	    </a>
+	</div>
+},
+
+{id: "5-things-i-loved-in-march-2018", title: <a href="/articles/5-things-i-loved-in-march-2018">5 Things I Loved in March</a>, date: "March 31, 2018", category: "Life", photo: "/images/marchloves2018-preview.png",  description: <div><p>March was so busy and filled with new experiences and inspirational movements across the country. It seems to be a monthly theme that life is so full it's hard to only pick 5 things to highlight. But I consider that pretty lucky. Check out the top 5 things I loved in March. </p> <a href="/articles/5-things-i-loved-in-march-2018">[Read more]</a></div>,
+post: 
+	<div>
+	<br></br>
+	<img src="/images/marchloves2018-preview.png" alt="5 Things I Loved in March" />
+	<p>March was so busy and filled with new experiences and inspirational movements across the country. It seems to be a monthly theme that life is so full it's hard to only pick 5 things to highlight. But I consider that pretty lucky. Check out the top 5 things I loved in March. </p>
+		<br></br>
+	<p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="https://coffeemeetspolished.com/articles/5-things-i-loved-in-February-2018">5 Things I Loved in February</a></b></p>
+		<br></br>
+	<h4><b>international women's day.</b></h4>
+	<p>Every year, March 8th is <a target="_blank" rel="noopener noreferrer" href="https://www.internationalwomensday.com/">International Women's Day</a>. Some would argue that should be every day and ask why we need a dedicated day of the year for us. But until society sees women as equal to men and masculinity is re-defined for true feminism to exist, I will support this day. My first IWD in New York City was pretty awesome! I got to attend an event at <a target="_blank" rel="noopener noreferrer" href="http://www.uospaces.com/ninety8/williamsburg-ny">Space Ninety 8</a> celebrating the launch of <a target="_blank" rel="noopener noreferrer" href="https://www.huffingtonpost.com/author/emma-gray">HuffPost Senior Reporter</a> and Co-Host of <a target="_blank" rel="noopener noreferrer" href="https://soundcloud.com/here-to-make-friends">Here to Make Friends Podcast</a> Emma Gray's new book: <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Girls-Guide-Joining-Resistance-Feminist/dp/0062748084/ref=as_sl_pc_tf_til?tag">A Girl's Guide to Joining the Resistance: A Feminist Handbook on Fighting for Good</a>. The event was so empowering and the book is great. I also loved getting to meet her panelists, including Liz Plank! You can find tons of  pictures from the event on the <a target="_blank" rel="noopener noreferrer" href="http://www.uospaces.com/ninety8/en/williamsburg-ny/blog/posts/uo-happenings-international-womens-day-celebration">Space Ninety 8 site</a>. </p>
+		<br></br>
+	<img src="/images/intlwomensday1.jpg" alt="International Womens Day1" />
+	<img src="/images/intlwomensday2.jpg" alt="International Womens Day Liz Plank" />
+		<br></br>
+	<p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2Fer8V8">How to be Friends with Women
+	</a></b></p>
+		<br></br>
+	<h4><b>personal records.</b></h4>
+	<p>One of my <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2mCwVg9">19 Before 2019</a> goals was to run a 5K. I started training in January without any 5K registration by starting with the goal of 1 mile per week. That quickly escalated in February (thank you NYC walking) and my boyfriend found a <a target="_blank" rel="noopener noreferrer" href="https://tristateruns.com/nycstpaddys7k">5K in Roosevelt Island</a>! Thanks to great training I was able to stick to a running plan and accomplish my goal of finishing without walking for the first time in my life! I was really proud of myself and continue to try and run 1-2 times per week to remind myself that I still can. </p>
+		<br></br>
+	<img src="/images/personalrecords5k.jpg" alt="St. Paddys Day 5k" />
+		<br></br>
+	<p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2mCwVg9">19 Before 2019: A Goal-Setting Challenge
+	</a></b></p>
+		<br></br>
+	<h4><b>march for our lives.</b></h4>
+	<p>On March 24th, the <a target="_blank" rel="noopener noreferrer" href="https://marchforourlives.com/">March for Our Lives</a> in New York City started right around the corner from my house, just like the <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2FVnQr0">Women's March</a> in January. This time, I stood in the sidewalks cheering on protesters and sharing their signs on the <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2Go3xlx">Coffee Meets Polished Twitter</a>. I'm so grateful to live where I can participate in and amplify voices of these activist movements.</p>
+		<br></br>
+	<img src="/images/marchforourlives.jpg" alt="March For Our Lives" />
+		<br></br>
+	<p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2FGFL55">10 Essential Tips for Your First Protest
+	</a></b></p>
+		<br></br>
+	<h4><b>winter microadventures.</b></h4>
+	<p>This month was filled with tons of firsts, including my first time skiing! I went to <a target="_blank" rel="noopener noreferrer" href="http://www.windhammountain.com/">Windham Mountain</a> and it was an amazing experience. I was a master of the bunny slopes by the end of the day, and I can't wait to try skiing again next year. </p>
+		<br></br>
+	<img src="/images/windhammountainpano.jpg" alt="Windham Mountain Panoramic" />
+	<img src="/images/windhammountainexperience.jpg" alt="Windham Mountain Experience" />
+		<br></br>
+	<p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2Ec42NK">10 Life Lessons for Your First Skiing Experience
+	</a></b></p>
+		<br></br>
+	<h4><b>winter's last ditch effort.</b></h4>
+	<p>The first day of Spring was March 20th, but New York City didn't get the message and gave us a big snow that rivaled the first snow of the season. It was fluffy and perfect for making snow-women and sledding in Central Park. While the snow was beautiful, I can't wait for the weather to warm up and flowers to come out.</p>
+		<br></br>
+	<img src="/images/centralparksnow1.jpg" alt="Central Park Snow 1" />
+	<img src="/images/centralparksnow2.jpg" alt="Central Park Snow 2" />
+	<img src="/images/centralparksnow3.jpg" alt="Central Park Snow 3" />
+		<br></br>
+	<p>What did you love in March? Leave a comment below to share!</p>
+		<br></br>
+		<h4>❖❖❖</h4>
+		<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+	<h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+		<br></br>
+		<h4>❖❖❖</h4>
+		<br></br>
+		<h4>YOU MIGHT ALSO LIKE:</h4>
+		    <a className="three-up" href="/articles/10-life-lessons-for-your-first-skiing-experience">
+		        <img src="/images/windhammountainpano-preview.png" alt="Skiing Life Lessons Windham Mountain" />
+		        <p className="centered">10 Life Lessons for Your First Skiing Experience</p>
+		    </a>
+		    <a className="three-up" href="/articles/10-essential-tips-for-your-first-protest">
+		        <img src="/images/protest-preview.png" alt="10 Tips for your First Protest" />
+		        <p className="centered">10 Essential Tips for Your First Protest</p>
+		    </a>
+		    <a className="three-up" href="/articles/19-before-2019-february-goals-update">
+		        <img src="/images/februarygoalsupdate2018-preview.png" alt="February Goals Update" />
+			    <p className="centered">19 Before 2019: February Goals Update</p>
+    		</a>
+	</div>
+},
+
+{id: "10-life-lessons-for-your-first-skiing-experience", title: <a href="/articles/10-life-lessons-for-your-first-skiing-experience">10 Life Lessons for Your First Skiing Experience</a>, date: "March 19, 2018", category: "Life", photo: "/images/windhammountainpano-preview.png",  description: <div><p>This weekend I went skiing for the first time, and it was not as easy as I thought it would be. I thought I would be able to rock the skis quickly but I was so new that I needed instruction on how to put my boot into the skis. I learned a lot of tips and tricks to get going on skis. I also realized there are a lot of life lessons that apply to the whole experience. Thank you to <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2GuiUt7">Windham Mountain</a> for the great experience and service overall! I can't wait to go back. </p> <a href="/articles/10-life-lessons-for-your-first-skiing-experience">[Read more]</a></div>,
+post: 
+	<div>
+	<img src="/images/windhammountainpano.jpg" alt="Windham Mountain Panoramic" />
+	<p>This weekend I went skiing for the first time, and it was not as easy as I thought it would be. I thought I would be able to rock the skis quickly but I was so new that I needed instruction on how to put my boot into the skis. However, thanks to some great instructors at <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2GuiUt7">Windham Mountain</a> I was rocking the bunny slopes by the end of the day.</p>
+	<img src="/images/windhammountainmap.jpg" alt="Windham Mountain Map" />
+	<p>I learned a lot of tips and tricks to get going on skis. I also realized there are a lot of life lessons that apply to the whole experience.</p>
+	<img src="/images/windhammountainexperience.jpg" alt="Windham Mountain Experience" />
+	<p>1. <b>You have to walk before you can run.</b> Or in my case, learn how to put skis on before the bunny runs. If it's your first time skiing, take a lesson.</p>
+	<p>2. <b>Master the fundamentals before incorporating short cuts.</b> I was given a set of poles to use immediately which I used to balance but also move around. I saw a lot of other beginners without poles in order to master their legs first and wished I had done that. Incorporating the poles caused me to feel less comfortable balancing with just my legs.</p>
+	<p>3. <b>Invest in good tools.</b> Tools help you do your best work. I learned that rental boots aren't something I want to use again. They were painful and bruised me, but it's also probably because my jeans were digging into my foot and the boots were so tight. Bottom line is, invest in good tools to get the job done.</p>
+	<img src="/images/windhammountainskis.jpg" alt="Windham Mountain Skis" />
+	<p>4. <b>Be ready.</b> The end of the ski lift will come whether you're ready or not. Make sure you're ready.</p>
+	<p>5. <b>Don't apologize for falling.</b> The first time I got off a lift, I had my first fall 2 seconds later. I looked at the sky and thought, "How do I get back up?" My boyfriend was there with me and I was determined to figure out how to get up by myself. But I wasn't able to. I kept apologizing for not being able to and slowing us down from going down the bunny slope. Thinking back, why was I apologizing? Falling is part of the process.</p>
+	<p>6. <b>After you fall, get right back up.</b> With help, I got back up from falling right after getting off the ski lift. The rest of my first bunny slope run was bad. I was afraid of the speed (upon looking at video footage, I was barely moving) and I couldn't stop. I tried the strategy with roller skating where you lightly run into the wall to stop. However, with skiing that doesn't really exist. Instead, I turned into another run and went into the side of a wall of snow. And once I officially reached 0 mph I shuffled to my boyfriend and said, "I'm not ready for this." Instead of taking me back to the training ground, he said, "We're doing it again. You are ready." And with that second run and the rest thereafter, I focused on incremental improvements each time. </p>
+	<img src="/images/windhammountainlift.jpg" alt="Windham Mountain Lift" />
+	<p>7. <b>Embrace your support system.</b> See #6. If it wasn't for my support in helping me get back up after falling, and taking me back to the lift right away I likely wouldn't have gone skiing for the rest of the day, or ever again.</p>
+	<p>8. <b>Learn from the younger generation.</b> Hanging out in the training grounds and bunny slopes was such a humbling experience. Not just because of my lack of skills, but because there were 3-5 year olds who were masters at skiing. Watching them be fearless, fall, get back up (without poles!), and have fun all along the way was inspiring. These little humans could be the next Olympians! I tried to apply their fearless attitude to myself and all of my adult self-doubt.</p>
+	<p>9. <b>Don't compare yourself to others.</b> It's easy to get caught up in seeing all of the other skiers go effortlessly down the slopes and think, "I'll never be able to do that." Whether that is true or not, it is not productive to think this way. Remember that if it's your first time, everyone has been where you are at some point. Focus on your goals and your improvement at your own pace.</p>
+	<p>10.  <b>Don't take yourself too seriously.</b> Some things are supposed to be fun! Let them be fun, and stay fun.</p>
+	<img src="/images/windhammountainfun.jpg" alt="Windham Mountain Fun" />
+	<p>My first skiing experience was filled with self-doubt, stress, and pain at times but it was also filled with sense of accomplishment and confidence that the next time I strap on some skis I'll be able to keep growing from where I ended that day.</p>
+	<p>Thank you to <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2GuiUt7">Windham Mountain</a> for the great experience and service overall! I can't wait to go back.</p>
+	<p>Are you an expert skier? If so, please share your tips and tricks for the rest of us beginners below!</p>
+	<br></br>
+		<h4>❖❖❖</h4>
+		<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+	<h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>YOU MIGHT ALSO LIKE:</h4>
+		<a className="three-up" href="/articles/the-5-toughest-mental-health-lessons-from-residency">
+		    <img src="/images/residency-leanin-preview.png" alt="Mental Health Lessons from Residency" />
+		    <p className="centered">The 5 Toughest Mental Health Lessons from Residency</p>
+	    </a>
+	    <a className="three-up" href="/articles/5-things-i-loved-in-february-2018">
+	        <img src="/images/februaryloves2018-preview.png" alt="5 Things I Loved in February 2018" />
+	        <p className="centered">5 Things I Loved in February</p>
+	    </a>
+	    <a className="three-up" href="/articles/19-before-2019-a-goal-setting-challenge">
+	        <img src="/images/19before2019.png" alt="19 Before 2019 Goals" />
+	        <p className="centered">19 Before 19: A Goal Setting Challenge</p>
+	    </a>
+	</div>
+},
+
+{id: "19-before-2019-february-goals-update", title: <a href="/articles/19-before-2019-february-goals-update">19 Before 2019: February Goals Update</a>, date: "March 4, 2018", category: "Life", photo: "/images/februarygoalsupdate2018-preview.png",  description: <div><p>My <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2mCwVg9">19 Goals Before 2019</a> post has been the most page on this site so far. Because of that, I decided to keep you all updated each month with my progress to ensure they weren't just goals made on a whim and show you how I plan to accomplish them, step-by-step. If you're enjoying this kind of content, be sure to let me know in the comment section! </p> <a href="/articles/19-before-2019-february-goals-update">[Read more]</a></div>,
+post: 
+	<div>
+		<img src="/images/februarygoalsupdate2018-preview.png" alt="February Goals Update" />
+	<p>So far this year, my <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2mCwVg9">19 Goals Before 2019</a> post has been the most popular one. Because of that, I decided to keep you all updated each month with my progress to ensure they weren't just goals made on a whim and show you how I plan to accomplish them, step-by-step.</p>
+	<p>If you're enjoying this kind of content, be sure to <b>let me know in the comment section</b>! </p>
+	<h4>❖❖❖</h4>
+	<h4>personal.</h4>
+		<p>1. Run a 5K in Manhattan - <b>IN PROGRESS</b></p>
+		<p className="tabbed">At the beginning of February, I set the goal of running 2 miles twice per week with the goal of 3 miles once per week (plus a second run of a different distance) by the end. Not only did I achieve that, but I signed up for a 5K in March! Stay tuned for March updates.</p>
+		<p>2. Travel out of the country twice - <b>IN PROGRESS</b></p>
+		<p className="tabbed">This goal is officially <b>in progress</b>! My boyfriend and I have booked a trip to Barcelona in May, after jumping on an alert from Scott's Cheap Flights. I'm so excited and currently doing a lot of research of places to go and things to do. If you have any recommendations, please share them in the comments section!</p>
+		<p>3. Participate in a protest/march - <b>COMPLETE!</b></p>
+		<p className="tabbed">Women's march. 'Nuff said. ✓</p>
+		<p>4. Submit 10 essays/articles for websites - <b>NOT STARTED</b></p>
+		<p className="tabbed">I've made no progress on this one since January. I continue to have a list of websites to contribute to. Honestly, I've been spending a lot of time with Coffee Meets Polished that my capacity for external work is slim. I hope that in March I can write an outline for one or two articles for contributions. In the meantime, I've gone ahead and changed the goal to "not started" instead of "in progress". </p>
+		<p>5. Take a creative writing course - <b>NOT STARTED</b></p>
+		<p className="tabbed">Still not progress for this. Work kicked my butt in February…</p>
+		<p>6. Learn how to curl hair with a curler - <b>NOT STARTED</b></p>
+		<p className="tabbed">I started doing some research on this one in February. I've got a few in mind, but if you have recommendations for curlers please share them in the comments below!</p>
+		<p>7. Pay more rent than student loan bill each month - <b>IN PROGRESS</b></p>
+		<p className="tabbed">Completed this one in February! 10 more months to go. I'm also considering re-financing...</p>
+		<p>8. Wear more lipstick - <b>IN PROGRESS</b></p>
+		<p className="tabbed">I started using lipstick more often (2-3x/week) at work using <a target="_blank" rel="noopener noreferrer" href="https://www.target.com/p/maybelline-174-color-sensational-174-creamy-mattes-lip-color/-/A-17242975?preselect=17242975#lnk=sametab">Maybelline Clay Crush</a>, <a target="_blank" rel="noopener noreferrer" href="https://www.sephora.com/product/cream-lip-stain-liquid-lipstick-P281411?skuId=1805753">Sephora Cream Lip Stain Liquid Lipstick in Vintage Rosewood</a>, and <a target="_blank" rel="noopener noreferrer" href="https://www.ulta.com/lipstick-matte?productId=xlsImpprod15921176#">Mac Taupe</a>. I also wore some fun colors like <a target="_blank" rel="noopener noreferrer" href="https://doseofcolors.com/products/cold-shoulder">Dose of Colors Cold Shoulder</a>! Excited to use some more colors next month as we transition into spring.</p>
+			<img src="/images/lipstickcoldshoulder.jpg" alt="Dose of Colors Cold Shoulder" />
+		<p>9. Finish Project Pan 2018 (18 skin care/make up products) - <b>IN PROGRESS</b></p>
+		<p className="tabbed">I've finished 2 products so far! If you're interested in me writing a post about what my 18 products are, leave me a comment below!</p>
+		<p>10. Explore all of the New York City boroughs - <b>NOT STARTED</b></p>
+		<p className="tabbed">I didn't get out of Manhattan much this month at all! However, in March the 5K is in Roosevelt Island so I hope to explore Queens afterwards.</p>
+		<p>11. Go to a cultural/activist event every month - <b>IN PROGRESS</b></p>
+		<p className="tabbed"><b>January:</b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2FVnQr0"> Women's March</a></p>
+		<p className="tabbed"><b>February:</b><a target="_blank" rel="noopener noreferrer" href="https://pen.org/event/me-too-a-writers-reckoning/"> PEN America's #MeToo: A Writer's Reckoning</a></p>
+	<h4>coffee meets polished.</h4>
+		<p>12. Reach 500 followers on Instagram - <b>IN PROGRESS</b></p>
+		<p className="tabbed"><b>January:</b> 278 followers</p>
+		<p className="tabbed"><b>February:</b> 397 followers</p>
+		<p>13. Reach 100 MailChimp subscriptions - <b>IN PROGRESS</b></p>
+		<p className="tabbed">This one is a bit more difficult. I gained 9 more subscribers, but have some strategies in my back pocket that are planned. Stay tuned!</p>
+		<p>14. Reach 500 followers of Twitter - <b>IN PROGRESS</b></p>
+		<p className="tabbed"><b>January:</b> 253 followers</p>
+		<p className="tabbed"><b>February:</b> 378 followers</p>
+		<p>15. Start YouTube channel - <b>NOT STARTED</b></p>
+		<p className="tabbed">No plans to create the channel quite yet. Well, I have plans, but it's lower on my personal strategic plan (more to come). </p>
+		<p>16. Create worksheets for reader downloads - <b>IN PROGRESS</b></p>
+		<p className="tabbed">I've finished one worksheet! If you want to check it out, <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2ByiGBn"> subscribe to Coffee Meets Polished</a>!</p>
+		<p>17. Finish draft for merchandise - <b>NOT STARTED</b></p>
+		<p className="tabbed">Nothing changed from January. I have a list of ideas, but nothing in final draft stages yet.</p>
+		<p>18. Create a monthly challenge - <b>NOT STARTED</b></p>
+		<p className="tabbed">I didn't pursue some of my ideas this month. I was hoping to do a "self love" challenge in February but clearly that didn't pan out. I have more ideas for later months and hope to have one planned out far enough in advance.</p>
+		<p>19. Do a giveaway and/or collaboration - <b>NOT STARTED</b></p>
+		<p className="tabbed">I honestly haven't gotten the guts yet to reach out for a collaboration. But I'm hoping once I reach some of my follower milestones that I'll do a giveaway. I'm excited to keep growing and expanding with other content creators!</p>
+		<p>Each month it's important to celebrate your progress and not get bogged down with how many more "in progress" and "not started" there are compared to "complete". Focus on <b>continuous improvement</b>. Our job is rarely completely finished, especially when it comes to our personal growth.</p>
+	<h4>How are your goals this year moving along?</h4>
+		<br></br>
+		<h4>❖❖❖</h4>
+		<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+	<h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>YOU MIGHT ALSO LIKE:</h4>
+		<a className="three-up" href="/articles/hopeful-for-in-2018">
+		    <img src="/images/hopefulfor2018.png" alt="HopefulFor2018" />
+		    <p className="centered">Hopeful For in 2018</p>
+	    </a>
+	    <a className="three-up" href="/articles/5-things-i-loved-in-february-2018">
+	        <img src="/images/februaryloves2018-preview.png" alt="5 Things I Loved in February 2018" />
+	        <p className="centered">5 Things I Loved in February</p>
+	    </a>
+	    <a className="three-up" href="/articles/19-before-2019-a-goal-setting-challenge">
+	        <img src="/images/19before2019.png" alt="19 Before 2019 Goals" />
+	        <p className="centered">19 Before 19: A Goal Setting Challenge</p>
+	    </a>
+	</div>
+},
+
 {id: "5-things-i-loved-in-february-2018", title: <a href="/articles/5-things-i-loved-in-february-2018">5 Things I Loved in February</a>, date: "February 28, 2018", category: "Life", photo: "/images/februaryloves2018-preview.png",  description: <div><p>What better a month than February to focus on love? There were so many things to love this month that it was hard to pin down just five. A lot happened this month around the country that were horrible and tragic, but it's reflections of things we love that help us remember our "why". Check out my top 5 loves in February.</p> <a href="/articles/5-things-i-loved-in-february-2018">[Read more]</a></div>,
 post: 
 	<div>
@@ -1934,7 +2442,7 @@ The action plan has four objectives:
 </div>
 },
 
-{id: "everyday-neutral-eyeshadows-for-medium-skin", title: <a href="/articles/everyday-neutral-eyeshadows-for-medium-skin">Everyday Neutral Eyeshadows for Medium Skin</a>, date: "August 29, 2017", category: "Beauty", photo: "/images/neutral-eyeshadow-arrangement.jpg", description: <div><p>One of my favorite parts of any makeup routine is eyeshadow. I don’t consider myself creative or artistic, but with eyeshadows I feel that I’m able to completely transform my look and feel more confident. Here are my essential, everyday eyeshadows for medium tan (Filipina) skin. </p> <a href="/articles/everyday-neutral-eyeshadows-for-medium-skin">[Read More]</a></div>, post: 
+{id: "everyday-neutral-eyeshadows-for-medium-skin", title: <a href="/articles/everyday-neutral-eyeshadows-for-medium-skin">Everyday Neutral Eyeshadows for Medium Skin</a>, date: "August 29, 2017", category: "Beauty", photo: "/images/everydayneutraleyeshadows-preview.png", description: <div><p>One of my favorite parts of any makeup routine is eyeshadow. I don’t consider myself creative or artistic, but with eyeshadows I feel that I’m able to completely transform my look and feel more confident. Here are my essential, everyday eyeshadows for medium tan (Filipina) skin. </p> <a href="/articles/everyday-neutral-eyeshadows-for-medium-skin">[Read More]</a></div>, post: 
 <div>
 <p>One of my favorite parts of any makeup routine is eyeshadow. I don’t consider myself creative or artistic, but with eyeshadows I feel that I’m able to completely transform my look and feel more confident. Whether it’s a simple look while still half-asleep in the morning or ultra glam for a night out, I have a lot of fun doing it. <b>Remember: makeup should first and foremost be applied for you, not anyone else.</b></p>
 <p>Here are my essential, everyday eyeshadows. These are the ones that I travel with and reach for with almost every look. These are basically my default shadows when I’m on autopilot. For reference, I’m a Filipina and have medium brown skin with neutral undertones (Mac NW44, Revlon Colorstay Combination/Oily in Toast, Maybelline Matte Fit Me Matte + Poreless Foundation in Natural Tan). I have very dark brown eyes and my eyelids get oily so I prime and set with a base every time.</p>
