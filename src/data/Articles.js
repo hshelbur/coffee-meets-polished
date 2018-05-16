@@ -1,6 +1,177 @@
 import React from 'react';
 
 const ARTICLES = [
+{id: "5-things-i-loved-in-february-2018", title: <a href="/articles/5-things-i-loved-in-february-2018">5 Things I Loved in February</a>, date: "February 28, 2018", category: "Life", photo: "/images/februaryloves2018-preview.png",  description: <div><p>What better a month than February to focus on love? There were so many things to love this month that it was hard to pin down just five. A lot happened this month around the country that were horrible and tragic, but it's reflections of things we love that help us remember our "why". Check out my top 5 loves in February.</p> <a href="/articles/5-things-i-loved-in-february-2018">[Read more]</a></div>,
+post: 
+	<div>
+	<br></br>
+	<img src="/images/februaryloves2018-preview.png" alt="5 Things I Loved in February" />
+	<p>What better a month than February to focus on love? There were so many things to love this month that it was hard to pin down just five. A lot happened this month around the country that were horrible and tragic, but it's reflections of things we love that help us remember our "why". Check out my top 5 loves in February.</p>
+		<br></br>
+	<p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="https://coffeemeetspolished.com/articles/5-things-i-loved-in-january-2018">5 Things I Loved in January</a></b></p>
+		<br></br>
+	<h4><b>teenage empowerment.</b></h4>
+	<p>I love when the younger generations are portrayed in a positive light. Being a Millenial, I can relate to being misunderstood or inappropriately labeled. The teenagers and teachers who survived the <a target="_blank" rel="noopener noreferrer" href="https://www.nytimes.com/2018/02/28/us/stoneman-douglas-parkland-shooting.html">Parkland School shooting</a> are heroes and agents for change. They channeled their energy into making the world better than the one that allowed their experience to happen. I look up to these students and hope they continue to heal and strengthen, and get what they want in life.</p>
+		<br></br>
+	<p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2DdLdOM">Power of Millenials
+	</a></b></p>
+		<br></br>
+	<h4><b>black panther.</b></h4>
+	<p>I watched this on opening weekend, and I don't remember the last time I did that (thank you, <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2HVpzNJ">Movie Pass</a>)! It was such an amazing experience to watch, and I felt very similarly to how I felt watching Wonder Woman. I felt this sense of importance of the movie, thinking of what kind of impact it has for African Americans and how they are represented in the media. If you haven't seen it yet, you must. There's a reason it's breaking records.</p>
+		<br></br>
+	<h4><b>winter olympics.</b></h4>
+	<p>Of course this is a favorite! I loved watching curling, alpine events, halfpipe, speed skating, and bob sled. I didn't watch as much figure skating since it played so late, but I did get to watch the female Russians compete for gold and silver and my jaw dropped. The coverage of the Olympics highlighted a lot of diversity of gender and race which was exciting to see. </p>
+		<br></br>
+	<h4><b>milk and honey.</b></h4>
+	<p>I've had <a target="_blank" rel="noopener noreferrer" href="http://www.bookculture.com/book/9781449474256">Milk and Honey</a> by <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/rupikaur_/?hl=en">Rupi Kaur</a> on my hold list for eBooks at the New York Public Library for months and months, and I finally got it! I had to force myself to take my time and reflect on each page. There were passages that took my breath away. Her ability to portray emotions into words on a page just amazes me. If you haven't read it yet, you must. I am considering purchasing the book for re-reading. On deck is her second book, <a target="_blank" rel="noopener noreferrer" href="http://www.bookculture.com/book/9781449486792">The Sun and Her Flowers.</a> </p>
+		<br></br>
+	<h4><b>love.</b></h4>
+	<p>February isn't the only month for love, but it's highlighted enough that it causes you to reflect on it. I feel grateful that I grew up in a home filled with love, and now that I'm independent I work towards self-love and mutual love with my boyfriend as we build a new home. Love is such an essential part of our human lives; it's important to nurture it and not take it for granted.</p>
+	<p>What did you love in February? Leave a comment below to share with us!</p>
+		<br></br>
+		<h4>❖❖❖</h4>
+		<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+	<h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+		<br></br>
+		<h4>❖❖❖</h4>
+		<br></br>
+		<h4>YOU MIGHT ALSO LIKE:</h4>
+		    <a className="three-up" href="/articles/hopeful-for-in-2018">
+		        <img src="/images/hopefulfor2018.png" alt="HopefulFor2018" />
+		        <p className="centered">Hopeful For in 2018</p>
+		    </a>
+		    <a className="three-up" href="/articles/power-of-millenials">
+		        <img src="/images/powerofmillenials-preview.png" alt="Power of Millenials" />
+		        <p className="centered">Power of Millenials</p>
+		    </a>
+		    <a className="three-up" href="/articles/favorite-podcasts-in-february-2018">
+		        <img src="/images/podcastsoffebruary.png" alt="Favorite Podcasts of February" />
+			    <p className="centered">Favorite Podcasts of February</p>
+    		</a>
+	</div>
+},
+
+{id: "favorite-podcasts-in-february-2018", title: <a href="/articles/favorite-podcasts-in-february-2018">Favorite Podcasts in February</a>, date: "February 27, 2018", category: "Activism", photo: "/images/podcastsoffebruary.png",  description: <div><p>February podcasts were all about love: love of self, love of one another, the cost of love, etc. Here are my absolute favorites from February, which includes new podcasts discoveries and topics on love, race, identity, and feminism. </p> <a href="/articles/favorite-podcasts-in-february-2018">[Read more]</a></div>,
+post: 
+	<div>
+	<img src="/images/podcastsoffebruary.png" alt="Favorite Podcasts in February 2018" />
+		<br></br>
+	<p>February podcasts were all about love: love of self, love of heritage, love of one another, cost of love, etc. Here are my absolute favorites from February, which includes new podcasts discoveries and topics on love, race, marriage, and feminism. </p>
+	<p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2EhLwEL">Favorite Podcasts of January</a></b></p>	
+		<br></br>
+	<h4>❖❖❖</h4>
+	<h4><b>favorite new podcast discovery.</b></h4>
+	<p><img src="/images/everythinghappenspodcast.jpg" alt="Everything Happens Podcast" /></p>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="https://katebowler.com/everything-happens/">Everything Happens, with Kate Bowler</a></b>: "Life isn’t always bright and shiny, as Kate Bowler knows. Kate is a young mother, writer and professor who, at age 35, was suddenly diagnosed with Stage IV cancer. In, warm, insightful, often funny conversations, Kate talks with people about what they’ve learned in dark times. Kate teaches at Duke Divinity School and is author of 'Everything Happens (And Other Lies I've Loved).'"</p>
+	<p>My favorite podcast so far was the first one I listened to, <b>Costly Love</b>. While in pharmacy residency, one of the readings we had was "When Breath Becomes Air". We had discussions around creating boundaries of empathy with our patients in order to do our professional service for them. It is an incredibly powerful book that made everyone who read it cry. The podcast features the author's husband and she talks about the publishing process, and the cost of loving as deeply as you can with the time you have - and moving forward after loss.</p>
+		<br></br>
+	<p><a href="https://itunes.apple.com/us/podcast/lucy-kalanithi-costly-love/id1341076079?i=1000402342139&mt=2"><img src="/images/everythinghappenspodcast_costlylove.png" alt="Everything Happens - Costly Love" /></a></p>
+		<br></br>
+	<h4>❖❖❖</h4>
+	<h4><b>love of self.</b></h4>
+		<br></br>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="https://www.unladylike.co/episodes">Unladylike</a>, How to get a Yoga Body with Jessamyn Stanley</b>: "Body-positive yoga icon Jessamyn Stanley shares her journey to finding her yoga body and claiming her space on the mat as a fat, queer, black woman. Cristen and Caroline also unpack the claptrap of why yoga has become an aspirational whitewashed lifestyle and what that means for the women who need yoga the most."</p>
+	<p className="centered"><iframe width="100%" height="205" src="https://art19.com/shows/unladylike/episodes/6b5236a0-69b2-40bd-b8b8-74c2f2a755c5/embed?theme=light-custom" scrolling="no" frameborder="0" allowfullscreen title="Unladylike embedded audio player"></iframe></p>
+		<br></br>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="https://www.npr.org/podcasts/510312/codeswitch">NPR Code Switch</a>, It's Not Just About the Blood</b>: "If you're Native American, who or what gets to define your identity? We dive into an old system intended to measure the amount of "Indian blood" a person has. We hear from two families about how they've come to understand their own Native identities and how they'll pass that on to future generations." <a target="_blank" rel="noopener noreferrer" href="https://www.npr.org/templates/transcript/transcript.php?storyId=583753149">Transcript found here</a>.</p>
+	<p className="centered"><iframe width="100%" height="205"  src="https://www.npr.org/player/embed/583753149/583816831" scrolling="no" frameborder="0" allowfullscreen title="NPR embedded audio player"></iframe></p>
+		<br></br>
+	<h4>❖❖❖</h4>
+	<h4><b>love of others.</b></h4>
+		<br></br>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="https://www.npr.org/podcasts/510308/hidden-brain">NPR Hidden Brain</a>, When Did Marriage Become So Hard?</b>: "Marriage is hard — and there are signs it's becoming even harder. This week on Hidden Brain, we examine how long-term relationships have changed over time, and whether we might be able to improve marriage by asking less of it." <a target="_blank" rel="noopener noreferrer" href="https://www.npr.org/templates/transcript/transcript.php?storyId=584531641">Transcript found here</a>.</p>
+	<p className="centered"><iframe width="100%" height="205" src="https://www.npr.org/player/embed/584272124/584282094" scrolling="no" frameborder="0" allowfullscreen title="NPR embedded audio player"></iframe></p>
+		<br></br>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="https://www.npr.org/podcasts/510312/codeswitch">NPR Code Switch</a>; Feelings, Finances and Fetishes: Love is a Racial Battlefield</b>: "To get y'all in the mood for Valentine's Day, we're exploring some of our juiciest listener love questions. Should your race and gender affect how much you pay into a relationship? What's the difference between a preference and a fetish? And what's the quickest way for black women to find love?'" <a target="_blank" rel="noopener noreferrer" href="https://www.npr.org/templates/transcript/transcript.php?storyId=581961666">Transcript found here</a>.</p>
+	<p className="centered"><iframe width="100%" height="205"  src="https://www.npr.org/player/embed/581961666/585599882" scrolling="no" frameborder="0" allowfullscreen title="NPR embedded audio player"></iframe></p>
+		<br></br>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="https://soundcloud.com/ladies-who-lunch">Ladies Who Lunch</a>, Our Obsession with Celebrity</b>: "This week, we're talking about celebrities and the desire to know all about them. Why do we, as a culture, value fame over almost everything else? The celebrity serves as both an object of worship and of disgust, and all of this falls into the arc of fame. Thanks to social media platforms, it’s easier than ever for people to gain fame. A large amount of followers can launch someone into stardom with little effort, sometimes even by accident! Just as quickly, celebrities can disappear from the limelight for a multitude of reasons. Fame has become a quickly changing facet of our culture because we have so many ways to connect with the world. We also answer a letter from a listener who is worried her fangirling might cross the line into obsession."</p>
+	<p className="centered"><iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/395185941&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe></p>
+		<br></br>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="https://www.stuffmomnevertoldyou.com/podcasts">Stuff Mom Never Told You</a>, Can A Marriage Be Feminist?</b>: "Newly-engaged E and marriage-agnostic B sit down with writer Jill Fillipovic to find out if there’s such a thing as a feminist marriage."</p>
+	<p className="centered"><iframe width="100%" height="300" src="http://www.howstuffworks.com/embed/929996" scrolling="no" frameborder="0" allowfullscreen title="Trade"></iframe></p>
+	<p>Have you checked any of these out? If so, comment below to tell me what you think! I would also love any suggestions for me to listen to!</p>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+	<h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>YOU MIGHT ALSO LIKE:</h4>
+	    <a className="three-up" href="/articles/favorite-podcasts-of-2017">
+	        <img src="/images/favoritepodcastsof2017.png" alt="Favorite Podcasts of 2017" />
+	        <p className="centered">Favorite Podcasts of 2017</p>
+	    </a>
+	    <a className="three-up" href="/articles/5-things-i-loved-in-january-2018">
+	        <img src="/images/centralparkonassis.jpg" alt="5 Things I Loved in January 2018" />
+	        <p className="centered">5 Things I Loved in January</p>
+	    </a>
+	    <a className="three-up" href="/articles/favorite-podcasts-in-january-2018">
+	        <img src="/images/podcastsofjanuary.png" alt="Favorite Podcasts of January 2018" />
+	        <p className="centered">Favorite Podcasts of January 2018</p>
+	    </a>
+	</div>
+},
+
+{id: "10-essential-tips-for-your-first-protest", title: <a href="/articles/10-essential-tips-for-your-first-protest">10 Essential Tips For Your First Protest</a>, date: "February 20, 2018", category: "Activism", photo: "/images/protest-preview.png",  description: <div><p>Protesting is powerful and inspiring. It's important to speak your truth, share your story, and exercise your right to free speech. A month ago, I had my first protesting experience at the Women's March in New York City. It was so empowering to be around thousands of other humans and animals in support of women's rights and equality. Since the first march, which I did not attend, I knew I wanted to be a part of it this year. And let me tell you - it did not disappoint. I learned so many things I want to share with you, and I hope these tips help whether it's your first of your 100th act of resistance. </p> <a href="/articles/10-essential-tips-for-your-first-protest">[Read more]</a></div>,
+post: 
+	<div>
+	<img src="/images/protest-preview.png" alt="Protest" />
+	<br></br>
+<p>A month ago, I had my first protesting experience at the Women's March in New York City. It was so empowering to be around thousands of other humans and animals in support of women's rights and equality. Since the first march, which I did not attend, I knew I wanted to be a part of it this year. And let me tell you - it did not disappoint.</p>
+<p>I learned so many things that day and I hope you can use these tips and pointers to optimize your protesting/march experience.</p>
+<h4>❖❖❖</h4>
+<p>1. <b>Get there early</b>. I made the mistake of getting to the Women's March a few minutes before it officially started. With how large it was I didn't get to start walking for over an hour. Oops! One benefit was that I got to stick to the outside of the crowd for fresh air and space.</p>
+<p>2. <b>Have a sign with a handle</b>. Holding a sign with one hand is more comfortable than two. I didn't have a handle on my sign and was jealous of everyone who did. It was hard to take pictures and send texts to others.</p>
+<p>3. <b>Have content on both sides of your sign</b>. I didn't realize this beforehand, but when it hit me I felt pretty silly. In a march, most people who see your sign are actually <b>behind you</b>. Yes, there are people on the sidelines cheering you on, but give a little something to fellow protesters behind you so they aren't staring at a blank sign the whole time.</p>
+<img className="two-up" src="/images/protest1.jpg" alt="Protest 1" />
+<img className="two-up" src="/images/protest2.jpg" alt="Protest 2" />
+<br></br>
+<p>4. <b>Be prepared for hecklers</b> - There's always a yin to the yang, especially in a protest. There is likely going to be others who are counter-protesting or will say/do things that attempt to weaken your protest. Always remember to stick to your "why" and march forward. You have support around you, lean on them.</p>
+<p>5. <b>Use the buddy system</b>. Emotions are high for everyone during a march, no matter what your views are and it's better to be safe than sorry. I went with a co-worker to the March and my boyfriend was home as my emergency contact. Because there were so many people at the Women's March my phone actually didn't work for most of it and my phone started draining quickly so I kept it on Airplane Mode to take pictures (see tip #9).</p>
+<p>6. <b>Talk with the people around you</b> - You know your "why", take the time to learn about others'. At the Women's March, it was so inspiring to chat with the people around me. We all have so many different experiences that add to our collective voice.</p>
+<p>7. <b>Take notes of what's on other signs</b> - You'll want to remember all of the creativity and cleverness on protest signs, but you won't. Take notes in your phone to write down ones you like! I had quite the list collected by the end that I can't wait to use as inspiration for my next protest. If you want me to share the list on this site, leave me a comment below!</p>
+<p>8. <b>Bring snacks + water</b>. Take a little backpack with you to put bottles of water and snacks. The Women's March was many hours, and there was lots of yelling and cheering. Stay hydrated and energized to fuel your activism.</p>
+<p>9. <b>Document the experience</b> - This should go without saying at this day and age, but nevertheless, definitely do it. I took both pictures and videos, saved Instagram Stories and Snapchats. </p>
+<p>10. <b>Share your story</b> - I'm hoping that years from now and generations to come I can still share my experience. By sharing your story and adding to the archives of activism, you are paying it forward and leading  by example. Channel your energy in to <b>action</b>. You never know, you may inspire other people to protest too.</p>
+<p>Protesting is powerful and inspiring. It's important to speak your truth, share your story, and exercise your right to free speech. I hope these tips help whether it's your first of your 100th protest.</p>
+<p>Have you been to a protest or march? If so, share your tips below for others to learn from!</p>
+<br></br>
+<h4>❖❖❖</h4>
+<br></br>
+<h4><b>tl;dr?</b></h4>
+<h4><b>PIN this image below!</b></h4>
+<img src="/images/protest-pinterest.png" alt="10 Tips for Protesting Pinterest" />
+<br></br>
+<h4>❖❖❖</h4>
+<br></br>
+<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+<br></br>
+<h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+<br></br>
+<h4>❖❖❖</h4>
+<br></br>
+<h4>YOU MIGHT ALSO LIKE:</h4>
+    <a className="three-up" href="/articles/feminist-book-list-winter-edition">
+        <img src="/images/feministbooklistwinter-preview.png" alt="Feminist Book List: The Winter Edition" />
+        <p className="centered">Feminist Book List: The Winter Edition</p>
+    </a>
+    <a className="three-up" href="/articles/hopeful-for-in-2018">
+        <img src="/images/hopefulfor2018.png" alt="HopefulFor2018" />
+        <p className="centered">Hopeful For in 2018</p>
+    </a>
+    <a className="three-up" href="/articles/favorite-podcasts-in-january-2018">
+        <img src="/images/podcastsofjanuary.png" alt="Favorite Podcasts of January 2018" />
+        <p className="centered">Favorite Podcasts of January 2018</p>
+    </a>
+</div>
+},
+
 {id: "10-affordable-date-night-ideas-in-nyc", title: <a href="/articles/10-affordable-date-night-ideas-in-nyc">10 Affordable Date Night Ideas in NYC</a>, date: "February 13, 2018", category: "Life", photo: "/images/affordabledatenight-preview.png",  description: <div><p>One thing you quickly learn either visiting or living in NYC is that it's really easy to spend money whether you want to or not. No matter the time of year, these budget-friendly date ideas are great options for you to do solo (#selflovematters) or with your loved one(s). These dates have been tested over and over with my significant other, and they never disappoint. </p> <a href="/articles/10-affordable-date-night-ideas-in-nyc">[Read more]</a></div>,
 post: 
 	<div>
@@ -146,7 +317,6 @@ post:
 	        <img src="/images/19before2019.png" alt="19 Before 2019 Goals" />
 	        <p className="centered">19 Before 19: A Goal Setting Challenge</p>
 	    </a>
-
 	</div>
 },
 

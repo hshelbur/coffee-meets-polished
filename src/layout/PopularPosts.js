@@ -9,11 +9,11 @@ class PopularPosts extends Component {
 				<h3>Popular Posts</h3>
 				<nav>
 					<ul>
-						<a href="/articles/favorite-podcasts-in-january-2018"><img src="/images/podcastsofjanuary.png" alt="favorite-podcasts-in-january-2018" /></a>
+						<a href="/articles/favorite-podcasts-in-february-2018"><img src="/images/podcastsoffebruary.png" alt="favorite-podcasts-in-february-2018" /></a>
 						<a href="/articles/19-before-2019-a-goal-setting-challenge"><img src="/images/19before2019.png" alt="19-before-2019-a-goal-setting-challenge" /></a>
 						<a href="/articles/topics-to-normalize-in-2018-periods"><img src="/images/normalizedconvoperiods.png" alt="topics-to-normalize-in-2018-periods" /></a>
 						<a href="/articles/hopeful-for-in-2018"><img src="/images/hopefulfor2018.png" alt="hopeful-for-in-2018" /></a>
-						<a href="/articles/mental-health-resolutions-for-2018"><img src="/images/mentalhealthresolutions.png" alt="mental-health-resolutions-for-2018" /></a>
+						<a href="/articles/10-essential-tips-for-your-first-protest"><img src="/images/protest-preview.png" alt="10-essential-tips-for-your-first-protest" /></a>
 					</ul>
 				</nav>
 			</div>
