@@ -4,8 +4,5 @@
     margin-bottom: 6px;
   }
   
-  a {color:#213960;}      /* unvisited link */
-  a:visited {color:#213960;}  /* visited link */
-  a:hover {color:#f5dbbc;}  /* mouse over link */
-  a:active {color:#213960;}  /* selected link */
+
   
