@@ -9,6 +9,7 @@ class ArticleProfile extends Component {
         <article className="article">
           <h2 className="article-title">{title}</h2>
           <h3 className="article-timestamp"><time>{date}</time></h3>
+          <p className="category"><a href={`/${category.toLowerCase()}`}>{category}</a></p>
           <div className="article-copy">
             <p>{post}</p>
           </div>
