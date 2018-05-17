@@ -3,14 +3,14 @@ a:visited {color:#213960;}  /* visited link */
 a:hover {color:#f5dbbc;}  /* mouse over link */
 a:active {color:#213960;}  /* selected link */
 
-.article a {position: relative;
+.article a ,.preview a {position: relative;
   color: #4a5050;
   text-decoration: none;
   z-index: 1;}      /* unvisited link */
-.article a:visited {color:#213960;}  /* visited link */
-.article a:hover {color: #000}  /* mouse over link */
-.article a:active {color:#213960;}   /* selected link */
-.article a:before{
+.article a:visited ,.preview a:visited {color:#213960;}  /* visited link */
+.article a:hover ,.preview a:hover {color: #000}  /* mouse over link */
+.article a:active ,.preview a:active {color:#213960;}   /* selected link */
+.article a:before ,.preview a:before {
   content: "";
   position: absolute;
   width: 100%;
@@ -21,4 +21,4 @@ a:active {color:#213960;}  /* selected link */
   -webkit-transition: background-position 0.3s ;
   transition: background-position 0.3s;
   z-index: -1;}
-  .article a:hover:before { background-position:0% 100%;} /* transitions tan up from bottom on  */
+  .article a:hover:before ,.preview a:hover:before{ background-position:0% 100%;} /* transitions tan up from bottom on  */
