@@ -84,6 +84,11 @@
     color: #4a5050;
   }
   
+  .article .category {
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  
   .article-copy, .article {
     font-size: 15px;
     color: #4a5050;
