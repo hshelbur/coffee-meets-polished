@@ -1,6 +1,80 @@
 import React from 'react';
 
 const ARTICLES = [
+{id: "plane-podcasts-barcelona-edition", title: <a href="/articles/plane-podcasts-barcelona-edition">Plane Podcasts: Barcelona Edition</a>, date: "May 17, 2018", category: "Life", photo: "/images/planepodcasts-preview.png",  description: <div><p>I recently had vacation in Barcelona, Spain and my flight consisted mostly of listening to podcasts! If you've been following me for a while on this site, Twitter, or Instagram you know that podcasts are my thing. On Instagram Stories I share a lot of what I'm currently listening to and more immediate recommendations. Here, I share my monthly faves. Since I had marathon listening sessions on my 9-hour flights I thought I'd try something a little different and give you a run-down of all of them and how I rate them. </p> <a href="/articles/plane-podcasts-barcelona-edition">[Read more]</a></div>,
+post: 
+	<div>
+		<img src="/images/planepodcasts-preview.png" alt="Plane Podcasts" />
+	<p>I thought I would do something a little different with the podcast recommendations this week. I recently got back from a trip from Barcelona with 9 hours of plane travel to and from, resulting in quite the podcast-listening marathon. I realized that with my monthly favorites I wasn't sharing the ones I was lukewarm about or didn't really like at all. If you like or dislike this kind of format please let me know! My goal is to start having more nuanced podcast posts here on Coffee Meets Polished.</p>
+	<p>On the way to Barcelona I did a combination of podcasts and movies, but the return flight I listened exclusively to podcasts. The reason for return flight podcast marathon was actually because they didn't have a TV on my United Airlines flight despite it being a 8+ hour international flight. You were able to access movies and shows through the United website on your personal device, which was a chore in itself. But, I digress…</p>
+	<p>Here are the podcasts I listened to while in airports and on planes to and from Barcelona. They are divided by channel and rated from 1-5. Loosely, this is my rating criteria at the moment:</p>
+		<p className="tabbed"><b>✔︎ Strongly do not recommend.</b> Disliked to the point where I couldn't finish the episode and unsubscribed from the channel.</p>
+		<p className="tabbed"><b>✔︎✔︎ Do not recommend.</b> Disliked to the point where I could finish the episode but didn't take anything from it.</p>
+		<p className="tabbed"><b>✔︎✔︎✔︎ Neutral recommendation.</b> If you like this topic, you may enjoy it more that me. It may have been more informational vs. inspirational.</p>
+		<p className="tabbed"><b>✔︎✔︎✔︎✔︎ Recommend.</b> This would be a candidate for a monthly favorites post. It was entertaining, and/or took points away from the episode that I could apply to my life or share with others.</p>
+		<p className="tabbed"><b>✔︎✔︎✔︎✔︎✔︎ Highly recommend.</b> This would be in a monthly favorites post. I was very entertained and/or felt inspired and empowered to share with others to listen to immediately.</p>
+		<p className="tabbed">A <b>(*)</b> denotes that this was the first episode I've listened to for the podcast channel.</p>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="https://itunes.apple.com/us/podcast/the-introvert-dear-podcast/id1375366625?mt=2">The Introvert, Dear Podcast</a>*</b></p>
+		<p className="tabbed">➢<b>Episode #002: Why You Don't Need to Apologize for Being an Introvert (39 min): ✔︎✔︎✔︎✔︎</b>  I loved this episode because while I'm becoming more and more well-versed in introvert nuances, I was still able to take a lot away that was tangible and applicable to my life. Whether you're an introvert or extrovert, it's a great listen. I can't wait to see what other episodes are to come for this channel!</p>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="https://www.vox.com/worldly">Worldly (Vox)</a>*</b></p>
+		<p className="tabbed">➢<b>The ideology behind the Toronto terror attack, explained (32 min): ✔︎✔︎✔︎</b>  This channel was a new discovery for me in an attempt to find some other news-related podcasts to keep updated on current events. It was pretty good but I think for now I'll stick to NPR Up First and NYT's The Daily. The content of the podcast was very enlightening and opened my eyes to a subculture I'd never heard of.</p>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="https://itunes.apple.com/us/podcast/couples-therapy-with-candice-and-casey/id1380252026?mt=2">Couples Therapy with Candice and Casey</a>*</b></p>
+		<p className="tabbed">➢<b>Our First Podcast (32 min): ✔︎✔︎✔︎✔︎</b>  Candice and Casey Neistat's inaugural podcast was a blast. I love getting a chance to hear Candice more compared to Casey's YouTube channel and also learn more about how they work through their arguments. Candice is a huge proponent of mental health and regularly going to a therapist for mental health maintenance and think that's so important that she uses this platform to change the conversation.</p>
+		<p className="tabbed">➢<b>Don't Touch Me (40 min): ✔︎✔︎✔︎✔︎</b>  Podcast #2 came out in time for the flight back home. This one talked a lot about vulnerability and physical touch with family members and friends. Really interesting conversation that will make you think more about your own relationships and saying "I love you" to your parents. Highly recommend this channel overall!</p>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="https://amianahole.podbean.com/">Am I an A**hole</a></b></p>
+		<p className="tabbed">➢<b>For Not Wanting Kids (1 hr 6 min): ✔︎✔︎✔︎✔︎</b>  I recently discovered this podcast and thought it was such a refreshing format. They take on some questions that we think but may be hesitant to unpack. This one was about being a woman of childbearing age, or close to reaching the end of that time, and not wanting to have kids. It spoke a lot to my current stage in life and it helped me feel like I wasn't alone.</p>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="http://hesaidwhatshow.com/">He Said What</a></b></p>
+		<p className="tabbed">➢<b>Meet Our Full Time Sugar Baby from SeekingArrangements.com (34 min): ✔︎✔︎✔︎✔︎</b>  He Said What is one of the channels I started listening to as part of a collective of sex-positive podcasts I'm subscribing to. I want to be more open-minded with sex and think of it as less taboo that I grew up considering it. This episode I learned about a whole different lifestyle and career that I knew nothing about and was really interesting and enlightening.</p>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="https://soundcloud.com/karenkazlucas">The spread podcast</a></b></p>
+		<p className="tabbed">➢<b>MASTURBATION (42 min): ✔︎✔︎✔︎✔︎</b>  This podcast is another channel that is helping me de-taboo sex. The hosts are two amazing women that talk about sex as if it's part of normal conversation (as it should). They don't hesitate and they are very open with their own experiences with feeling that sex is something to hide. This episode was all about masturbation, its myths, and ways to teach your kids about healthy masturbation. I love this podcast.</p>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="https://www.nytimes.com/podcasts/dear-sugars">Dear Sugars</a></b></p>
+		<p className="tabbed">➢<b>Emotional Labor: The Invisible Work (Most) Women Do--With Gemma Hartly (46 min): ✔︎✔︎✔︎✔︎✔︎</b>  Oh Dear Sugars, this is an amazing podcast. It's been around for a really long time but I subscribed to them just last month. They go through so many deep discussions from those who write in their relationship trials and tribulations. This specific episode was of women who are bearing emotional labor with their significant others and unsure how to proceed. The stories struck so close to home and what I believe many women will feel. I'm happy to not have the unbearable situations I had in the past, but in many relationships I have both personal and professionally I still have to set boundaries of emotional labor very deliberately.</p>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="https://www.nytimes.com/podcasts/still-processing">Still Processing</a></b></p>
+		<p className="tabbed">➢<b>We Watch Whiteness (1 hr 2 min): ✔︎✔︎✔︎✔︎</b>  One of my favorite podcast channels of all time. The conversations between hosts unpack things I never was aware of and help me learn so much. At the very least, I learn a lot of the language to use when discussing these topics with others.</p>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="https://soundcloud.com/ladies-who-lunch">Ladies Who Lunch</a></b></p>
+		<p className="tabbed">➢<b>When Courage Meets Compassion (52 min): ✔︎✔︎✔︎✔︎</b>  I love this podcast. The conversations between Ingrid Nilsen and Cat Valdes are so raw but eloquently stated that sometimes I take notes because they're able to put deep feelings into beautiful words.</p>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="https://www.theskinnyconfidential.com/podcast/">The Skinny Confidential Him & Her Podcast</a></b></p>
+		<p className="tabbed">➢<b>#113: Candice Kumai - The Japanese Art of Nourishing Mind, Body, & Spirit (1 hr 10 min): ✔︎✔︎✔︎</b>  This rating was hard for me because I LOVE <a target="_blank" rel="noopener noreferrer" href="http://candicekumai.com/">Candice Kumai</a> and I bought her new book, <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Kintsugi-Wellness-Japanese-Nourishing-Spirit/dp/0062669850">Kintsungi Wellness</a> that she is on "podcast tour" for, but the channel itself I'm not the biggest fan of its format. It starts with a lot of ads and ends with a lot of ads so it's hard to find the meat of what I wanted to listen to - which was Candice. Now, once you get to Candice's part I thought she was absolutely amazing. I would still recommend to listen but a heads up it starts 17 minutes in.</p>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="http://www.callyourgirlfriend.com/the-bleed">Call Your Girlfriend</a></b></p>
+		<p className="tabbed">➢<b>Hey Ladies (54 min): ✔︎✔︎✔︎</b>  Call Your Girlfriend was a random find perusing iTunes and I'm so happy I found it. A lot of their podcasts will end up on my future favorites lists, but this wasn't one of them only because I'm not that excited about the book it was promoting, <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Hey-Ladies-Story-Friends-Emails/dp/1419729136">Hey Ladies</a>. I think just because it doesn't resonate with my stage in life not because I think it will be a bad book. No hard feelings, not my cup of tea. Stay tuned for more episodes I've loved from CYG.</p>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="https://www.stuffmomnevertoldyou.com/podcasts">Stuff Mom Never Told You</a></b></p>
+		<p className="tabbed">➢<b>Are NFL Cheerleaders Being Exploited? (58 min): ✔︎✔︎✔︎</b>  I've been following SMNTY for a bit now and have lots of favorites. This one wasn't one of them, but I still thought it was really interesting. It was an appropriate topic to cover but I just thought it was more discussion opinion-based vs. interview-based.</p>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="https://www.nytimes.com/podcasts/the-daily">The Daily</a></b></p>
+		<p className="tabbed">➢<b>A Life-or-Death Crisis for Black Mothers (26 min): ✔︎✔︎✔︎✔︎</b>  This episode is so important for everyone to listen to. It discusses the implicit and explicit bias of medical care for black women, especially for pregnancy care and pain control. It's scary and incredibly sad but being aware of it helps us actively make changes to move forward.</p>
+		<p className="tabbed">➢<b>Return of Rudy Guiliani (22 in): ✔︎✔︎</b>  Eh, this was ok. Only because of the topic. I think I dozed off in the middle of this one anyway.</p>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="http://letstalkaboutitwithtaylornolan.libsyn.com/">Let's Talk About It With Taylor Nolan</a></b></p>
+		<p className="tabbed">➢<b>EP23: Stereotypes of Masculinity (1 hr 12 min): ✔︎✔︎✔︎✔︎✔︎</b>  I've been subscribed to Let's Talk About It for a few months now and I've never been disappointed. This one definitely spoke to my feminist heart because it addressed masculinity and how it is defined and challenged. I loved the conversation between the hosts and the guest. Highly recommend to listen to this one.</p>
+		<br></br>
+	<p>You can find my other podcast posts to date here:</p>
+		<p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2GKOMcN">Favorite Podcasts in March 2018</a></b></p>
+		<p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2oFVYiz">Favorite Podcasts in February 2018</a></b></p>
+		<p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2EhLwEL">Favorite Podcasts in January 2018</a></b></p>
+		<p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2FeaPHG">Favorite Podcasts of 2017</a></b></p>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+	<h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>YOU MIGHT ALSO LIKE:</h4>
+		<a className="three-up" href="/articles/favorite-podcasts-in-march-2018">
+		    <img src="/images/podcastsofmarch.png" alt="Podcasts in March" />
+		    <p className="centered">Favorite Podcasts in March 2018</p>
+		</a>
+	    <a className="three-up" href="/articles/favorite-podcasts-of-2017">
+	        <img src="/images/favoritepodcastsof2017.png" alt="Favorite Podcasts of 2017" />
+	        <p className="centered">Favorite Podcasts of 2017</p>
+	    </a>
+	    <a className="three-up" href="/articles/favorite-podcasts-in-february-2018">
+	        <img src="/images/podcastsoffebruary.png" alt="Favorite Podcasts of February 2018" />
+	        <p className="centered">Favorite Podcasts of February 2018</p>
+	    </a>
+	</div>
+	},
+
 {id: "thoughts-on-not-a-motherhood", title: <a href="/articles/thoughts-on-not-a-motherhood">Thoughts On Not-A-Motherhood</a>, date: "May 14, 2018", category: "Opinion", photo: "/images/not-a-motherhood-preview.png",  description: <div><p>As a 28-going-on-29-year-old woman, there are two things society puts a lot of pressure on having in my life: <b>marriage and kids</b>. From social media FOMO, living in a neighborhood surrounded by families, and most recently becoming a Tita (aunt, in the Philippines) it's really easy to feel that I am missing out on what I've been conditioned to think is an essential component of womanhood. In today's article, I unpack my [potentially problematic] thoughts on <b>not-a-motherhood</b>. </p> <a href="/articles/thoughts-on-not-a-motherhood">[Read more]</a></div>,
 post: 
 	<div>
@@ -47,7 +121,7 @@ post:
 	        <p className="centered">28 Things I Would Tell My Younger Self</p>
 	    </a>
 	</div>
-},
+	},
 
 {id: "19-before-2019-april-goals-update", title: <a href="/articles/19-before-2019-april-goals-update">19 Before 2019: April Goals Update</a>, date: "May 7, 2018", category: "Life", photo: "/images/aprilgoalsupdate2018-preview.png",  description: <div><p>My <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2mCwVg9">19 Goals Before 2019</a> post has been the most page on this site so far. Because of that, I decided to keep you all updated each month with my progress to ensure they weren't just goals made on a whim and show you how I plan to accomplish them, step-by-step. If you're enjoying this kind of content, be sure to let me know in the comment section! </p> <a href="/articles/19-before-2019-april-goals-update">[Read more]</a></div>,
 post: 
@@ -366,7 +440,7 @@ post:
 {id: "sephora-vib-spring-sale-2018-wishlist", title: <a href="/articles/sephora-vib-spring-sale-2018-wishlist">Sephora VIB Spring Sale 2018 Wish List</a>, date: "April 12, 2018", category: "Beauty", photo: "/images/sephoravibspringsalewishlist2018-preview.png",  description: <div><p>Last year I tried a lot great new makeup and skincare brands with products that have become some of my holy grails. One of my goals for the year was to use up products more than purchasing them, but it doesn't mean that I can't replace products once I'm done with them. There's a Sephora VIB Sale and there's a list of products on my wish list… It's during this time I think about treating myself with an item (or six?). See my top wish list items of makeup, skin care, and hair care and share what's on your wish list!</p> <a href="/articles/sephora-vib-spring-sale-2018-wishlist">[Read more]</a></div>,
 post: 
 	<div>
-	<img src="/images/sephoravibspringsalewishlist2018-preview.png" alt="Favorite Podcasts in March 2018" />
+	<img src="/images/sephoravibspringsalewishlist2018-preview.png" alt="Sephora VIB Spring Sale 2018 Wishlist" />
 		<br></br>
 	<p>Last year I tried a lot great new makeup and skincare brands with products that have become some of my holy grails. One of my goals for the year was to use up products more than purchasing them, but it doesn't mean that I can't replace products once I'm done with them. I am actually proud to say that I've not purchased ANY makeup or skincare products so far in 2018. And I have 4 products I've used up!</p>
 	<p>But now there's a Sephora VIB Sale and there's a list of products on my wish list… It's during this time I think about treating myself with an item (or six?).</p>
