@@ -1,6 +1,327 @@
 import React from 'react';
 
 const ARTICLES = [
+{id: "plane-podcasts-barcelona-edition", title: <a href="/articles/plane-podcasts-barcelona-edition">Plane Podcasts: Barcelona Edition</a>, date: "May 17, 2018", category: "Life", photo: "/images/planepodcasts-preview.png",  description: <div><p>I recently had vacation in Barcelona, Spain and my flight consisted mostly of listening to podcasts! If you've been following me for a while on this site, Twitter, or Instagram you know that podcasts are my thing. On Instagram Stories I share a lot of what I'm currently listening to and more immediate recommendations. Here, I share my monthly faves. Since I had marathon listening sessions on my 9-hour flights I thought I'd try something a little different and give you a run-down of all of them and how I rate them. </p> <a href="/articles/plane-podcasts-barcelona-edition">[Read more]</a></div>,
+post: 
+	<div>
+		<img src="/images/planepodcasts-preview.png" alt="Plane Podcasts" />
+	<p>I thought I would do something a little different with the podcast recommendations this week. I recently got back from a trip from Barcelona with 9 hours of plane travel to and from, resulting in quite the podcast-listening marathon. I realized that with my monthly favorites I wasn't sharing the ones I was lukewarm about or didn't really like at all. If you like or dislike this kind of format please let me know! My goal is to start having more nuanced podcast posts here on Coffee Meets Polished.</p>
+	<p>On the way to Barcelona I did a combination of podcasts and movies, but the return flight I listened exclusively to podcasts. The reason for return flight podcast marathon was actually because they didn't have a TV on my United Airlines flight despite it being a 8+ hour international flight. You were able to access movies and shows through the United website on your personal device, which was a chore in itself. But, I digress…</p>
+	<p>Here are the podcasts I listened to while in airports and on planes to and from Barcelona. They are divided by channel and rated from 1-5. Loosely, this is my rating criteria at the moment:</p>
+		<p className="tabbed"><b>✔︎ Strongly do not recommend.</b> Disliked to the point where I couldn't finish the episode and unsubscribed from the channel.</p>
+		<p className="tabbed"><b>✔︎✔︎ Do not recommend.</b> Disliked to the point where I could finish the episode but didn't take anything from it.</p>
+		<p className="tabbed"><b>✔︎✔︎✔︎ Neutral recommendation.</b> If you like this topic, you may enjoy it more that me. It may have been more informational vs. inspirational.</p>
+		<p className="tabbed"><b>✔︎✔︎✔︎✔︎ Recommend.</b> This would be a candidate for a monthly favorites post. It was entertaining, and/or took points away from the episode that I could apply to my life or share with others.</p>
+		<p className="tabbed"><b>✔︎✔︎✔︎✔︎✔︎ Highly recommend.</b> This would be in a monthly favorites post. I was very entertained and/or felt inspired and empowered to share with others to listen to immediately.</p>
+		<p className="tabbed">A <b>(*)</b> denotes that this was the first episode I've listened to for the podcast channel.</p>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="https://itunes.apple.com/us/podcast/the-introvert-dear-podcast/id1375366625?mt=2">The Introvert, Dear Podcast</a>*</b></p>
+		<p className="tabbed">➢<b>Episode #002: Why You Don't Need to Apologize for Being an Introvert (39 min): ✔︎✔︎✔︎✔︎</b>  I loved this episode because while I'm becoming more and more well-versed in introvert nuances, I was still able to take a lot away that was tangible and applicable to my life. Whether you're an introvert or extrovert, it's a great listen. I can't wait to see what other episodes are to come for this channel!</p>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="https://www.vox.com/worldly">Worldly (Vox)</a>*</b></p>
+		<p className="tabbed">➢<b>The ideology behind the Toronto terror attack, explained (32 min): ✔︎✔︎✔︎</b>  This channel was a new discovery for me in an attempt to find some other news-related podcasts to keep updated on current events. It was pretty good but I think for now I'll stick to NPR Up First and NYT's The Daily. The content of the podcast was very enlightening and opened my eyes to a subculture I'd never heard of.</p>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="https://itunes.apple.com/us/podcast/couples-therapy-with-candice-and-casey/id1380252026?mt=2">Couples Therapy with Candice and Casey</a>*</b></p>
+		<p className="tabbed">➢<b>Our First Podcast (32 min): ✔︎✔︎✔︎✔︎</b>  Candice and Casey Neistat's inaugural podcast was a blast. I love getting a chance to hear Candice more compared to Casey's YouTube channel and also learn more about how they work through their arguments. Candice is a huge proponent of mental health and regularly going to a therapist for mental health maintenance and think that's so important that she uses this platform to change the conversation.</p>
+		<p className="tabbed">➢<b>Don't Touch Me (40 min): ✔︎✔︎✔︎✔︎</b>  Podcast #2 came out in time for the flight back home. This one talked a lot about vulnerability and physical touch with family members and friends. Really interesting conversation that will make you think more about your own relationships and saying "I love you" to your parents. Highly recommend this channel overall!</p>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="https://amianahole.podbean.com/">Am I an A**hole</a></b></p>
+		<p className="tabbed">➢<b>For Not Wanting Kids (1 hr 6 min): ✔︎✔︎✔︎✔︎</b>  I recently discovered this podcast and thought it was such a refreshing format. They take on some questions that we think but may be hesitant to unpack. This one was about being a woman of childbearing age, or close to reaching the end of that time, and not wanting to have kids. It spoke a lot to my current stage in life and it helped me feel like I wasn't alone.</p>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="http://hesaidwhatshow.com/">He Said What</a></b></p>
+		<p className="tabbed">➢<b>Meet Our Full Time Sugar Baby from SeekingArrangements.com (34 min): ✔︎✔︎✔︎✔︎</b>  He Said What is one of the channels I started listening to as part of a collective of sex-positive podcasts I'm subscribing to. I want to be more open-minded with sex and think of it as less taboo that I grew up considering it. This episode I learned about a whole different lifestyle and career that I knew nothing about and was really interesting and enlightening.</p>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="https://soundcloud.com/karenkazlucas">The spread podcast</a></b></p>
+		<p className="tabbed">➢<b>MASTURBATION (42 min): ✔︎✔︎✔︎✔︎</b>  This podcast is another channel that is helping me de-taboo sex. The hosts are two amazing women that talk about sex as if it's part of normal conversation (as it should). They don't hesitate and they are very open with their own experiences with feeling that sex is something to hide. This episode was all about masturbation, its myths, and ways to teach your kids about healthy masturbation. I love this podcast.</p>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="https://www.nytimes.com/podcasts/dear-sugars">Dear Sugars</a></b></p>
+		<p className="tabbed">➢<b>Emotional Labor: The Invisible Work (Most) Women Do--With Gemma Hartly (46 min): ✔︎✔︎✔︎✔︎✔︎</b>  Oh Dear Sugars, this is an amazing podcast. It's been around for a really long time but I subscribed to them just last month. They go through so many deep discussions from those who write in their relationship trials and tribulations. This specific episode was of women who are bearing emotional labor with their significant others and unsure how to proceed. The stories struck so close to home and what I believe many women will feel. I'm happy to not have the unbearable situations I had in the past, but in many relationships I have both personal and professionally I still have to set boundaries of emotional labor very deliberately.</p>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="https://www.nytimes.com/podcasts/still-processing">Still Processing</a></b></p>
+		<p className="tabbed">➢<b>We Watch Whiteness (1 hr 2 min): ✔︎✔︎✔︎✔︎</b>  One of my favorite podcast channels of all time. The conversations between hosts unpack things I never was aware of and help me learn so much. At the very least, I learn a lot of the language to use when discussing these topics with others.</p>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="https://soundcloud.com/ladies-who-lunch">Ladies Who Lunch</a></b></p>
+		<p className="tabbed">➢<b>When Courage Meets Compassion (52 min): ✔︎✔︎✔︎✔︎</b>  I love this podcast. The conversations between Ingrid Nilsen and Cat Valdes are so raw but eloquently stated that sometimes I take notes because they're able to put deep feelings into beautiful words.</p>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="https://www.theskinnyconfidential.com/podcast/">The Skinny Confidential Him & Her Podcast</a></b></p>
+		<p className="tabbed">➢<b>#113: Candice Kumai - The Japanese Art of Nourishing Mind, Body, & Spirit (1 hr 10 min): ✔︎✔︎✔︎</b>  This rating was hard for me because I LOVE <a target="_blank" rel="noopener noreferrer" href="http://candicekumai.com/">Candice Kumai</a> and I bought her new book, <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Kintsugi-Wellness-Japanese-Nourishing-Spirit/dp/0062669850">Kintsungi Wellness</a> that she is on "podcast tour" for, but the channel itself I'm not the biggest fan of its format. It starts with a lot of ads and ends with a lot of ads so it's hard to find the meat of what I wanted to listen to - which was Candice. Now, once you get to Candice's part I thought she was absolutely amazing. I would still recommend to listen but a heads up it starts 17 minutes in.</p>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="http://www.callyourgirlfriend.com/the-bleed">Call Your Girlfriend</a></b></p>
+		<p className="tabbed">➢<b>Hey Ladies (54 min): ✔︎✔︎✔︎</b>  Call Your Girlfriend was a random find perusing iTunes and I'm so happy I found it. A lot of their podcasts will end up on my future favorites lists, but this wasn't one of them only because I'm not that excited about the book it was promoting, <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Hey-Ladies-Story-Friends-Emails/dp/1419729136">Hey Ladies</a>. I think just because it doesn't resonate with my stage in life not because I think it will be a bad book. No hard feelings, not my cup of tea. Stay tuned for more episodes I've loved from CYG.</p>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="https://www.stuffmomnevertoldyou.com/podcasts">Stuff Mom Never Told You</a></b></p>
+		<p className="tabbed">➢<b>Are NFL Cheerleaders Being Exploited? (58 min): ✔︎✔︎✔︎</b>  I've been following SMNTY for a bit now and have lots of favorites. This one wasn't one of them, but I still thought it was really interesting. It was an appropriate topic to cover but I just thought it was more discussion opinion-based vs. interview-based.</p>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="https://www.nytimes.com/podcasts/the-daily">The Daily</a></b></p>
+		<p className="tabbed">➢<b>A Life-or-Death Crisis for Black Mothers (26 min): ✔︎✔︎✔︎✔︎</b>  This episode is so important for everyone to listen to. It discusses the implicit and explicit bias of medical care for black women, especially for pregnancy care and pain control. It's scary and incredibly sad but being aware of it helps us actively make changes to move forward.</p>
+		<p className="tabbed">➢<b>Return of Rudy Guiliani (22 in): ✔︎✔︎</b>  Eh, this was ok. Only because of the topic. I think I dozed off in the middle of this one anyway.</p>
+	<p><b><a target="_blank" rel="noopener noreferrer" href="http://letstalkaboutitwithtaylornolan.libsyn.com/">Let's Talk About It With Taylor Nolan</a></b></p>
+		<p className="tabbed">➢<b>EP23: Stereotypes of Masculinity (1 hr 12 min): ✔︎✔︎✔︎✔︎✔︎</b>  I've been subscribed to Let's Talk About It for a few months now and I've never been disappointed. This one definitely spoke to my feminist heart because it addressed masculinity and how it is defined and challenged. I loved the conversation between the hosts and the guest. Highly recommend to listen to this one.</p>
+		<br></br>
+	<p>You can find my other podcast posts to date here:</p>
+		<p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2GKOMcN">Favorite Podcasts in March 2018</a></b></p>
+		<p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2oFVYiz">Favorite Podcasts in February 2018</a></b></p>
+		<p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2EhLwEL">Favorite Podcasts in January 2018</a></b></p>
+		<p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2FeaPHG">Favorite Podcasts of 2017</a></b></p>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+	<h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>YOU MIGHT ALSO LIKE:</h4>
+		<a className="three-up" href="/articles/favorite-podcasts-in-march-2018">
+		    <img src="/images/podcastsofmarch.png" alt="Podcasts in March" />
+		    <p className="centered">Favorite Podcasts in March 2018</p>
+		</a>
+	    <a className="three-up" href="/articles/favorite-podcasts-of-2017">
+	        <img src="/images/favoritepodcastsof2017.png" alt="Favorite Podcasts of 2017" />
+	        <p className="centered">Favorite Podcasts of 2017</p>
+	    </a>
+	    <a className="three-up" href="/articles/favorite-podcasts-in-february-2018">
+	        <img src="/images/podcastsoffebruary.png" alt="Favorite Podcasts of February 2018" />
+	        <p className="centered">Favorite Podcasts of February 2018</p>
+	    </a>
+	</div>
+	},
+
+{id: "thoughts-on-not-a-motherhood", title: <a href="/articles/thoughts-on-not-a-motherhood">Thoughts On Not-A-Motherhood</a>, date: "May 14, 2018", category: "Opinion", photo: "/images/not-a-motherhood-preview.png",  description: <div><p>As a 28-going-on-29-year-old woman, there are two things society puts a lot of pressure on having in my life: <b>marriage and kids</b>. From social media FOMO, living in a neighborhood surrounded by families, and most recently becoming a Tita (aunt, in the Philippines) it's really easy to feel that I am missing out on what I've been conditioned to think is an essential component of womanhood. In today's article, I unpack my [potentially problematic] thoughts on <b>not-a-motherhood</b>. </p> <a href="/articles/thoughts-on-not-a-motherhood">[Read more]</a></div>,
+post: 
+	<div>
+		<img src="/images/not-a-motherhood-preview.png" alt="Thoughts On Not-A-Motherhood" />
+		<br></br>
+	<p>As a 28-going-on-29-year-old woman, there are two things society puts a lot of pressure on having in my life: <b>marriage and kids</b>. From social media FOMO, living in a neighborhood surrounded by families, and most recently becoming a Tita (aunt, in the Philippines) it's really easy to feel that I am missing out on what I've been conditioned to think is an essential component of womanhood. In today's article, I unpack my [potentially problematic] thoughts on <b>not-a-motherhood</b>.</p>
+	<p>Today's article is in tribute to all of the Mothers out there. You are inspirations to me and I immensely respect all that you do and are capable of. Being a Mother is not currently part of my identity, but I aim to support and lift Mothers in my life to achieve your dreams and go for the life you want. Motherhood is an honor that I may or may not have in my future. But this challenges me to continue pursuing my life in its current state for now.</p>
+		<br></br>
+	<h4><b>feeling of selfishness.</b></h4>
+	<p>I recently listened to a podcast about unpacking the feeling of not wanting to have kids yet, and if that made you a bad person. The guest on the show talked about how she spent much of her 20's being the sole caretaker of her grandmother. She lived with her grandmother and spent all of her time ensuring her survival. And now the guest has shifted to live independently in her early 30's and isn't ready to raise a child. She is taking this moment to find herself again. This really spoke to my feelings because now that I'm in my first year of not being a student and not being in professional training at the age of 28, I'm finding myself again. This makes me feel selfish, but I try not to think of it this way and I wonder if it's because of all of the explicit and implicit external pressure.</p>
+		<br></br>
+	<h4><b>frustration with patriarchy.</b></h4>
+	<p>Infrastructures in the United States of America don't support equality for families. Things like family leave packages (or lack thereof) make me worried whenever I am ready to start a family that I won't be able to raise the kid(s) with the equality that I feel is necessary for the next generation. I understand now that I've learned a lot about feminist history that we've come a long way, but recent political times make me worried that the pendulum may be swinging in a direction I cannot accept.</p>
+		<br></br>
+	<h4><b>fear of pregnancy.</b></h4>
+	<p>Having seen two women in my life at the same time go through very different pregnancies with their own difficulties, I have to admit it puts fears in me for going through the same or worse. I also know a woman who went through a lot of health concerns with pre-eclampsia and being bedridden in the hospital for weeks. This is definitely only looking at the negative side of it but as a healthcare professional I get concerned. On the other hand, I also know a woman who had 5 children and was absolutely in love with pregnancy and raising children. What gives me hope is that all of these women have remained resilient and are thriving.</p>
+		<br></br>
+	<h4><b>being ready too late.</b></h4>
+	<p>I have thoughts that maybe my readiness will happen after I'm able to have kids. Can I even have kids? I don't know. The imminent body clock doesn't help me believe my decision to have a child someday would be an organic one. Everyone says you never truly feel “ready”. Instead you do what you can to be prepared, set up infrastructure around you to support financially and even socially, then brace yourself. But I just don’t feel ready right now and I don’t know what it will feel like when I'm closer to ready.</p>
+	<h4><b>the bottom line.</b></h4>
+	<p>It is not lost on me that these thoughts are <b>highly privileged</b> potentially problematic. I'm fortunate to be in a place where I have the choice to decide when I have children. I have access to birth control and health insurance, a support system, and amazing women in my life as examples for me. Not everyone is this lucky. But I will keep fighting for these resources for all who want to start a family or control when it happens for them.</p>
+	<p>I will also celebrate the Mothers in my life who are absolutely rock stars as well as their partners who parent alongside them. I believe that parenting requires equality but also support that a bond between a Mother and child is a unique and special one. I know this because of the relationship I have with my own Mom who I love and admire very much.</p>
+	<p>Do you have thoughts about not-a-motherhood like mine? Share them in the comments below.</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
+	<h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>YOU MIGHT ALSO LIKE:</h4>
+	    <a className="three-up" href="/articles/when-the-graduations-end">
+	        <img src="/images/graduation-end.jpg" alt="When the Graduations End" />
+	        <p className="centered">When the Graduations End</p>
+	    </a>
+	    <a className="three-up" href="/articles/highs-and-lows-of-2017">
+	        <img src="/images/highsof2017preview.png" alt="Highs and Lows of 2017" />
+	        <p className="centered">Highs and Lows of 2017</p>
+	    </a>
+	    <a className="three-up" href="/articles/28-things-i-would-tell-my-younger-self">
+	        <img src="/images/kindness.jpg" alt="28 Things I Would Tell My Younger Self" />
+	        <p className="centered">28 Things I Would Tell My Younger Self</p>
+	    </a>
+	</div>
+	},
+
+{id: "19-before-2019-april-goals-update", title: <a href="/articles/19-before-2019-april-goals-update">19 Before 2019: April Goals Update</a>, date: "May 7, 2018", category: "Life", photo: "/images/aprilgoalsupdate2018-preview.png",  description: <div><p>My <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2mCwVg9">19 Goals Before 2019</a> post has been the most page on this site so far. Because of that, I decided to keep you all updated each month with my progress to ensure they weren't just goals made on a whim and show you how I plan to accomplish them, step-by-step. If you're enjoying this kind of content, be sure to let me know in the comment section! </p> <a href="/articles/19-before-2019-april-goals-update">[Read more]</a></div>,
+post: 
+	<div>
+		<img src="/images/aprilgoalsupdate2018-preview.png" alt="April Goals Update" />
+	<p>So far this year, my <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2mCwVg9">19 Goals Before 2019</a> post has been the most popular one. Because of that, I decided to keep you all updated each month with my progress to ensure they weren't just goals made on a whim and show you how I plan to accomplish them, step-by-step.</p>
+		<p>You can find prior updates here:</p>
+	<p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2mCwVg9">19 Goals Before 2019</a></b></p>
+	<p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2ooOrpg">19 Goals Before 2019: January Update</a></b></p>
+	<p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2p7iIJh">19 Goals Before 2019: February Update</a></b></p>
+	<p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2vlqo0d">19 Goals Before 2019: First Quarter Reflections</a></b></p>
+		<p>If you're enjoying this kind of content, be sure to <b>let me know in the comment section below</b>! </p>
+	<h4>❖❖❖</h4>
+	<h4>personal.</h4>
+		<p>1. Run a 5K in Manhattan - <b>COMPLETE!</b></p>
+		<p className="tabbed">I proudly completed my first 5K without stopping to walk back in March, and have already signed up for my second race in June! My time for the 5K was 34:56 minutes at a 10:31 minute/mile pace. The race felt great, like I could have run faster, but my goal was to finish without walking and I'm really proud of myself for it. How I felt running during the race was proof that the training paid off. My race in July is for a 4-miler, and this will be the longest I've run since the 5K!</p>
+		<p>2. Travel out of the country twice - <b>IN PROGRESS</b></p>
+		<p className="tabbed">I will be going to Barcelona in May! In fact, today May 7th I am currently here! I can't wait to share the experience with you all. As far as the second international trip, that's still being planned out but it will hopefully be during December.</p>
+		<p>3. Participate in a protest/march - <b>COMPLETE!</b></p>
+		<p className="tabbed"> <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2FVnQr0">Women's March</a>. 'Nuff said. ✓</p>
+		<p className="tabbed">[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2FVnQr0">Everything You Need To Know About The 2018 Women's March</a></b></p>
+		<p className="tabbed">In April, I also witnessed the March for Our Lives. I didn't walk in it, but instead made efforts to amplify the voices of those marching. I was live-tweeting protest signs and listened to the program at the start of the march. It was incredibly inspiring to hear stories of survivors and see how intersectional the protest truly was.</p>
+		<p className="tabbed">[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2FGFL55">10 Essential Tips For Your First Protest</a></b></p>
+		<p>4. Submit 10 essays/articles for websites - <b>NOT STARTED</b></p>
+		<p className="tabbed">I've made no progress on this one so far. I continue to have a list of websites to contribute to. Back in February I switched this from "in progress" to "not started" since I am only to the point of listing out potential opportunities. Since my <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2vlqo0d">first quarter reflection</a>, I still want to keep this on but perhaps pursue it differently. More to come.</p>
+		<p>5. Take a creative writing course - <b>NOT STARTED</b></p>
+		<p className="tabbed">Still not progress for this. Some options I could pursue are Lynda.com or even Coursera. Do you any of you readers have suggestions?</p>
+		<p>6. Learn how to curl hair with a curler - <b>IN PROGRESS</b></p>
+		<p className="tabbed">I'm officially changing this to "in progress" for this month. While I haven't purchased a curler, I have been able to use my straightener again to get used to doing my hair. I also stopped straightening or blowdrying for the past month and embracing the waves. I found that a lot of my resistance to curling was simply not being used to seeing my hair with more volume. But I'm learning about a whole new group of hair products I've never used before.</p>
+		<p>7. Pay more rent than student loan bill each month - <b>IN PROGRESS</b></p>
+		<p className="tabbed">Completed this one so far every month! Last month I actually got a bonus at work and dedicated a large portion of that to an even higher loan payment. Eight more months to go… (and many more years).</p>
+		<p>8. Wear more lipstick - <b>IN PROGRESS</b></p>
+		<p className="tabbed">I actually dipped down in my lipstick use in April. My morale was lower than usual given the weather and I just wasn't feeling it. But it looks like Spring is FINALLY coming to New York City which means my life will be full of color again. </p>
+		<p className="tabbed">[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2DdLdOM">Power of the Red Lip</a></b></p>
+		<p>9. Finish Project Pan 2018 (18 skin care/make up products) - <b>IN PROGRESS</b></p>
+		<p className="tabbed">I've now finished 3 products so far! If you're interested in me writing a post about what my 18 products are, leave me a comment below!</p>
+		<p>10. Explore all of the New York City boroughs - <b>IN PROGRESS</b></p>
+		<p className="tabbed">I mentioned back in the <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2p7iIJh">February update</a> that I hoped to explore Queens after the 5K in Roosevelt Island in March. That didn't happen. However, I am officially switching this to "in progress" because I explored Brooklyn multiple times now! I went to Williamsburg to see an <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2uF0lkb">event hosted by Emma Gray</a> promoting her book (<a target="_blank" rel="noopener noreferrer" href="https://amzn.to/2JOyJf7">A Girl's Guide to Joining the Resistance</a>), went to DUMBO (Down Under the Manhattan Bridge Overpass) for an event at <a target="_blank" rel="noopener noreferrer" href="https://www.the-wing.com/">The Wing</a> location there, and finally to Prospect Park for my boyfriend's <a target="_blank" rel="noopener noreferrer" href="http://www.brooklyn15k.com/">15K race</a>! Brooklyn is pretty great and I understand why so many people are wanting to live there. Two boroughs down!</p>
+		<p>11. Go to a cultural/activist event every month - <b>IN PROGRESS</b></p>
+		<p className="tabbed"><b>January: </b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2FVnQr0">Women's March</a></p>
+		<p className="tabbed"><b>February: </b><a target="_blank" rel="noopener noreferrer" href="https://pen.org/event/me-too-a-writers-reckoning/">PEN America's #MeToo: A Writer's Reckoning</a></p>
+		<p className="tabbed"><b>March: </b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2uF0lkb">Emma Gray's book event: A Girl's Guide to Joining the Resistance</a></p>
+		<p className="tabbed"><b>April:</b> Lots of events hosted by <a target="_blank" rel="noopener noreferrer" href="https://www.the-wing.com/">The Wing</a> including <a target="_blank" rel="noopener noreferrer" href="https://www.hulu.com/the-handmaids-tale">Handmaid's Tale</a> screening+panel and <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=xcD5uRVO2SE">Sweetbitter</a> screening + panel.</p>
+	<h4>❖❖❖</h4>
+	<h4>coffee meets polished.</h4>
+		<p>12. Reach 500 followers on Instagram - <b>IN PROGRESS</b></p>
+		<p className="tabbed"><b>January:</b> 278 followers</p>
+		<p className="tabbed"><b>February:</b> 397 followers</p>
+		<p className="tabbed"><b>March:</b> 416 followers</p>
+		<p className="tabbed"><b>April:</b> 443 followers</p>
+		<p>13. Reach 100 MailChimp subscriptions - <b>IN PROGRESS</b></p>
+		<p className="tabbed">This one is a bit more difficult. I didn't gain any new subscribers as I have been focusing so much on social media. I know that this is something to have a stronger focus for in this next quarter.</p>
+		<p>14. Reach 500 followers of Twitter - <b>IN PROGRESS</b></p>
+		<p className="tabbed"><b>January:</b> 253 followers</p>
+		<p className="tabbed"><b>February:</b> 378 followers</p>
+		<p className="tabbed"><b>March:</b> 421 followers</p>
+		<p className="tabbed"><b>April:</b> 450 followers</p>
+		<p>15. Start YouTube channel - <b>IN PROGRESS</b></p>
+		<p className="tabbed">April was an exciting month to rejuvenate this goal. YouTube was one of the <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2KwUgtX">Things I Loved in April</a> because I discovered so many new channels that showed me how much opportunity there is to be unique and individual on the platform. That couple with purchasing the camera to use for recording and editing software, I officially transition this month to <b>in progress</b>. </p>
+		<p>16. Create worksheets for reader downloads - <b>IN PROGRESS</b></p>
+		<p className="tabbed">I've finished one worksheet! If you want to check it out, <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2ByiGBn"> subscribe to Coffee Meets Polished</a>!</p>
+		<p>17. Finish draft for merchandise - <b>NOT STARTED</b></p>
+		<p className="tabbed">Nothing changed from so far. I have a list of ideas, but nothing in final draft stages yet.</p>
+		<p>18. Create a monthly challenge - <b>NOT STARTED</b></p>
+		<p className="tabbed">This goal is on hold so far as I focus on other components to Coffee Meets Polished.</p>
+		<p>19. Do a giveaway and/or collaboration - <b>NOT STARTED</b></p>
+		<p className="tabbed">I haven't done a giveaway or collaboration yet. However, coming in May will feature the first Coffee Meets Polished contributor essay! I can't wait to share it with you all.</p>
+		<p>Each month it's important to celebrate your progress and not get bogged down with how many more "in progress" and "not started" there are compared to "complete". Focus on <b>continuous improvement</b>. Our job is rarely completely finished, especially when it comes to our personal growth.</p>
+		<br></br>
+	<h4>How are your goals this year moving along? Share in the comments below.</h4>
+		<br></br>
+		<h4>❖❖❖</h4>
+		<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+	<h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>YOU MIGHT ALSO LIKE:</h4>
+		<a className="three-up" href="/articles/hopeful-for-in-2018">
+		    <img src="/images/hopefulfor2018.png" alt="HopefulFor2018" />
+		    <p className="centered">Hopeful For in 2018</p>
+	    </a>
+	    <a className="three-up" href="/articles/19-before-2019-first-quarter-update">
+	        <img src="/images/19before2019firstquarter-preview.png" alt="19 Before 2019: First Quarter Reflections" />
+	        <p className="centered">19 Before 2019: First Quarter Reflections</p>
+	    </a>
+	    <a className="three-up" href="/articles/19-before-2019-a-goal-setting-challenge">
+	        <img src="/images/19before2019.png" alt="19 Before 2019 Goals" />
+	        <p className="centered">19 Before 19: A Goal Setting Challenge</p>
+	    </a>
+	</div>
+	},
+
+{id: "when-i-stopped-apologizing-for-needing-solitude", title: <a href="/articles/when-i-stopped-apologizing-for-needing-solitude">When I Stopped Apologizing for Needing Solitude</a>, date: "May 3, 2018", category: "Wellness", photo: "/images/solitude-preview.png",  description: <div><p>I think of empowerment in a few stages. The first one, is self-awareness. Second, is learning/unlearning about your identity and those around you. Third, is agency to make change. Part of my agency has been asking for the things I want and need. For my introversion and wellness, that's <b>solitude</b>. Here are 6 things that happened when I stopped apologizing for needing solitude.</p> <a href="/articles/when-i-stopped-apologizing-for-needing-solitude">[Read more]</a></div>,
+post: 
+	<div>
+	<img src="/images/solitude-preview.png" alt="Solitude Unsplash" />
+		<br></br>
+	<p>I think of empowerment in a few stages. The first one, is self-awareness. Second, is learning/unlearning about your identity and those around you. Third, is agency to make change. Part of my agency has been asking for the things I want and need. For my introversion and wellness, that's <b>solitude</b>.</p>
+	<p>I know what my needs are but communicating them is a whole different ballgame. At first, expressing my needs was <b>really uncomfortable</b>. I felt guilty for asking. I felt afraid to hear no. I felt like I would be judged. I felt a lot of negative things. And it didn't go away at first, But over time, in conjunction with owning my needs more and more, I was able to come to peace with it.</p>
+		<br></br>
+	<h4>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2FAv9UJ">6 Ways to Own Your Introversion</a></b></h4>	
+		<br></br>
+	<p>One of the big things I wanted to get better at was saying no to social engagements. There's a lot of pressure that comes with an introvert trying to live in a world that celebrates extrovert activities. After work happy hour, after-parties, co-working office spaces, BBQ's, weekend beach retreats, and so much more.</p>
+	<p>In residency, there were a lot of scheduled bonding activities. I was really glad they happened because it helped us get to know each other outside of the rigorous work environment. But the immediately afterwards I was drained. I needed at least a day of doing nothing for recovery but that kind of time is nonexistent during residency. As a result, my energy suffered and my work suffered. It made me stronger, but I wasn't happy.</p>
+	<p>Being in a large residency group, there were a lot of un-official bonding activities too. Some of the leaders of the group would organize a lot of different events for whoever would make it. I rarely made it out, and I felt punished for it in different ways (mostly self-imposed). I felt like everyone thought I didn't want to be part of the group, that I was a spoil-sport, or even felt above it all. But the reality was I was barely keeping up with the energy needed to get through a work day and my time out of the hospital was much-needed solitude.</p>
+	<p>I knew something needed to change otherwise I would keep falling into the vicious circle of guilt and exhaustion. It took baby steps but I finally built the confidence and my environment was accepting. Here are 6 things that happened when I stopped apologizing for needing solitude.</p>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<p>1. <b>People came to expect it.</b> I was with a group of co-workers at my new job when they were planning weekly happy hours, and I said upfront that I probably wouldn't be attending many of them because I was an introvert and it wears me out. I don't remember exactly what I said, but that was the gist. I was first met with the usual disbelief because I didn't seem shy (more on that later), but afterwards I didn't feel guilty at not attending some invitations. I was met with understanding and didn't require explanation when I stated I would be staying in that night. I asked those who attended how the events went afterwards, and this was the new normal.</p>
+	<p>2. <b>People accommodated to my needs.</b> Introverts don't hate people. In fact, I love people but I prefer interacting with them in a smaller group. Before I was comfortable saying no to outings, I would also pair it with an offer to do lunch or coffee instead. My friends started offering other ways to hang out and invited me to outings but didn't force it if I said I wasn't feeling it that night.</p>
+	<p>3. <b>Others admit they have similar needs.</b> There are many situations where a group goes with the idea of whoever made the first suggestion, assuming consensus automatically. Once I started feeling comfortable stating my preference and being the one to propose the alternative option, more people felt comfortable expressing similar feelings. They would start to offer other suggestions, or state they didn't want to do the activity either and thank me. This sounds very adversary but it's not meant to be. It's mainly to emphasize that expressing your ideas empowers others to express theirs.</p>
+	<p>4. <b>I felt more rested and focused at work.</b> Because I'm wearing myself out the night before at a group event and staying up extra late afterwards to wind down, I am more rested at work. 'Nuff said.</p>
+	<p>5. <b>I feel empowered to express my needs in other things.</b> It feels good to express what I need and not be met with animosity or guilt. The more that I surrounding myself with people who respect it, the more I kept doing it. Now that I'm used to doing it with people I know, I actually am more comfortable doing it upfront with anyone I meet.</p>
+	<p>6. <b>I feel happier and more fulfilled.</b> At the end of the day, it's all about getting what you need out of life to go for what you want. When you get through the uncomfortable time period of <b>asking</b>, you release a lot of negative energy into the ether and make room for the things that make you happy.</p>
+	<p>By sharing my experiences I hope to empower you to go on your own journey too. Have you had similar feelings about expressing your needs? What happened after you tried it? Share in the comments below.</p>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+	<h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>YOU MIGHT ALSO LIKE:</h4>
+	    <a className="three-up" href="/articles/mental-health-resolutions-for-2018">
+	        <img src="/images/mentalhealthresolutions.png" alt="Mental Health Resolutions for 2018" />
+	        <p className="centered">Mental Health Resolutions for 2018</p>
+	    </a>
+	    <a className="three-up" href="/articles/futile-pursuit-of-balance-set-boundaries-instead">
+	        <img src="/images/boundaries.jpg" alt="Future Pursuit of Balance: Set Boundaries Instead" />
+	        <p className="centered">Future Pursuit of Balance: Set Boundaries Instead</p>
+	    </a>
+	    <a className="three-up" href="/articles/6-ways-to-own-your-introversion">
+	        <img src="/images/owned-introversion-preview.png" alt="6 Ways to Own Your Introversion" />
+	        <p className="centered">6 Ways to Own Your Introversion</p>
+		    </a>
+	</div>
+	},
+
+{id: "5-things-i-loved-in-april-2018", title: <a href="/articles/5-things-i-loved-in-april-2018">5 Things I Loved in April</a>, date: "April 30, 2018", category: "Life", photo: "/images/5-things-i-loved-in-april-2018.gif",  description: <div><p>I knew April was going to be a busy month, but there were a lot of unexpected positive things that I would argue has changed the course of my year, potentially beyond. Here are the 5 things I loved! Leave a comment below with some things you loved in April, I would be excited to know! </p> <a href="/articles/5-things-i-loved-in-april-2018">[Read more]</a></div>,
+post: 
+	<div>
+		<img src="/images/5-things-i-loved-in-april-2018.gif" alt="5 Things I Loved in April" />
+		<br></br>
+	<p>I knew April was going to be a busy month, but there were a lot of unexpected positive things that I would argue has changed the course of my year, potentially beyond. Here are the 5 things I loved! Leave a comment below with some things you loved in April, I would be excited to know!</p>
+		<br></br>
+	<h4>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="https://coffeemeetspolished.com/articles/5-things-i-loved-in-march-2018">5 Things I Loved in March</a></b></h4>
+	<h4><b>family.</b></h4>
+	<p><img src="/images/zekefeet.jpg" alt="Zeke Feet" /></p>
+	<p>There's nothing like reuniting with family, especially with the next generation of our family. I hadn't seen my nephew since December when he was born and was able to reunite this month - 4 months later! He was baptized into the Catholic faith and I am honored to be one of his Godmothers ("Ninang" in Tagalog). I extended my visit a couple of days to be able to babysit and have time with him to myself. It was such a great time.</p>
+		<br></br>
+	<h4><b>youtube.</b></h4>
+	<p><img src="/images/caseyneistat-tweet.png" alt="Casey Neistat Tweet" /></p>
+	<p>Starting a YouTube channel for Coffee Meets Polished was one of my <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2mCwVg9">19 Before 2019 goals</a> but I had no plans or thought about its conception so far this year. And it's mostly because it's intimidating to me but also because I was trying to figure out what the voice would be on that platform. But I also discovered so many YouTube channels that I'm definitely behind the bandwagon on but have empowered me to believe that I do in fact have a story to tell, and that I should just go for it. Some of my newly discovered favorites include: <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/user/caseyneistat">Casey Neistat</a> (I know, I'm behind), <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/user/petermckinnon24">Peter McKinnon</a>, <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/user/saradietschy">Sara Dietschy</a> (rhymes with peachy), <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/user/rowenatsai">Rowena Tsai</a>, <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/user/savvysexysocial">Amy Landino</a>,and so many more.</p>
+		<br></br>
+	<h4>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2DIIxJb"> 5 Things I Learned on YouTube</a></b></h4>
+		<br></br>
+	<h4>canon eos m50.</h4>
+	<p><img src="/images/canoneosm50.jpg" alt="Canon EOS M50" /></p>
+	<p>Related to YouTube, I was inspired to get some new toys (thank you tax refund). One of them was a new camera! I've been setting this puppy up to record time lapses everywhere I'm able. I can't wait to see what this means for the future of Coffee Meets Polished. But it also will make for some pretty awesome vlogging and photo opportunities when going to Barcelona. I love a new tech toy to learn, and the mirrorless line of cameras is exciting.</p>
+		<br></br>
+	<h4><b>the wing.</b></h4>
+	<p><img src="/images/thewinghandmaids.jpg" alt="The Wing Handmaids Tale" /></p>
+	<p>When I first heard about <a target="_blank" rel="noopener noreferrer" href="https://www.the-wing.com/">The Wing</a>, I didn't quite get the point. But as I followed through its social media I quickly came to realize how much it aligns with my female empowerment journey. At its foundation it is a co-working space for women. But if you ever step foot into the space and look behind it's aesthetically pleasing interior design, you see how important it is that a space like this exists. It is a space FOUNDED BY women, FOR women, DESIGNED BY women. And every in of the space you realize this. While I am enamored with all of the beauty and skin care products available and comfortable couches, feminist café dishes and cocktails; I'm also in love with the free feminine products in the bathroom, and pumping room for mothers. In addition to the space, it has events hosted in all of its locations that I signed up for and attended for the first time this month. I've already gone to so many events and so many scheduled, that it will need its own post - stay tuned.</p>
+		<br></br>
+	<h4><b>researching for barcelona.</b></h4>
+	<p><img src="/images/barcelonametro.png" alt="Barcelona Metro" /></p>
+	<p>I'm an avid supporter for incorporating <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2ned9aa">microadventures</a> to our lives and have been doing many microadventures within my own home city. But sometimes, there's a MACRO-adventure to be had. In January, my boyfriend and I booked our first international trip in two years: Barcelona. Because it was booked so far ahead, I had to push it from my mind so I didn't get too impatient. But with April the researching fun came in full force! I can't wait to share the adventures had. Be sure to follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2Ea1ba1">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2Go3xlx">Twitter</a> for real-time, behind-the-scenes updates.</p>
+		<br></br>
+	<h4>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2ned9aa">Taste of Microadventures Vol. 3</a></b></h4>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+	<h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>YOU MIGHT ALSO LIKE:</h4>
+		<a className="three-up" href="/articles/5-things-i-loved-in-february-2018">
+		    <img src="/images/februaryloves2018-preview.png" alt="5 Things I Loved in February 2018" />
+		    <p className="centered">5 Things I Loved in February</p>
+		</a>
+	    <a className="three-up" href="/articles/highs-and-lows-of-2017">
+	        <img src="/images/highsof2017preview.png" alt="Highs and Lows of 2017" />
+	        <p className="centered">Highs and Lows of 2017</p>
+	    </a>
+	    <a className="three-up" href="/articles/28-things-i-would-tell-my-younger-self">
+	        <img src="/images/kindness.jpg" alt="28 Things I Would Tell My Younger Self" />
+	        <p className="centered">28 Things I Would Tell My Younger Self</p>
+	    </a>
+	</div>
+	},
+
 {id: "6-essential-ways-to-prepare-for-residency", title: <a href="/articles/6-essential-ways-to-prepare-for-residency">6 Essential Ways to Prepare for Residency</a>, date: "April 19, 2018", category: "Career", photo: "/images/essentialresidencyprep-preview.png",  description: <div><p>Today's article comes at the specific request from one of the Coffee Meets Polished subscribers who recently found out she matched to a pharmacy residency program! This is an exciting but also intimidating time because you are in transition. You're excited and ready to finish pharmacy school, but also realizing the journey still to come. Being in between, it's understandable to want to prepare as much as possible. If you're about to enter a transition in life or career and unsure how to approach it, this article is for you. </p> <a href="/articles/6-essential-ways-to-prepare-for-residency">[Read more]</a></div>,
 post: 
 	<div>
@@ -61,7 +382,7 @@ post:
 	</div>
 	},
 
-{id: "19-before-2019-first-quarter-update", title: <a href="/articles/19-before-2019-first-quarter-update">19 Before 2019: First Quarter Update</a>, date: "March 16, 2018", category: "Life", photo: "/images/19before2019firstquarter-preview.png",  description: <div><p>When you make goals, it's easy to focus on the end target. But the <b>juice is in the journey</b>. I've been sharing with you all the monthly updates of my <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2mCwVg9">19 Goals Before 2019</a> goals, which continues to be the most viewed post on this site since it started last year. Along with monthly check-ins, it's important to have periodic reflections to take a step back and reflect on the big picture. The end of March was also the end of quarter one, and here are my thoughts on how it went. </p> <a href="/articles/19-before-2019-first-quarter-update">[Read more]</a></div>,
+{id: "19-before-2019-first-quarter-update", title: <a href="/articles/19-before-2019-first-quarter-update">19 Before 2019: First Quarter Update</a>, date: "April 16, 2018", category: "Life", photo: "/images/19before2019firstquarter-preview.png",  description: <div><p>When you make goals, it's easy to focus on the end target. But the <b>juice is in the journey</b>. I've been sharing with you all the monthly updates of my <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2mCwVg9">19 Goals Before 2019</a> goals, which continues to be the most viewed post on this site since it started last year. Along with monthly check-ins, it's important to have periodic reflections to take a step back and reflect on the big picture. The end of March was also the end of quarter one, and here are my thoughts on how it went. </p> <a href="/articles/19-before-2019-first-quarter-update">[Read more]</a></div>,
 post: 
 	<div>
 		<img src="/images/19before2019firstquarter-preview.png" alt="First Quarter Goals Reflection" />
@@ -119,7 +440,7 @@ post:
 {id: "sephora-vib-spring-sale-2018-wishlist", title: <a href="/articles/sephora-vib-spring-sale-2018-wishlist">Sephora VIB Spring Sale 2018 Wish List</a>, date: "April 12, 2018", category: "Beauty", photo: "/images/sephoravibspringsalewishlist2018-preview.png",  description: <div><p>Last year I tried a lot great new makeup and skincare brands with products that have become some of my holy grails. One of my goals for the year was to use up products more than purchasing them, but it doesn't mean that I can't replace products once I'm done with them. There's a Sephora VIB Sale and there's a list of products on my wish list… It's during this time I think about treating myself with an item (or six?). See my top wish list items of makeup, skin care, and hair care and share what's on your wish list!</p> <a href="/articles/sephora-vib-spring-sale-2018-wishlist">[Read more]</a></div>,
 post: 
 	<div>
-	<img src="/images/sephoravibspringsalewishlist2018-preview.png" alt="Favorite Podcasts in March 2018" />
+	<img src="/images/sephoravibspringsalewishlist2018-preview.png" alt="Sephora VIB Spring Sale 2018 Wishlist" />
 		<br></br>
 	<p>Last year I tried a lot great new makeup and skincare brands with products that have become some of my holy grails. One of my goals for the year was to use up products more than purchasing them, but it doesn't mean that I can't replace products once I'm done with them. I am actually proud to say that I've not purchased ANY makeup or skincare products so far in 2018. And I have 4 products I've used up!</p>
 	<p>But now there's a Sephora VIB Sale and there's a list of products on my wish list… It's during this time I think about treating myself with an item (or six?).</p>

@@ -9,10 +9,11 @@ class PopularPosts extends Component {
 				<h3>Popular Posts</h3>
 				<nav>
 					<ul>
-						<a href="/articles/favorite-podcasts-in-march-2018"><img src="/images/podcastsofmarch.png" alt="favorite-podcasts-in-march-2018" /></a>
+						<a href="/articles/podcasts-on-the-plane-barcelona-edition"><img src="/images/planepodcasts-preview.png" alt="podcasts-on-the-plane-barcelona-edition" /></a>
+						<a href="/articles/when-i-stopped-apologizing-for-needing-solitude"><img src="/images/solitude-preview.png" alt="when-i-stopped-apologizing-for-needing-solitude" /></a>
 						<a href="/articles/19-before-2019-a-goal-setting-challenge"><img src="/images/19before2019.png" alt="19-before-2019-a-goal-setting-challenge" /></a>
 						<a href="/articles/topics-to-normalize-in-2018-periods"><img src="/images/normalizedconvoperiods.png" alt="topics-to-normalize-in-2018-periods" /></a>
-						<a href="/articles/hopeful-for-in-2018"><img src="/images/hopefulfor2018.png" alt="hopeful-for-in-2018" /></a>
+						<a href="/articles/10-affordable-date-night-ideas-in-nyc"><img src="/images/affordabledatenight-preview.png" alt="10-affordable-date-night-ideas-in-nyc" /></a>
 						<a href="/articles/10-essential-tips-for-your-first-protest"><img src="/images/protest-preview.png" alt="10-essential-tips-for-your-first-protest" /></a>
 					</ul>
 				</nav>

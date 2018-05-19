@@ -9,8 +9,8 @@ class SocialForm extends Component {
             <a href="http://www.instagram.com/coffeemeetspolished/" target="_blank" rel="noopener noreferrer">
               <img className="instagram-icon" src="/images/instagram-icon.png" alt="instagram" />
             </a>
-            <a href="http://www.pinterest.com/coffeemeetspolished" target="_blank" rel="noopener noreferrer">
-              <img className="pinterest-icon" src="/images/pinterest-icon.png" alt="pinterest" />
+            <a href="https://twitter.com/coffeeMpolished" target="_blank" rel="noopener noreferrer">
+              <img className="twitter-icon" src="/images/twitter-icon.png" alt="twitter" />
             </a>
             <a href="http://www.bloglovin.com/@coffeemeetspolished" target="_blank" rel="noopener noreferrer">
               <img className="bloglovin-icon" src="/images/bloglovin-icon.png" alt="bloglovin" />
