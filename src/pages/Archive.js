@@ -5,7 +5,18 @@ class Archive extends Component {
     return(
         <section className="article">
         <h4><b>Coffee Meets Polished Archives</b></h4>
+          <p><b>MAY 2018</b></p>
+            <p className="tabbed"><a href="https://coffeemeetspolished.com/articles/plane-podcasts-barcelona-edition" rel="noopener noreferrer">Plane Podcasts: Barcelona Edition</a>
+              </p> 
+            <p className="tabbed"><a href="https://coffeemeetspolished.com/articles/thoughts-on-not-a-motherhood" rel="noopener noreferrer">Thoughts On Not-A-Motherhood</a>
+              </p> 
+            <p className="tabbed"><a href="https://coffeemeetspolished.com/articles/19-before-2019-april-goals-update" rel="noopener noreferrer">19 Before 2019: April Goals Update</a>
+              </p> 
+            <p className="tabbed"><a href="https://coffeemeetspolished.com/articles/when-i-stopped-apologizing-for-needing-solitude" rel="noopener noreferrer">When I Stopped Apologizing for Needing Solitude</a>
+              </p>             
           <p><b>APRIL 2018</b></p>
+            <p className="tabbed"><a href="https://coffeemeetspolished.com/articles/5-things-i-loved-in-april-2018" rel="noopener noreferrer">5 Things I Loved in April</a>
+              </p> 
             <p className="tabbed"><a href="https://coffeemeetspolished.com/articles/6-essential-ways-to-prepare-for-residency" rel="noopener noreferrer">6 Essential Ways to Prepare for Residency</a>
               </p>
             <p className="tabbed"><a href="https://coffeemeetspolished.com/articles/19-before-2019-first-quarter-update" rel="noopener noreferrer">19 Before 2019: First Quarter Update</a>
