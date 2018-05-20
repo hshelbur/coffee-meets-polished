@@ -10,6 +10,8 @@ class Archive extends Component {
               </p> 
             <p className="tabbed"><a href="https://coffeemeetspolished.com/articles/thoughts-on-not-a-motherhood" rel="noopener noreferrer">Thoughts On Not-A-Motherhood</a>
               </p> 
+            <p className="tabbed"><a href="https://coffeemeetspolished.com/articles/growing-up-asian-american-tag" rel="noopener noreferrer">Growing Up Asian American Tag</a>
+              </p>               
             <p className="tabbed"><a href="https://coffeemeetspolished.com/articles/19-before-2019-april-goals-update" rel="noopener noreferrer">19 Before 2019: April Goals Update</a>
               </p> 
             <p className="tabbed"><a href="https://coffeemeetspolished.com/articles/when-i-stopped-apologizing-for-needing-solitude" rel="noopener noreferrer">When I Stopped Apologizing for Needing Solitude</a>

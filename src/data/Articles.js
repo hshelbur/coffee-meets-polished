@@ -123,17 +123,94 @@ post:
 	</div>
 	},
 
+{id: "growing-up-asian-american-tag", title: <a href="/articles/growing-up-asian-american-tag">Growing Up Asian American Tag</a>, date: "May 10, 2018", category: "Activism", photo: "/images/growing-up-aa-tag-preview.png",  description: <div><p>May is <a target="_blank" rel="noopener noreferrer" href="https://asianpacificheritage.gov/">Asian Pacific American Heritage Month</a>, and for today's post I share about a large part of my identity: growing up Filipina American. This post was inspired by a YouTube channel I recently discovered, <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/user/shopvagabondyouth">Vagabond Youth</a>. The host Amy discusses everything from make up and fashion to perfectionism, insecurity, and podcasts(!). A few weeks ago she posted her video growing up as a Korean American and created a "Growing Up Asian American" Tag with set questions. It spoke so much to where I am now trying to bring the Asian part of my identity out from hibernation. Here are my responses to the tag! </p> <a href="/articles/growing-up-asian-american-tag">[Read more]</a></div>,
+post: 
+	<div>
+		<img src="/images/growing-up-aa-tag-preview.png" alt="Growing Up Asian American Tag" />
+		<br></br>
+	<p>May is Asian <a target="_blank" rel="noopener noreferrer" href="https://asianpacificheritage.gov/">Asian Pacific American Heritage Month</a>, and for today's post I share about a large part of my identity: growing up Filipina American. This post was inspired by a YouTube channel I recently discovered, <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/user/shopvagabondyouth">Vagabond Youth</a>. The host Amy discusses everything from make up and fashion to perfectionism, insecurity, and podcasts(!).</p>
+	<p>A few weeks ago she posted her video growing up as a Korean American and created a "Growing Up Asian American" Tag with set questions. It spoke so much to where I am now trying to bring the Asian part of my identity out from hibernation. Here are my responses to the tag!</p>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<p><b>1. Which ethnicity are you?</b></p>
+	<p className="tabbed">Filipina. Both of my parents were born and raised in the Philippines.</p>
+	<p><b>2. Which generation are you?</b></p>
+	<p className="tabbed">First generation. I was born in Puerto Rico (fact: this makes me a US citizen) after my parents moved there for my dad's PhD program.</p>
+	<p><b>3. What is the first experience where you felt that demarcation of being a minority/different?</b></p>
+	<p className="tabbed">I honestly don't remember the exact moment that I realized I was a minority/different. But I do remember being asked in elementary school if I was Chinese, Vietnamese, and many other nationalities. It was a rare thing when I was that young that they would guess the Philippines until I got older, and that usually was because they knew someone of the same ethnicity (this was always the follow-up comment).</p>
+	<p className="tabbed">But I would say I noticed I was different mostly when I would look at pictures with my friends growing up. This may sound silly, but I would always "forget" about my skin color until these points.</p>
+		<br></br>
+	<h4>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2DCGp2p">"What Are You?" How I’ve Been Asked About My Ethnicity?</a></b></h4>
+		<br></br>
+	<p><b>4. Were you always proud of your heritage or was there a time you rejected it?</b></p>
+	<p className="tabbed">I used to say things like "I don't see color" and I see now that was a form of rejection. I don't think that I would deliberately reject my heritage but I would also not actively continue it wherever I went. I don't really have any Filipino friends besides those I know from the community at home. I don't regularly cook Filipino food because I don't always get the ingredients sand it's usually not a quick fix meal.</p>
+		<br></br>
+	<h4>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2r7hlxE">Being "Not That" Asian</a></b></h4>
+		<br></br>
+	<p><b>5. What are some stereotypes that you struggle with?</b></p>
+	<p className="tabbed">As a whole, I don't think that the Philippines has as many stereotypes to "struggle" with. I mostly get people who are excited to guess my ethnicity correctly and then want to talk about <a target="_blank" rel="noopener noreferrer" href="https://en.wikipedia.org/wiki/Lumpia">lumpia</a>. Don't get me wrong, I love connect to people through food but that tends to be the pattern.</p>
+	<p className="tabbed">I will say that I generally get lumped into the overall Asian model minority stereotype. I have the benefit of people assuming I'm naturally smart, but then don't give credit to the fact that I really just have to work hard and my parents instilled discipline with my ambition.</p>
+	<p><b>6. Can you speak your language?</b></p>
+	<p className="tabbed">No, and now that I'm older I wish that I did. My parents didn't speak to us in Tagalog, then national language in the Philippines. They told my sister and I that it's because they learned Tagalog alongside English at the same time in school. Their native tongue is actually their dialects and they both speak different ones. So since we were in the US, they used English with us.</p>
+	<p><b>7. How has being Asian American affected your relationship with your parents?</b></p>
+	<p className="tabbed">Being the oldest child, I had a lot of occasions that the parenting styles of my friends mismatched my own parents. This affected me in the way that I felt comfortable asking for permission to go to friend's houses, dating, etc. Now that I'm older my parents have had a lot more experience and time evolving their identities to include more culture here in the USA.</p>
+	<p className="tabbed">I wouldn't say my relationship has been strained at all about my being Asian American. They seem pretty open-minded to my goals and values and mostly hope that I continue preserving the culture within our US family.</p>
+	<p><b>8. How do you feel about your heritage now? Do you identify with it?</b></p>
+	<p className="tabbed">I came to the realization recently that because my boyfriend is Caucasian, if we were to have children I would have to be very deliberate in maintaining Filipino culture. As I grow in my personal empowerment, I've been diving more deeply into my identity and heritage. I no longer thing in terms of "not seeing color" but rather seek to embrace this part of my identity. I am learning how much of my heritage has been hibernating since I left home and am not surrounded by Filipinos all the time like I was growing up.</p>
+	<p><b>9. What is your favorite thing about being Asian American/your heritage?</b></p>
+	<p className="tabbed">Identity and on a fun note, food! I love how food brings people together, and brings a sense of community. I love sharing my favorite dishes and seeing what others may enjoy and create memories.</p>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<p><b>See Amy's video from her channel here:</b></p>
+	<p><iframe width="560" height="315" src="https://www.youtube.com/embed/7Hl41EL6h4Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+		<br></br>
+	<p><b>Other tag videos I found here:</b></p>
+		<p className="tabbed">➢ <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=hZpe5q08c3s">Chelsea & Franz</a>, Filipino American and did the tag while eating Jollibee, a popular Filipino fast food restaurant.</p>
+		<p className="tabbed">➢ <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=2C-c8k_-PuM">Sandy Lin</a>, Chinese American</p>
+		<p className="tabbed">➢ <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=j1jJsP1U5Gg">Joan Kim</a>, Korean American</p>
+		<p className="tabbed">➢ <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=WwK90SWLcNs">Edward Avila</a>, Filipino American</p>
+		<p className="tabbed">➢ <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=sXk-lsDjl4U">Jenn Im</a>, Korean American</p>
+		<br></br>
+	<p><b>Ted Talk on Asian stereotypes in the US:</b></p>
+		<p className="tabbed">➢ <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=_pUtz75lNaw">I am not your Asian Stereotype</a></p>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+	<h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>YOU MIGHT ALSO LIKE:</h4>
+	<a className="three-up" href="/articles/being-not-that-asian">
+	    <img src="/images/notthatasian-preview.png" alt="being-not-that-asian" />
+	    <p className="centered">Being "Not That" Asian</p>
+	</a>
+	    <a className="three-up" href="/articles/how-ive-been-asked-about-my-ethnicity">
+	        <img src="/images/ethnicity.jpg" alt="how-ive-been-asked-about-my-ethnicity" />
+	        <p className="centered">"What Are You?" How I’ve Been Asked About My Ethnicity</p>
+	    </a>
+	    <a className="three-up" href="/articles/favorite-podcasts-in-february-2018">
+	        <img src="/images/podcastsoffebruary.png" alt="Favorite Podcasts of February 2018" />
+	        <p className="centered">Favorite Podcasts of February 2018</p>
+	    </a>
+	</div>
+	},
+	
 {id: "19-before-2019-april-goals-update", title: <a href="/articles/19-before-2019-april-goals-update">19 Before 2019: April Goals Update</a>, date: "May 7, 2018", category: "Life", photo: "/images/aprilgoalsupdate2018-preview.png",  description: <div><p>My <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2mCwVg9">19 Goals Before 2019</a> post has been the most page on this site so far. Because of that, I decided to keep you all updated each month with my progress to ensure they weren't just goals made on a whim and show you how I plan to accomplish them, step-by-step. If you're enjoying this kind of content, be sure to let me know in the comment section! </p> <a href="/articles/19-before-2019-april-goals-update">[Read more]</a></div>,
 post: 
 	<div>
 		<img src="/images/aprilgoalsupdate2018-preview.png" alt="April Goals Update" />
 	<p>So far this year, my <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2mCwVg9">19 Goals Before 2019</a> post has been the most popular one. Because of that, I decided to keep you all updated each month with my progress to ensure they weren't just goals made on a whim and show you how I plan to accomplish them, step-by-step.</p>
-		<p>You can find prior updates here:</p>
-	<p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2mCwVg9">19 Goals Before 2019</a></b></p>
-	<p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2ooOrpg">19 Goals Before 2019: January Update</a></b></p>
-	<p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2p7iIJh">19 Goals Before 2019: February Update</a></b></p>
-	<p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2vlqo0d">19 Goals Before 2019: First Quarter Reflections</a></b></p>
-		<p>If you're enjoying this kind of content, be sure to <b>let me know in the comment section below</b>! </p>
+	<p>You can find prior updates here:</p>
+		<p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2mCwVg9">19 Goals Before 2019</a></b></p>
+		<p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2ooOrpg">19 Goals Before 2019: January Update</a></b></p>
+		<p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2p7iIJh">19 Goals Before 2019: February Update</a></b></p>
+		<p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2vlqo0d">19 Goals Before 2019: First Quarter Reflections</a></b></p>
+	<p>If you're enjoying this kind of content, be sure to <b>let me know in the comment section below</b>! </p>
 	<h4>❖❖❖</h4>
 	<h4>personal.</h4>
 		<p>1. Run a 5K in Manhattan - <b>COMPLETE!</b></p>
