@@ -1,6 +1,126 @@
 import React from 'react';
 
 const ARTICLES = [
+{id: "what-you-dont-expect-when-youre-expecting", title: <a href="/articles/what-you-dont-expect-when-youre-expecting">What You Don't Expect When You're Expecting [GUEST POST]</a>, date: "May 25, 2018", category: "Wellness", photo: "/images/guestpost-ppd-preview.png",  description: <div><p>For Mental Health Awareness Month, Coffee Meets Polished is premiering its very first GUEST POST. It's incredibly humbling to be able to share the story of a new mother and her mental health journey with <b><a target="_blank" rel="noopener noreferrer" href="https://www.nimh.nih.gov/health/publications/postpartum-depression-facts/index.shtml">Postpartum Depression</a></b>. She shares her honest and raw thoughts of going through her first pregnancy, what came in the moments after giving birth, and great insight for new mothers and how your support structure can help. She also happens to be my little sister and I couldn't be more proud of her to share her journey with you all. </p> <a href="/articles/what-you-dont-expect-when-youre-expecting">[Read more]</a></div>,
+post: 
+	<div>
+		<img src="/images/guestpost-ppd-preview.png" alt="What you don't expect" />
+		<br></br>
+	<h4><b>I didn't cry.</b></h4>
+	<p>When you're expecting, you read A LOT of birth stories. Stories where new mamas have these amazing emotional experiences delivering their newborn baby. Being pregnant for the first time, I expected everything I read to happen to me. I wanted to feel overjoyed the second they placed my son on my chest. I wanted to smile wider than I ever have. I wanted that to be the happiest moment of my life at that time. But I didn't cry. I honestly felt no emotion. In that hour of skin-to-skin my hospital gave me immediately following delivery, I opened my heart and my mind, but no emotions came. Only thoughts.</p>
+	<h4><b>Am I enough?</b></h4>
+	<h4><b>How will I take care of this innocent child when I barely know how to take care of myself?</b></h4>
+	<h4><b>What have I gotten myself into?</b></h4>
+		<br></br>
+		<img src="/images/ZEKE PIC 1-1.jpg" alt="ZEKE PIC 1-1.jpg" />
+		<img src="/images/ZEKE PIC 1-2.jpg" alt="ZEKE PIC 1-2.jpg" />
+		<br></br>
+	<p>I stayed at the hospital for three days and two nights following delivery. Honestly, the whole stay was a blur, but one moment sticks out to me to this day. Around 2:30AM on the second night, my night nurse shook me awake because baby was crying. I didn't say it, but all I could think was, "can't you do it?" And then I remembered that was my responsibility now. That was MY baby - but I wanted nothing to do with him.</p>
+	<p><a target="_blank" rel="noopener noreferrer" href="https://www.nimh.nih.gov/health/publications/postpartum-depression-facts/index.shtml">Postpartum Depression</a>, or PPD, is no joke. They warn you about it at your pre-partum monthly check ups. But you know you're strong and something like that will never get to you - until it does. It hits you like a brick. You tell yourself that you can do this and fight it but instead are faced with deteriorating mental health due to PPD. It affects all women differently. Some women refuse to hold their baby. Some women isolate themselves from all their loved ones. Most women become anxious, have mood swings, and cry uncontrollably for long periods of time. I was the anxious one. I cried a lot. Luckily, for me it didn't last that long. For some women it lasts for a few months.</p>
+	<p>Five months later, I have a chunky baby boy that's already getting too heavy for me to carry. He is healthy and is sleeping. He's beginning to laugh and interact with us. Every smile that I see, every time he grabs my finger, every moment he's peacefully asleep reminds me that it was all worth it, that I can do this. I wouldn't have been able to get through it without the support from family and friends who were with me every step of the way. My son gives me purpose. He is a little ball of joy that I am blessed to wake up to in the morning and put to bed at night. I made it through.</p>
+		<br></br>
+		<img src="/images/ZEKE PIC 2-1.jpg" alt="ZEKE PIC 2-1.jpg" />
+		<img src="/images/ZEKE PIC 2-2.jpg" alt="ZEKE PIC 2-2.jpg" />
+		<img src="/images/ZEKE PIC 2-3.jpg" alt="ZEKE PIC 2-3.jpg" />
+		<br></br>
+	<h4><b>To the significant other:</b></h4>
+	<p>There is no way for you to understand what she is going through, and that is okay. Constantly remind her that you're there for her, even if you can't relate to the emotions. You must be the stability that she lacks in these times.</p>
+	<h4><b>To the friends and family:</b></h4> 
+	<p>Keep up with that mama that you know. She may isolate herself; it may seem like she cut you out of her life. Even the simplest reminder that you are still there for her can move miles.</p>
+	<h4><b>And last but not least, to the mamas:</b></h4>
+	<p>Don't worry, it WILL get better. It's okay to cry, it's okay to feel the way you do. But I urge you not to hold it in. Find at least one person you can trust with your feelings and vent to them. Just power through and even if you don't understand the cards you've been dealt, you will soon; and you are blessed.</p>
+		<br></br>
+		<img src="/images/ZEKE PIC 3.jpg" alt="ZEKE PIC 3.jpg" />
+		<br></br>
+	<p>Megan resides in Gainesville, FL (go Gators), is pursuing a degree in nursing and currently works as a medical lab assistant. In her free time she likes to play with her son, watch YouTube videos, practice make up, and nap - <b>but mostly nap</b>.</p> 
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+	<h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>YOU MIGHT ALSO LIKE:</h4>
+	<a className="three-up" href="/articles/hopeful-for-in-2018">
+	    <img src="/images/hopefulfor2018.png" alt="HopefulFor2018" />
+	    <p className="centered">Hopeful For in 2018</p>
+	    </a>
+	    <a className="three-up" href="/articles/highs-and-lows-of-2017">
+	        <img src="/images/highsof2017preview.png" alt="Highs and Lows of 2017" />
+	        <p className="centered">Highs and Lows of 2017</p>
+	    </a>
+	    <a className="three-up" href="/articles/5-things-i-loved-in-december-2017">
+	        <img src="/images/lovedindecember.png" alt="Things I Loved in December" />
+	        <p className="centered">5 Things I Loved in December</p>
+	    </a>
+	</div>
+	},
+
+{id: "biggest-myths-of-your-20s-to-unlearn", title: <a href="/articles/biggest-myths-of-your-20s-to-unlearn">Biggest Myths of Your 20's to Unlearn</a>, date: "May 22, 2018", category: "Opinion", photo: "/images/20smythstounlearn-preview.png",  description: <div><p>Today I enter the last year of my 20's. My 20's had a whole lot of changes and a lot of things that I thought were identity that turned out were toxic. I had a lot of burn out and growth, and now that I'm reaching the 29 I'm start to feel like the 30's are really going to be my prime. Not what you thought you'd hear from someone finishing her 20's? I'm here to bust some myths you may have heard about this decade of your life.</p> <a href="/articles/biggest-myths-of-your-20s-to-unlearn">[Read more]</a></div>,
+post: 
+	<div>
+		<img src="/images/20smythstounlearn-preview.png" alt="Biggest Myths of Your 20s to Unlearn" />
+		<br></br>
+	<p>Today I enter the last year of my 20's. My 20's had a whole lot of changes and a lot of things that I thought were identity that turned out were toxic. I had a lot of burn out and growth, and now that I'm reaching the 29 I'm start to feel like the 30's are really going to be my prime. Not what you thought you'd hear from someone finishing her 20's? I'm here to bust some myths you may have heard about this decade of your life.</p>
+		<br></br>
+	<p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2Ge6BkR">28 Things I Would Tell My Younger Self</a></b></p>
+		<br></br>
+	<h4><b>academic success translates to work/life success.</b></h4>
+	<p>While I believe we must practice lifelong, continuous learning, the 20's is when many of us will finish school if that is the path we chose. I happened to extend my classroom schooling until I was 28 years old because I followed the path to being a healthcare professional - specifically pharmacy. It meant 4 years of Undergraduate Degree, 4 years of Doctorate of Pharmacy, and 2 years of a Master's Degree in Health-System Pharmacy Administration.</p>
+	<p>This past year I finally had my first year outside of the classroom since I was in preschool. I felt so behind being in the "real world" for the first time. I'm still just learning about finances because I was mostly on loans for living expenses with a part-time job for personal expenses. I just started learning about picking insurance plans including health care plans despite being in the health care field. Honestly, I still don't know how to find a primary care doctor or a dentist and I desperately need both. </p>
+	<p>The lesson to unlearn here is that very little of what I learned in the classroom prepared me for the practical things in life. I spent so much of my time training and that I essentially that I feel that it delayed my "adulting". I have a LOT of knowledge in my career field but this doesn't automatically mean I know how to set myself up practically for a long life ahead of me.</p>
+	<br></br>
+	<h4><b>unless you do it in your 20's, you lose your chance.</b></h4>
+	<p>I don't exactly know from direct experience whether this is actually a myth since I'm still technically in my 20's. However I'm basing this on fact that I'm turning 29 and feel like my life is just starting. The biggest piece of advice I would say is to take every fork in the road, whether it's in your 20's or later, with a strategic mindset and have an idea of your long term goals. While the chance may not come again in the exact way as originally presented I do believe that there is more than one path to the same place. And by the time the chance presents itself differently, you may be in a different place.</p>
+		<br></br>
+	<p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2FpaJ09">When Graduations End</a></b></p>
+		<br></br>
+	<h4><b>you're supposed "settle down" by having a kids and owning a home.</b></h4>
+	<p>I haven't talked a lot about my past relationships, but I was in a relationship for 6 years that ended in the middle of pharmacy school. I was in my mid-20's when this happened and my family was worried I would be unmarried for the rest of my life, that it was too late to start a new relationship, and that I would end up alone. More on that later and my mentality towards that, but that turned out not to be true. I'm in a relationship now and unmarried without kids. It likely won't happen before I turn 30 because that would make age 29 quite a year. But I went from a relationship that I thought would be it since we were together for so long, to coming to terms with being alone and thriving through it before finding a much healthier relationship.</p>
+	<p>As far as owning a home, I actually do have a mortgage. It's disguised in the form of <b>student loans</b> and instead of a house I have a piece of paper with my name on it that allows me to practice as a licensed pharmacist. And instead of a house I live in a one-bedroom apartment in New York City (for rent). Loans suck, but I'm not feeling compelled to buy a house anytime soon.</p>
+	<p>One battle at a time.</p>
+		<br></br>
+	<h4><b>you're only going to make it if you have a high-paying job.</b></h4>
+	<p>I have a job that means I can live comfortably in New York City in my own apartment, but there were costs that came with it. The cost of time, the cost of debt, the cost of identity while training. What does it mean to "make it"? I'm almost 30 and I'm still figuring that out.</p>
+		<br></br>
+	<p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2HOB6OD">6 Essential Ways to Prepare for Residency</a></b></p>
+		<br></br>
+	<h4><b>it's when you figure everything out.</b></h4>
+	<p>I've learned that as you get older, you don't figure everything out. You just have more coping mechanisms to fake it better when you don't. You ideally gain the humility to ask for help when you don't know something. You understand the synergistic value of working collaborati And on the other end of the spectrum, what you DO figure more out is who you are. Your 20's test so much of your identity because you have more awareness of the world around you since now it's affecting you directly.</p>
+		<br></br>
+	<p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2DSs1FK">10 Things I Would Tell My College Self</a></b></p>
+		<br></br>
+	<h4><b>your life is over at age 30.</b></h4>
+	<p>Have I debunked this with the prior answers yet? Society has you internalize (mostly women) that life is over at age 30. But in reality your thirties is MID-LIFE for many of us! My life personally is just beginning. I have a new job in a new city, a relationship with a great partner, and I'm free of school.</p>
+	<p>I can't wait for my 30's! But for now, I'll soak in 29 one day at a time.</p>
+		<br></br>
+			<img src="/images/29thbirthday.jpg" alt="29th Birthday Dessert" />
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+	<h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>YOU MIGHT ALSO LIKE:</h4>
+	    <a className="three-up" href="/articles/how-to-set-smart-goals-for-yourself">
+	        <img src="/images/goals-preview.png" alt="Setting SMART goals" />
+	        <p className="centered">How to Set Smart Goals for Yourself</p>
+	    </a>
+	    <a className="three-up" href="/articles/10-tips-for-orienting-yourself-to-a-new-job">
+	        <img src="/images/orienting-yourself.jpg" alt="first day of work" />
+	        <p className="centered">10 Tips for Orienting Yourself to a New Job</p>
+	    </a>
+	    <a className="three-up" href="/articles/28-things-i-would-tell-my-younger-self">
+	        <img src="/images/kindness.jpg" alt="28 Things I Would Tell My Younger Self" />
+	        <p className="centered">28 Things I Would Tell My Younger Self</p>
+	    </a>
+	</div>
+	},
+
 {id: "plane-podcasts-barcelona-edition", title: <a href="/articles/plane-podcasts-barcelona-edition">Plane Podcasts: Barcelona Edition</a>, date: "May 17, 2018", category: "Life", photo: "/images/planepodcasts-preview.png",  description: <div><p>I recently had vacation in Barcelona, Spain and my flight consisted mostly of listening to podcasts! If you've been following me for a while on this site, Twitter, or Instagram you know that podcasts are my thing. On Instagram Stories I share a lot of what I'm currently listening to and more immediate recommendations. Here, I share my monthly faves. Since I had marathon listening sessions on my 9-hour flights I thought I'd try something a little different and give you a run-down of all of them and how I rate them. </p> <a href="/articles/plane-podcasts-barcelona-edition">[Read more]</a></div>,
 post: 
 	<div>
@@ -1609,7 +1729,8 @@ post:
 	        <p className="centered">How to Set Smart Goals for Yourself</p>
 	    </a>
 	</div>
-},
+	},
+
 
 {id: "highs-and-lows-of-2017", title: <a href="/articles/highs-and-lows-of-2017">Highs and Lows of 2017</a>, date: "January 1, 2018", category: "Life", photo: "/images/highsof2017preview.png",  description: <div>Some people say that things have to get worse before they get better. I always tell myself this when I clean. I have to remove everything from their original places to declutter, re-organize, and have a fresh start. The same went for my 2017 experience. Here are my top five and bottom five moments of the past year, starting with the lowest of the low so we can end on a high note. <a href="/articles/highs-and-lows-of-2017">[Read more]</a></div>, post:
 	<div>
