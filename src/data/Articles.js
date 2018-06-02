@@ -1,6 +1,180 @@
 import React from 'react';
 
 const ARTICLES = [
+{id: "19-before-2019-may-goals-update", title: <a href="/articles/19-before-2019-may-goals-update">19 Before 2019: May Goals Update</a>, date: "June 2, 2018", category: "Life", photo: "/images/maygoalsupdate2018-preview.png",  description: <div><p>My <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2mCwVg9">19 Goals Before 2019</a> post has been the most page on this site so far. Because of that, I decided to keep you all updated each month with my progress to ensure they weren't just goals made on a whim and show you how I plan to accomplish them, step-by-step. If you're enjoying this kind of content, be sure to let me know in the comment section! </p> <a href="/articles/19-before-2019-may-goals-update">[Read more]</a></div>,
+post: 
+	<div>
+		<img src="/images/maygoalsupdate2018-preview.png" alt="May Goals Update" />
+	<p>So far this year, my <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2mCwVg9">19 Goals Before 2019</a> post has been the most popular one. Because of that, I decided to keep you all updated each month with my progress to ensure they weren't just goals made on a whim and show you how I plan to accomplish them, step-by-step.</p>
+		<p>You can find prior updates here:</p>
+	<p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2mCwVg9">19 Goals Before 2019</a></b></p>
+	<p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2ooOrpg">19 Goals Before 2019: January Update</a></b></p>
+	<p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2p7iIJh">19 Goals Before 2019: February Update</a></b></p>
+	<p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2vlqo0d">19 Goals Before 2019: First Quarter Reflections</a></b></p>
+	<p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2rs9aJl">19 Goals Before 2019: April Update</a></b></p>
+	<p>If you're enjoying this kind of content, be sure to <b>let me know in the comment section below</b>! </p>
+	<h4>❖❖❖</h4>
+	<h4>personal.</h4>
+		<p>1. Run a 5K in Manhattan - <b>COMPLETE!</b></p>
+		<p className="tabbed">I proudly completed my first 5K without stopping to walk back in March, and have already signed up for my second race in June! My time for the 5K was 34:56 minutes at a 10:31 minute/mile pace. The race felt great, like I could have run faster, but my goal was to finish without walking and I'm really proud of myself for it. How I felt running during the race was proof that the training paid off. My race in July is for a 4-miler, and this will be the longest I've run since the 5K!</p>
+		<p>2. Travel out of the country twice - <b>IN PROGRESS</b></p>
+		<p className="tabbed">I went to Barcelona this month! As far as the second international trip, that's still being planned out but it will hopefully be during December.</p>
+		<p>3. Participate in a protest/march - <b>COMPLETE!</b></p>
+		<p className="tabbed"> <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2FVnQr0">Women's March</a>. 'Nuff said. ✓</p>
+		<p className="tabbed">[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2FVnQr0">Everything You Need To Know About The 2018 Women's March</a></b></p>
+		<p className="tabbed">In April, I also witnessed the March for Our Lives. I didn't walk in it, but instead made efforts to amplify the voices of those marching. I was live-tweeting protest signs and listened to the program at the start of the march. It was incredibly inspiring to hear stories of survivors and see how intersectional the protest truly was.</p>
+		<p className="tabbed">[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2FGFL55">10 Essential Tips For Your First Protest</a></b></p>
+		<p>4. Submit 10 essays/articles for websites - <b>IN PROGRESS</b></p>
+		<p className="tabbed">This month I'm officially changing this to "in progress"! I found a website that is accepting articles that I have two I would love to revamp for submissions. More to come!</p>
+		<p>5. Take a creative writing course - <b>NOT STARTED</b></p>
+		<p className="tabbed">Still not progress for this. Some options I could pursue are Lynda.com or even Coursera. Do you any of you readers have suggestions?</p>
+		<p>6. Learn how to curl hair with a curler - <b>IN PROGRESS</b></p>
+		<p className="tabbed">No change from last month. While I haven't purchased a curler, I stopped straightening or blowdrying for the past month and embracing the waves. I found that a lot of my resistance to curling was simply not being used to seeing my hair with more volume. But I'm learning about a whole new group of hair products I've never used before.</p>
+		<p>7. Pay more rent than student loan bill each month - <b>IN PROGRESS</b></p>
+		<p className="tabbed">Completed this one so far every month! Six more months to go… (and many more years).</p>
+		<p>8. Wear more lipstick - <b>IN PROGRESS</b></p>
+		<p className="tabbed">When I was looking through the goals at the middle of the month, I saw that I had dipped on this in April and realized I hadn't much in the first part of May either. This was likely because half of it was spent traveling and I go pretty minimal with makeup when I do. So I made conscious efforts for the second part of May and have loved adding the colors back with the new season. </p>
+		<p className="tabbed">[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2DdLdOM">Power of the Red Lip</a></b></p>
+		<p>9. Finish Project Pan 2018 (18 skin care/make up products) - <b>IN PROGRESS</b></p>
+		<p className="tabbed">I've now finished 3 products so far! If you're interested in me writing a post about what my 18 products are, leave me a comment below!</p>
+		<p>10. Explore all of the New York City boroughs - <b>IN PROGRESS</b></p>
+		<p className="tabbed"> Two boroughs down, no change from last month! I went to Brooklyn again mainly. Next month I may have some friends come to visit that will want to go to Queens. More to come!</p>
+		<p>11. Go to a cultural/activist event every month - <b>IN PROGRESS</b></p>
+		<p className="tabbed"><b>January: </b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2FVnQr0">Women's March</a></p>
+		<p className="tabbed"><b>February: </b><a target="_blank" rel="noopener noreferrer" href="https://pen.org/event/me-too-a-writers-reckoning/">PEN America's #MeToo: A Writer's Reckoning</a></p>
+		<p className="tabbed"><b>March: </b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2uF0lkb">Emma Gray's book event: A Girl's Guide to Joining the Resistance</a></p>
+		<p className="tabbed"><b>April:</b> Lots of events hosted by <a target="_blank" rel="noopener noreferrer" href="https://www.the-wing.com/">The Wing</a> including <a target="_blank" rel="noopener noreferrer" href="https://www.hulu.com/the-handmaids-tale">Handmaid's Tale</a> screening+panel and <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=xcD5uRVO2SE">Sweetbitter</a> screening + panel.</p>
+		<p className="tabbed"><b>May:</b> <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Make-Trouble-Standing-Speaking-Finding/dp/1501187597/">Cecile Richards Q&A + book signing</a>, <a target="_blank" rel="noopener noreferrer" href="http://candicekumai.com/">Candice Kumai</a> Matcha Masterclass + <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Kintsugi-Wellness-Japanese-Nourishing-Spirit/dp/0062669850/"> book signing</a>, <a target="_blank" rel="noopener noreferrer" href="http://www.minaazine.com/">MINAAZINE</a>: Muslim Women at Work Panel, Japanese Fan Painting, just to name a few. Thanks to <a target="_blank" rel="noopener noreferrer" href="https://www.the-wing.com/">The Wing</a> for hosting these!</p>
+	<h4>❖❖❖</h4>
+	<h4>coffee meets polished.</h4>
+		<p>12. Reach 500 followers on Instagram - <b>IN PROGRESS</b></p>
+		<p className="tabbed"><b>January:</b> 278 followers</p>
+		<p className="tabbed"><b>February:</b> 397 followers</p>
+		<p className="tabbed"><b>March:</b> 416 followers</p>
+		<p className="tabbed"><b>April:</b> 443 followers</p>
+		<p className="tabbed"><b>May:</b> 462 followers</p>
+		<p>13. Reach 100 MailChimp subscriptions - <b>IN PROGRESS</b></p>
+		<p className="tabbed">This one is a bit more difficult. I didn't gain any new subscribers as I have been focusing so much on social media. I know that this is something to have a stronger focus for in this next quarter.</p>
+		<p>14. Reach 500 followers of Twitter - <b>COMPLETE!</b></p>
+		<p className="tabbed">This goal is officially reached! This month, in a final birthday tweet push I was able to reach 500 the day before my birthday. Thank you all for your continued support!</p>
+		<p className="tabbed"><b>January:</b> 253 followers</p>
+		<p className="tabbed"><b>February:</b> 378 followers</p>
+		<p className="tabbed"><b>March:</b> 421 followers</p>
+		<p className="tabbed"><b>April:</b> 450 followers</p>
+		<p className="tabbed"><b>May:</b> 526 followers!!!</p>
+		<p>15. Start YouTube channel - <b>IN PROGRESS</b></p>
+		<p className="tabbed">April was an exciting month to rejuvenate this goal. YouTube was one of the <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2KwUgtX">Things I Loved in April</a> because I discovered so many new channels that showed me how much opportunity there is to be unique and individual on the platform. That couple with purchasing the camera to use for recording and editing software, I officially transition this month to <b>in progress</b>. </p>
+		<p>16. Create worksheets for reader downloads - <b>IN PROGRESS</b></p>
+		<p className="tabbed">I've finished one worksheet! If you want to check it out, <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2ByiGBn"> subscribe to Coffee Meets Polished</a>!</p>
+		<p>17. Finish draft for merchandise - <b>NOT STARTED</b></p>
+		<p className="tabbed">Nothing changed from so far. I have a list of ideas, but nothing in final draft stages yet.</p>
+		<p>18. Create a monthly challenge - <b>NOT STARTED</b></p>
+		<p className="tabbed">This goal is on hold so far as I focus on other components to Coffee Meets Polished.</p>
+		<p>19. Do a giveaway and/or collaboration - <b>NOT STARTED</b></p>
+		<p className="tabbed">I haven't done a giveaway or collaboration yet. However, coming in May will feature the first Coffee Meets Polished contributor essay! I can't wait to share it with you all.</p>
+		<p>Each month it's important to celebrate your progress and not get bogged down with how many more "in progress" and "not started" there are compared to "complete". Focus on <b>continuous improvement</b>. Our job is rarely completely finished, especially when it comes to our personal growth.</p>
+		<br></br>
+	<h4>How are your goals this year moving along? Share in the comments below.</h4>
+		<br></br>
+		<h4>❖❖❖</h4>
+		<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+	<h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>YOU MIGHT ALSO LIKE:</h4>
+		<a className="three-up" href="/articles/hopeful-for-in-2018">
+		    <img src="/images/hopefulfor2018.png" alt="HopefulFor2018" />
+		    <p className="centered">Hopeful For in 2018</p>
+	    </a>
+	    <a className="three-up" href="/articles/19-before-2019-first-quarter-update">
+	        <img src="/images/19before2019firstquarter-preview.png" alt="19 Before 2019: First Quarter Reflections" />
+	        <p className="centered">19 Before 2019: First Quarter Reflections</p>
+	    </a>
+	    <a className="three-up" href="/articles/19-before-2019-a-goal-setting-challenge">
+	        <img src="/images/19before2019.png" alt="19 Before 2019 Goals" />
+	        <p className="centered">19 Before 19: A Goal Setting Challenge</p>
+	    </a>
+	</div>
+	},
+
+{id: "5-things-i-loved-in-may-2018", title: <a href="/articles/5-things-i-loved-in-may-2018">5 Things I Loved in May</a>, date: "May 31, 2018", category: "Life", photo: "/images/5-things-i-loved-in-may-2018.png",  description: <div><p>May was a whirlwind of fun and it flew by. I traveled internationally, celebrated a birthday, had childhood friends visit, and published some of my proudest content here on Coffee Meets Polished. It was so hard to pick (once again), but here are the 5 things I loved! Leave a comment below with some things you loved in May, I would be excited to know!</p> <a href="/articles/5-things-i-loved-in-may-2018">[Read more]</a></div>,
+post: 
+	<div>
+		<img src="/images/5-things-i-loved-in-may-2018.png" alt="5 Things I Loved in May" />
+		<br></br>
+	<p>May was a whirlwind of fun and it flew by. I traveled internationally, celebrated a birthday, had childhood friends visit, and published some of my proudest content here on Coffee Meets Polished. It was so hard to pick (once again), but here are the 5 things I loved! Leave a comment below with some things you loved in May, I would be excited to know!</p>
+		<br></br>
+	<p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2KwUgtX">5 Things I Loved in April</a></b></p>
+		<br></br>
+	<h4><b>mom.</b></h4>
+	<p><img src="/images/mom.jpg" alt="Mothers Day" /></p>
+		<br></br>
+	<p>Mother's Day is always a great time to honor and remember everything your mother did to raise you and instill her legacy within you. This was also my little sister's very first Mother's Day and it made me sad not to be in the same place to celebrate with both of them! Grateful for technology to at least see their faces.</p>
+		<br></br>
+	<p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2INakL4">What You Don't Expect When You're Expecting [GUEST POST]</a></b></p>
+		<br></br>
+	<p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2KyhM96">Thoughts on Not-A-Motherhood</a></b></p>
+		<br></br>
+	<h4><b>barcelona.</b></h4>
+	<p><img src="/images/barcelona.jpg" alt="Barcelona" /></p>
+		<br></br>
+	<p>One of my <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2mCwVg9">19 Before 2019 goals</a> this year was to travel out of the country twice, and this month I reached 50% completion going to beautiful <b>Barcelona</b>! I was there with my boyfriend for a whole week and didn't leave the city, so we really got to immerse and sometimes even run out of things to do. But all of the ups and downs in activity levels made for a well-rounded experience and we were quite well-rested by the time we got back (besides the jetlag). We did some "typical" touristy things but also lots of non-scheduled meandering throughout the city. It helped to already have city legs living here in NYC and the weather was beautiful for being outside as much as possible. I'm definitely still on this travel high and already looking for the next country to explore.</p>
+	<p>Where have you traveled so far this year, or even planning to go? Share them in the comments below!</p>
+		<br></br>
+	<p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2IwjLya">Plane Podcasts: Barcelona Edition</a></b></p>
+		<br></br>
+	<p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2rs9aJl">19 Before 2019: April Goals Update</a></b></p>
+		<br></br>
+	<h4>heritage.</h4>
+	<p><img src="/images/heritage.jpg" alt="Heritage" /></p>
+		<br></br>
+	<p>May was Asian Pacific American Heritage Month and it was also a month I realized how much I need to actively maintain this part of my identity if it is to live on in the next generations of my family. Being in a mixed race relationship, the only way for it to live on is through my teaching of my heritage to my partner and actively incorporating it into my every day life. Some steps I plan to take include learning how to make some Filipino dishes to make at home. We've been able to eat at restaurants and my family will cook the dishes when we visit, but I personally don't know how to make any. One step at a time!</p>
+		<br></br>
+	<p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2r7hlxE">Being "Not That" Asian</a></b></p>
+		<br></br>
+	<p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2s2wcqK">Growing Up Asian American Tag</a></b></p>
+		<br></br>
+	<h4><b>friendship.</b></h4>
+	<p><img src="/images/friendship.jpg" alt="Friendship" /></p>
+		<br></br>
+	<p>Having friends come to visit is always great! And it's even better when it's to visit a city that's filled with fun things to do. I spent the Memorial Day weekend with a friend I've known since high school and her boyfriend. It was quite the action-packed weekend with happy hours, brunch, comedy show, Broadway play, and lots of good food. We even got to sneak in some amazing nighttime city views from the 30 Rock!</p>
+		<br></br>
+	<p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2Fer8V8">How to be Friends with Women</a></b></p>
+		<br></br>
+	<h4><b>getting older.</b></h4>
+	<p><img src="/images/gettingolder.jpg" alt="Getting Older" /></p>
+		<br></br>
+	<p>May is my birthday month! This year I turned 29, which is makes me that much close to 30. I'm actually excited to reach my 30's. Not to say that I want to speed up time, I'm pretty happy being the present. What I mean to say is I'm not afraid to age anymore. My 20's were challenging and just as confusing - if not more so - than my teenage years. There was so much self-doubt, burnout, toxic relationships, that now that I'm reaching the end of the decade I feel so much more empowered after figuring out exactly who I am. And now that I'm here, I'm ready to empower others.</p>
+		<br></br>
+	<p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2GSZmhb">Biggest Myths of Your 20's to Unlearn</a></b></p>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+	<h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>YOU MIGHT ALSO LIKE:</h4>
+		<a className="three-up" href="/articles/biggest-myths-of-your-20s-to-unlearn">
+		    <img src="/images/20smythstounlearn-preview.png" alt="Biggest Myths of Your 20's to Unlearn" />
+		    <p className="centered">Biggest Myths of Your 20's to Unlearn</p>
+		</a>
+	    <a className="three-up" href="/articles/growing-up-asian-american-tag">
+	        <img src="/images/growing-up-aa-tag-preview.png" alt="Growing Up Asian American Tag" />
+	        <p className="centered">Growing Up Asian American Tag</p>
+	    </a>
+	    <a className="three-up" href="/articles/what-you-dont-expect-when-youre-expecting">
+	        <img src="/images/guestpost-ppd-preview.png" alt="What You Don't Expect When You're Expecting" />
+	        <p className="centered">What You Don't Expect When You're Expecting [GUEST POST]</p>
+	    </a>
+	</div>
+	},
+
 {id: "what-you-dont-expect-when-youre-expecting", title: <a href="/articles/what-you-dont-expect-when-youre-expecting">What You Don't Expect When You're Expecting [GUEST POST]</a>, date: "May 25, 2018", category: "Wellness", photo: "/images/guestpost-ppd-preview.png",  description: <div><p>For Mental Health Awareness Month, Coffee Meets Polished is premiering its very first GUEST POST. It's incredibly humbling to be able to share the story of a new mother and her mental health journey with <b><a target="_blank" rel="noopener noreferrer" href="https://www.nimh.nih.gov/health/publications/postpartum-depression-facts/index.shtml">Postpartum Depression</a></b>. She shares her honest and raw thoughts of going through her first pregnancy, what came in the moments after giving birth, and great insight for new mothers and how your support structure can help. She also happens to be my little sister and I couldn't be more proud of her to share her journey with you all. </p> <a href="/articles/what-you-dont-expect-when-youre-expecting">[Read more]</a></div>,
 post: 
 	<div>
@@ -284,7 +458,7 @@ post:
 	<h4>❖❖❖</h4>
 		<br></br>
 	<p><b>See Amy's video from her channel here:</b></p>
-	<p><iframe width="560" height="315" src="https://www.youtube.com/embed/7Hl41EL6h4Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+	<p><iframe title="Growing Up Asian American Tag" width="560" height="315" src="https://www.youtube.com/embed/7Hl41EL6h4Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 		<br></br>
 	<p><b>Other tag videos I found here:</b></p>
 		<p className="tabbed">➢ <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=hZpe5q08c3s">Chelsea & Franz</a>, Filipino American and did the tag while eating Jollibee, a popular Filipino fast food restaurant.</p>
@@ -643,11 +817,11 @@ post:
 	<p>But now there's a Sephora VIB Sale and there's a list of products on my wish list… It's during this time I think about treating myself with an item (or six?).</p>
 	<p>Before I get started on my wish list, here are the details of the sale:</p>
 	<p><b>VIB ROUGE DATES:</b></p>
-	<p className="tabbed">APRIL 13TH - APRIL 16TH AND APRIL 20th - APRIL 23rd: 15% Off ➡️use code: YAYROUGE (April 13th for one day you can bring a friend and extend your rouge discount)</p>
+	<p className="tabbed">APRIL 13TH - APRIL 16TH AND APRIL 20th - APRIL 23rd: 15% Off <span>➡</span>️use code: YAYROUGE (April 13th for one day you can bring a friend and extend your rouge discount)</p>
 	<p><b>VIB DATES:</b></p>
-	<p className="tabbed">APRIL 20th - APRIL 23rd: 15% Off ➡️use code: YAYVIB</p>
+	<p className="tabbed">APRIL 20th - APRIL 23rd: 15% Off <span>➡</span>use code: YAYVIB</p>
 	<p><b>BeautyInsider DATES:</b></p>
-	<p className="tabbed">APRIL 20th - APRIL 23rd: 10% Off ➡️use code: YAYINSIDER</p>
+	<p className="tabbed">APRIL 20th - APRIL 23rd: 10% Off <span>➡</span>use code: YAYINSIDER</p>
 	<p>The products on my wish list for the Sephora sale are divided into makeup, skin care, and hair care. Have you used any of these products below? If so, please share with me any of your thoughts in the comment section!</p>
 	<h4><b>makeup.</b></h4>
 	<p>I'm pretty happy with the makeup products I have now. When I moved from North Carolina to New York City last summer, I did a huge de-clutter knowing that I wouldn't have much space to house a big collection. The process required me to only keep products that I truly enjoyed and use. That being said, I always am up for a fun new lip color, and need to replace high-use products (foundation, mascara, brow pencils, etc.) every few months.</p>
@@ -1114,7 +1288,7 @@ post:
 	<p className="centered"><iframe width="100%" height="205"  src="https://www.npr.org/player/embed/581961666/585599882" scrolling="no" frameborder="0" allowfullscreen title="NPR embedded audio player"></iframe></p>
 		<br></br>
 	<p><b><a target="_blank" rel="noopener noreferrer" href="https://soundcloud.com/ladies-who-lunch">Ladies Who Lunch</a>, Our Obsession with Celebrity</b>: "This week, we're talking about celebrities and the desire to know all about them. Why do we, as a culture, value fame over almost everything else? The celebrity serves as both an object of worship and of disgust, and all of this falls into the arc of fame. Thanks to social media platforms, it’s easier than ever for people to gain fame. A large amount of followers can launch someone into stardom with little effort, sometimes even by accident! Just as quickly, celebrities can disappear from the limelight for a multitude of reasons. Fame has become a quickly changing facet of our culture because we have so many ways to connect with the world. We also answer a letter from a listener who is worried her fangirling might cross the line into obsession."</p>
-	<p className="centered"><iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/395185941&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe></p>
+	<p className="centered"><iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/395185941&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true" title="Player"></iframe></p>
 		<br></br>
 	<p><b><a target="_blank" rel="noopener noreferrer" href="https://www.stuffmomnevertoldyou.com/podcasts">Stuff Mom Never Told You</a>, Can A Marriage Be Feminist?</b>: "Newly-engaged E and marriage-agnostic B sit down with writer Jill Fillipovic to find out if there’s such a thing as a feminist marriage."</p>
 	<p className="centered"><iframe width="100%" height="300" src="http://www.howstuffworks.com/embed/929996" scrolling="no" frameborder="0" allowfullscreen title="Trade"></iframe></p>
@@ -1396,7 +1570,7 @@ post:
 	<p><b><a target="_blank" rel="noopener noreferrer" href="https://soundcloud.com/ladies-who-lunch">Ladies Who Lunch</a></b>: This channel recently had a return after some time without publishing episodes and I'm all for it. One of the episodes in January was around "non-romantic rejection". When I saw the title, I wasn't sure what it was about but when I read the description found it extremely relatable and grateful that it was being discussed. The description is:</p>
 	<p>"Our friend Chris Klemens joins us this week to talk about rejection. Being involuntary forced to leave a job or professional relationship can swirl you into a downpour of emotion: embarrassment, depression, worthlessness, self-pity and shame. As someone who recently got fired, Chris gives us insight into how that feeling of failure affected his self-worth. Cat unexpectedly reached the end of a professional relationship, and her confidence took a massive hit. Your identity is deeply embedded with what you do, so how does being rejected affect your relationship to vulnerability in your life?"</p>
 		<br></br>
-	<p className="centered"><iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/387718175&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe></p>
+	<p className="centered"><iframe title="Soundcloud Player" width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/387718175&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe></p>
 		<br></br>
 	<p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2DGQ4nX">10 Tips for Orienting Yourself to a New Job</a></b></p>
 		<br></br>
@@ -1486,7 +1660,7 @@ post:
 	<div>
 	<img src="/images/womens-march-2018-preview.png" alt="2018 Womens March" />
 	<p>I try not to have regrets, but one last year was definitely not participating in the Women's March. Oh, how I wish I could be part of the millions who marched in their pussy hats and scream, "This is what democracy looks like!" Looking at the pictures, published magazines and books, and hearing stories from others I experience some serious FOMO especially with the level of empowerment I feel now. Last year, I don't know how I didn't participate but the only excuse I have is the same one that caused me to black out from the world around me: residency.</p>
-	<p>But it's a new day, a new year, and now I live in New York City where the <a target="_blank" rel="noopener noreferrer" href="https://www.eventbrite.com/e/2018-womens-march-on-nyc-tickets-39150171216" rel="noopener noreferrer">2018 Women's March NYC</a> already has over 85,000 registered marchers as of yesterday.</p>
+	<p>But it's a new day, a new year, and now I live in New York City where the <a target="_blank" rel="noopener noreferrer" href="https://www.eventbrite.com/e/2018-womens-march-on-nyc-tickets-39150171216">2018 Women's March NYC</a> already has over 85,000 registered marchers as of yesterday.</p>
 	<br></br>
 	<h4><b>I'm one of them.</b></h4>
 	<br></br>
@@ -1521,7 +1695,7 @@ post:
 		<br></br>
 		<h4>❖❖❖</h4>
 		<br></br>
-		<h4>Like what you read?  Never miss an article and ☞ <a target="_blank" href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<h4>Like what you read?  Never miss an article and ☞ <a target="_blank" rel="noopener noreferrer" href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06">SUBSCRIBE</a>!</h4>
 		<br></br>
 		<h4>YOU MIGHT ALSO LIKE:</h4>
 		    <a className="three-up" href="/articles/my-family-planning-journey">
@@ -2000,7 +2174,7 @@ post:
 <img src="/images/magicflute.jpg" alt="Magic Flute" />
 <p>It takes a little bit more research and savvy to affordably quench my thirst for classical arts. There are pay-as-you-wish museum entries here and there, and free orchestral performances all the time. The operas and musicals are a bit more scarce for deals that fit my financial limitations. The Metropolitan Opera had a deal for Magic Flute that my boyfriend jumped on! We got a private balcony spot at a discount because of obstructed views, but you can see that we were able to see just fine. It was a great, affordable, classy date night. Just watch out for the uber expensive service fees upon ticket purchase.</p>
 <h4><b>margaret mead film festival.</b></h4>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2yrOcxyd2Eo" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe title="Gulistan, Land of Roses" width="560" height="315" src="https://www.youtube.com/embed/2yrOcxyd2Eo" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 <p>One of my boyfriend’s hometown friends is now in the City studying film and let us know about this event which was conveniently walking distance from our house. The <a href="https://www.amnh.org/explore/margaret-mead-film-festival" target="_blank" rel="noopener noreferrer">Margaret Mead Film Festival</a> is hosted each year to “increase our understanding of the complexity and diversity of the peoples and cultures that populate our planet.” Upon researching the films, Gulîstan, Land of Roses stood out. The description states, “In the mountains of Kurdistan, an all-female military regiment works to keep its territory safe from ISIS.” It was an inspiring documentary about strong women, and what was even more significant was the discussion afterwards with the director. She was able to provide us with even more context with the women featured and updates on their lives now. I’m so excited to check out more of these next year. </p>
 <h4><b>fidi exploration.</b></h4>
 <img src="/images/oneworldtrade.jpg" alt="One World Trade" />
@@ -2012,7 +2186,7 @@ post:
 ➢ Min Jin Lee, whose historic novel <b>Pachinko</b> is also a finalist for the 2017 National Book Award<br></br>
 ➢ Morgan Jerkins, whose essay collection <b>This Will be My Undoing</b> comes out in January 2018<br></br>
 ➢ Sanhita Mukhopadhyay (Moderator), co-editor of <b>Nasty Women: Feminism, Resistance and Revolution in Trump’s America</b></p>
-<p><iframe width="560" height="315" src="https://www.youtube.com/embed/6_uDLeRN8-s" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></p>
+<p><iframe title="PEN Out Loud: Reclaiming Our Time" width="560" height="315" src="https://www.youtube.com/embed/6_uDLeRN8-s" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></p>
 	<br></br>
 	<h4>❖❖❖</h4>
 	<br></br>
@@ -2023,7 +2197,7 @@ post:
 
 {id: "nyc-holiday-microadventures-macys-thanksgiving-day-parade-2017", title: <a href="/articles/nyc-holiday-microadventures-macys-thanksgiving-day-parade-2017">NYC Holiday Microadventures: Macy’s Thanksgiving Day Parade</a>, date: "December 4, 2017", category: "Life", photo: "/images/macysparade.jpg",  description: <div>This year was my first Thanksgiving in New York City. I mentioned in one of the things I loved in November that step ladders were the way to go for viewing. I was able to get a lot of <a href="https://www.youtube.com/watch?v=-O3aThlPpRQ&t=6s" target="_blank" rel="noopener noreferrer">good shots</a> of the balloons, and saw Jimmy Fallon! In today’s post you’ll find a video collage of the pics and videos I took, things I learned, what I would/wouldn’t do again, and other random thoughts about the event. Of note, these are if you plan to view in the along Central Park West before Columbus Circle. <a href="/articles/nyc-holiday-microadventures-macys-thanksgiving-day-parade-2017">[Read More]</a></div>, post:
 <div>
-<p><iframe width="560" height="315" src="https://www.youtube.com/embed/-O3aThlPpRQ" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe title="Macy's Thanksgiving Day Parade" width="560" height="315" src="https://www.youtube.com/embed/-O3aThlPpRQ" frameborder="0" allowfullscreen></iframe></p>
 <p>This year was my first Thanksgiving in New York City. I mentioned in one of the <a href="https://coffeemeetspolished.com/articles/5-things-i-loved-in-november-2017" target="_blank" rel="noopener noreferrer">things I loved in November</a> that step ladders were the way to go for viewing. I was able to get a lot of good shots of the balloons, and saw Jimmy Fallon! Below you’ll find my timeline, things I learned, what I would/wouldn’t do again, and other random thoughts about the event. Of note, these are if you plan to view in the along Central Park West before Columbus Circle.</p>
 <p className="tabbed">➢I woke up ~7AM, layered up (temperature was in the low 40’s Fahrenheit) and arrived to Central Park West at 7:45AM. By this time the street was about 10 rows deep of people and I subsequently went back home to grab the step ladder. Mine was one of three ladders out that day.</p>
 <p className="tabbed">➢If you’re going to bring a ladder, make sure you go up against a wall or building so the people behind you can see around you.</p>
@@ -2047,7 +2221,7 @@ post:
 <img src="/images/whoaidsday.jpg" alt="WHO AIDS Day" />
 <p>Disclaimer: Information in this post has been reproduced in part from the World Health Organization (WHO) <a href="http://www.who.int/campaigns/aids-day/2017/en/" target="_blank" rel="noopener noreferrer">website</a> and Centers for Disease Control and Prevention (CDC) <a href="https://www.cdc.gov/hiv/default.html" target="_blank" rel="noopener noreferrer">website</a> in order to provide the most accurate information as possible. For full details, please see their website directly.</p>
 <p>Those diagnosed with HIV/AIDS live longer and healthier lives thanks to the advancement of and access to antiretroviral therapy (ART). ART also has been shown to prevent onward transmission of HIV. The World Health Organization uses the slogan “Everybody counts,” to advocate for access to safe, effective, quality and affordable HIV services, medicines, and diagnostics for all people who needs them.</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eoqYd39wkZs" frameborder="0" allowfullscreen></iframe>
+<iframe title="President Barack Obama on the Fight Against AIDS" width="560" height="315" src="https://www.youtube.com/embed/eoqYd39wkZs" frameborder="0" allowfullscreen></iframe>
 <h4><b>facts to know.</b></h4> 
 <p>➢There is no cure for HIV infection. However, effective antiretroviral (ARV) drugs can control the virus and help prevent transmission so that people with HIV, and those at substantial risk, can enjoy healthy, long and productive lives.</p>
 <p>➢There were 36.7 million people living with HIV at the end of 2016.</p>
