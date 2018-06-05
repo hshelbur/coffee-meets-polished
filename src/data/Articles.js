@@ -1,6 +1,106 @@
 import React from 'react';
 
 const ARTICLES = [
+{id: "new-podcast-discoveries-female-hosts", title: <a href="/articles/new-podcast-discoveries-female-hosts">New Podcast Discoveries: Female Hosts</a>, date: "June 4, 2018", category: "Activism", photo: "/images/newpodcastdiscoveriesfemalehosts-preview.png",  description: <div><p>May was a month of discovery when it came to podcasts. I discovered so many new shows that are quickly becoming some of my favorites and most of them have female hosts! The best part is that each of them are so incredibly different and I love how they highlight nuances of the female experience. Check out my lanew-podcast-discoveries-female-hosts favorite discoveries! </p> <a href="/articles/test">[Read more]</a></div>,
+post: 
+	<div>
+		<img src="/images/newpodcastdiscoveriesfemalehosts.jpg" alt="New Podcast Discoveries: Female Hosts" />
+<br></br>
+<p>Each month I like to share a roundup of some of my favorites. Most recently I shared all of the podcasts I listened to on <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2IwjLya">two 9-hour flights to and from Barcelona</a>, it was quite the marathon! May was a month of discovery when it came to podcasts. I discovered so many new shows that are quickly becoming some of my favorites and most of them have female hosts! The best part is that each of them are so incredibly different and I love how they highlight nuances of the female experience. Check out my latest favorite discoveries!</p>
+<br></br>
+<h4>❖❖❖</h4>
+<br></br>
+<h4><b><a target="_blank" rel="noopener noreferrer" href="https://itunes.apple.com/us/podcast/the-creative-exchange/id1341109677?mt=2">The Creative Exchange</a></b></h4>
+<a target="_blank" rel="noopener noreferrer" href="https://itunes.apple.com/us/podcast/the-creative-exchange/id1341109677?mt=2">
+		<img className="portrait" src="/images/thecreativeexchangepodcast.jpg" alt="The Creative Exchange Podcast" />
+	    </a>
+<br></br>
+<p>"On this podcast you will find candid conversations with the best artists and business professionals in the world. More information and content from the podcast can be found on Sara Dietschy's <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/user/saradietschy">YouTube channel</a>, <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/saradietschy">Twitter</a> & <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/saradietschy/">Instagram</a> (@SaraDietschy)</p>
+<p>I've been part of Sara's <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/explore/tags/peachyfam/">#peachyfam</a> for a while now and am a huge fan. She is a woman on a mission to promote creators and with her Creative Exchange series (also on <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/user/creativespacesTV">YouTube</a>) she does just that. It's awesome to see how diverse a guest list she brings along for really deep, interesting conversations. I learn something new with every episode! Her <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/user/saradietschy">YouTube channel</a> is also pretty awesome. Make sure you check it out!</p>
+<br></br>
+<h4>❖❖❖</h4>
+<br></br>
+<h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.asianbossgirl.com/">Asian Boss Girl</a></b></h4>
+<a target="_blank" rel="noopener noreferrer" href="https://www.asianbossgirl.com/">
+		<img className="portrait" src="/images/asianbossgirlpodcast.jpg" alt="Asian Boss Girl Podcast" />
+	    </a>
+<br></br>
+<p>"A podcast for the modern day Asian American woman hosted by Melody Cheng, Helen Wu, and Janet Wang. We started this podcast as an outlet for topics we are interested in, and for sharing stories we have as 20-30 something yr. old Asian American women working, dating, and living in Los Angeles."</p>
+<p>I discovered this thanks to Apple's recommendation during Asian Pacific American Heritage Month, and have been hooked ever since. They're currently between seasons but are staying really active on their <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/asianbossgirl/">Instagram Stories</a> still to give fun behind-the-scenes of their lives until next season starts. What I love about this podcast is the discussions about their Asian American identities. They talk about everything from being raised by Asian parents to dating, and as a Filipina American I find the topics extremely relatable.</p>
+<br></br>
+<h4>❖❖❖</h4>
+<br></br>
+<h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.theconfusedmillennial.com/podcast/">The Confused Millennial</a></b></h4>
+<a target="_blank" rel="noopener noreferrer" href="https://www.theconfusedmillennial.com/podcast/">
+		<img className="portrait" src="/images/theconfusedmillennialpodcast.jpg" alt="The Confused Millennial Podcast" />
+		</a>
+<br></br>
+<p>"Hosts Rachel Ritlop and Eric Dresdale share their experiences, advice, and wisdom as they've navigated their twenties and thirties. The podcast is for all confused millennials who are looking to embrace who they are while navigating this whole #adulting thing. Topics include career, entrepreneurship, self-care, finances, spirituality, and so much more."</p>
+<p>I started following Rachel on <a target="_blank" rel="noopener noreferrer" href="https://www.theconfusedmillennial.com/">The Confused Millenial</a> at least a year ago and her blog is amazing. Its content is important, high value, and honest. And the aesthetic is gorgeous. When she announced she would be starting a podcast I knew it would be just as great. After listening to the episodes, it's actually even better. Her content is deep, but the audio experience goes even deeper into topics she's discussed previously in her blog and also with her guests.</p>
+<br></br>
+<h4>❖❖❖</h4>
+<br></br>
+<h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.wildcozytruth.com/essays">Wild Cozy Truth with Renee M. Powers</a></b></h4>
+<a target="_blank" rel="noopener noreferrer" href="https://www.wildcozytruth.com/essays">
+		<img className="portrait" src="/images/wildcozytruthpodcast.jpg" alt="Wild Cozy Truth Podcast" />
+		</a>
+<br></br>
+<p>"A podcast for smart millennial women who are skeptical of the traditional personal development space. As a feminist life coach, I believe every woman has their truth to tell and together we’ll find strength in sharing and listening to them. Each week, I’ll share what’s on my mind in the form of a personal essay, often taken directly from the pages of my journal, then we’ll hear from the guest of the week. These guests bravely step up to the microphone for an interview to embody the core values of Wild Cozy Truth: that there is strength in vulnerability, courage in using your voice, power in community, and that authenticity is always the best policy."</p>
+<p>This may sound silly, but I feel like Renee and I could be coffee buddies if we lived in the same area. The content she shares in her essays are similar to my thought patterns, and her conversations with guests are spectacular and engaging. She brings in guests with diverse backgrounds who also have their own platforms so it's a great synergistic promotion while also digging deep into some not-so-common topics. After just a few episodes of listening, <a target="_blank" rel="noopener noreferrer" href="https://itunes.apple.com/us/podcast/wild-cozy-truth-renee-m-powers-podcast-for-smart-millennial/id1271855135?mt=2">Wild Cozy Truth</a> has become one of my favorites of all time. That's saying something!</p>
+<br></br>
+<h4>❖❖❖</h4>
+<br></br>
+<h4><b><a target="_blank" rel="noopener noreferrer" href="https://itunes.apple.com/us/podcast/hiding-in-the-bathroom/id1102773197?mt=2">Hiding in the Bathroom</a></b></h4>
+<a target="_blank" rel="noopener noreferrer" href="https://itunes.apple.com/us/podcast/hiding-in-the-bathroom/id1102773197?mt=2">
+		<img className="portrait" src="/images/hidinginthebathroompodcast.jpg" alt="Hiding in the Bathroom Podcast" />
+		</a>
+<br></br>
+<p>"Each week host Morra Aarons-Mele invites her favorite, most interesting friends and colleagues from politics, feminism, business media and psychology on to talk about creating the career and life you want, driving social change, smashing the patriarchy, and what to do when you want to hide in the bathroom. It's like a "nerdy dinner party conversation between two great minds."</p>
+<p>Introversion, feminism, and leadership. How much more perfect a combination could there be for a listener like me? I would love for Morra to be one of my life and career mentors. She deep dives into topics that are perfect for the ambitious, creative, multi-hyphenate introvert. I was hooked from the title of her show, considering as an introvert I have on a not-so-rare occasion hid in the bathroom to avoid small talk.</p>
+<br></br>
+<h4>❖❖❖</h4>
+<br></br>
+<h4><b><a target="_blank" rel="noopener noreferrer" href="https://itunes.apple.com/us/podcast/wabi-sabi-perfectly-imperfect-podcast-candice-kumai/id1388130977?mt=2">Wabi Sabi - The Perfectly Imperfect Podcast with Candice Kumai</a></b></h4>
+<a target="_blank" rel="noopener noreferrer" href="https://itunes.apple.com/us/podcast/hiding-in-the-bathroom/id1102773197?mt=2">
+		<img className="portrait" src="/images/wabisabipodcast.jpg" alt="Wabi Sabi Podcast" />
+		</a>
+<br></br>
+<p>"Coined 'the golden girl of wellness' by ELLE magazine, Candice Kumai, bestselling author, chef, wellness writer and former model shares with us her painfully-imperfect life lessons and experiences that have shaped her 15 year career in media, publishing, wellness, food, modeling and content creation."</p>
+<p>I got my first book from <a target="_blank" rel="noopener noreferrer" href="http://candicekumai.com/">Candice Kumai</a>, <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Pretty-Delicious-Lovely-Recipes-Healthy/dp/1605293504/">Pretty Delicious</a>, 6 years ago when I started pharmacy school in North Carolina. For years I've followed her platform and finally got to meet her just last month for a Matcha Masterclass at The Wing! She's even more amazing in person and when she announced her podcast on her <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/candicekumai/">Instagram</a>, I immediately subscribed. It's brand new, but her first two episodes she's set the stage for quite the story through her life and career journey. I'm definitely hooked to hear and learn from her experiences. Her SIXTH book was also just published, <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Kintsugi-Wellness-Japanese-Nourishing-Spirit/dp/0062669850/">Kintsugi Wellness</a>, and I highly recommend it!</p>
+<br></br>
+<h4>❖❖❖</h4>
+<br></br>
+<p>The more I dig into the podcast world, the more I realize that this platform is truly special. The ability to get your word out there in the archives is inspiring. Maybe I'll make my own someday... there's a thought! What are some of your favorite podcasts hosted by women? Share in the comments below!</p>
+<p>You can find my other podcast posts to date here:</p>
+	<p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2GKOMcN">Favorite Podcasts in March 2018</a></b></p>
+	<p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2oFVYiz">Favorite Podcasts in February 2018</a></b></p>
+	<p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2EhLwEL">Favorite Podcasts in January 2018</a></b></p>
+	<p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2FeaPHG">Favorite Podcasts of 2017</a></b></p>
+	<br></br>
+<h4>❖❖❖</h4>
+	<br></br>
+<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
+<h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+	<br></br>
+<h4>❖❖❖</h4>
+	<br></br>
+<h4>YOU MIGHT ALSO LIKE:</h4>
+	<a className="three-up" href="/articles/favorite-podcasts-in-march-2018">
+	    <img src="/images/podcastsofmarch.png" alt="Podcasts in March" />
+	    <p className="centered">Favorite Podcasts in March 2018</p>
+	</a>
+    <a className="three-up" href="/articles/favorite-podcasts-of-2017">
+        <img src="/images/favoritepodcastsof2017.png" alt="Favorite Podcasts of 2017" />
+        <p className="centered">Favorite Podcasts of 2017</p>
+    </a>
+    <a className="three-up" href="/articles/plane-podcasts-barcelona-edition">
+        <img src="/images/planepodcasts-preview.png" alt="Plane Podcasts: Barcelona Edition" />
+        <p className="centered">Plane Podcasts: Barcelona Edition</p>
+    </a>
+</div>
+},
+
 {id: "19-before-2019-may-goals-update", title: <a href="/articles/19-before-2019-may-goals-update">19 Before 2019: May Goals Update</a>, date: "June 2, 2018", category: "Life", photo: "/images/maygoalsupdate2018-preview.png",  description: <div><p>My <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2mCwVg9">19 Goals Before 2019</a> post has been the most page on this site so far. Because of that, I decided to keep you all updated each month with my progress to ensure they weren't just goals made on a whim and show you how I plan to accomplish them, step-by-step. If you're enjoying this kind of content, be sure to let me know in the comment section! </p> <a href="/articles/19-before-2019-may-goals-update">[Read more]</a></div>,
 post: 
 	<div>
@@ -902,7 +1002,7 @@ post:
 	<h4>❖❖❖</h4>
 	<h4><b>favorite new podcast discovery.</b></h4>
 		<br></br>
-	<p><img src="/images/bosseduppodcast.jpg" alt="Bossed Up Podcast" /></p>
+	<p><img className="portrait" src="/images/bosseduppodcast.jpg" alt="Bossed Up Podcast" /></p>
 	<p>If you listen to Stuff Mom Never Told You (a regular in this Podcast Favorites series), then you heard that one of the co-hosts, Emilie Aires transitioned to launch the <a target="_blank" rel="noopener noreferrer" href="https://bossedup.org/podcast/">xBossed Up Podcast</a> this month. Emilie brings her same energy and inspiration and channeling it to career empowerment for women. I've really enjoyed all of the podcasts on this channel so far and look forward to more content.</p>
 		<br></br>
 	<h4>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2FeaPHG">Favorite Podcasts of 2017</a></b></h4>
@@ -911,26 +1011,26 @@ post:
 	<h4><b>career.</b></h4>
 		<br></br>
 	<a target="_blank" rel="noopener noreferrer" href="http://money.cnn.com/news/boss-files/">
-		<img src="/images/bossfilespodcast.jpg" alt="Boss Files Podcast" />
+		<img className="portrait" src="/images/bossfilespodcast.jpg" alt="Boss Files Podcast" />
 	    </a>
 	<p><b><a target="_blank" rel="noopener noreferrer" href="http://money.cnn.com/news/boss-files/">Deloitte CEO Cathy Engelbert on being a first</a>:</b> "Deloitte CEO Cathy Engelbert is the first woman to become CEO of a major professional services firm. She instituted a 16-week family leave program and recounts being underestimated early in her career."</p>
 		<br></br>
 	<h4>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2DuawZE">10 Places to Start to Improve Your Feminism Literacy</a></b></h4>
 		<br></br>
 	<a target="_blank" rel="noopener noreferrer" href="https://unladylike.co/">
-		<img src="/images/unladylikepodcast.jpg" alt="Unladylike Podcast" />
+		<img className="portrait" src="/images/unladylikepodcast.jpg" alt="Unladylike Podcast" />
 	    </a>
 	<p><b><a target="_blank" rel="noopener noreferrer" href="https://unladylike.co/episodes/09/nanny-up">How to Nanny Up</a>:</b> "Behind every Sheryl Sandberg, there's a pink-collar workforce of caregivers and housekeepers who makes her success sustainable. So Cristen and Caroline want to know: what does "leaning in" look like for them? Ai-jen Poo and Allison Julien of the National Domestic Workers Alliance reveal the unsung power of nannies and feminism within domestic work."</p>
 	<p>I'm so excited for May because Unladylike is coming to Brooklyn for a <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2GG90bX">live recording at The Bell House</a>! If you're going too, leave a comment below!</p>
 		<br></br>
 	<a target="_blank" rel="noopener noreferrer" href="https://www.theskinnyconfidential.com/podcast/">
-		<img src="/images/theskinnyconfidentialpodcast.jpg" alt="The Skinny Confidential Podcast" />
+		<img className="portrait" src="/images/theskinnyconfidentialpodcast.jpg" alt="The Skinny Confidential Podcast" />
 	    </a>
 	<p><b><a target="_blank" rel="noopener noreferrer" href="https://www.theskinnyconfidential.com/podcast/">Glow Recipe Founders and Creators Sarah Lee & Christine Chang - Building a Global Beauty Brand, Shark Tank, Skincare, & Pursuing Your Dreams</a>:</b> "This week we have the founders & creators of Glow Recipe Christine Chang and Sarah Lee on the show. This week we talk about building a beauty brand from the ground up, quitting a full time job to pursue your dreams, appearing on Shark Tank, skin care, and what it takes to go all in on a new business."</p>
 	<p>I've been using Glow Recipe products for months and months now and I'm in love with this company. Product reviews are to come, but if you're interested in checking out their products you can use my <a target="_blank" rel="noopener noreferrer" href="http://i.refs.cc/8Ob4dP1f?u=1523124130415">Glow Recipe referral link</a>.</p>
 		<br></br>
 	<a target="_blank" rel="noopener noreferrer" href="http://www.emmagannon.co.uk/category/podcast/">
-		<img src="/images/ctrlaltdeletepodcast.jpg" alt="Ctrl Alt Delete Podcast" />
+		<img className="portrait" src="/images/ctrlaltdeletepodcast.jpg" alt="Ctrl Alt Delete Podcast" />
 	    </a>
 	<p><b><a target="_blank" rel="noopener noreferrer" href="http://www.emmagannon.co.uk/2018/03/18/ctrl-alt-delete-podcast-118-ava-duvernay-on-making-movies/">Ava Duvernay on how it's never too late to do what you love</a>:</b> The Director of A Wrinkle in Time talks with Emma Gannon about her career experience. I was inspired by her story of not carrying a video camera until she was 30 years old. One of my favorite quotes from the podcast was, "I reject the word workaholic. I work all the time but I love what I do, and to not do it would make me less happy."</p>
 		<br></br>
@@ -939,38 +1039,38 @@ post:
 	<h4><b>activism.</b></h4>
 		<br></br>
 	<a target="_blank" rel="noopener noreferrer" href="http://letstalkaboutitwithtaylornolan.libsyn.com/website">
-		<img src="/images/letstalkaboutitpodcast.jpg" alt="Let's Talk About It Podcast" />
+		<img className="portrait" src="/images/letstalkaboutitpodcast.jpg" alt="Let's Talk About It Podcast" />
 	    </a>
 	<p><b><a target="_blank" rel="noopener noreferrer" href="http://letstalkaboutitwithtaylornolan.libsyn.com/website/ep15-girls-guide-to-joining-the-resistance">A Girl's Guide to Joining the Resistance</a>:</b> "The wonderful co-host of the Here to Make Friends podcast and Senior Women’s Reporter at HuffPost, Emma Gray, joins Taylor to discuss her new book A Girl’s Guide to Joining the Resistance. Post Presidential election and covering the Women’s March, Emma interviewed activists, senators, march organizations, and women from all different backgrounds to curate her book. From intersectionality, to therapy, to lady clubs, to feminist mixtapes, this book has you covered!  Emma opens up about her struggle with anxiety and how to avoid losing your mind while changing the world."</p>
 		<br></br>
 	<h4>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2uF0lkb">5 Things I Loved in March</a></b></h4>
 		<br></br>
 	<a target="_blank" rel="noopener noreferrer" href="https://www.stuffmomnevertoldyou.com/podcasts">
-		<img src="/images/smntypodcast.jpg" alt="SMNTY Podcast" />
+		<img className="portrait" src="/images/smntypodcast.jpg" alt="SMNTY Podcast" />
 	    </a>
 	<p><b><a target="_blank" rel="noopener noreferrer" href="https://www.stuffmomnevertoldyou.com/podcasts/gender-disparity-from-beyond-the-grave.htm">Gender Disparity from Beyond the Grave</a>:</b> "Men get more obituaries than women. The New York Times' Jessica Bennett is trying to fix that."</p>
 		<br></br>
 	<a target="_blank" rel="noopener noreferrer" href="https://itunes.apple.com/us/podcast/ladies-who-lunch/id1097918480">
-		<img src="/images/ladieswholunchpodcast.jpg" alt="Ladies Who Lunch Podcast" />
+		<img className="portrait" src="/images/ladieswholunchpodcast.jpg" alt="Ladies Who Lunch Podcast" />
 	    </a>
 	<p><b><a target="_blank" rel="noopener noreferrer" href="https://itunes.apple.com/us/podcast/ladies-who-lunch/id1097918480">When the People You Love are Sexist</a>:</b> "This week, we're talking about how we deal with sexism from people we love: how it relates to people who mean well but may be ignorant, how to navigate through conversations with people who are actually sexist and oppressive, and how to deal with a lack of respect for people who are complacent with sexist people. At some point in every woman’s life, she will face sexism somewhere - in a relationship, in a workplace, walking down the street. We are all part of social systems or environments where women face hostility and oppression because they’re women in a man's world. Navigating sexism can be difficult, but there's another level added when it's coming from the people closest to you. The only way we’re going to change anti-woman culture is if we have each other’s backs."</p>
 	<h4>❖❖❖</h4>
 	<h4><b>leadership.</b></h4>
 		<br></br>
 	<a target="_blank" rel="noopener noreferrer" href="https://www.npr.org/podcasts/510308/hidden-brain">
-		<img src="/images/nprhiddenbrainpodcast.jpg" alt="NPR Hidden Brain Podcast" />
+		<img className="portrait" src="/images/nprhiddenbrainpodcast.jpg" alt="NPR Hidden Brain Podcast" />
 	    </a>
 	<p><b><a target="_blank" rel="noopener noreferrer" href="https://www.npr.org/2018/03/05/590881966/-shes-shrill-but-hes-just-being-a-boss-the-double-bind-for-women-in-leadership">Men: 45, Women: 0</a>:</b> "More women are running for political office than ever before in American history. But in politics and many other fields, women still struggle to attain positions of power. Researchers say they're often trapped in a "double bind" — a series of unconscious, interlocking stereotypes we have about men, women and the nature of leadership. This week, we take a closer look at the double bind as we revisit a favorite episode from October 2016."</p>
 		<br></br>
 	<a target="_blank" rel="noopener noreferrer" href="https://bossedup.org/podcast/">
-		<img src="/images/bosseduppodcast.jpg" alt="Bossed Up Podcast" />
+		<img className="portrait" src="/images/bosseduppodcast.jpg" alt="Bossed Up Podcast" />
 	    </a>
 	<p><b><a target="_blank" rel="noopener noreferrer" href="https://bossedup.org/episode01/">To Lead or Be Liked</a>:</b> "Emilie talks with the Harvard Business Review’s Sarah Green Carmichael to understand the double-binds women leaders face – and how to persist in the face of them."</p>
 	<h4>❖❖❖</h4>
 	<h4><b>happiness.</b></h4>
 		<br></br>
 	<a target="_blank" rel="noopener noreferrer" href="https://katebowler.com/everything-happens/">
-		<img src="/images/everythinghappenspodcast.jpg" alt="Everything Happens Podcast" />
+		<img className="portrait" src="/images/everythinghappenspodcast.jpg" alt="Everything Happens Podcast" />
 	    </a>
 	<p><b><a target="_blank" rel="noopener noreferrer" href="https://itunes.apple.com/us/podcast/margaret-feinberg-joyful-anyway/id1341076079?i=1000405095155&mt=2">Margaret Feinbert: Joyful, Anyway</a>:</b> "Bestselling author and speaker, Margaret Feinberg was writing a book about joy when her world fell apart. Suddenly, she was fighting for her life and re-writing the book from scratch. Feinberg talks about how she learned how to be happy again, despite everything."</p>
 		<br></br>
