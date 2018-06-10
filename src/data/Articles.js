@@ -1,7 +1,7 @@
 import React from 'react';
 
 const ARTICLES = [
-{id: "test", title: <a href="/articles/test">Making the Most of Your Job Transition</a>, date: "June 7, 2018", category: "Career", photo: "/images/jobtransition-preview.png",  description: <div><p>If you've been following me for any amount of time, you may already know that I'm just wrapping up my first year on the job since completing a pharmacy residency. Most residency programs finish up at the end of this month, so I wanted to share some of the best ways to optimize this exciting [and scary] transition time. Not finishing residency? No worries, these tips apply to ANYONE going through a job transition! </p> <a href="/articles/test">[Read more]</a></div>,
+{id: "making-the-most-of-your-job-transition", title: <a href="/articles/making-the-most-of-your-job-transition">Making the Most of Your Job Transition</a>, date: "June 7, 2018", category: "Career", photo: "/images/jobtransition-preview.png",  description: <div><p>If you've been following me for any amount of time, you may already know that I'm just wrapping up my first year on the job since completing a pharmacy residency. Most residency programs finish up at the end of this month, so I wanted to share some of the best ways to optimize this exciting [and scary] transition time. Not finishing residency? No worries, these tips apply to ANYONE going through a job transition! </p> <a href="/articles/making-the-most-of-your-job-transition">[Read more]</a></div>,
 post: 
 	<div>
 		<img src="/images/jobtransition-preview.png" alt="Job Transition" />
