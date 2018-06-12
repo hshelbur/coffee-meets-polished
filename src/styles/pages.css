@@ -2,22 +2,48 @@
     display: none;
   }
   
-  .about-me img, .archive img {
-    margin-top: 30px;
-  }
-  
-  .about-me p, .archive p {
-    font-size: 15px;
-    font-weight: 200;
-    line-height: 200%;
-    color: #4a5050;
-    margin: auto;
-    width: 80%;
-    margin-top: 20px;
-    margin-bottom: 20px;
-  }
-  
-  .archive .email {
-    color: #213960;
-  }
-  
+.about-me img, .archive img {
+  margin-top: 30px;
+}
+
+.about-me p, .archive p {
+  font-size: 15px;
+  font-weight: 200;
+  line-height: 200%;
+  color: #4a5050;
+  margin: auto;
+  width: 80%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.archive .email {
+  color: #213960;
+}
+
+.instagram-landing-page {
+  margin-top: 60px;
+}
+
+.instagram-link {
+  text-align: center;
+  padding: 2em;
+  margin-bottom: 2em;
+  background-color: #213960;
+}
+
+.instagram-link:hover {
+  opacity: 0.5;
+  transition: all .2s ease;
+}
+
+
+.instagram-link-title {
+  color: white;
+}
+
+.instagram-link-title a, .instagram-link-title a:hover, .instagram-link-title a:visited {
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+}

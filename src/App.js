@@ -8,7 +8,9 @@ import AboutMe from './pages/About.js';
 import Archive from './pages/Archive.js';
 import ArticlePage from './pages/ArticlePage.js';
 import ArticleList from './pages/ArticleList.js';
+import InstagramLandingPage from './pages/InstagramLandingPage.js';
 import ARTICLES from './data/Articles.js';
+import INSTAGRAM_LINKS from './data/InstagramLinks.js';
 import DisqusThread from './layout/DisqusThread.js';
 
 const App = () => (
@@ -74,6 +76,19 @@ const App = () => (
                   </div>
                 </div>
               } />
+
+            <Route path="/instagram-links" render={() =>           
+              <div>
+                <div className="col-md-8 col-lg-9 instagram-landing-page">
+                  <InstagramLandingPage instagramLinks={INSTAGRAM_LINKS} />
+                </div>
+                <div>
+                  <aside className="col-md-4 col-lg-3 side-bar">
+                    <Sidebar />
+                  </aside>
+                </div>
+              </div>
+            } />
 
             <Route path="/life" render={() =>           
                 <ArticleList articles={ARTICLES.filter((article) => article.category === 'Life')} />
