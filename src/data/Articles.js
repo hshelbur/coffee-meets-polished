@@ -1,6 +1,62 @@
 import React from 'react';
 
 const ARTICLES = [
+{id: "making-the-most-of-your-job-transition", title: <a href="/articles/making-the-most-of-your-job-transition">Making the Most of Your Job Transition</a>, date: "June 7, 2018", category: "Career", photo: "/images/jobtransition-preview.png",  description: <div><p>If you've been following me for any amount of time, you may already know that I'm just wrapping up my first year on the job since completing a pharmacy residency. Most residency programs finish up at the end of this month, so I wanted to share some of the best ways to optimize this exciting [and scary] transition time. Not finishing residency? No worries, these tips apply to ANYONE going through a job transition! </p> <a href="/articles/making-the-most-of-your-job-transition">[Read more]</a></div>,
+post: 
+	<div>
+		<img src="/images/jobtransition-preview.png" alt="Job Transition" />
+		<br></br>
+	<p>If you've been following me for any amount of time, you may already know that I'm just wrapping up my first year on the job since completing a pharmacy residency. Most residency programs finish up at the end of this month, so I wanted to share some of the best ways to optimize this exciting [and scary] transition time. Some of you will have 4 to 6 weeks between ending residency and first day of orientation. This is valuable time to reset and recharge. Not finishing residency? No worries, these tips apply to ANYONE going through a job transition!</p>
+		<br></br>
+	<p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2DGQ4nX">10 Tips for Orienting Yourself to a New Job</a></b></p>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+		<h4><b>be mindful of your finances.</b></h4>
+	<p>The hardest part of this time was the lack of income. With the resident salaries and loan payments it was impossible for me to have any savings. Luckily, my boyfriend who I moved with had enough savings to get us through while he also didn't have a job. But instead of relying solely of his savings, I also opened a new credit card that had a period of no interest so I could still enjoy my time off but not be penalized with high interest while I paid the minimum until my first paycheck came. I would recommend you have a serious look at your own finances to see if this is an option you want to consider.</p>
+		<br></br>
+		<h4><b>get to know your new surroundings.</b></h4>
+	<p>And even if you're living in the same place as you did in residency (or previous job), you have a brand new [free!] lens to look through. Go outside and walk  around without Google Maps. Get lost. Find your coffee shop to spend Sunday mornings. Find your grocery story and nearest gas station. Find your happy hour spot. This is the time to find those things so that when you're done with a long day of work, you don't have to think too hard.</p>
+		<br></br>
+		<h4><b>take a trip.</b></h4>
+	<p>Taking a nice trip is a great way to reset your mind and think forward. It can be hard to stop thinking about residency (or previous job), especially if you are still in the same place. Of course, be mindful of your finances for this but if you have the time [and potentially credit] this could be an option for you. I personally did not take a trip, but considered being a tourist in New York City to be more than enough to count.</p>
+		<br></br>
+	<h4><b>embrace boredom.</b></h4>
+	<p>At this point you're used to having something to do at all times. The time between residency and your first day of orientation will have lots of times to do nothing. You may even feel bored! Embrace this. Channel it toward figuring out your new self-care routine and REST. For me, I didn't get out of bed until almost noon for many days. I sat in silence in my living room and read a book. I took walks in Central Park. I did a lot of nothing, too.</p>
+		<br></br>
+	<h4><b>read <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/First-90-Days-Strategies-Expanded/dp/1422188612/">The First 90 Days</a>.</b></h4>
+	<p>This will be the only thing I recommend that is related to work. Highly recommend reading this BEFORE you start. If you read before you start work, it'll help you strategize how to make the most of your orientation period. This will help set a strong foundation for your productivity, relationship with your boss, and your role within the team. </p>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<p>The general theme of these tips is to close one chapter and look forward. Don't burn bridges with your past, but in order to optimally start the next chapter it's important to have closure and reset your mindset.</p>
+	<p>What are some ways you took advantage of the break between jobs? Share in the comments below!</p>
+	<p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2ncvOmZ">Orienting Yourself to a New Job: 90-Day Update</a></b></p>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+	<h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>YOU MIGHT ALSO LIKE:</h4>
+	<a className="three-up" href="/articles/futile-pursuit-of-balance-set-boundaries-instead">
+	    <img src="/images/boundaries-preview.png" alt="Boundaries" />
+	    <p className="centered">Futile Pursuit of Balance: Set Boundaries Instead</p>
+	</a>
+	    <a className="three-up" href="/articles/10-tips-for-orienting-yourself-to-a-new-job">
+	        <img src="/images/orienting-yourself.jpg" alt="first day of work" />
+	        <p className="centered">10 Tips for Orienting Yourself to a New Job</p>
+	    </a>
+	    <a className="three-up" href="/articles/orienting-yourself-to-a-new-job-90-day-update">
+	       <img src="/images/orientationupdate.jpg" alt="Orientation Update" />        
+	       <p className="centered">Orienting Yourself to a New Job: 90-Day Update</p>
+	    </a>
+	</div>
+	},
+
 {id: "new-podcast-discoveries-female-hosts", title: <a href="/articles/new-podcast-discoveries-female-hosts">New Podcast Discoveries: Female Hosts</a>, date: "June 4, 2018", category: "Activism", photo: "/images/newpodcastdiscoveriesfemalehosts-preview.png",  description: <div><p>May was a month of discovery when it came to podcasts. I discovered so many new shows that are quickly becoming some of my favorites and most of them have female hosts! The best part is that each of them are so incredibly different and I love how they highlight nuances of the female experience. Check out my latest new favorite discoveries! </p> <a href="/articles/new-podcast-discoveries-female-hosts">[Read more]</a></div>,
 post: 
 	<div>
