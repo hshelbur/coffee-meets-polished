@@ -35,6 +35,7 @@
 .instagram-link:hover {
   opacity: 0.5;
   transition: all .2s ease;
+  cursor: pointer;
 }
 
 
