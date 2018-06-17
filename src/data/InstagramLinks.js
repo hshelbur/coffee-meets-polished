@@ -2,6 +2,7 @@ import React from 'react'
 
 const INSTAGRAM_LINKS = [
 	{id: "subscribe to cmp", title: <a href="http://bit.ly/2ByiGBn">Subscribe to Coffee Meets Polished!</a>},
+	{id: "9-mistakes-ive-made-with-my-feminism", title: <a href="/articles/9-mistakes-ive-made-with-my-feminism">9 Mistakes I've Made With My Feminism</a>},
 	{id: "making-the-most-of-your-job-transition", title: <a href="/articles/making-the-most-of-your-job-transition">Making the Most of Your Job Transition</a>},	
 	{id: "new-podcast-discoveries-female-hosts", title: <a href="/articles/new-podcast-discoveries-female-hosts">New Podcast Discoveries: Female Hosts</a>},
 	{id: "biggest-myths-of-your-20s-to-unlearn", title: <a href="/articles/biggest-myths-of-your-20s-to-unlearn">Biggest Myths of Your 20's to Unlearn</a>},
