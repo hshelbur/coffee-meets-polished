@@ -1,6 +1,84 @@
 import React from 'react';
 
 const ARTICLES = [
+{id: "9-mistakes-ive-made-with-my-feminism", title: <a href="/articles/9-mistakes-ive-made-with-my-feminism">9 Mistakes I've Made with My Feminism</a>, date: "June 18, 2018", category: "Activism", photo: "/images/feminismmistakes-preview.png",  description: <div><p>I've come a long way since I proclaimed myself as a feminist. Or, put another way, since I discovered I was feminist. I would consider myself a bad feminist because in that self-awareness and learning, I've made mistakes. I've made assumptions due to my frustrations and biases. The <b>unlearning</b> is just beginning, but I hope these mistakes I share will help you on your journey to self-empowerment. </p> <a href="/9-mistakes-ive-made-with-my-feminism">[Read more]</a></div>,
+post: 
+	<div>
+	<p><img src="/images/barcelonaprotest.jpg" alt="Barcelona Protest" /></p>
+	<p className="centered">[Photo taken in the streets of Barcelona, Spain]</p>
+	<p>I've come a long way since I proclaimed myself as a feminist. Or, put another way, since I discovered I was feminist. It's been a year now since moving to New York City and in that time I have been to event after event of panels, book signings, protest marches, and more where I learn context and tools to be a better representation for my story and empower others'.</p>
+	<p>I would still consider myself a bad feminist because in that self-awareness and learning, I've made mistakes. I've made assumptions due to my frustrations and biases. The <b>unlearning</b> is just beginning, but I hope these mistakes I share will help you on your journey to self-empowerment.</p>
+		<br></br>
+	<h4><b>mistake #1: generalizing men.</b></h4>
+		<img src="/images/intlwomensday1.jpg" alt="Emma Gray Event" />
+	<p className="centered">[Photo taken at <a target="_blank" rel="noopener noreferrer" href="http://www.uospaces.com/ninety8/williamsburg-ny">Space Ninety 8</a> in Williamsburg, NY at their <a target="_blank" rel="noopener noreferrer" href="http://www.uospaces.com/ninety8/en/williamsburg-ny/blog/posts/uo-happenings-international-womens-day-celebration">International Women's Day event</a>]</p>
+	<p>I heard first from <a target="_blank" rel="noopener noreferrer" href="http://www.elizabethplank.com/">Liz Plank</a> during a panel in Williamsburg promoting Emma Gray's book <a target="_blank" rel="noopener noreferrer" href="https://amzn.to/2JOyJf7">A Girl's Guide to Joining the Resistance</a>, that it's not just women against the patriarchy. <b>It's men AND women against the patriarchy</b>. This is something I had to learn as my awareness grew. When my eyes started opening to the grand scale inherent biases and institutionalized sexism, it was like realizing I was in the Matrix. One of the big reasons my eyes started opening was because I was in a relationship with someone who took advantage of my lesser developed confidence and strength and used it as a power play for his misogyny. For years, I thought that this would just be the life I would live because... why not? And now that I'm in a much healthier relationship with someone who is feminist I'm realizing that men suffer from patriarchy too. Men suffer from the infrastructure created by patriarchy that stigmatizes them for showing sadness or fear and doesn't support extended paternity leave. There are many men that are bad. But not all men.</p>
+		<br></br>
+	<h4><b>mistake #2: judging.</b></h4>
+		<img className="portrait" src="/images/katiecouric.jpg" alt="Katie Couric Event" />
+	<p className="centered">[Photo taken at <a target="_blank" rel="noopener noreferrer" href="http://thewing.com/">The Wing</a> to view Katie Couric's documentary series <a target="_blank" rel="noopener noreferrer" href="http://channel.nationalgeographic.com/america-inside-out-with-katie-couric/">America Inside Out</a>]</p>
+	<p>When I first started unpacking a lot of inequality I was angry. This phase of awareness does that. You start seeing so much more than you never realized was there, or realized was sexist. You start realizing the infrastructure there that prevents progress. And you realize that it’s not just infrastructure but culture and upbringing that allows people to be complicit with the inequality. There were lots of occasions where my anger and judgement got the better of me. I didn’t consider the conditioned biases by others to have certain view points. Certain things are not necessarily someone’s “fault” they believe but they are a product of society. It doesn’t make it right but rather the energy to make progress can be better served in other ways than anger and judgement towards these people.</p>
+		<br></br>
+	<h4><b>mistake #3: quick to anger.</b></h4>
+		<img className="portrait" src="/images/intlwomensday2.jpg" alt="Emma Gray Event" />
+	<p className="centered">[Photo taken at <a target="_blank" rel="noopener noreferrer" href="http://www.uospaces.com/ninety8/williamsburg-ny">Space Ninety 8</a> in Williamsburg, NY at their <a target="_blank" rel="noopener noreferrer" href="http://www.uospaces.com/ninety8/en/williamsburg-ny/blog/posts/uo-happenings-international-womens-day-celebration">International Women's Day event</a>]</p>
+	<p>I've spoken a lot about anger. The basis of a lot of these mistakes is my quickness judgement that results in the emotions of anger and frustration. The consequences of this is not taking the step to <b>empathize</b> which prevents me from getting my point across productively and the anger clouds my ability to understand the other opinion. Whether I agree with someone or not, there is a point where we must agree to disagree. This is an importnt point to remember when we consider our own self-care when fighting the good fight. It's okay to be angry. In fact, healthy levels can help fuel your cause. But don't let the levels get so toxic that you undermine your own mission by cutting everyone out with anger.</p>
+		<br></br>
+	<h4><b>mistake #4: not being intersectional.</b></h4>
+		<img className="portrait" src="/images/pussyhat1.jpg" alt="Women's March Pussy Hat" />
+	<p className="centered">[Photo featuring my mom protesting at the Women's March in my hometown on the left, while I protested in New York City on the right]</p>
+	<p>Intersectionality is one of the more recent learnings I've had that is being dubbed one of the newer "waves" of feminism. There are perspectives that argue its roots but I am not going to claim that level of understanding/expertise. What I do know is that one experience does not apply to all, and there are many reasons for this (race, ethnicity, socioeconomic status, etc.). I even came to realize that my own intersections are part of my story. If we want to progress forward and shift the conversation and culture, considering intersections are essential. Part of this for me is understanding the biases that come with being both a woman and a person of color.</p>
+		<br></br>
+	<h4><b>mistake #5: not applying context.</b></h4>
+		<img className="portrait" src="/images/gloriasteinem.jpg" alt="Gloria Steinem" />
+	<p className="centered">[Photo taken at <a target="_blank" rel="noopener noreferrer" href="https://www.albertine.com/events/festival-albertine-2017/">Festival Albertine 2017: Feminism Has No Boundaries</a>, a series of events curated by Gloria Steinem ad Robin Morgan]</p>
+	<p>The next phase, after awareness, has been <b>learning history</b>.  Not only does intersection matter, but context and history matters. For me, this is more related to those who I disagree with. It has taken time to understand that there is a spectrum of people who are truly, actively bad versus being a product of the society he/she grew up in as I mentioned before. This understanding has allowed me to start with giving someone the benefit of the doubt that they are able to engage in healthy discussion or debate. Not only does context help with these situations, but also realizing how far we have actually coming. I've been incredibly lucky to attend events with feminists like Gloria Steinem and Cecile Richards. Their decades of experience and continued hopefulness while fighting help me remain optimistic that even if we still have so long to go, we've made a ton of progress. </p>
+		<br></br>
+	<h4><b>mistake #6: pushing my opinion.</b></h4>
+		<img src="/images/thewinghandmaids.jpg" alt="The Wing Handmaid's Tale Event" />
+	<p className="centered">[Photo taken at <a target="_blank" rel="noopener noreferrer" href="http://thewing.com/">The Wing</a> with a panel of actresses from <a target="_blank" rel="noopener noreferrer" href="https://www.hulu.com/the-handmaids-tale">The Handmaid's Tale</a>: <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/amandabrugel/?hl=en">Amanda Brugel</a> (Rita) and <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/madbrew/?hl=en">Madeline Brewer</a> (Janine)]</p>
+	<p>Realizing all the things that are wrong makes it easy to want to “fix” it with argument and logic. Or what I believe to be logical argument. Honestly, this journey has had me question what is truly "right" and "wrong" and needing to stay true to oneself is a large part of growing through this existential phase. Pushing your opinion onto someone too aggressively can cause the opposite effect. It can make someone close up and, whether conscious or not, make it harder to accept future related opinions. The reality is, if someone is not ready to accept your opinion, or at the very least willing to listen then you should table the conversation. This is not to say to give up, but in this fight for empowerment you have to also remember self-care and re-direct your energy in more productive, fulfilling ways.</p>
+		<br></br>
+	<h4><b>mistake #7: fighting.</b></h4>
+		<img className="portrait" src="/images/roxanegay.jpg" alt="Roxane Gay" />
+	<p className="centered">[Photo taken at <a target="_blank" rel="noopener noreferrer" href="https://www.albertine.com/events/festival-albertine-2017/">Festival Albertine 2017: Feminism Has No Boundaries</a>, a series of events curated by Gloria Steinem ad Robin Morgan]</p>
+	<p>This isn't what you think. I'm not saying that I regret fighting. This is actually to say that one of my mistakes was thinking that I need to fight 100% of the time. Self-care is important. We must take care of ourselves before we take care of the world around us. Roxane Gay recently wrote a piece in response to someone feeling guilty for being tired and not fighting. It is titled, "<a target="_blank" rel="noopener noreferrer" href="https://www.nytimes.com/2018/04/20/opinion/sunday/ask-roxane-activism-idealism-apathy.html?rref=collection%2Fcolumn%2Froxane-gay&action=click&contentCollection=opinion&region=stream&module=stream_unit&version=latest&contentPlacement=1&pgtype=collection">Ask Roxane: I'm Outraged, but Failing at Activism. Why?</a>" and is a must-read (as is all of her other work). Her response is better than my brain could create.</p>
+		<br></br>
+	<h4><b>mistake #8: preaching to the choir.</b></h4>
+		<img src="/images/thewingkatiecouricpanel.jpg" alt="The Wing Katie Couric" />
+	<p className="centered">[Photo taken at <a target="_blank" rel="noopener noreferrer" href="http://thewing.com/">The Wing</a> to view Katie Couric's documentary series <a target="_blank" rel="noopener noreferrer" href="http://channel.nationalgeographic.com/america-inside-out-with-katie-couric/">America Inside Out</a>]</p>
+	<p>I'll never forget the moment I realized that men needed to be part of the conversation of feminism if we were going to continue progressing to equality. When I was in the last month of residency, I put together a lunch with the female managers in the department for my female co-resident and I to gather their wisdom as we transition to leadership roles in our respective jobs. When I told one of my male co-residents he said that lunch sounded really beneficial and asked if he could join too. This moment continues to have a strong impact on my deliberate inclusion of all genders to the conversation of feminism.</p>
+		<br></br>
+	<h4><b>mistake #9: feeling judged.</b></h4>
+		<img className="portrait" src="/images/cecilerichards.jpg" alt="Cecile Richards" />
+	<p className="centered">[Photo taken at <a target="_blank" rel="noopener noreferrer" href="http://thewing.com/">The Wing</a> as part of Cecile Richard's book tour for <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Make-Trouble-Standing-Speaking-Lead-My/dp/1501187597">Make Trouble</a>]</p>
+	<p>On the other end of the judgement spectrum, I was hesitant to state I was a feminist or speaking about my stances on feminism in the beginning. I felt that I would be judged or labeled and not known for my thoughts and views but instead the larger feminist movement reputation (negative one). I also felt that since I was so new to these views that I needed to learn more about the facts and history and context (see #5 and #6) in order to combat any naysayers or opposite opinions. It wasn't until I learned a lot of history and facts that I realized what mattered most was <b>my experience</b> and <b>my story</b>. Once I embraced my "why", no one could touch me. I now stand strong with my beliefs and fight for them by standing up for myself and empower others.</p>
+		<br></br>
+	<p>Have you met any bumps in your road to empowerment? Have you had any experiences that you thought could have been approached differently? Share them in the comments below for all of us to learn from!</p>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+	<h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>YOU MIGHT ALSO LIKE:</h4>
+	    <a className="three-up" href="/articles/topics-to-normalize-in-2018-periods">
+	        <img src="/images/normalizedconvoperiods.png" alt="Topics to Normalize in 2018 PERIODS" />
+	        <p className="centered">Topics to Normalize in 2018: PERIODS</p>
+	    </a>
+	    <a className="three-up" href="/articles/10-essential-tips-for-your-first-protest">
+	        <img src="/images/protest-preview.png" alt="10 Tips for your First Protest" />
+	        <p className="centered">10 Essential Tips for Your First Protest</p>
+	    </a>
+	    <a className="three-up" href="/articles/10-places-to-start-to-improve-your-feminism-literacy">
+	        <img src="/images/feminismliteracy-preview.png" alt="10 Places to Start to Improve Your Feminism Literacy" />
+	        <p className="centered">10 Places to Start to Improve Your Feminism Literacy</p>
+	    </a>
+	</div>
+	},
+
 {id: "making-the-most-of-your-job-transition", title: <a href="/articles/making-the-most-of-your-job-transition">Making the Most of Your Job Transition</a>, date: "June 7, 2018", category: "Career", photo: "/images/jobtransition-preview.png",  description: <div><p>If you've been following me for any amount of time, you may already know that I'm just wrapping up my first year on the job since completing a pharmacy residency. Most residency programs finish up at the end of this month, so I wanted to share some of the best ways to optimize this exciting [and scary] transition time. Not finishing residency? No worries, these tips apply to ANYONE going through a job transition! </p> <a href="/articles/making-the-most-of-your-job-transition">[Read more]</a></div>,
 post: 
 	<div>
