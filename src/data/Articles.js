@@ -1,7 +1,90 @@
 import React from 'react';
 
 const ARTICLES = [
-{id: "9-mistakes-ive-made-with-my-feminism", title: <a href="/articles/9-mistakes-ive-made-with-my-feminism">9 Mistakes I've Made with My Feminism</a>, date: "June 18, 2018", category: "Activism", photo: "/images/feminismmistakes-preview.png",  description: <div><p>I've come a long way since I proclaimed myself as a feminist. Or, put another way, since I discovered I was feminist. I would consider myself a bad feminist because in that self-awareness and learning, I've made mistakes. I've made assumptions due to my frustrations and biases. The <b>unlearning</b> is just beginning, but I hope these mistakes I share will help you on your journey to self-empowerment. </p> <a href="/9-mistakes-ive-made-with-my-feminism">[Read more]</a></div>,
+{id: "favorite-podcasts-to-stay-informed", title: <a href="/articles/favorite-podcasts-to-stay-informed">Favorite Podcasts to Stay Informed</a>, date: "June 18, 2018", category: "Activism", photo: "/images/newpodcastdiscoveriesfemalehosts-preview.png",  description: <div><p>Listening to podcasts has started to replace a lot of my usual TV watching and music listening. Since I listen to them hours per day I thought I'd share some of my favorites in particular categories. <b>Next up: podcasts to keep up with current events around the world.</b> </p> <a href="/articles/favorite-podcasts-to-stay-informed">[Read more]</a></div>,
+post: 
+	<div>
+		<img src="/images/newpodcastdiscoveriesfemalehosts.jpg" alt="New Podcast Discoveries: Female Hosts" />
+	<br></br>
+	<p>I don't know about you, but I'm getting tired of the 24 hour news cycle. For a long time, I watched CNN in the mornings before work and when I got home for the day to catch up. Now I feel like it's all the same conversations and in order to fill the time between BREAKING NEWS! they're bringing in opinions instead of doing reporting to add more substance. Now, I'm not saying they are f*ke news by any means, but I was feeling the need to listen to grass roots reporting (if that's what it's called) that presents information more than conjecturing. That's when I found podcasts that gave me roundups of daily headlines or deep dive into a specific topic a couple times per week. Here are some of my favorite shows to listen to! Some release daily and some weekly. Some are your typical headline-concentrated updates but some are also deep dives into specific topics at a time. Let me know if any of these strike your fancy!</p>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.nytimes.com/podcasts/the-daily">NYT The Daily</a></b></h4>
+	<a target="_blank" rel="noopener noreferrer" href="https://www.nytimes.com/podcasts/the-daily">
+			<img className="portrait" src="/images/thedailypodcast.jpg" alt="NYT The Daily" />
+			</a>
+		<br></br>
+	<p><b>The Daily</b> (~25-40 minutes): These episodes deep dive into one topic that is timely and relevant. The host, Michael Barbaro does an amazing job with the podcast. Recent episodes have included "Cracking Down on Leaks", "The Narrowing Path to Asylum", and a five-part serices about the life and death of a Baltimore teenager. This show also wins "best sound design" award in my book.</p>
+		<br></br>
+	<h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.vox.com/today-explained">Vox Today Explained</a></b></h4>
+	<a target="_blank" rel="noopener noreferrer" href="https://www.vox.com/today-explained">
+			<img className="portrait" src="/images/todayexplainedpodcast.jpg" alt="Today Explained Podcast" />
+			</a>
+		<br></br>
+	<p><b>Vox Today Explained</b> (~20-30 min): Similarly to The Daily, they deep dive into a specific topic per episode. These come out later in the day so you can listen on your commute home from work. Recent episodes have included "Little summer vampires", "Mo Salah will make you care about soccer", and "You're tariffing us apart". This show wins "best title puns" award.</p>
+		<br></br>
+	<h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.electorette.com/">The Electorette</a></b></h4>
+	<a target="_blank" rel="noopener noreferrer" href="https://www.electorette.com/">
+			<img className="portrait" src="/images/theelectorettepodcast.jpg" alt="The Electorette Podcast" />
+			</a>
+		<br></br>
+	<p><b>The Electorette Podcast</b> (~30-60 min): This could go into an "activism" section too but this is more news-related with timely conversations around politics, feminism, and resistance. The content has a feminist angle to current events and the host Jenn also interviews some really interesting people. These upload every 1-2 weeks. My favorite episode recently was "Truth Decay, Report by RAND Corp". She also interviews a lot of women running for office to discuss their platforms.</p>
+		<br></br>
+	<h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.nytimes.com/podcasts/still-processing">NYT Still Processing</a></b></h4>
+	<a target="_blank" rel="noopener noreferrer" href="https://www.nytimes.com/podcasts/still-processing">
+			<img className="portrait" src="/images/stillprocessingpodcast.jpg" alt="Still Processing Podcast" />
+			</a>
+		<br></br>
+	<p><b>Still Processing</b> (~45-60 min): These are weekly episodes with conversations surrounding current cultural events. This is one of my favorite podcasts of all time because of how they unpack topics. It helps me learn how to unpack complex and problematic situations for myself, too. Recent episodes discussed the need for bad women (in response to "Ocean's 8" premiere), the problematic assessments of Kanye West, and BeyChella. So, so good.</p>
+		<br></br>
+	<h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.stuffmomnevertoldyou.com/podcasts">Stuff Mom Never Told You</a></b></h4>
+	<a target="_blank" rel="noopener noreferrer" href="https://www.stuffmomnevertoldyou.com/podcasts">
+			<img className="portrait" src="/images/smntypodcast.jpg" alt="SMNTY Podcast" />
+			</a>
+		<br></br>
+	<p><b>Stuff Mom Never Told You</b> (~45-60 min): This podcast has been around for years and hosts have changed over time. It unpacks current events from a feminist lens. From Lisa Simpson to whiskey, and everything in between. They recently talked about Ireleand's fight for abortion access, gaslighting, and Kim Kardashian advertising for appetite suppressants.</p>
+		<br></br>
+	<h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.npr.org/podcasts/510318/up-first">NPR: Up First</a></b></h4>
+	<a target="_blank" rel="noopener noreferrer" href="https://www.npr.org/podcasts/510318/up-first">
+			<img className="portrait" src="/images/nprupfirstpodcast.png" alt="NPR Up First Podcast" />
+			</a>
+		<br></br>
+	<p><b>NPR's Up First</b> (10-15 minutes): This along with The Daily are the two podcasts I listen to almost every morning on my way to work. I like to this one first, since it's a quick roundup of highlights from the day before. At 10-15 minutes an episode, I finish listening before I even get on my train sometimes. This podcasts wins "most succinct" award.</p>
+		<br></br>
+	<p>You can find my other podcast posts to date here:</p>
+		<p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2sHyL1x">New Podcast Discoveries: Female Hosts</a></b></p>
+		<p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2GKOMcN">Favorite Podcasts in March 2018</a></b></p>
+		<p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2oFVYiz">Favorite Podcasts in February 2018</a></b></p>
+		<p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2EhLwEL">Favorite Podcasts in January 2018</a></b></p>
+		<p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2FeaPHG">Favorite Podcasts of 2017</a></b></p>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+	<h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>YOU MIGHT ALSO LIKE:</h4>
+	<a className="three-up" href="/articles/favorite-podcasts-in-march-2018">
+	    <img src="/images/newpodcastdiscoveriesfemalehosts-preview.png" alt="New Podcast Discoveries: Female Hosts" />
+	    <p className="centered">New Podcast Discoveries: Female Hosts</p>
+	</a>
+	    <a className="three-up" href="/articles/new-podcast-discoveries-female-hosts">
+	        <img src="/images/favoritepodcastsof2017.png" alt="Favorite Podcasts of 2017" />
+	        <p className="centered">Favorite Podcasts of 2017</p>
+	    </a>
+	    <a className="three-up" href="/articles/plane-podcasts-barcelona-edition">
+	        <img src="/images/planepodcasts-preview.png" alt="Plane Podcasts: Barcelona Edition" />
+	        <p className="centered">Plane Podcasts: Barcelona Edition</p>
+	    </a>
+	</div>
+	},
+
+
+{id: "9-mistakes-ive-made-with-my-feminism", title: <a href="/articles/9-mistakes-ive-made-with-my-feminism">9 Mistakes I've Made with My Feminism</a>, date: "June 11, 2018", category: "Activism", photo: "/images/feminismmistakes-preview.png",  description: <div><p>I've come a long way since I proclaimed myself as a feminist. Or, put another way, since I discovered I was feminist. I would consider myself a bad feminist because in that self-awareness and learning, I've made mistakes. I've made assumptions due to my frustrations and biases. The <b>unlearning</b> is just beginning, but I hope these mistakes I share will help you on your journey to self-empowerment. </p> <a href="/9-mistakes-ive-made-with-my-feminism">[Read more]</a></div>,
 post: 
 	<div>
 	<p><img src="/images/barcelonaprotest.jpg" alt="Barcelona Protest" /></p>
