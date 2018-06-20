@@ -1,10 +1,100 @@
 import React from 'react';
 
 const ARTICLES = [
-{id: "favorite-podcasts-to-stay-informed", title: <a href="/articles/favorite-podcasts-to-stay-informed">Favorite Podcasts to Stay Informed</a>, date: "June 18, 2018", category: "Activism", photo: "/images/newpodcastdiscoveriesfemalehosts-preview.png",  description: <div><p>Listening to podcasts has started to replace a lot of my usual TV watching and music listening. Since I listen to them hours per day I thought I'd share some of my favorites in particular categories. <b>Next up: podcasts to keep up with current events around the world.</b> </p> <a href="/articles/favorite-podcasts-to-stay-informed">[Read more]</a></div>,
+{id: "test", title: <a href="/articles/test">Feminist Book List: Summer Edition</a>, date: "June 21, 2018", category: "Activism", photo: "/images/newpodcastdiscoveriesfemalehosts-preview.png",  description: <div><p>May was a month of discovery when it came to podcasts. I discovered so many new shows that are quickly becoming some of my favorites and most of them have female hosts! The best part is that each of them are so incredibly different and I love how they highlight nuances of the female experience. Check out my! </p> <a href="/articles/test">[Read more]</a></div>,
 post: 
 	<div>
-		<img src="/images/newpodcastdiscoveriesfemalehosts.jpg" alt="New Podcast Discoveries: Female Hosts" />
+		<img src="/images/newpodcastdiscoveriesfemalehosts.jpg" alt="Feminist Book List: Summer Edition" />
+<br></br>
+
+<br></br>
+<h4>❖❖❖</h4>
+<br></br>
+
+<h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Make-Trouble-Standing-Speaking-Lead-My/dp/1501187597/">Make Trouble: Standing Up, Speaking Out, and Finding the Courage to Lead</a></b></h4>
+<a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Make-Trouble-Standing-Speaking-Lead-My/dp/1501187597/">
+		<img className="portrait" src="/images/maketroublebook.jpg" alt="Make Trouble Book" />
+	    </a>
+<br></br>
+
+<p> text </p>
+
+<h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Kintsugi-Wellness-Japanese-Nourishing-Spirit/dp/0062669850/">Kintsugi Wellness: The Japanese Art of Mind, Body, and Spirit</a></b></h4>
+<a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Kintsugi-Wellness-Japanese-Nourishing-Spirit/dp/0062669850/">
+		<img className="portrait" src="/images/kintsugiwellnessbook.png" alt="Kintsugi Wellness Book" />
+	    </a>
+<br></br>
+
+<p>Kinstugi Wellness (Candice Kumai)</p>
+
+<h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Not-That-Bad-Dispatches-Culture/dp/0062413511/">Not That Bad: Dispatches from Rape Culture</a></b></h4>
+<a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Not-That-Bad-Dispatches-Culture/dp/0062413511/">
+		<img className="portrait" src="/images/notthatbadbook.jpg" alt="Not That Bad Book" />
+	    </a>
+<br></br>
+
+<p>Not That Bad (Roxane Gay)</p>
+
+<h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Ask-Me-About-My-Uterus/dp/1568585810/">Ask Me About My Uterus: A Quest to Make Doctors Believe in Women's Pain</a></b></h4>
+<a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Ask-Me-About-My-Uterus/dp/1568585810/">
+		<img className="portrait" src="/images/askmeaboutmyuterusbook.jpg" alt="Ask Me About My Uterus Book" />
+	    </a>
+<br></br>
+
+<p>Ask Me About My Uterus (Abby Norman)</p>
+
+<h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Girls-Guide-Joining-Resistance-Feminist/dp/0062748084/">A Girl's Guide to Joining the Resistance: A Feminist Handbook on Fighting for Good</a></b></h4>
+<a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Girls-Guide-Joining-Resistance-Feminist/dp/0062748084/">
+		<img className="portrait" src="/images/agirlsguidebook.jpg" alt="A Girl's Guide to Joining the Resistance Book" />
+	    </a>
+<br></br>
+
+<p>Girl's Guide to Joining the Resistance: A Feminist Handbook on Fighting for Good (Emma Gray)</p>
+
+<h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/DIY-Rules-WTF-World-Creative/dp/1538712334/">DIY Rules for a WTF World: How to Speak Up, Get Creative, and Change the World</a></b></h4>
+<a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/DIY-Rules-WTF-World-Creative/dp/1538712334/">
+		<img className="portrait" src="/images/diyrulesbook.jpg" alt="DIY Rules for a WTF World" />
+	    </a>
+<br></br>
+
+<p>DIY Rules for a WTF World: How to Speak Up, Get Creative, and Change the World (Krista Suh)</p>
+
+<br></br>
+
+<p>Want more? Check out <a target="_blank" rel="noopener noreferrer" href="https://www.bitchmedia.org/article/bitchreads-june-2018-selections">Bitch Media's list of feminist books</a> that came out (or are coming out) this month. It's full of recommendations that I can't wait to check out!</p>
+
+<p>What are you reading this summer? I'd love to know! Share in the comments below and let's have a conversation.</p>
+
+<br></br>
+<h4>❖❖❖</h4>
+<br></br>
+<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+<br></br>
+<h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+<br></br>
+<h4>❖❖❖</h4>
+<br></br>
+<h4>YOU MIGHT ALSO LIKE:</h4>
+<a className="three-up" href="/articles/feminist-book-list-winter-edition">
+    <img src="/images/podcastsofmarch.png" alt="Feminist Book List: Winter Edition" />
+    <p className="centered">Feminist Book List: Winter Edition</p>
+</a>
+    <a className="three-up" href="/articles/new-podcast-discoveries-female-hosts">
+        <img src="/images/favoritepodcastsof2017.png" alt="new-podcast-discoveries-female-hosts" />
+        <p className="centered">New Podcast Discoveries: Female Hosts</p>
+    </a>
+    <a className="three-up" href="/articles/books-i-read-in-2017">
+        <img src="/images/planepodcasts-preview.png" alt="books-i-read-in-2017" />
+        <p className="centered">Books I Read in 2017</p>
+    </a>
+</div>
+},
+
+
+{id: "favorite-podcasts-to-stay-informed", title: <a href="/articles/favorite-podcasts-to-stay-informed">Favorite Podcasts to Stay Informed</a>, date: "June 18, 2018", category: "Activism", photo: "/images/podcastsinformed-preview.png",  description: <div><p>Listening to podcasts has started to replace a lot of my usual TV watching and music listening. Since I listen to them hours per day I thought I'd share some of my favorites in particular categories. <b>Next up: podcasts to keep up with current events around the world.</b> </p> <a href="/articles/favorite-podcasts-to-stay-informed">[Read more]</a></div>,
+post: 
+	<div>
+		<img src="/images/podcastsinformed-preview.png" alt="Favorite Podcasts to Stay Informed" />
 	<br></br>
 	<p>I don't know about you, but I'm getting tired of the 24 hour news cycle. For a long time, I watched CNN in the mornings before work and when I got home for the day to catch up. Now I feel like it's all the same conversations and in order to fill the time between BREAKING NEWS! they're bringing in opinions instead of doing reporting to add more substance. Now, I'm not saying they are f*ke news by any means, but I was feeling the need to listen to grass roots reporting (if that's what it's called) that presents information more than conjecturing. That's when I found podcasts that gave me roundups of daily headlines or deep dive into a specific topic a couple times per week. Here are some of my favorite shows to listen to! Some release daily and some weekly. Some are your typical headline-concentrated updates but some are also deep dives into specific topics at a time. Let me know if any of these strike your fancy!</p>
 		<br></br>
