@@ -6,6 +6,14 @@ class Archive extends Component {
         <section className="article">
         <h4><b>Coffee Meets Polished Archives</b></h4>
           <p><b>JUNE 2018</b></p>
+            <p className="tabbed"><a href="https://coffeemeetspolished.com/articles/favorite-podcasts-to-stay-informed" rel="noopener noreferrer">Favorite Podcasts to Stay Informed</a>
+              </p> 
+            <p className="tabbed"><a href="https://coffeemeetspolished.com/articles/9-mistakes-ive-made-with-my-feminism" rel="noopener noreferrer">9 Mistakes I've Made with My Feminism</a>
+              </p> 
+            <p className="tabbed"><a href="https://coffeemeetspolished.com/articles/making-the-most-of-your-job-transition" rel="noopener noreferrer">Making the Most of Your Job Transition</a>
+              </p> 
+            <p className="tabbed"><a href="https://coffeemeetspolished.com/articles/new-podcast-discoveries-female-hosts" rel="noopener noreferrer">New Podcast Discoveries: Female Hosts</a>
+              </p> 
             <p className="tabbed"><a href="https://coffeemeetspolished.com/articles/19-before-2019-may-goals-update" rel="noopener noreferrer">19 Before 2019: May Goals Update</a>
               </p>  
           <p><b>MAY 2018</b></p>
