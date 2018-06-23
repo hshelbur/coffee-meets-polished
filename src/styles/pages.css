@@ -47,3 +47,38 @@
   text-decoration: none;
   font-size: 20px;
 }
+
+.article-page ul {
+  width: 100%;
+  display: inline-block;
+  padding-left: 0;
+  margin: auto;
+}
+
+.center-pagination {
+  text-align: center;
+}
+
+.pagination a {
+  padding: 6px 12px;
+  line-height: 1.5;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.pagination li {
+  display: inline-block;
+}
+
+.pagination li a.active {
+    background-color: #f5dbbc;
+  }
+
+.pagination .disabled {
+  display: none;
+}
+
+.pagination li a:hover {
+    background-color: #ccc !important;
+    color: white;
+  }
