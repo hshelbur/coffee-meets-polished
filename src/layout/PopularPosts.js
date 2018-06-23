@@ -9,7 +9,8 @@ class PopularPosts extends Component {
 				<h3>Popular Posts</h3>
 				<nav>
 					<ul>
-						<a href="/articles/podcasts-on-the-plane-barcelona-edition"><img src="/images/planepodcasts-preview.png" alt="podcasts-on-the-plane-barcelona-edition" /></a>
+						<a href="/articles/new-podcast-discoveries-female-hosts"><img src="/images/newpodcastdiscoveriesfemalehosts-preview.png" alt="new-podcast-discoveries-female-hosts" /></a>
+						<a href="/articles/making-the-most-of-your-job-transition"><img src="/images/jobtransition-preview.png" alt="making-the-most-of-your-job-transition" /></a>
 						<a href="/articles/when-i-stopped-apologizing-for-needing-solitude"><img src="/images/solitude-preview.png" alt="when-i-stopped-apologizing-for-needing-solitude" /></a>
 						<a href="/articles/19-before-2019-a-goal-setting-challenge"><img src="/images/19before2019.png" alt="19-before-2019-a-goal-setting-challenge" /></a>
 						<a href="/articles/topics-to-normalize-in-2018-periods"><img src="/images/normalizedconvoperiods.png" alt="topics-to-normalize-in-2018-periods" /></a>
