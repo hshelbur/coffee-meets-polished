@@ -111,6 +111,10 @@ const App = () => (
                 <ArticleList articles={ARTICLES.filter((article) => article.category === 'Activism')} />
               } />
 
+            <Route path="/Podcasts" render={() =>           
+                <ArticleList articles={ARTICLES.filter((article) => article.category === 'Podcasts')} />
+              } />
+
             <Route path="/opinion" render={() =>           
                 <ArticleList articles={ARTICLES.filter((article) => article.category === 'Opinion')} />
               } />

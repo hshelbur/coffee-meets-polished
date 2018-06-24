@@ -1,7 +1,7 @@
 import React from 'react';
 
 const ARTICLES = [
-{id: "favorite-podcasts-to-stay-informed", title: <a href="/articles/favorite-podcasts-to-stay-informed">Favorite Podcasts to Stay Informed</a>, date: "June 18, 2018", category: "Activism", photo: "/images/podcastsinformed-preview.png",  description: <div><p>Listening to podcasts has started to replace a lot of my usual TV watching and music listening. Since I listen to them hours per day I thought I'd share some of my favorites in particular categories. <b>Next up: podcasts to keep up with current events around the world.</b> </p> <a href="/articles/favorite-podcasts-to-stay-informed">[Read more]</a></div>,
+{id: "favorite-podcasts-to-stay-informed", title: <a href="/articles/favorite-podcasts-to-stay-informed">Favorite Podcasts to Stay Informed</a>, date: "June 18, 2018", category: "Podcasts", photo: "/images/podcastsinformed-preview.png",  description: <div><p>Listening to podcasts has started to replace a lot of my usual TV watching and music listening. Since I listen to them hours per day I thought I'd share some of my favorites in particular categories. <b>Next up: podcasts to keep up with current events around the world.</b> </p> <a href="/articles/favorite-podcasts-to-stay-informed">[Read more]</a></div>,
 post: 
 	<div>
 		<img src="/images/podcastsinformed-preview.png" alt="Favorite Podcasts to Stay Informed" />
@@ -218,105 +218,105 @@ post:
 	</div>
 	},
 
-{id: "new-podcast-discoveries-female-hosts", title: <a href="/articles/new-podcast-discoveries-female-hosts">New Podcast Discoveries: Female Hosts</a>, date: "June 4, 2018", category: "Activism", photo: "/images/newpodcastdiscoveriesfemalehosts-preview.png",  description: <div><p>May was a month of discovery when it came to podcasts. I discovered so many new shows that are quickly becoming some of my favorites and most of them have female hosts! The best part is that each of them are so incredibly different and I love how they highlight nuances of the female experience. Check out my latest new favorite discoveries! </p> <a href="/articles/new-podcast-discoveries-female-hosts">[Read more]</a></div>,
+{id: "new-podcast-discoveries-female-hosts", title: <a href="/articles/new-podcast-discoveries-female-hosts">New Podcast Discoveries: Female Hosts</a>, date: "June 4, 2018", category: "Podcasts", photo: "/images/newpodcastdiscoveriesfemalehosts-preview.png",  description: <div><p>May was a month of discovery when it came to podcasts. I discovered so many new shows that are quickly becoming some of my favorites and most of them have female hosts! The best part is that each of them are so incredibly different and I love how they highlight nuances of the female experience. Check out my latest new favorite discoveries! </p> <a href="/articles/new-podcast-discoveries-female-hosts">[Read more]</a></div>,
 post: 
 	<div>
 		<img src="/images/newpodcastdiscoveriesfemalehosts.jpg" alt="New Podcast Discoveries: Female Hosts" />
-<br></br>
-<p>Each month I like to share a roundup of some of my favorites. Most recently I shared all of the podcasts I listened to on <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2IwjLya">two 9-hour flights to and from Barcelona</a>, it was quite the marathon! May was a month of discovery when it came to podcasts. I discovered so many new shows that are quickly becoming some of my favorites and most of them have female hosts! The best part is that each of them are so incredibly different and I love how they highlight nuances of the female experience. Check out my latest favorite discoveries!</p>
-<br></br>
-<h4>❖❖❖</h4>
-<br></br>
-<h4><b><a target="_blank" rel="noopener noreferrer" href="https://itunes.apple.com/us/podcast/the-creative-exchange/id1341109677?mt=2">The Creative Exchange</a></b></h4>
-<a target="_blank" rel="noopener noreferrer" href="https://itunes.apple.com/us/podcast/the-creative-exchange/id1341109677?mt=2">
-		<img className="portrait" src="/images/thecreativeexchangepodcast.jpg" alt="The Creative Exchange Podcast" />
+	<br></br>
+	<p>Each month I like to share a roundup of some of my favorites. Most recently I shared all of the podcasts I listened to on <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2IwjLya">two 9-hour flights to and from Barcelona</a>, it was quite the marathon! May was a month of discovery when it came to podcasts. I discovered so many new shows that are quickly becoming some of my favorites and most of them have female hosts! The best part is that each of them are so incredibly different and I love how they highlight nuances of the female experience. Check out my latest favorite discoveries!</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4><b><a target="_blank" rel="noopener noreferrer" href="https://itunes.apple.com/us/podcast/the-creative-exchange/id1341109677?mt=2">The Creative Exchange</a></b></h4>
+	<a target="_blank" rel="noopener noreferrer" href="https://itunes.apple.com/us/podcast/the-creative-exchange/id1341109677?mt=2">
+			<img className="portrait" src="/images/thecreativeexchangepodcast.jpg" alt="The Creative Exchange Podcast" />
+		    </a>
+	<br></br>
+	<p>"On this podcast you will find candid conversations with the best artists and business professionals in the world. More information and content from the podcast can be found on Sara Dietschy's <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/user/saradietschy">YouTube channel</a>, <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/saradietschy">Twitter</a> & <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/saradietschy/">Instagram</a> (@SaraDietschy)</p>
+	<p>I've been part of Sara's <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/explore/tags/peachyfam/">#peachyfam</a> for a while now and am a huge fan. She is a woman on a mission to promote creators and with her Creative Exchange series (also on <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/user/creativespacesTV">YouTube</a>) she does just that. It's awesome to see how diverse a guest list she brings along for really deep, interesting conversations. I learn something new with every episode! Her <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/user/saradietschy">YouTube channel</a> is also pretty awesome. Make sure you check it out!</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.asianbossgirl.com/">Asian Boss Girl</a></b></h4>
+	<a target="_blank" rel="noopener noreferrer" href="https://www.asianbossgirl.com/">
+			<img className="portrait" src="/images/asianbossgirlpodcast.jpg" alt="Asian Boss Girl Podcast" />
+		    </a>
+	<br></br>
+	<p>"A podcast for the modern day Asian American woman hosted by Melody Cheng, Helen Wu, and Janet Wang. We started this podcast as an outlet for topics we are interested in, and for sharing stories we have as 20-30 something yr. old Asian American women working, dating, and living in Los Angeles."</p>
+	<p>I discovered this thanks to Apple's recommendation during Asian Pacific American Heritage Month, and have been hooked ever since. They're currently between seasons but are staying really active on their <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/asianbossgirl/">Instagram Stories</a> still to give fun behind-the-scenes of their lives until next season starts. What I love about this podcast is the discussions about their Asian American identities. They talk about everything from being raised by Asian parents to dating, and as a Filipina American I find the topics extremely relatable.</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.theconfusedmillennial.com/podcast/">The Confused Millennial</a></b></h4>
+	<a target="_blank" rel="noopener noreferrer" href="https://www.theconfusedmillennial.com/podcast/">
+			<img className="portrait" src="/images/theconfusedmillennialpodcast.jpg" alt="The Confused Millennial Podcast" />
+			</a>
+	<br></br>
+	<p>"Hosts Rachel Ritlop and Eric Dresdale share their experiences, advice, and wisdom as they've navigated their twenties and thirties. The podcast is for all confused millennials who are looking to embrace who they are while navigating this whole #adulting thing. Topics include career, entrepreneurship, self-care, finances, spirituality, and so much more."</p>
+	<p>I started following Rachel on <a target="_blank" rel="noopener noreferrer" href="https://www.theconfusedmillennial.com/">The Confused Millenial</a> at least a year ago and her blog is amazing. Its content is important, high value, and honest. And the aesthetic is gorgeous. When she announced she would be starting a podcast I knew it would be just as great. After listening to the episodes, it's actually even better. Her content is deep, but the audio experience goes even deeper into topics she's discussed previously in her blog and also with her guests.</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.wildcozytruth.com/essays">Wild Cozy Truth with Renee M. Powers</a></b></h4>
+	<a target="_blank" rel="noopener noreferrer" href="https://www.wildcozytruth.com/essays">
+			<img className="portrait" src="/images/wildcozytruthpodcast.jpg" alt="Wild Cozy Truth Podcast" />
+			</a>
+	<br></br>
+	<p>"A podcast for smart millennial women who are skeptical of the traditional personal development space. As a feminist life coach, I believe every woman has their truth to tell and together we’ll find strength in sharing and listening to them. Each week, I’ll share what’s on my mind in the form of a personal essay, often taken directly from the pages of my journal, then we’ll hear from the guest of the week. These guests bravely step up to the microphone for an interview to embody the core values of Wild Cozy Truth: that there is strength in vulnerability, courage in using your voice, power in community, and that authenticity is always the best policy."</p>
+	<p>This may sound silly, but I feel like Renee and I could be coffee buddies if we lived in the same area. The content she shares in her essays are similar to my thought patterns, and her conversations with guests are spectacular and engaging. She brings in guests with diverse backgrounds who also have their own platforms so it's a great synergistic promotion while also digging deep into some not-so-common topics. After just a few episodes of listening, <a target="_blank" rel="noopener noreferrer" href="https://itunes.apple.com/us/podcast/wild-cozy-truth-renee-m-powers-podcast-for-smart-millennial/id1271855135?mt=2">Wild Cozy Truth</a> has become one of my favorites of all time. That's saying something!</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4><b><a target="_blank" rel="noopener noreferrer" href="https://itunes.apple.com/us/podcast/hiding-in-the-bathroom/id1102773197?mt=2">Hiding in the Bathroom</a></b></h4>
+	<a target="_blank" rel="noopener noreferrer" href="https://itunes.apple.com/us/podcast/hiding-in-the-bathroom/id1102773197?mt=2">
+			<img className="portrait" src="/images/hidinginthebathroompodcast.jpg" alt="Hiding in the Bathroom Podcast" />
+			</a>
+	<br></br>
+	<p>"Each week host Morra Aarons-Mele invites her favorite, most interesting friends and colleagues from politics, feminism, business media and psychology on to talk about creating the career and life you want, driving social change, smashing the patriarchy, and what to do when you want to hide in the bathroom. It's like a "nerdy dinner party conversation between two great minds."</p>
+	<p>Introversion, feminism, and leadership. How much more perfect a combination could there be for a listener like me? I would love for Morra to be one of my life and career mentors. She deep dives into topics that are perfect for the ambitious, creative, multi-hyphenate introvert. I was hooked from the title of her show, considering as an introvert I have on a not-so-rare occasion hid in the bathroom to avoid small talk.</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4><b><a target="_blank" rel="noopener noreferrer" href="https://itunes.apple.com/us/podcast/wabi-sabi-perfectly-imperfect-podcast-candice-kumai/id1388130977?mt=2">Wabi Sabi - The Perfectly Imperfect Podcast with Candice Kumai</a></b></h4>
+	<a target="_blank" rel="noopener noreferrer" href="https://itunes.apple.com/us/podcast/hiding-in-the-bathroom/id1102773197?mt=2">
+			<img className="portrait" src="/images/wabisabipodcast.jpg" alt="Wabi Sabi Podcast" />
+			</a>
+	<br></br>
+	<p>"Coined 'the golden girl of wellness' by ELLE magazine, Candice Kumai, bestselling author, chef, wellness writer and former model shares with us her painfully-imperfect life lessons and experiences that have shaped her 15 year career in media, publishing, wellness, food, modeling and content creation."</p>
+	<p>I got my first book from <a target="_blank" rel="noopener noreferrer" href="http://candicekumai.com/">Candice Kumai</a>, <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Pretty-Delicious-Lovely-Recipes-Healthy/dp/1605293504/">Pretty Delicious</a>, 6 years ago when I started pharmacy school in North Carolina. For years I've followed her platform and finally got to meet her just last month for a Matcha Masterclass at The Wing! She's even more amazing in person and when she announced her podcast on her <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/candicekumai/">Instagram</a>, I immediately subscribed. It's brand new, but her first two episodes she's set the stage for quite the story through her life and career journey. I'm definitely hooked to hear and learn from her experiences. Her SIXTH book was also just published, <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Kintsugi-Wellness-Japanese-Nourishing-Spirit/dp/0062669850/">Kintsugi Wellness</a>, and I highly recommend it!</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<p>The more I dig into the podcast world, the more I realize that this platform is truly special. The ability to get your word out there in the archives is inspiring. Maybe I'll make my own someday... there's a thought! What are some of your favorite podcasts hosted by women? Share in the comments below!</p>
+	<p>You can find my other podcast posts to date here:</p>
+		<p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2GKOMcN">Favorite Podcasts in March 2018</a></b></p>
+		<p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2oFVYiz">Favorite Podcasts in February 2018</a></b></p>
+		<p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2EhLwEL">Favorite Podcasts in January 2018</a></b></p>
+		<p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2FeaPHG">Favorite Podcasts of 2017</a></b></p>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+	<h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+		<br></br>
+	<h4>❖❖❖</h4>
+		<br></br>
+	<h4>YOU MIGHT ALSO LIKE:</h4>
+		<a className="three-up" href="/articles/favorite-podcasts-in-march-2018">
+		    <img src="/images/podcastsofmarch.png" alt="Podcasts in March" />
+		    <p className="centered">Favorite Podcasts in March 2018</p>
+		</a>
+	    <a className="three-up" href="/articles/favorite-podcasts-of-2017">
+	        <img src="/images/favoritepodcastsof2017.png" alt="Favorite Podcasts of 2017" />
+	        <p className="centered">Favorite Podcasts of 2017</p>
 	    </a>
-<br></br>
-<p>"On this podcast you will find candid conversations with the best artists and business professionals in the world. More information and content from the podcast can be found on Sara Dietschy's <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/user/saradietschy">YouTube channel</a>, <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/saradietschy">Twitter</a> & <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/saradietschy/">Instagram</a> (@SaraDietschy)</p>
-<p>I've been part of Sara's <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/explore/tags/peachyfam/">#peachyfam</a> for a while now and am a huge fan. She is a woman on a mission to promote creators and with her Creative Exchange series (also on <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/user/creativespacesTV">YouTube</a>) she does just that. It's awesome to see how diverse a guest list she brings along for really deep, interesting conversations. I learn something new with every episode! Her <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/user/saradietschy">YouTube channel</a> is also pretty awesome. Make sure you check it out!</p>
-<br></br>
-<h4>❖❖❖</h4>
-<br></br>
-<h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.asianbossgirl.com/">Asian Boss Girl</a></b></h4>
-<a target="_blank" rel="noopener noreferrer" href="https://www.asianbossgirl.com/">
-		<img className="portrait" src="/images/asianbossgirlpodcast.jpg" alt="Asian Boss Girl Podcast" />
+	    <a className="three-up" href="/articles/plane-podcasts-barcelona-edition">
+	        <img src="/images/planepodcasts-preview.png" alt="Plane Podcasts: Barcelona Edition" />
+	        <p className="centered">Plane Podcasts: Barcelona Edition</p>
 	    </a>
-<br></br>
-<p>"A podcast for the modern day Asian American woman hosted by Melody Cheng, Helen Wu, and Janet Wang. We started this podcast as an outlet for topics we are interested in, and for sharing stories we have as 20-30 something yr. old Asian American women working, dating, and living in Los Angeles."</p>
-<p>I discovered this thanks to Apple's recommendation during Asian Pacific American Heritage Month, and have been hooked ever since. They're currently between seasons but are staying really active on their <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/asianbossgirl/">Instagram Stories</a> still to give fun behind-the-scenes of their lives until next season starts. What I love about this podcast is the discussions about their Asian American identities. They talk about everything from being raised by Asian parents to dating, and as a Filipina American I find the topics extremely relatable.</p>
-<br></br>
-<h4>❖❖❖</h4>
-<br></br>
-<h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.theconfusedmillennial.com/podcast/">The Confused Millennial</a></b></h4>
-<a target="_blank" rel="noopener noreferrer" href="https://www.theconfusedmillennial.com/podcast/">
-		<img className="portrait" src="/images/theconfusedmillennialpodcast.jpg" alt="The Confused Millennial Podcast" />
-		</a>
-<br></br>
-<p>"Hosts Rachel Ritlop and Eric Dresdale share their experiences, advice, and wisdom as they've navigated their twenties and thirties. The podcast is for all confused millennials who are looking to embrace who they are while navigating this whole #adulting thing. Topics include career, entrepreneurship, self-care, finances, spirituality, and so much more."</p>
-<p>I started following Rachel on <a target="_blank" rel="noopener noreferrer" href="https://www.theconfusedmillennial.com/">The Confused Millenial</a> at least a year ago and her blog is amazing. Its content is important, high value, and honest. And the aesthetic is gorgeous. When she announced she would be starting a podcast I knew it would be just as great. After listening to the episodes, it's actually even better. Her content is deep, but the audio experience goes even deeper into topics she's discussed previously in her blog and also with her guests.</p>
-<br></br>
-<h4>❖❖❖</h4>
-<br></br>
-<h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.wildcozytruth.com/essays">Wild Cozy Truth with Renee M. Powers</a></b></h4>
-<a target="_blank" rel="noopener noreferrer" href="https://www.wildcozytruth.com/essays">
-		<img className="portrait" src="/images/wildcozytruthpodcast.jpg" alt="Wild Cozy Truth Podcast" />
-		</a>
-<br></br>
-<p>"A podcast for smart millennial women who are skeptical of the traditional personal development space. As a feminist life coach, I believe every woman has their truth to tell and together we’ll find strength in sharing and listening to them. Each week, I’ll share what’s on my mind in the form of a personal essay, often taken directly from the pages of my journal, then we’ll hear from the guest of the week. These guests bravely step up to the microphone for an interview to embody the core values of Wild Cozy Truth: that there is strength in vulnerability, courage in using your voice, power in community, and that authenticity is always the best policy."</p>
-<p>This may sound silly, but I feel like Renee and I could be coffee buddies if we lived in the same area. The content she shares in her essays are similar to my thought patterns, and her conversations with guests are spectacular and engaging. She brings in guests with diverse backgrounds who also have their own platforms so it's a great synergistic promotion while also digging deep into some not-so-common topics. After just a few episodes of listening, <a target="_blank" rel="noopener noreferrer" href="https://itunes.apple.com/us/podcast/wild-cozy-truth-renee-m-powers-podcast-for-smart-millennial/id1271855135?mt=2">Wild Cozy Truth</a> has become one of my favorites of all time. That's saying something!</p>
-<br></br>
-<h4>❖❖❖</h4>
-<br></br>
-<h4><b><a target="_blank" rel="noopener noreferrer" href="https://itunes.apple.com/us/podcast/hiding-in-the-bathroom/id1102773197?mt=2">Hiding in the Bathroom</a></b></h4>
-<a target="_blank" rel="noopener noreferrer" href="https://itunes.apple.com/us/podcast/hiding-in-the-bathroom/id1102773197?mt=2">
-		<img className="portrait" src="/images/hidinginthebathroompodcast.jpg" alt="Hiding in the Bathroom Podcast" />
-		</a>
-<br></br>
-<p>"Each week host Morra Aarons-Mele invites her favorite, most interesting friends and colleagues from politics, feminism, business media and psychology on to talk about creating the career and life you want, driving social change, smashing the patriarchy, and what to do when you want to hide in the bathroom. It's like a "nerdy dinner party conversation between two great minds."</p>
-<p>Introversion, feminism, and leadership. How much more perfect a combination could there be for a listener like me? I would love for Morra to be one of my life and career mentors. She deep dives into topics that are perfect for the ambitious, creative, multi-hyphenate introvert. I was hooked from the title of her show, considering as an introvert I have on a not-so-rare occasion hid in the bathroom to avoid small talk.</p>
-<br></br>
-<h4>❖❖❖</h4>
-<br></br>
-<h4><b><a target="_blank" rel="noopener noreferrer" href="https://itunes.apple.com/us/podcast/wabi-sabi-perfectly-imperfect-podcast-candice-kumai/id1388130977?mt=2">Wabi Sabi - The Perfectly Imperfect Podcast with Candice Kumai</a></b></h4>
-<a target="_blank" rel="noopener noreferrer" href="https://itunes.apple.com/us/podcast/hiding-in-the-bathroom/id1102773197?mt=2">
-		<img className="portrait" src="/images/wabisabipodcast.jpg" alt="Wabi Sabi Podcast" />
-		</a>
-<br></br>
-<p>"Coined 'the golden girl of wellness' by ELLE magazine, Candice Kumai, bestselling author, chef, wellness writer and former model shares with us her painfully-imperfect life lessons and experiences that have shaped her 15 year career in media, publishing, wellness, food, modeling and content creation."</p>
-<p>I got my first book from <a target="_blank" rel="noopener noreferrer" href="http://candicekumai.com/">Candice Kumai</a>, <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Pretty-Delicious-Lovely-Recipes-Healthy/dp/1605293504/">Pretty Delicious</a>, 6 years ago when I started pharmacy school in North Carolina. For years I've followed her platform and finally got to meet her just last month for a Matcha Masterclass at The Wing! She's even more amazing in person and when she announced her podcast on her <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/candicekumai/">Instagram</a>, I immediately subscribed. It's brand new, but her first two episodes she's set the stage for quite the story through her life and career journey. I'm definitely hooked to hear and learn from her experiences. Her SIXTH book was also just published, <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Kintsugi-Wellness-Japanese-Nourishing-Spirit/dp/0062669850/">Kintsugi Wellness</a>, and I highly recommend it!</p>
-<br></br>
-<h4>❖❖❖</h4>
-<br></br>
-<p>The more I dig into the podcast world, the more I realize that this platform is truly special. The ability to get your word out there in the archives is inspiring. Maybe I'll make my own someday... there's a thought! What are some of your favorite podcasts hosted by women? Share in the comments below!</p>
-<p>You can find my other podcast posts to date here:</p>
-	<p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2GKOMcN">Favorite Podcasts in March 2018</a></b></p>
-	<p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2oFVYiz">Favorite Podcasts in February 2018</a></b></p>
-	<p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2EhLwEL">Favorite Podcasts in January 2018</a></b></p>
-	<p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2FeaPHG">Favorite Podcasts of 2017</a></b></p>
-	<br></br>
-<h4>❖❖❖</h4>
-	<br></br>
-<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
-	<br></br>
-<h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
-	<br></br>
-<h4>❖❖❖</h4>
-	<br></br>
-<h4>YOU MIGHT ALSO LIKE:</h4>
-	<a className="three-up" href="/articles/favorite-podcasts-in-march-2018">
-	    <img src="/images/podcastsofmarch.png" alt="Podcasts in March" />
-	    <p className="centered">Favorite Podcasts in March 2018</p>
-	</a>
-    <a className="three-up" href="/articles/favorite-podcasts-of-2017">
-        <img src="/images/favoritepodcastsof2017.png" alt="Favorite Podcasts of 2017" />
-        <p className="centered">Favorite Podcasts of 2017</p>
-    </a>
-    <a className="three-up" href="/articles/plane-podcasts-barcelona-edition">
-        <img src="/images/planepodcasts-preview.png" alt="Plane Podcasts: Barcelona Edition" />
-        <p className="centered">Plane Podcasts: Barcelona Edition</p>
-    </a>
-</div>
-},
+	</div>
+	},
 
 {id: "19-before-2019-may-goals-update", title: <a href="/articles/19-before-2019-may-goals-update">19 Before 2019: May Goals Update</a>, date: "June 2, 2018", category: "Life", photo: "/images/maygoalsupdate2018-preview.png",  description: <div><p>My <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2mCwVg9">19 Goals Before 2019</a> post has been the most page on this site so far. Because of that, I decided to keep you all updated each month with my progress to ensure they weren't just goals made on a whim and show you how I plan to accomplish them, step-by-step. If you're enjoying this kind of content, be sure to let me know in the comment section! </p> <a href="/articles/19-before-2019-may-goals-update">[Read more]</a></div>,
 post: 
@@ -612,7 +612,7 @@ post:
 	</div>
 	},
 
-{id: "plane-podcasts-barcelona-edition", title: <a href="/articles/plane-podcasts-barcelona-edition">Plane Podcasts: Barcelona Edition</a>, date: "May 17, 2018", category: "Life", photo: "/images/planepodcasts-preview.png",  description: <div><p>I recently had vacation in Barcelona, Spain and my flight consisted mostly of listening to podcasts! If you've been following me for a while on this site, Twitter, or Instagram you know that podcasts are my thing. On Instagram Stories I share a lot of what I'm currently listening to and more immediate recommendations. Here, I share my monthly faves. Since I had marathon listening sessions on my 9-hour flights I thought I'd try something a little different and give you a run-down of all of them and how I rate them. </p> <a href="/articles/plane-podcasts-barcelona-edition">[Read more]</a></div>,
+{id: "plane-podcasts-barcelona-edition", title: <a href="/articles/plane-podcasts-barcelona-edition">Plane Podcasts: Barcelona Edition</a>, date: "May 17, 2018", category: "Podcasts", photo: "/images/planepodcasts-preview.png",  description: <div><p>I recently had vacation in Barcelona, Spain and my flight consisted mostly of listening to podcasts! If you've been following me for a while on this site, Twitter, or Instagram you know that podcasts are my thing. On Instagram Stories I share a lot of what I'm currently listening to and more immediate recommendations. Here, I share my monthly faves. Since I had marathon listening sessions on my 9-hour flights I thought I'd try something a little different and give you a run-down of all of them and how I rate them. </p> <a href="/articles/plane-podcasts-barcelona-edition">[Read more]</a></div>,
 post: 
 	<div>
 		<img src="/images/planepodcasts-preview.png" alt="Plane Podcasts" />
@@ -1208,7 +1208,7 @@ post:
 	</div>
 	},
 
-{id: "favorite-podcasts-in-march-2018", title: <a href="/articles/favorite-podcasts-in-march-2018">Favorite Podcasts in March</a>, date: "April 8, 2018", category: "Activism", photo: "/images/podcastsofmarch.png",  description: <div><p>March was Women's History Month, which resulted in so many podcasts being published about female empowerment. I also discovered some amazing new channels that I binge-listened multiple episodes in one sitting. From Boss Files to Bossed Up, check out my favorite podcasts of March relating to <b>empowerment</b>!</p> <a href="/articles/favorite-podcasts-in-march-2018">[Read more]</a></div>,
+{id: "favorite-podcasts-in-march-2018", title: <a href="/articles/favorite-podcasts-in-march-2018">Favorite Podcasts in March</a>, date: "April 8, 2018", category: "Podcasts", photo: "/images/podcastsofmarch.png",  description: <div><p>March was Women's History Month, which resulted in so many podcasts being published about female empowerment. I also discovered some amazing new channels that I binge-listened multiple episodes in one sitting. From Boss Files to Bossed Up, check out my favorite podcasts of March relating to <b>empowerment</b>!</p> <a href="/articles/favorite-podcasts-in-march-2018">[Read more]</a></div>,
 post: 
 	<div>
 	<img src="/images/podcastsofmarch.png" alt="Favorite Podcasts in March 2018" />
@@ -1570,7 +1570,7 @@ post:
 	</div>
 },
 
-{id: "favorite-podcasts-in-february-2018", title: <a href="/articles/favorite-podcasts-in-february-2018">Favorite Podcasts in February</a>, date: "February 27, 2018", category: "Activism", photo: "/images/podcastsoffebruary.png",  description: <div><p>February podcasts were all about love: love of self, love of one another, the cost of love, etc. Here are my absolute favorites from February, which includes new podcasts discoveries and topics on love, race, identity, and feminism. </p> <a href="/articles/favorite-podcasts-in-february-2018">[Read more]</a></div>,
+{id: "favorite-podcasts-in-february-2018", title: <a href="/articles/favorite-podcasts-in-february-2018">Favorite Podcasts in February</a>, date: "February 27, 2018", category: "Podcasts", photo: "/images/podcastsoffebruary.png",  description: <div><p>February podcasts were all about love: love of self, love of one another, the cost of love, etc. Here are my absolute favorites from February, which includes new podcasts discoveries and topics on love, race, identity, and feminism. </p> <a href="/articles/favorite-podcasts-in-february-2018">[Read more]</a></div>,
 post: 
 	<div>
 	<img src="/images/podcastsoffebruary.png" alt="Favorite Podcasts in February 2018" />
@@ -1640,54 +1640,54 @@ post:
 	<div>
 	<img src="/images/protest-preview.png" alt="Protest" />
 	<br></br>
-<p>A month ago, I had my first protesting experience at the Women's March in New York City. It was so empowering to be around thousands of other humans and animals in support of women's rights and equality. Since the first march, which I did not attend, I knew I wanted to be a part of it this year. And let me tell you - it did not disappoint.</p>
-<p>I learned so many things that day and I hope you can use these tips and pointers to optimize your protesting/march experience.</p>
-<h4>❖❖❖</h4>
-<p>1. <b>Get there early</b>. I made the mistake of getting to the Women's March a few minutes before it officially started. With how large it was I didn't get to start walking for over an hour. Oops! One benefit was that I got to stick to the outside of the crowd for fresh air and space.</p>
-<p>2. <b>Have a sign with a handle</b>. Holding a sign with one hand is more comfortable than two. I didn't have a handle on my sign and was jealous of everyone who did. It was hard to take pictures and send texts to others.</p>
-<p>3. <b>Have content on both sides of your sign</b>. I didn't realize this beforehand, but when it hit me I felt pretty silly. In a march, most people who see your sign are actually <b>behind you</b>. Yes, there are people on the sidelines cheering you on, but give a little something to fellow protesters behind you so they aren't staring at a blank sign the whole time.</p>
-<img className="two-up" src="/images/protest1.jpg" alt="Protest 1" />
-<img className="two-up" src="/images/protest2.jpg" alt="Protest 2" />
-<br></br>
-<p>4. <b>Be prepared for hecklers</b> - There's always a yin to the yang, especially in a protest. There is likely going to be others who are counter-protesting or will say/do things that attempt to weaken your protest. Always remember to stick to your "why" and march forward. You have support around you, lean on them.</p>
-<p>5. <b>Use the buddy system</b>. Emotions are high for everyone during a march, no matter what your views are and it's better to be safe than sorry. I went with a co-worker to the March and my boyfriend was home as my emergency contact. Because there were so many people at the Women's March my phone actually didn't work for most of it and my phone started draining quickly so I kept it on Airplane Mode to take pictures (see tip #9).</p>
-<p>6. <b>Talk with the people around you</b> - You know your "why", take the time to learn about others'. At the Women's March, it was so inspiring to chat with the people around me. We all have so many different experiences that add to our collective voice.</p>
-<p>7. <b>Take notes of what's on other signs</b> - You'll want to remember all of the creativity and cleverness on protest signs, but you won't. Take notes in your phone to write down ones you like! I had quite the list collected by the end that I can't wait to use as inspiration for my next protest. If you want me to share the list on this site, leave me a comment below!</p>
-<p>8. <b>Bring snacks + water</b>. Take a little backpack with you to put bottles of water and snacks. The Women's March was many hours, and there was lots of yelling and cheering. Stay hydrated and energized to fuel your activism.</p>
-<p>9. <b>Document the experience</b> - This should go without saying at this day and age, but nevertheless, definitely do it. I took both pictures and videos, saved Instagram Stories and Snapchats. </p>
-<p>10. <b>Share your story</b> - I'm hoping that years from now and generations to come I can still share my experience. By sharing your story and adding to the archives of activism, you are paying it forward and leading  by example. Channel your energy in to <b>action</b>. You never know, you may inspire other people to protest too.</p>
-<p>Protesting is powerful and inspiring. It's important to speak your truth, share your story, and exercise your right to free speech. I hope these tips help whether it's your first of your 100th protest.</p>
-<p>Have you been to a protest or march? If so, share your tips below for others to learn from!</p>
-<br></br>
-<h4>❖❖❖</h4>
-<br></br>
-<h4><b>tl;dr?</b></h4>
-<h4><b>PIN this image below!</b></h4>
-<img src="/images/protest-pinterest.png" alt="10 Tips for Protesting Pinterest" />
-<br></br>
-<h4>❖❖❖</h4>
-<br></br>
-<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
-<br></br>
-<h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
-<br></br>
-<h4>❖❖❖</h4>
-<br></br>
-<h4>YOU MIGHT ALSO LIKE:</h4>
-    <a className="three-up" href="/articles/feminist-book-list-winter-edition">
-        <img src="/images/feministbooklistwinter-preview.png" alt="Feminist Book List: The Winter Edition" />
-        <p className="centered">Feminist Book List: The Winter Edition</p>
-    </a>
-    <a className="three-up" href="/articles/hopeful-for-in-2018">
-        <img src="/images/hopefulfor2018.png" alt="HopefulFor2018" />
-        <p className="centered">Hopeful For in 2018</p>
-    </a>
-    <a className="three-up" href="/articles/favorite-podcasts-in-january-2018">
-        <img src="/images/podcastsofjanuary.png" alt="Favorite Podcasts of January 2018" />
-        <p className="centered">Favorite Podcasts of January 2018</p>
-    </a>
-</div>
-},
+	<p>A month ago, I had my first protesting experience at the Women's March in New York City. It was so empowering to be around thousands of other humans and animals in support of women's rights and equality. Since the first march, which I did not attend, I knew I wanted to be a part of it this year. And let me tell you - it did not disappoint.</p>
+	<p>I learned so many things that day and I hope you can use these tips and pointers to optimize your protesting/march experience.</p>
+	<h4>❖❖❖</h4>
+	<p>1. <b>Get there early</b>. I made the mistake of getting to the Women's March a few minutes before it officially started. With how large it was I didn't get to start walking for over an hour. Oops! One benefit was that I got to stick to the outside of the crowd for fresh air and space.</p>
+	<p>2. <b>Have a sign with a handle</b>. Holding a sign with one hand is more comfortable than two. I didn't have a handle on my sign and was jealous of everyone who did. It was hard to take pictures and send texts to others.</p>
+	<p>3. <b>Have content on both sides of your sign</b>. I didn't realize this beforehand, but when it hit me I felt pretty silly. In a march, most people who see your sign are actually <b>behind you</b>. Yes, there are people on the sidelines cheering you on, but give a little something to fellow protesters behind you so they aren't staring at a blank sign the whole time.</p>
+	<img className="two-up" src="/images/protest1.jpg" alt="Protest 1" />
+	<img className="two-up" src="/images/protest2.jpg" alt="Protest 2" />
+	<br></br>
+	<p>4. <b>Be prepared for hecklers</b> - There's always a yin to the yang, especially in a protest. There is likely going to be others who are counter-protesting or will say/do things that attempt to weaken your protest. Always remember to stick to your "why" and march forward. You have support around you, lean on them.</p>
+	<p>5. <b>Use the buddy system</b>. Emotions are high for everyone during a march, no matter what your views are and it's better to be safe than sorry. I went with a co-worker to the March and my boyfriend was home as my emergency contact. Because there were so many people at the Women's March my phone actually didn't work for most of it and my phone started draining quickly so I kept it on Airplane Mode to take pictures (see tip #9).</p>
+	<p>6. <b>Talk with the people around you</b> - You know your "why", take the time to learn about others'. At the Women's March, it was so inspiring to chat with the people around me. We all have so many different experiences that add to our collective voice.</p>
+	<p>7. <b>Take notes of what's on other signs</b> - You'll want to remember all of the creativity and cleverness on protest signs, but you won't. Take notes in your phone to write down ones you like! I had quite the list collected by the end that I can't wait to use as inspiration for my next protest. If you want me to share the list on this site, leave me a comment below!</p>
+	<p>8. <b>Bring snacks + water</b>. Take a little backpack with you to put bottles of water and snacks. The Women's March was many hours, and there was lots of yelling and cheering. Stay hydrated and energized to fuel your activism.</p>
+	<p>9. <b>Document the experience</b> - This should go without saying at this day and age, but nevertheless, definitely do it. I took both pictures and videos, saved Instagram Stories and Snapchats. </p>
+	<p>10. <b>Share your story</b> - I'm hoping that years from now and generations to come I can still share my experience. By sharing your story and adding to the archives of activism, you are paying it forward and leading  by example. Channel your energy in to <b>action</b>. You never know, you may inspire other people to protest too.</p>
+	<p>Protesting is powerful and inspiring. It's important to speak your truth, share your story, and exercise your right to free speech. I hope these tips help whether it's your first of your 100th protest.</p>
+	<p>Have you been to a protest or march? If so, share your tips below for others to learn from!</p>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4><b>tl;dr?</b></h4>
+	<h4><b>PIN this image below!</b></h4>
+	<img src="/images/protest-pinterest.png" alt="10 Tips for Protesting Pinterest" />
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+	<br></br>
+	<h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+	<br></br>
+	<h4>❖❖❖</h4>
+	<br></br>
+	<h4>YOU MIGHT ALSO LIKE:</h4>
+	    <a className="three-up" href="/articles/feminist-book-list-winter-edition">
+	        <img src="/images/feministbooklistwinter-preview.png" alt="Feminist Book List: The Winter Edition" />
+	        <p className="centered">Feminist Book List: The Winter Edition</p>
+	    </a>
+	    <a className="three-up" href="/articles/hopeful-for-in-2018">
+	        <img src="/images/hopefulfor2018.png" alt="HopefulFor2018" />
+	        <p className="centered">Hopeful For in 2018</p>
+	    </a>
+	    <a className="three-up" href="/articles/favorite-podcasts-in-january-2018">
+	        <img src="/images/podcastsofjanuary.png" alt="Favorite Podcasts of January 2018" />
+	        <p className="centered">Favorite Podcasts of January 2018</p>
+	    </a>
+	</div>
+	},
 
 {id: "10-affordable-date-night-ideas-in-nyc", title: <a href="/articles/10-affordable-date-night-ideas-in-nyc">10 Affordable Date Night Ideas in NYC</a>, date: "February 13, 2018", category: "Life", photo: "/images/affordabledatenight-preview.png",  description: <div><p>One thing you quickly learn either visiting or living in NYC is that it's really easy to spend money whether you want to or not. No matter the time of year, these budget-friendly date ideas are great options for you to do solo (#selflovematters) or with your loved one(s). These dates have been tested over and over with my significant other, and they never disappoint. </p> <a href="/articles/10-affordable-date-night-ideas-in-nyc">[Read more]</a></div>,
 post: 
@@ -1837,7 +1837,7 @@ post:
 	</div>
 },
 
-{id: "favorite-podcasts-in-january-2018", title: <a href="/articles/favorite-podcasts-in-january-2018">Favorite Podcasts in January</a>, date: "February 5, 2018", category: "Activism", photo: "/images/podcastsofjanuary.png",  description: <div><p>Last year, I started listening to podcasts as a way to get my morning news on the way to work. Then it pivoted to an avenue to expand my knowledge using auditory learning, and I'm developing quite the expansive subscription list. Here are my absolute favorites from January, which includes new podcasts discoveries and topics on politics, race, identity, and feminism. </p> <a href="/articles/favorite-podcasts-in-january-2018">[Read more]</a></div>,
+{id: "favorite-podcasts-in-january-2018", title: <a href="/articles/favorite-podcasts-in-january-2018">Favorite Podcasts in January</a>, date: "February 5, 2018", category: "Podcasts", photo: "/images/podcastsofjanuary.png",  description: <div><p>Last year, I started listening to podcasts as a way to get my morning news on the way to work. Then it pivoted to an avenue to expand my knowledge using auditory learning, and I'm developing quite the expansive subscription list. Here are my absolute favorites from January, which includes new podcasts discoveries and topics on politics, race, identity, and feminism. </p> <a href="/articles/favorite-podcasts-in-january-2018">[Read more]</a></div>,
 post: 
 	<div>
 	<img src="/images/podcastsofjanuary.png" alt="Favorite Podcasts in January 2018" />
@@ -1917,7 +1917,7 @@ post:
 
 
 {id: "5-things-i-loved-in-january-2018", title: <a href="/articles/5-things-i-loved-in-january-2018">5 Things I Loved in January</a>, date: "January 31, 2018", category: "Life", photo: "/images/centralparkonassis.jpg",  description: <div><p>This month felt like it went by faster than others. Do I say that every month?  After an amazing holiday season with family, New York City welcomed me back with frigid temperatures after a canceled flight due to the <a target="_blank" rel="noopener noreferrer" href="https://www.vox.com/science-and-health/2018/1/3/16845048/winter-storm-2018-bomb-cyclone-blizzard-florida-new-york-boston-new-england">bomb cyclone</a>. After that, the month was pleasant and filled with microadventures, activism, fitness, and learning. Check out my top 5 loves in January.</p> <a href="/articles/5-things-i-loved-in-january-2018">[Read more]</a></div>,
-	post: 
+post: 
 	<div>
 		<br></br>
 	<p>This month felt like it went by faster than others. Do I say that every month?  After an amazing holiday season with family, New York City welcomed me back with frigid temperatures after a canceled flight due to the <a target="_blank" rel="noopener noreferrer" href="https://www.vox.com/science-and-health/2018/1/3/16845048/winter-storm-2018-bomb-cyclone-blizzard-florida-new-york-boston-new-england">bomb cyclone</a>. After that, the month was pleasant and filled with microadventures, activism, fitness, and learning. Here are 5 things I loved in January!</p>
@@ -1973,7 +1973,8 @@ post:
 	</div>
 },
 
-{id: "everything-you-need-to-know-about-the-2018-womens-march", title: <a href="/articles/everything-you-need-to-know-about-the-2018-womens-march">Everything You Need To Know About The 2018 Women's March</a>, date: "January 17, 2018", category: "Activism", photo: "/images/womens-march-2018-preview.png",  description: <div>This weekend, millions of people across the gender spectrum will march for equality. Have questions about what it is, where it will be, and how to get involved? Look no further. <a href="/articles/everything-you-need-to-know-about-the-2018-womens-march">[Read more]</a></div>, post:
+{id: "everything-you-need-to-know-about-the-2018-womens-march", title: <a href="/articles/everything-you-need-to-know-about-the-2018-womens-march">Everything You Need To Know About The 2018 Women's March</a>, date: "January 17, 2018", category: "Activism", photo: "/images/womens-march-2018-preview.png",  description: <div>This weekend, millions of people across the gender spectrum will march for equality. Have questions about what it is, where it will be, and how to get involved? Look no further. <a href="/articles/everything-you-need-to-know-about-the-2018-womens-march">[Read more]</a></div>, 
+post:
 	<div>
 	<img src="/images/womens-march-2018-preview.png" alt="2018 Womens March" />
 	<p>I try not to have regrets, but one last year was definitely not participating in the Women's March. Oh, how I wish I could be part of the millions who marched in their pussy hats and scream, "This is what democracy looks like!" Looking at the pictures, published magazines and books, and hearing stories from others I experience some serious FOMO especially with the level of empowerment I feel now. Last year, I don't know how I didn't participate but the only excuse I have is the same one that caused me to black out from the world around me: residency.</p>
@@ -2030,7 +2031,8 @@ post:
 	</div>
 },
 
-{id: "topics-to-normalize-in-2018-periods", title: <a href="/articles/topics-to-normalize-in-2018-periods">Topics to Normalize in 2018: PERIODS</a>, date: "January 9, 2018", category: "Opinion", photo: "/images/normalizedconvoperiods.png",  description: <div>Many women are uncomfortable asking if fellow ladies have an extra tampon or pad. I was recently asked this by someone whispering in my ear, and I thought, "Wouldn't it be nice to live in a world where we can ask these things aloud and not feel embarrassed, or feel like others may feel uncomfortable?" There are consequences to the topic of periods being silenced in society. Read more to find out some ways to normalize conversation around periods and provide a platform for change. <a href="/articles/topics-to-normalize-in-2018-periods">[Read more]</a></div>, post:
+{id: "topics-to-normalize-in-2018-periods", title: <a href="/articles/topics-to-normalize-in-2018-periods">Topics to Normalize in 2018: PERIODS</a>, date: "January 9, 2018", category: "Opinion", photo: "/images/normalizedconvoperiods.png",  description: <div>Many women are uncomfortable asking if fellow ladies have an extra tampon or pad. I was recently asked this by someone whispering in my ear, and I thought, "Wouldn't it be nice to live in a world where we can ask these things aloud and not feel embarrassed, or feel like others may feel uncomfortable?" There are consequences to the topic of periods being silenced in society. Read more to find out some ways to normalize conversation around periods and provide a platform for change. <a href="/articles/topics-to-normalize-in-2018-periods">[Read more]</a></div>, 
+post:
 	<div>
 	<img src="/images/normalizedconvoperiods.png" alt="Topics to Normalize:Periods" />
 	<p>I spent a lot of 2017 reflecting on certain topics that are considered "taboo" and tried to figure out why they were categorized as such. I observed attitudes of different generations, genders, and races on topics that illicit visceral reactions, problematic thoughts, and conflicting conversation.</p>
@@ -2080,7 +2082,8 @@ post:
 	</div>
 },
 
-{id: "hopeful-for-in-2018", title: <a href="/articles/hopeful-for-in-2018">#HopefulFor</a>, date: "January 4, 2018", category: "Activism", photo: "/images/hopefulfor2018.png",  description: <div>The first time I saw the #HopefulFor tag was on Sheryl Sandberg's <a href="https://www.instagram.com/p/BdOMkSXBOTL/?hl=en&taken-by=sherylsandberg" target="_blank" rel="noopener noreferrer">Instagram</a>.  This inspired me to reflect what I'm hopeful for this year. I realized that there is a lot I'm hopeful for, and while this list may seem ambitious I hope to add to the archives of hopes and dreams for the future. <a href="/articles/hopeful-for-in-2018">[Read more]</a></div>, post:
+{id: "hopeful-for-in-2018", title: <a href="/articles/hopeful-for-in-2018">#HopefulFor</a>, date: "January 4, 2018", category: "Activism", photo: "/images/hopefulfor2018.png",  description: <div>The first time I saw the #HopefulFor tag was on Sheryl Sandberg's <a href="https://www.instagram.com/p/BdOMkSXBOTL/?hl=en&taken-by=sherylsandberg" target="_blank" rel="noopener noreferrer">Instagram</a>.  This inspired me to reflect what I'm hopeful for this year. I realized that there is a lot I'm hopeful for, and while this list may seem ambitious I hope to add to the archives of hopes and dreams for the future. <a href="/articles/hopeful-for-in-2018">[Read more]</a></div>, 
+post:
 	<div>
 	<img src="/images/hopefulfor2018.png" alt="Hopeful For 2018" />
 	<p>The first time I saw the #HopefulFor tag was on Sheryl Sandberg's <a href="https://www.instagram.com/p/BdOMkSXBOTL/?hl=en&taken-by=sherylsandberg" target="_blank" rel="noopener noreferrer">Instagram</a> where she said:</p>
@@ -2124,7 +2127,8 @@ post:
 	</div>
 },
 
-{id: "favorite-podcasts-of-2017", title: <a href="/articles/favorite-podcasts-of-2017">Favorite Podcasts of 2017</a>, date: "January 3, 2018", category: "Activism", photo: "/images/favoritepodcastsof2017.png",  description: <div>I know I'm really behind on the Podcast bandwagon, but now I can't get enough. I'm able to listen to episodes when I'm walking throughout the City and on the train and it lets me take my eyes off my phone while in transit. These were my favorite ones of the year, or at least last 5 months since moving to New York. <a href="/articles/favorite-podcasts-of-2017">[Read more]</a></div>, post:
+{id: "favorite-podcasts-of-2017", title: <a href="/articles/favorite-podcasts-of-2017">Favorite Podcasts of 2017</a>, date: "January 3, 2018", category: "Podcasts", photo: "/images/favoritepodcastsof2017.png",  description: <div>I know I'm really behind on the Podcast bandwagon, but now I can't get enough. I'm able to listen to episodes when I'm walking throughout the City and on the train and it lets me take my eyes off my phone while in transit. These were my favorite ones of the year, or at least last 5 months since moving to New York. <a href="/articles/favorite-podcasts-of-2017">[Read more]</a></div>, 
+post:
 	<div>
 	<img src="/images/favoritepodcastsof2017.png" alt="Favorite Podcasts of 2017" />
 	<p>I know I'm really behind on the Podcast bandwagon, but now I can't get enough. I'm able to listen to episodes when I'm walking throughout the City and on the train and it lets me take my eyes off my phone while in transit. Not only that, but it's a new avenue of content where I can improve my literacy on current events and cultural topics. These were my favorite ones of the year, or at least last 5 months since moving to New York.</p>
@@ -2265,379 +2269,379 @@ post:
 },
 
 {id: "5-things-i-loved-in-december-2017", title: <a href="/articles/5-things-i-loved-in-december-2017">5 Things I Loved in December</a>, date: "December 31, 2017", category: "Life", photo: "/images/lovedindecember.png",  description: <div>I remember it being the end of 2016 and thinking, "I can’t wait for 2016 to be over. It sucked." Now it’s a year later, and I find myself (and others) discussing how awful 2017 was and that it needs to be just over. There’s a lot happening in this country and around the world that make me feel angry, sad, and without hope for a good outcome. However, with the rise of evil has also creating a shift from complacency to activism, of non-belief to belief, and an overall resilience of hope. There are so many changes, opportunities, and adventures from 2017 that I have to be grateful for. December was filled with new experiences in New York City, and new life in my family. Here are 5 things I loved this month. <a href="/articles/5-things-i-loved-in-december-2017">[Read more]</a></div>, post:
-<div>
-<p>I remember it being the end of 2016 and thinking, “I can’t wait for 2016 to be over. It sucked.” Now it’s a year later, and I find myself (and others) discussing how awful 2017 was and that it needs to be just over. There’s a lot happening in this country and around the world that make me feel angry, sad, and without hope for a good outcome. However, with the rise of evil has also creating a shift from complacency to activism, of non-belief to belief, and an overall resilience of hope. There are so many changes, opportunities, and adventures from 2017 that I have to be grateful for.</p>
-<p>December was filled with new experiences in New York City, and new life in my family. Here are 5 things I loved this month.</p>
-<h4><b>new nephew.</b></h4>
-<img src="/images/babyzeke.jpg" alt="Baby Zeke" />
-<p>My nephew was born this month and I was so excited to meet this little bundle of joy! He’s teeny tiny but strong and makes fun faces. I can’t wait to introduce him to New York City someday.</p>
-<h4><b>overdrive app.</b></h4>
-<img src="/images/overdriveapp.png" alt="Overdrive App" />
-<p>I mentioned in <a href="https://coffeemeetspolished.com/articles/books-i-read-in-2017" target="_blank" rel="noopener noreferrer">“Books I Read in 2017”</a> that I’d just started getting into audiobooks. In fact, since posting that list I finished one more (Aziz Ansari’s Modern Romance). I discovered how to borrow audiobooks and e-books through the <a href= "https://app.overdrive.com/" target="_blank" rel="noopener noreferrer">Overdrive App</a> that connects to the <a href="https://www.nypl.org/" target="_blank" rel="noopener noreferrer">New York Public Library</a>. It’s been really amazing to be able to borrow these for free.</p>
-<h4><b>gopro hero 3+.</b></h4>
-<img src="/images/gopro.jpg" alt="Go Pro" />
-<p>Not sure why I never pulled this out even though we’ve had it for years but now I’m all about it. I love being able to discreetly record my experiences with wide angle. And especially while my phone gets filled up pretty easily.</p>
-<h4><b>foodventures with DŌ.</b></h4>
-<img src="/images/donyc.jpg" alt="DO NYC" />
-<p>One of this month’s foodventures was edible cookie dough at <a href="https://www.cookiedonyc.com/cookie-dough-confections/" target="_blank" rel="noopener noreferrer">DŌ NYC</a>. This particular flavor was Salty and Sweet (sugar cookie + salted caramel + dark chocolate chips + sea salt) and it was amazing. I took a few 8 oz. cartons home for my family and the traveled really well. Tip: freeze them first. I tried all of them raw, but the dough can also be baked.</p>
-<h4><b>amnh membership.</b></h4>
-<img src="/images/amnhmember.jpg" alt="AMNH Membership" />
-<p>We got a membership to American Museum of Natural History because there was a $20 discount during the holidays. Usually you pay what you want to enter but the membership helps to support the museum and gives you unlimited entry to temporary exhibits. This month we went into 
-<a href="https://www.amnh.org/global-business-development/traveling-exhibitions/our-senses-an-immersive-experience" target="_blank" rel="noopener noreferrer"> Our Senses</a> which was awesome. It was an immersive experience through all the senses of different animals. Would definitely recommend.</p>
-<p>What were some things you loved this December? I can’t wait to see what’s in store for 2018.</p>
-	<br></br>
-	<h4>❖❖❖</h4>
-	<br></br>
-	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
-	<br></br>
-</div>
-},
+	<div>
+	<p>I remember it being the end of 2016 and thinking, “I can’t wait for 2016 to be over. It sucked.” Now it’s a year later, and I find myself (and others) discussing how awful 2017 was and that it needs to be just over. There’s a lot happening in this country and around the world that make me feel angry, sad, and without hope for a good outcome. However, with the rise of evil has also creating a shift from complacency to activism, of non-belief to belief, and an overall resilience of hope. There are so many changes, opportunities, and adventures from 2017 that I have to be grateful for.</p>
+	<p>December was filled with new experiences in New York City, and new life in my family. Here are 5 things I loved this month.</p>
+	<h4><b>new nephew.</b></h4>
+	<img src="/images/babyzeke.jpg" alt="Baby Zeke" />
+	<p>My nephew was born this month and I was so excited to meet this little bundle of joy! He’s teeny tiny but strong and makes fun faces. I can’t wait to introduce him to New York City someday.</p>
+	<h4><b>overdrive app.</b></h4>
+	<img src="/images/overdriveapp.png" alt="Overdrive App" />
+	<p>I mentioned in <a href="https://coffeemeetspolished.com/articles/books-i-read-in-2017" target="_blank" rel="noopener noreferrer">“Books I Read in 2017”</a> that I’d just started getting into audiobooks. In fact, since posting that list I finished one more (Aziz Ansari’s Modern Romance). I discovered how to borrow audiobooks and e-books through the <a href= "https://app.overdrive.com/" target="_blank" rel="noopener noreferrer">Overdrive App</a> that connects to the <a href="https://www.nypl.org/" target="_blank" rel="noopener noreferrer">New York Public Library</a>. It’s been really amazing to be able to borrow these for free.</p>
+	<h4><b>gopro hero 3+.</b></h4>
+	<img src="/images/gopro.jpg" alt="Go Pro" />
+	<p>Not sure why I never pulled this out even though we’ve had it for years but now I’m all about it. I love being able to discreetly record my experiences with wide angle. And especially while my phone gets filled up pretty easily.</p>
+	<h4><b>foodventures with DŌ.</b></h4>
+	<img src="/images/donyc.jpg" alt="DO NYC" />
+	<p>One of this month’s foodventures was edible cookie dough at <a href="https://www.cookiedonyc.com/cookie-dough-confections/" target="_blank" rel="noopener noreferrer">DŌ NYC</a>. This particular flavor was Salty and Sweet (sugar cookie + salted caramel + dark chocolate chips + sea salt) and it was amazing. I took a few 8 oz. cartons home for my family and the traveled really well. Tip: freeze them first. I tried all of them raw, but the dough can also be baked.</p>
+	<h4><b>amnh membership.</b></h4>
+	<img src="/images/amnhmember.jpg" alt="AMNH Membership" />
+	<p>We got a membership to American Museum of Natural History because there was a $20 discount during the holidays. Usually you pay what you want to enter but the membership helps to support the museum and gives you unlimited entry to temporary exhibits. This month we went into 
+	<a href="https://www.amnh.org/global-business-development/traveling-exhibitions/our-senses-an-immersive-experience" target="_blank" rel="noopener noreferrer"> Our Senses</a> which was awesome. It was an immersive experience through all the senses of different animals. Would definitely recommend.</p>
+	<p>What were some things you loved this December? I can’t wait to see what’s in store for 2018.</p>
+		<br></br>
+		<h4>❖❖❖</h4>
+		<br></br>
+		<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+	</div>
+	},
 
 {id: "mental-health-resolutions-for-2018", title: <a href="/articles/mental-health-resolutions-for-2018">Mental Health Resolutions for 2018</a>, date: "December 27, 2017", category: "Wellness", photo: "/images/mentalhealthresolutions.png",  description: <div>There are a lot of people who don’t believe in doing resolutions for the new year. Either because of self-preservation from guilt after not achieving said resolutions or because it corners them into self-improvement goals once a year. I personally take any opportunity to have a fresh start, whether it's a calendar year, academic year, or transition between any major periods in life. It helps me to be able to compartmentalize my goals in this way. Regarding breaking these resolutions, let's face it, sometimes it's the thought and intent that counts. Or at least that's what I tell myself. Here’s a list of mental health resolutions, or some may call them intentions, for the upcoming year. <a href="/articles/mental-health-resolutions-for-2018">[Read More]</a></div>, post:
-<div>
-<img src="/images/mentalhealthresolutions.png" alt="Mental Health Resolutions" />
-<p>There are a lot of people who don’t believe in doing resolutions for the new year. Either because of self-preservation from guilt after not achieving said resolutions or because it corners them into self-improvement goals once a year.</p>
-<p>I personally take any opportunity to have a fresh start, whether it's a calendar year, academic year, or transition between any major periods in life. It helps me to be able to compartmentalize my goals in this way. Regarding breaking these resolutions, let's face it, sometimes it's the thought and intent that counts. Or at least that's what I tell myself.</p>
-<p>There are some real reasons that resolutions don't work. A lot of people will make resolutions that change their being. "I will be more..." sound familiar? The key to resolution success is to do them at a micro level and focus on habit-shifting. Make <a href= "https://coffeemeetspolished.com/articles/how-to-set-smart-goals-for-yourself" target="_blank" rel="noopener noreferrer">smarter</a> resolutions that are measurable and realistic. Focus on changing your defaults and autopilots and consider which ones you can have small wins that snowball into larger ones.</p>
-<p>This year was one focused on mental health survival (thank you, residency). In order to survive I first had to know myself, and thus self-awareness was at an all-time high. For 2018, I’m focusing on resolutions that promote better mental health.</p>
-<p>Here’s a list of mental health resolutions, or some may call them <b>intentions</b>, for the upcoming year:</p>
-<b><p className="tabbed">➢ Take a few breaths to absorb a moment before snapping a photo</p>
-<p className="tabbed">➢ Always spend half a day of your weekend with no plans except self-care activities</p>
-<p className="tabbed">➢ Spend 30 min reading at least 3 days per week</p>
-<p className="tabbed">➢ Don't use electronics for the final hour before going to sleep</p>
-<p className="tabbed">➢ Don't check your phone or emails while in bed when you wake up</p>
-<p className="tabbed">➢ Schedule a microadventure alone once per month</p>
-<p className="tabbed">➢ Every time you look at a news feed and feel <a href= "https://www.urbandictionary.com/define.php?term=fomo" target="_blank" rel="noopener noreferrer">FOMO</a>, think of one thing you are grateful for in your life in that moment</p>
-<p className="tabbed">➢ Become more vocal with my feelings and provide timely, productive feedback to others</p></b>
-<p>I hope these give you some ideas for the upcoming year. What are your mental health resolutions for 2018?</p>
-	<br></br>
-	<h4>❖❖❖</h4>
-	<br></br>
-	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
-	<br></br>
-</div>
-},
+	<div>
+	<img src="/images/mentalhealthresolutions.png" alt="Mental Health Resolutions" />
+	<p>There are a lot of people who don’t believe in doing resolutions for the new year. Either because of self-preservation from guilt after not achieving said resolutions or because it corners them into self-improvement goals once a year.</p>
+	<p>I personally take any opportunity to have a fresh start, whether it's a calendar year, academic year, or transition between any major periods in life. It helps me to be able to compartmentalize my goals in this way. Regarding breaking these resolutions, let's face it, sometimes it's the thought and intent that counts. Or at least that's what I tell myself.</p>
+	<p>There are some real reasons that resolutions don't work. A lot of people will make resolutions that change their being. "I will be more..." sound familiar? The key to resolution success is to do them at a micro level and focus on habit-shifting. Make <a href= "https://coffeemeetspolished.com/articles/how-to-set-smart-goals-for-yourself" target="_blank" rel="noopener noreferrer">smarter</a> resolutions that are measurable and realistic. Focus on changing your defaults and autopilots and consider which ones you can have small wins that snowball into larger ones.</p>
+	<p>This year was one focused on mental health survival (thank you, residency). In order to survive I first had to know myself, and thus self-awareness was at an all-time high. For 2018, I’m focusing on resolutions that promote better mental health.</p>
+	<p>Here’s a list of mental health resolutions, or some may call them <b>intentions</b>, for the upcoming year:</p>
+	<b><p className="tabbed">➢ Take a few breaths to absorb a moment before snapping a photo</p>
+	<p className="tabbed">➢ Always spend half a day of your weekend with no plans except self-care activities</p>
+	<p className="tabbed">➢ Spend 30 min reading at least 3 days per week</p>
+	<p className="tabbed">➢ Don't use electronics for the final hour before going to sleep</p>
+	<p className="tabbed">➢ Don't check your phone or emails while in bed when you wake up</p>
+	<p className="tabbed">➢ Schedule a microadventure alone once per month</p>
+	<p className="tabbed">➢ Every time you look at a news feed and feel <a href= "https://www.urbandictionary.com/define.php?term=fomo" target="_blank" rel="noopener noreferrer">FOMO</a>, think of one thing you are grateful for in your life in that moment</p>
+	<p className="tabbed">➢ Become more vocal with my feelings and provide timely, productive feedback to others</p></b>
+	<p>I hope these give you some ideas for the upcoming year. What are your mental health resolutions for 2018?</p>
+		<br></br>
+		<h4>❖❖❖</h4>
+		<br></br>
+		<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+	</div>
+	},
 
 {id: "feminist-book-list-winter-edition", title: <a href="/articles/feminist-book-list-winter-edition">Feminist Book List: The Winter Edition</a>, date: "December 26, 2017", category: "Activism", photo: "/images/feministbooklistwinter-preview.png",  description: <div>Reading has become my re-found love since moving to New York City. Now that I have the strength to place it on my priority list for mindfulness and wellbeing, I'm excited for a whole new world of opportunities to replenish my cultural bucket. I’ve also been going to different feminist events with insightful panelists and it has opened my eyes to the world of feminist literature. If you’re looking for a list to start with to embrace your feminist empowerment, keep on reading. <a href="/articles/feminist-book-list-winter-edition">[Read More]</a></div>, post:
-<div>
-<img src="/images/feministbooklistwinter.jpg" alt="Feminist Books Winter" />
-<p>Winter is here, which means unless I don't have to go outside it's hot tea and a book for me. What I love about feminist books is that it helps wake me up to issues I didn't realize existed because of my particular intersections and experiences. Also, it helps to put words to experiences I have feelings about but don't know how to express yet. And finally, sometimes I just want to know that I'm not alone.</p>
-<p>If you're one of my male readers, please don't think that because this is a "feminist list" that it's not for you. In fact, you should read some of these too. Every time I make progress in my books I discuss it with my boyfriend. It helps me to be able to share what I learn in a productive way, teaches him so he can join the movement (whether he realizes he is or not), and keeps me grounded if I start getting too deep in the trenches and think all men suck.</p>
-<p>I'm excited to start these next year and book club with you all. </p>
-<h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/0062362593/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062362593&linkCode=as2&tag=offeeeetsolis-20&linkId=7936989c0cff97867b0d13395bb8e5df">Hunger: A Memoir of (My) Body</a> by Roxane Gay</b></h4>
-<p>"New York Times bestselling author Roxane Gay has written with intimacy and sensitivity about food and bodies, using her own emotional and psychological struggles as a means of exploring our shared anxieties over pleasure, consumption, appearance, and health. As a woman who describes her own body as 'wildly undisciplined,' Roxane understands the tension between desire and denial, between self-comfort and self-care."</p>
-<h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/1501175564/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1501175564&linkCode=as2&tag=offeeeetsolis-20&linkId=ea6fdd5dd2838e89f767c754b9af6f43">What Happened</a> by Hillary Rodham Clinton</b></h4>
-<p>"For the first time, Hillary Rodham Clinton reveals what she was thinking and feeling during one of the most controversial and unpredictable presidential elections in history. Now free from the constraints of running, Hillary takes you inside the intense personal experience of becoming the first woman nominated for president by a major party in an election marked by rage, sexism, exhilarating highs and infuriating lows, stranger-than-fiction twists, Russian interference, and an opponent who broke all the rules. This is her most personal memoir yet."</p>
-<h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/150116919X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=150116919X&linkCode=as2&tag=offeeeetsolis-20&linkId=624a187b33720811d981f429bff7aa47">Girl Up: Kick Ass, Claim Your Woman Card, and Crush Everyday Sexism</a> by Laura Bates</b></h4>
-<p>"Already an international bestseller, this empowering survival guide provides no-nonsense advice on sex, social media, mental health, and sexism that young women face in their everyday life—from one of the emerging leaders in the feminist movement."</p>
-<h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/006223062X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=006223062X&linkCode=as2&tag=offeeeetsolis-20&linkId=e0a35aa0ce25719858c32550c84f2e18">The Confidence Code: The Science and Art of Self-Assurance---What Women Should Know</a> by Katty Kay and Claire Shipman</b></h4>
-<p>"Combining cutting-edge research in genetics, gender, behavior, and cognition—with examples from their own lives and those of other successful women in politics, media, and business—Kay and Shipman go beyond admonishing women to "lean in."Instead, they offer the inspiration and practical advice women need to close the gap and achieve the careers they want and deserve."</p>
-<h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/110191176X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=110191176X&linkCode=as2&tag=offeeeetsolis-20&linkId=6b19ea231970e9b78630b1aa20b9a80b">We Should All Be Feminists</a> by Chimamanda Ngozi Adichie</b></h4>
-<p>"The highly acclaimed, provocative New York Times bestseller—a personal, eloquently-argued essay, adapted from the much-admired TEDx talk of the same name—from Chimamanda Ngozi Adichie, award-winning author of Americanah. Here she offers readers a unique definition of feminism for the twenty-first century, one rooted in inclusion and awareness. Drawing extensively on her own experiences and her deep understanding of the often masked realities of sexual politics, here is one remarkable author’s exploration of what it means to be a woman now—and an of-the-moment rallying cry for why we should all be feminists."</p>
-<h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/1608464660/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1608464660&linkCode=as2&tag=offeeeetsolis-20&linkId=72e6bf6beacc8ae0bf38c58794a04a90">Men Explain Things to Me</a> by Rebecca Solnit</b></h4>
-<p>"In her comic, scathing essay, "Men Explain Things to Me," Rebecca Solnit took on what often goes wrong in conversations between men and women. She wrote about men who wrongly assume they know things and wrongly assume women don't, about why this arises, and how this aspect of the gender wars works, airing some of her own hilariously awful encounters."</p>
-<h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/0062666150/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062666150&linkCode=as2&tag=offeeeetsolis-20&linkId=3821a5bd6676052111b277ea3bbd0f9e">This Will Be My Undoing: Living at the Intersection of Black, Female, and Feminist in (White) America</a> by Morgan Jerkins (releases January 30, 2018)</b></h4>
-<p>"Morgan Jerkins is only in her twenties, but she has already established herself as an insightful, brutally honest writer who isn’t afraid of tackling tough, controversial subjects. In This Will Be My Undoing, she takes on perhaps one of the most provocative contemporary topics: What does it mean to “be”—to live as, to exist as—a black woman today? This is a book about black women, but it’s necessary reading for all Americans."</p>
-<h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/038549081X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=038549081X&linkCode=as2&tag=offeeeetsolis-20&linkId=a64119b228d2291e2dff956759e65210">The Handmaid's Tale</a> by Margaret Atwood</b></h4>
-<p>"Offred is a Handmaid in the Republic of Gilead. She may leave the home of the Commander and his wife once a day to walk to food markets whose signs are now pictures instead of words because women are no longer allowed to read. She must lie on her back once a month and pray that the Commander makes her pregnant, because in an age of declining births, Offred and the other Handmaids are valued only if their ovaries are viable. Offred can remember the days before, when she lived and made love with her husband Luke; when she played with and protected her daughter; when she had a job, money of her own, and access to knowledge. But all of that is gone now. Funny, unexpected, horrifying, and altogether convincing, The Handmaid's Tale is at once scathing satire, dire warning, and literary tour de force."</p>
-<h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/1455563927/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1455563927&linkCode=as2&tag=offeeeetsolis-20&linkId=6766539c9be5c670d97585dd78037c23">Pachinko</a> by Min Jin Lee</b></h4>
-<p>National Book Award Finalist, New York Times Book Review Top Ten of the Year, New York Times Notable Book of 2017, USA Today Top Ten of 2017</p>
-<p>New York Times Bestseller, #1 Boston Globe Bestseller, USA Today Bestseller</p>
-<p>Roxane Gay's Favorite Book of 2017, Washington Post</p>
-<p>"In this gorgeous, page-turning saga, four generations of a poor Korean immigrant family fight to control their destiny in 20th-century Japan, exiled from a home they never knew."</p>
-	<br></br>
-	<h4>❖❖❖</h4>
-	<br></br>
-	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
-	<br></br>
-	<h4>YOU MIGHT ALSO LIKE:</h4>
-    <a className="three-up" href="/articles/10-places-to-start-to-improve-your-feminism-literacy">
-        <img src="/images/feminismliteracy-preview.png" alt="10 Places to Start to Improve Your Feminism Literacy" />
-        <p className="centered">10 Places to Start to Improve Your Feminism Literacy</p>
-    </a>
-   	<a className="three-up" href="/articles/topics-to-normalize-in-2018-periods">
-        <img src="/images/normalizedconvoperiods.png" alt="Topics to Normalize in 2018 PERIODS" />
-        <p className="centered">Topics to Normalize in 2018: PERIODS</p>
-    </a>
-  	<a className="three-up" href="/articles/hopeful-for-in-2018">
-        <img src="/images/hopefulfor2018.png" alt="Hopeful For in 2018" />
-        <p className="centered">#HopefulFor in 2018</p>
-    </a>
-</div>
-},
-
-{id: "nyc-holiday-microadventures-city-trees-2017", title: <a href="/articles/nyc-holiday-microadventures-city-trees-2017">NYC Holiday Microadventures: City Trees</a>, date: "December 25, 2017", category: "Life", photo: "/images/nypltree-preview.png",  description: <div>I’ve learned that New York City makes Christmas a pretty big deal. Every neighborhood has its own tree lighting ceremony, each unique in its traditions and history. Major institutions throughout the city also unveil elaborate commissioned trees with intricate themes. I made it to a good number of trees this year. Here’s my list of them and which ones I would/wouldn’t check out again next year. <a href="/articles/nyc-holiday-microadventures-city-trees-2017">[Read More]</a></div>, post:
-<div>
-<img src="/images/winterseve.jpg" alt="Winters Eve Lincoln Center" />
-<p><b>Winter’s Eve at Lincoln Center.</b> I would definitely check this one out again. The tree lighting wasn’t so exciting except for the fact that Lea Salonga was the host and I got to hear her perform live for the first time ever. If you don’t know who Lea Salonga is, she was the voice of Mulan and Jasmine, and performed in the original cast for Les Misérables to name a few roles. What I really liked about this one was that it was an entire festival that spanned the surrounding areas of Columbus Circle and Lincoln Center. It had food, caroling, dance performances, ice sculpting, and more. I enjoyed being able to see what I wanted to at my own pace.</p>
-<img src="/images/centralparklighting.jpg" alt="Central Park Tree Lighting" />
-<p><b>Central Park Tree Lighting.</b> This one wasn’t so exciting. It was on the north part of Central Park and the “flotilla” consisted of a few trees in the distance. It was very local with some Santa photo ops and milk and cookies. Once the lights were on, it was over, and we went home. Would not repeat.</p>
-<img src="/images/bryantparkskatetacular.jpg" alt="Bryant Park Skate-tacular" />
-<p><b>Bryant Park Tree Lighting Skate-tacular.</b> With an event name like this one you can’t go wrong. This one was really spontaneous for me. I was looking at Facebook during my lunch break that day and saw the lineup of hosts and ice skating performers. Then I quickly decided that's what I was doing immediately after work. Hosted by Jane Krakowski (30 Rock, Unbreakable Kimmy Schmidt) and Olympic and World Champion skaters; including Johnny Weir, Kimmie Meissner, Meryl Davis, Charlie White, and Jeff Buttle. Prepare to get there hours early (with the sun still out) and post up at the edge of the rink. I was able to sit down with my back against the edge of the rink and read a book while everyone else started piling around me. #win. Oh, and YES to a repeat visit next year.</p>
-<img src="/images/rockefellertree.jpg" alt="Rockefeller Tree" />
-<p><b>Rockefeller Center Tree.</b> Please note that I did NOT attend the lighting. I decided that the only way I’ll do it is if I get tickets to see the performers pre-record on the ice rink. Instead I went a couple of weeks later. Please also note that no matter when you go, it WILL be crowded. The crowds just don’t die down around here. It’s also probably because the Saks Fifth Avenue Light Show is right in front of it so it’s double the tourists. This tree has the nostalgia factor for me but it’s also quite beautifully set up with the light angels too. Would go see again next year.</p>
-<img src="/images/washingtonsquareparktree.jpg" alt="Washington Square Park Tree" />
-<p><b>Washington Square Park Tree.</b> This is a tree-lighting I had on my list because it included Christmas caroling and I like Washing Square Park. However, that day I just didn’t feel like it (remember, you have to pace yourself in New York City otherwise you’ll risk holiday burnout). Instead, I went a few weeks later to see it. It was disappointing. Not a great tree with only one color of lights and no ornaments. Now before you get all Charlie Brown Christmas on me, I am all for trees that just needs someone to love it. But this tree was a good tree that didn’t get any love and thus was disappointing. Would not repeat just seeing it next year. But I would like to sing Christmas carols for the lighting next year.</p>
-<img src="/images/origamitree.jpg" alt="AMNH Origami Tree" />
-<p><b>American Museum of Natural History Origami Tree.</b>This tree looks really overwhelming when you first see it, but allot at least 15 minutes to really soak it in. It’s filled with intricate origami pieces that look like they took hours to make each one. They have different themes grouped together to emulate the sections in the museum. It was amazing. Definitely take a look at this one if you get the chance and see the rest of the museum while you’re at it. I’ll warn you it’s not the easiest to find, but if you’re walking through the dino’s you’re in the right direction.</p>
-<img src="/images/nypltree.jpg" alt="NYPL Tree" />
-<p><b>New York Public Library Tree.</b> Checking this one out was inspired by good ol’ Instagram. It looked beautiful in pictures and I love the Mid-Manhattan branch. Would definitely check this out but wouldn’t go out of my way to do it. If you’re around Bryant Park definitely take the extra walk over.</p>
-<p>The trees on my list I didn’t get to see include the Metropolitan Museum and Park Avenue. That's what next year is for. By then, there will be more discovered ceremonies.</p>
-<p>Merry Christmas!</p>
-	<br></br>
-	<h4>❖❖❖</h4>
-	<br></br>
-	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
-	<br></br>
-</div>
-},
-
-{id: "books-i-read-in-2017", title: <a href="/articles/books-i-read-in-2017">Books I Read in 2017</a>, date: "December 24, 2017", category: "Wellness", photo: "/images/reading2017.jpg",  description: <div>I’ve finally gotten back into the habit of reading. It’s what I do on the train and a little bit right when I get home so I don’t succumb to the black hole that is evening news until I’ve at least finished an extra chapter. I really enjoy the quiet mindfulness that reading affords me. Since half of this year was taken up by residency, I didn’t think I was able to read that much in 2017. However, it turns out there’s a decent number on the list. If you’re looking for some inspiration of what to put on your reading queue, check this out. <a href="/articles/books-i-read-in-2017">[Read More]</a></div>, post:
-<div>
-<img src="/images/reading2017.jpg" alt="Reading 2017" />
-<p>Reading is an activity that has remained dormant in my life for many years. Growing up, I always had stacks of books on the docket to read. I would read in the car on road trips (luckily didn’t get car sick), and relied on the headlights from cars behind me once the sun went down. In college, there was too much going on around me to re-engage in reading. Pharmacy school was the same, and residency thereafter. I always thought it was merely an excuse to be “too busy” to read but now that I’m finished with my official training, I realize there is a lot of be said about being stretched to the limits. Now, I have the autonomy and space to make the choice to read again.</p>
-<p>I’ve finally gotten back into the habit of reading. It’s what I do on the train and a little bit right when I get home so I don’t succumb to the black hole that is evening news until I’ve at least finished an extra chapter. I really enjoy the quiet mindfulness that reading affords me. Since half of this year was taken up by residency, I didn’t think I was able to read that much in 2017; however when I looked at my shelf there were a few I managed to squeeze in, mostly thanks to the New York City move.</p>
-<p>1. <b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/1422186431/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1422186431&linkCode=as2&tag=offeeeetsolis-20&linkId=578a078d3d2aa94a845d7bb85f4f8fd2">Leading Change</a> by John Kotter.</b> This was a required reading in seminar for one of my MS courses this year. We read it in sections each week and presented them throughout the semester in a divide-and-conquer approach. This was of particular interest to me because I believe mastering the change process is one of the most important and foundational skills as a leader. This book goes into objective steps to take and mindsets to foster within teams to promote successful and sustaining change.</p>
-<p>2. <b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/081298840X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=081298840X&linkCode=as2&tag=offeeeetsolis-20&linkId=c9aa9cb4cd56867f0df164b566115409">When Breath Becomes Air</a> by Paul Kalanithi.</b> This was a requirement in my residency when we had a guest presenter. It was a quick read, able to finish in one sitting. The author provides an incredible story of going from health care professional to patient, and how to come to grips with the reality of how evidence-based medicine applies when you’re facing death. It will change your life forever.</p>
-<p>3. <b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/0312430000/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0312430000&linkCode=as2&tag=offeeeetsolis-20&linkId=d01ba2ca18dffa9013f2d6fa0c21498a">The Checklist Manifesto: How to Get Things Right</a> by Atul Gawande.</b> This was a book that was recommended by one of my residency preceptors. I didn’t end up reading it until after residency was over, but it was one that I’m glad I did. It walks us through the value of a simple checklist for the most complex of tasks. After reading this, I’m encouraged to maintain checklists for tasks in my own life.</p>
-<p>4. <b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/0307352153/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307352153&linkCode=as2&tag=offeeeetsolis-20&linkId=28392165222937cc7dd5b5d8e46fada4">Quiet: The Power of Introverts in a World That Can't Stop Talking</a> by Susan Cain.</b> Reading this book was like reading my autobiography. Not only did I learn a lot more about introversion (and extroversion), but I learned the facets of me I thought needed to be “fixed” were actually introvert traits that the dominant culture around me is still trying to figure out how to integrate for success. I will forever refer to parts of this book when explaining parts of my identity and encourage both introverts and extroverts to read it. Introverts, to feel more confident in our own skin; and extroverts, to help be change agents in cultivating strengths of introverts.</p>
-<p>5. <b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/1422188612/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1422188612&linkCode=as2&tag=offeeeetsolis-20&linkId=4bbf9874e9f167cf2fbe5ac88f01a802">The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter</a> by Michael Watkins.</b> I’ve talked about this book briefly when I wrote about <a href="https://coffeemeetspolished.com/articles/10-tips-for-orienting-yourself-to-a-new-job" target="_blank" rel="noopener noreferrer">orienting to a new job</a> and <a href="https://coffeemeetspolished.com/articles/orienting-yourself-to-a-new-job-90-day-update" target="_blank" rel="noopener noreferrer">the 90-day orientation update</a>. I read this during my time off between residency and my first job here in New York City. When I went to manager orientation at work, one of the activities was preparing for orientation. I said I read this book and they were so impressed I knew about it. It’s definitely a staple for any career transition.</p>
-<p>6. <b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/0062282719/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062282719&linkCode=as2&tag=offeeeetsolis-20&linkId=1cf4fa6a48127ed660261704f6f5ab9d">Bad Feminist: Essays</a> by Roxane Gay.</b> This was my first book written with a focus on feminism and women’s rights. I chose this one out of the many out there after reading the description in my local bookstore, <a href="http://www.bookculture.com/" target="_blank" rel="noopener noreferrer">Book Culture</a>. What attracted me was the premise of the writer being a flawed human and flawed feminist, with genuine intentions to fight for what’s right. I love how she can say so much with such few words. And I aspire to embrace my flaws as she does while continuing my quest to fight for what I believe in.</p>
-<p>7. <b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/0345408160/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0345408160&linkCode=as2&tag=offeeeetsolis-20&linkId=f08cc9205c46cf09bbfebceadb5b73ac">My Life on the Road</a> by Gloria Steinem.</b> This was next on my list of feminist books because I have only recently learned about <a href="http://www.gloriasteinem.com/" target="_blank" rel="noopener noreferrer">Gloria Steinem</a> and her impact as an women’s rights organizer. As I delve into history to improve my feminism literacy, she is one of the many essential figures to learn from in order to grow as an informed, balanced, and strong activist. In her latest book, she describes traveling as the essential thread to her resilience, hope, and open-mindedness. This certainly speaks to this Millenial feminist's wanderlust heart.</p>
-<p>8. <b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/006226835X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=006226835X&linkCode=as2&tag=offeeeetsolis-20&linkId=e0d0015a246cb54e6f145dc8c5da7d8b">Yes Please</a> by Amy Poehler</b> (via audiobook). Amy’s book was my first dabble into the audiobook world, and I think it was the perfect choice to do so. It was basically storytime with Amy Poehler. And who doesn’t love that? It was funny, insightful, and had a lot of great guest readers like her parents and Seth Meyers.</p>
-<p>9. <b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/0307886271/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307886271&linkCode=as2&tag=offeeeetsolis-20&linkId=d6e3b0f18909fddbe30c640c918ff22a">Is Everyone Hanging Out Without Me? (And Other Concerns)</a> by Mindy Kaling</b> (via audiobook). Once I finished Amy Poehler’s audiobook, I knew I had to listen to Mindy Kaling’s next. It was a little more relatable because of the parents-of-immigrants factor we both share. Plus, who doesn’t love The Office?</p>
-<p>10. <b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/1501117203/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1501117203&linkCode=as2&tag=offeeeetsolis-20&linkId=2322fc3a69a3787f2662dc7718bd05a7">Scrappy Little Nobody</a> by Anna Kendrick</b> (via audiobook). This was my last audiobook of the year, and my favorite I think of the three. I related to Anna Kendrick the most and found her wit and humor the most realistic to my age group. I finished this one just in time to watch Pitch Perfect 3.</p>
-<p>I recommend all of the books I read this year. They’ve each served a different purpose in my journey to learn more about myself and the world around me. Now that I’ve learned I can indeed finish a book again, I’m working on my [much longer] list of books for 2018.</p>
-	<br></br>
-	<h4>❖❖❖</h4>
-	<br></br>
-	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
-	<br></br>
-</div>
-},
-
-{id: "my-family-planning-journey", title: <a href="/articles/my-family-planning-journey">My Family Planning Journey</a>, date: "December 22, 2017", category: "Activism", photo: "/images/familyplanningpreview.png",  description: <div>Today, I share my contraceptive journey with you on my one-year anniversary of my intrauterine device  (IUD) and at the end of a year filled with the <a href="https://www.nytimes.com/2017/10/05/us/politics/trump-birth-control.html" target="_blank" rel="noopener noreferrer">government moving backwards</a> by reducing birth control access and family planning resources for women. A woman’s choice and access to family planning means the choice of family and career. It’s not easy to make these choices with or without government- and culture-imposed barriers. Until ALL women have the choices they need, the decision between family and career (and as a result, financial independence) will continue to be a gap in this country. <a href="/articles/my-family-planning-journey">[Read More]</a></div>, post:
-<div>
-<img src="/images/familyplanning.jpg" alt="Family Planning" />
-<p>Today, I share my contraceptive journey with you on the one-year anniversary of my intrauterine device  (IUD) and at the end of a year filled with the <a href="https://www.nytimes.com/2017/10/05/us/politics/trump-birth-control.html" target="_blank" rel="noopener noreferrer">government moving backwards</a> by reducing birth control access and family planning resources for women.</p>
-<h4><b>the why.</b></h4>
-<p>I’ve been one some form of contraception since I was 17 years old (now I’m 28). For many years while I was on my parent’s insurance, I was able to pick up my oral contraceptives (OCP’s) with a low co-pay, and sometimes without any co-pay. Now that I’m on my own insurance, and not having to pay for contraception each month thanks to the IUD, I am even more grateful for prescription/medical benefits. When I think about the women who desire access to family planning and then the government instills beliefs based on religion to prevent this access, I find myself frustrated to say the least. But I also find myself empowered to fight for women to have the same privileges as me. And by the way, having access to family planning should not be a privilege, it is be a right.</p>
-<p>It’s my hope that sharing my journey will inspire others to do the same. By sharing my story, I want other women to know that you’re not alone in their frustrations in finding the right medications and methods. You’re not alone in feeling confused and overwhelmed with all of the options that are out there, and worried you may not be able to afford or even get the resources you need for contraception.</p>
-<p>For my male readers, I hope this gives you some insight into the complexities of what seems simple on the outside. This is not intended to claim that men don’t attempt to understand what women go through, but rather a pragmatic “you just have to be there” approach. Unfortunately, I believe that until biology changes for men to have the same emotional, financial, physical concerns of getting pregnant, empathy has its limitations. Which is a big thing for me to say because I have quite the capacity for empathy. I'll make the bold statement of speaking on behalf of women and say that the way men can help women with family planning is to stay out of our way. And to know that sex isn't just for you.</p>
-<p>We need to raise awareness of the emotional, financial, and physical sacrifices and obstacles women face every day to ensure we have the choice to have children if and when we desire. Women need to feel comfortable discussing sexual health and safe sex practices for ourselves. Here’s my contribution to the conversation.</p>
-<h4><b>physical barrier contraception.</b></h4>
-<p>Condoms, condoms, condoms. The rubber we're taught to apply in high school, and taught in pharmacy school to counsel others to do the same. There’s a lot of pressure from men/boys not to wear them. And when I was a teenager and in my early 20's, I felt guilty that it "didn't feel as good" for guys to wear it. Now that I'm 28, I wish I could teach my younger self to teach these guys a lesson and stop enabling this controlling behavior. But alas, hormones and the need to check off "losing virginity" off the list and desire for companionship, or whatever other fantasy exists of being an "adult", takes over. In time, I decided to take it into my own hands and take oral contraceptives. As  young as I was, I should have been empowered to make stronger stances on their use. But we all learn in one way or another.</p>
-<h4><b>plan b.</b></h4>
-<p>I wonder if there's a survey published to compare the slut-shaming severity between a woman's number of sexual partners vs. number of times a woman has used Plan B. Ladies and gentlemen, I've used this method more than once. I've used it with people I wasn't in a relationship with, and ones that I was. Sometimes I told them so they could split the bill with me, and sometimes I didn't because I didn't want to tell them I wasn't on OCP's at the time. I feel lucky that I became sexually active when Plan B became over the counter and the age of restriction was expanded/lifted.</p>
-<p>The reality is, buying this product isn't fun. The first time, I did it by myself and paced around the pharmacy for what felt life forever before purchasing it. And even then, I couldn't look the pharmacist in the eye. Women should not feel this way when purchasing anything unless it is financial irresponsible or damaging to others. When I think about it, it's amazing that women have been conditioned to feel this way when people purchase guns don't.</p>
-<h4><b>oral hormonal contraception.</b></h4>
-<p>I wasn’t very good at taking these. I set alarms, and would snooze them, and then forget. I would double up a lot. In hindsight, I should have switched to other forms like the patch, depo shot, or Nuvaring but I liked the idea of having the physical act of taking the pill. It wasn’t an easy journey to find my right hormone combination. There were times I thought, “Why do I have to be the one to take this?”, “Why do I have to be the one to pay for this instead of my partner?”, and “I don’t want to take this, but I don’t trust him to do what needs to be done so I want to be in control of it.”</p>
-<p>I went through a total of three different pills before finding the one with the financial, emotional, and physical fit. I also learned how sensitive you can be between generics of the same medicine. As a pharmacist, I found this fascinating. As a woman, I found this extremely frustrating:</p>
-<p>➢ <b>Apri</b>: This one was cash only because I didn’t want to put it on my parent’s insurance at first. It was recommended by the student health clinic in college because it had the cheapest cash price. I used it for multiple months and along the way I found myself not feeling myself. I was feeling sad and crying all the time, to the point where I couldn’t talk myself out of it and wanted to see a therapist. It was then one of my friends suggested it might be my birth control. Also along this timeline, I decided that I was going to get prescriptions with my parent’s insurance to have different options and once I told student health about my symptoms, we tried a different one.</p>
-<p>➢ <b>Lutera</b>: This one did not affect my mood, but it did give me insanely painful cramps during my period. We’re talking crouching in the shower in pain because of my midsection being exposed to cold air. I dealt with it for months thinking it would go away. But it didn’t. So this time I went to my family physician in my hometown.</p>
-<p>➢ <b>Ocella</b>: My family physician was able to identify that the ratio of hormones in the Lutera can cause the symptoms I was experiencing, so he prescribed me Ocella. This was the Goldilocks moment I was waiting for. I had no physical symptoms of cramps, not did I experience the mood changes that were noticeable/unbearable. I was on this one for years, throughout pharmacy school and residency.</p>
-<p>➢ <b>Different generic to Ocella (forgot the name)</b>: In November 2016, my pharmacy changed my Ocella to a different generic with the same hormonal ratio, known as a “generic-to-generic substitution” which is automatically allowed at the pharmacy. I was on it for a few weeks and my mood changed almost immediately. Even in the toughest parts of residency, the change Ocella to a different generic was the saddest I had been in that mentally difficult two years. I was disinterested, hopeless, and my confidence was non-existent. The timing was tough as it was at the start of job-hunting season. Once I got off of this to pursue the IUD (see below), it felt like a ton of weight lifted off my shoulders and dark clouds became replaced with sunlight in my mind.</p>
-<p>The advice I would give is that if you’re feeling different than usual, consider your birth control. I’ve not met a person who found the right fit with the first try. Listen to your body, listen to your mind, and keep yourself accountable by asking questions of any changes to your baseline function.</p>
-<h4><b>intrauterine devices.</b></h4>
-<p>In December, 2016, when I went into clinic for a renewal I told them about my migraines with aura and realized I shouldn’t have been on estrogen-containing contraceptives at all because of the increased risk for stroke. This came at a surprise that shouldn’t have been, which goes to show that even as a pharmacist it’s hard to take care of yourself without the help of others. I was presented with intrauterine device (IUD) options and discussed them with my boyfriend. I wanted to include him in the conversation in order to update him on why the changes were made, and what it would mean for our family planning future. This was the official end of the oral contraceptive pill portion of my contraceptive journey.</p>
-<p>I quickly got an appointment for the <a href="https://www.mirena-us.com/" target="_blank" rel="noopener noreferrer">Mirena ® IUD</a> (a progestin product) and was told to take ibuprofen 800 mg the morning of the outpatient procedure. I followed this, but it was not enough. It was incredibly painful, an internal pain that I’d not experienced before. I clenched my sheets on the clinic bed until it was over. What I also didn’t realize was how painful the cramps would be afterwards. I made it to my car and my boyfriend had to pick me up (we would get my car later that day) as I laid in the back seat in fetal position. I subsequently laid in bed trying not to move for a couple of hours so as to not induce more cramps inadvertently. I recall telling my boyfriend, “I don’t think I ever want kids if it’s worse than this.”</p>
-<p>If you’re considering the IUD, I’m not trying scare you away from it but rather trying to be honest and transparent. As rough as it was, now I know I could have had some muscle relaxants to help with the subsequent cramps so make sure you ask! And now that I’ve had it for one year, I wouldn’t go back to anything else. It’s too easy to forget pills (I proved this multiple times), <a href="https://www.nuvaring.com/" target="_blank" rel="noopener noreferrer"> the Nuvaring</a> could fall out, and the <a href="https://www.plannedparenthood.org/learn/birth-control/birth-control-shot" target="_blank" rel="noopener noreferrer">Depo-Provera</a> intramuscular shot makes you gain weight. I like the idea that the IUD lasts years and is immediately reversible without ingesting hormones. And as a plus, most people stop having their period after ~6 months (this has happened to me, too).</p>
-<p>As another side benefit, going on the IUD is actually what sparked my interest in skin care this year. When I was on OCP’s, my skin was clear. And I knew that if I went off, my breakouts would come back. So as a result, I embarked on a journey to take better care of my skin for long term benefits and a new mindfulness activity.</p>
-<h4><b>family planning resources.</b></h4>
-<p>It doesn’t matter what your political or cultural/religious affiliations are, Planned Parenthood has a ton of great information and resources for women on sexual health topics including abortion, birth control, emergency contraception, cancer, pregnancy, sexually transmitted infections (STI’s), and more. You can learn more about the <a href="https://www.plannedparenthood.org/learn/birth-control" target="_blank" rel="noopener noreferrer">different categories of contraception</a> on the Planned Parenthood website.</p>
-<p>Other resources:</p>
-<p className="tabbed">➢ <a href="https://www.reproductiveaccess.org/wp-content/uploads/2014/06/contra_choices.pdf" target="_blank" rel="noopener noreferrer">Table given to me by a family medicine physician</a>.<br></br>
-➢ <a href="https://secure.ppaction.org/site/Advocacy?cmd=display&page=UserAction&id=21938" target="_blank" rel="noopener noreferrer">Here’s a link to sign a petition to make your opinion heard</a>.<br></br> 
-➢ <a href="https://itunes.apple.com/us/app/id1039914781?mt=8 " target="_blank" rel="noopener noreferrer">An app called “Spot On”</a> that allows you to track your period and birth control with reminds to stay on top of your birth control method and track your cycle.</p>
-<h4><b>the bottom line.</b></h4>
-<p>A woman’s choice and access to family planning means the choice of family and career. Individual institutions and states are progressing forward with resources like paid family leave, paternity leave, and more. Massachusetts recently became the first state to <a href= "https://www.npr.org/2017/11/20/565430858/massachusetts-set-to-approve-law-protecting-access-to-birth-control" target="_blank" rel="noopener noreferrer">guarantee free access to birth control</a> for all. But until ALL women have the choices they need, the decision between family and career (and as a result, financial independence) will continue to be a gap in this country.</p>
-<p>It’s not easy to make these choices with or without government- and culture-imposed barriers. Why make it harder for women to make independent choices? When will the woman’s body cease to be a political and cultural punching bag? Until I no longer need to ask these questions, I will continue to try and shift the conversation and fight for the women who continue to lose out.</p>
-	<br></br>
-	<h4>❖❖❖</h4>
-	<br></br>
-	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
-	<br></br>
+	<div>
+	<img src="/images/feministbooklistwinter.jpg" alt="Feminist Books Winter" />
+	<p>Winter is here, which means unless I don't have to go outside it's hot tea and a book for me. What I love about feminist books is that it helps wake me up to issues I didn't realize existed because of my particular intersections and experiences. Also, it helps to put words to experiences I have feelings about but don't know how to express yet. And finally, sometimes I just want to know that I'm not alone.</p>
+	<p>If you're one of my male readers, please don't think that because this is a "feminist list" that it's not for you. In fact, you should read some of these too. Every time I make progress in my books I discuss it with my boyfriend. It helps me to be able to share what I learn in a productive way, teaches him so he can join the movement (whether he realizes he is or not), and keeps me grounded if I start getting too deep in the trenches and think all men suck.</p>
+	<p>I'm excited to start these next year and book club with you all. </p>
+	<h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/0062362593/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062362593&linkCode=as2&tag=offeeeetsolis-20&linkId=7936989c0cff97867b0d13395bb8e5df">Hunger: A Memoir of (My) Body</a> by Roxane Gay</b></h4>
+	<p>"New York Times bestselling author Roxane Gay has written with intimacy and sensitivity about food and bodies, using her own emotional and psychological struggles as a means of exploring our shared anxieties over pleasure, consumption, appearance, and health. As a woman who describes her own body as 'wildly undisciplined,' Roxane understands the tension between desire and denial, between self-comfort and self-care."</p>
+	<h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/1501175564/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1501175564&linkCode=as2&tag=offeeeetsolis-20&linkId=ea6fdd5dd2838e89f767c754b9af6f43">What Happened</a> by Hillary Rodham Clinton</b></h4>
+	<p>"For the first time, Hillary Rodham Clinton reveals what she was thinking and feeling during one of the most controversial and unpredictable presidential elections in history. Now free from the constraints of running, Hillary takes you inside the intense personal experience of becoming the first woman nominated for president by a major party in an election marked by rage, sexism, exhilarating highs and infuriating lows, stranger-than-fiction twists, Russian interference, and an opponent who broke all the rules. This is her most personal memoir yet."</p>
+	<h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/150116919X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=150116919X&linkCode=as2&tag=offeeeetsolis-20&linkId=624a187b33720811d981f429bff7aa47">Girl Up: Kick Ass, Claim Your Woman Card, and Crush Everyday Sexism</a> by Laura Bates</b></h4>
+	<p>"Already an international bestseller, this empowering survival guide provides no-nonsense advice on sex, social media, mental health, and sexism that young women face in their everyday life—from one of the emerging leaders in the feminist movement."</p>
+	<h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/006223062X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=006223062X&linkCode=as2&tag=offeeeetsolis-20&linkId=e0a35aa0ce25719858c32550c84f2e18">The Confidence Code: The Science and Art of Self-Assurance---What Women Should Know</a> by Katty Kay and Claire Shipman</b></h4>
+	<p>"Combining cutting-edge research in genetics, gender, behavior, and cognition—with examples from their own lives and those of other successful women in politics, media, and business—Kay and Shipman go beyond admonishing women to "lean in."Instead, they offer the inspiration and practical advice women need to close the gap and achieve the careers they want and deserve."</p>
+	<h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/110191176X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=110191176X&linkCode=as2&tag=offeeeetsolis-20&linkId=6b19ea231970e9b78630b1aa20b9a80b">We Should All Be Feminists</a> by Chimamanda Ngozi Adichie</b></h4>
+	<p>"The highly acclaimed, provocative New York Times bestseller—a personal, eloquently-argued essay, adapted from the much-admired TEDx talk of the same name—from Chimamanda Ngozi Adichie, award-winning author of Americanah. Here she offers readers a unique definition of feminism for the twenty-first century, one rooted in inclusion and awareness. Drawing extensively on her own experiences and her deep understanding of the often masked realities of sexual politics, here is one remarkable author’s exploration of what it means to be a woman now—and an of-the-moment rallying cry for why we should all be feminists."</p>
+	<h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/1608464660/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1608464660&linkCode=as2&tag=offeeeetsolis-20&linkId=72e6bf6beacc8ae0bf38c58794a04a90">Men Explain Things to Me</a> by Rebecca Solnit</b></h4>
+	<p>"In her comic, scathing essay, "Men Explain Things to Me," Rebecca Solnit took on what often goes wrong in conversations between men and women. She wrote about men who wrongly assume they know things and wrongly assume women don't, about why this arises, and how this aspect of the gender wars works, airing some of her own hilariously awful encounters."</p>
+	<h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/0062666150/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062666150&linkCode=as2&tag=offeeeetsolis-20&linkId=3821a5bd6676052111b277ea3bbd0f9e">This Will Be My Undoing: Living at the Intersection of Black, Female, and Feminist in (White) America</a> by Morgan Jerkins (releases January 30, 2018)</b></h4>
+	<p>"Morgan Jerkins is only in her twenties, but she has already established herself as an insightful, brutally honest writer who isn’t afraid of tackling tough, controversial subjects. In This Will Be My Undoing, she takes on perhaps one of the most provocative contemporary topics: What does it mean to “be”—to live as, to exist as—a black woman today? This is a book about black women, but it’s necessary reading for all Americans."</p>
+	<h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/038549081X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=038549081X&linkCode=as2&tag=offeeeetsolis-20&linkId=a64119b228d2291e2dff956759e65210">The Handmaid's Tale</a> by Margaret Atwood</b></h4>
+	<p>"Offred is a Handmaid in the Republic of Gilead. She may leave the home of the Commander and his wife once a day to walk to food markets whose signs are now pictures instead of words because women are no longer allowed to read. She must lie on her back once a month and pray that the Commander makes her pregnant, because in an age of declining births, Offred and the other Handmaids are valued only if their ovaries are viable. Offred can remember the days before, when she lived and made love with her husband Luke; when she played with and protected her daughter; when she had a job, money of her own, and access to knowledge. But all of that is gone now. Funny, unexpected, horrifying, and altogether convincing, The Handmaid's Tale is at once scathing satire, dire warning, and literary tour de force."</p>
+	<h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/1455563927/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1455563927&linkCode=as2&tag=offeeeetsolis-20&linkId=6766539c9be5c670d97585dd78037c23">Pachinko</a> by Min Jin Lee</b></h4>
+	<p>National Book Award Finalist, New York Times Book Review Top Ten of the Year, New York Times Notable Book of 2017, USA Today Top Ten of 2017</p>
+	<p>New York Times Bestseller, #1 Boston Globe Bestseller, USA Today Bestseller</p>
+	<p>Roxane Gay's Favorite Book of 2017, Washington Post</p>
+	<p>"In this gorgeous, page-turning saga, four generations of a poor Korean immigrant family fight to control their destiny in 20th-century Japan, exiled from a home they never knew."</p>
+		<br></br>
+		<h4>❖❖❖</h4>
+		<br></br>
+		<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
 		<h4>YOU MIGHT ALSO LIKE:</h4>
-	    <a className="three-up" href="/articles/Topics to Normalize in 2018:PERIODS">
-	        <img src="/images/normalizedconvoperiods.png" alt="Topics to Normalize in 2018:PERIODS" />
-	        <p className="centered">Topics to Normalize in 2018:PERIODS</p>
-	    </a>
 	    <a className="three-up" href="/articles/10-places-to-start-to-improve-your-feminism-literacy">
 	        <img src="/images/feminismliteracy-preview.png" alt="10 Places to Start to Improve Your Feminism Literacy" />
 	        <p className="centered">10 Places to Start to Improve Your Feminism Literacy</p>
 	    </a>
-	    <a className="three-up" href="/articles/feminist-book-list-winter-edition">
-	        <img src="/images/feministbooklistwinter-preview.png" alt="Feminist Book List: The Winter Edition" />
-	        <p className="centered">Feminist Book List: The Winter Edition</p>
+	   	<a className="three-up" href="/articles/topics-to-normalize-in-2018-periods">
+	        <img src="/images/normalizedconvoperiods.png" alt="Topics to Normalize in 2018 PERIODS" />
+	        <p className="centered">Topics to Normalize in 2018: PERIODS</p>
 	    </a>
-</div>
-},
+	  	<a className="three-up" href="/articles/hopeful-for-in-2018">
+	        <img src="/images/hopefulfor2018.png" alt="Hopeful For in 2018" />
+	        <p className="centered">#HopefulFor in 2018</p>
+	    </a>
+	</div>
+	},
+
+{id: "nyc-holiday-microadventures-city-trees-2017", title: <a href="/articles/nyc-holiday-microadventures-city-trees-2017">NYC Holiday Microadventures: City Trees</a>, date: "December 25, 2017", category: "Life", photo: "/images/nypltree-preview.png",  description: <div>I’ve learned that New York City makes Christmas a pretty big deal. Every neighborhood has its own tree lighting ceremony, each unique in its traditions and history. Major institutions throughout the city also unveil elaborate commissioned trees with intricate themes. I made it to a good number of trees this year. Here’s my list of them and which ones I would/wouldn’t check out again next year. <a href="/articles/nyc-holiday-microadventures-city-trees-2017">[Read More]</a></div>, post:
+	<div>
+	<img src="/images/winterseve.jpg" alt="Winters Eve Lincoln Center" />
+	<p><b>Winter’s Eve at Lincoln Center.</b> I would definitely check this one out again. The tree lighting wasn’t so exciting except for the fact that Lea Salonga was the host and I got to hear her perform live for the first time ever. If you don’t know who Lea Salonga is, she was the voice of Mulan and Jasmine, and performed in the original cast for Les Misérables to name a few roles. What I really liked about this one was that it was an entire festival that spanned the surrounding areas of Columbus Circle and Lincoln Center. It had food, caroling, dance performances, ice sculpting, and more. I enjoyed being able to see what I wanted to at my own pace.</p>
+	<img src="/images/centralparklighting.jpg" alt="Central Park Tree Lighting" />
+	<p><b>Central Park Tree Lighting.</b> This one wasn’t so exciting. It was on the north part of Central Park and the “flotilla” consisted of a few trees in the distance. It was very local with some Santa photo ops and milk and cookies. Once the lights were on, it was over, and we went home. Would not repeat.</p>
+	<img src="/images/bryantparkskatetacular.jpg" alt="Bryant Park Skate-tacular" />
+	<p><b>Bryant Park Tree Lighting Skate-tacular.</b> With an event name like this one you can’t go wrong. This one was really spontaneous for me. I was looking at Facebook during my lunch break that day and saw the lineup of hosts and ice skating performers. Then I quickly decided that's what I was doing immediately after work. Hosted by Jane Krakowski (30 Rock, Unbreakable Kimmy Schmidt) and Olympic and World Champion skaters; including Johnny Weir, Kimmie Meissner, Meryl Davis, Charlie White, and Jeff Buttle. Prepare to get there hours early (with the sun still out) and post up at the edge of the rink. I was able to sit down with my back against the edge of the rink and read a book while everyone else started piling around me. #win. Oh, and YES to a repeat visit next year.</p>
+	<img src="/images/rockefellertree.jpg" alt="Rockefeller Tree" />
+	<p><b>Rockefeller Center Tree.</b> Please note that I did NOT attend the lighting. I decided that the only way I’ll do it is if I get tickets to see the performers pre-record on the ice rink. Instead I went a couple of weeks later. Please also note that no matter when you go, it WILL be crowded. The crowds just don’t die down around here. It’s also probably because the Saks Fifth Avenue Light Show is right in front of it so it’s double the tourists. This tree has the nostalgia factor for me but it’s also quite beautifully set up with the light angels too. Would go see again next year.</p>
+	<img src="/images/washingtonsquareparktree.jpg" alt="Washington Square Park Tree" />
+	<p><b>Washington Square Park Tree.</b> This is a tree-lighting I had on my list because it included Christmas caroling and I like Washing Square Park. However, that day I just didn’t feel like it (remember, you have to pace yourself in New York City otherwise you’ll risk holiday burnout). Instead, I went a few weeks later to see it. It was disappointing. Not a great tree with only one color of lights and no ornaments. Now before you get all Charlie Brown Christmas on me, I am all for trees that just needs someone to love it. But this tree was a good tree that didn’t get any love and thus was disappointing. Would not repeat just seeing it next year. But I would like to sing Christmas carols for the lighting next year.</p>
+	<img src="/images/origamitree.jpg" alt="AMNH Origami Tree" />
+	<p><b>American Museum of Natural History Origami Tree.</b>This tree looks really overwhelming when you first see it, but allot at least 15 minutes to really soak it in. It’s filled with intricate origami pieces that look like they took hours to make each one. They have different themes grouped together to emulate the sections in the museum. It was amazing. Definitely take a look at this one if you get the chance and see the rest of the museum while you’re at it. I’ll warn you it’s not the easiest to find, but if you’re walking through the dino’s you’re in the right direction.</p>
+	<img src="/images/nypltree.jpg" alt="NYPL Tree" />
+	<p><b>New York Public Library Tree.</b> Checking this one out was inspired by good ol’ Instagram. It looked beautiful in pictures and I love the Mid-Manhattan branch. Would definitely check this out but wouldn’t go out of my way to do it. If you’re around Bryant Park definitely take the extra walk over.</p>
+	<p>The trees on my list I didn’t get to see include the Metropolitan Museum and Park Avenue. That's what next year is for. By then, there will be more discovered ceremonies.</p>
+	<p>Merry Christmas!</p>
+		<br></br>
+		<h4>❖❖❖</h4>
+		<br></br>
+		<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+	</div>
+	},
+
+{id: "books-i-read-in-2017", title: <a href="/articles/books-i-read-in-2017">Books I Read in 2017</a>, date: "December 24, 2017", category: "Wellness", photo: "/images/reading2017.jpg",  description: <div>I’ve finally gotten back into the habit of reading. It’s what I do on the train and a little bit right when I get home so I don’t succumb to the black hole that is evening news until I’ve at least finished an extra chapter. I really enjoy the quiet mindfulness that reading affords me. Since half of this year was taken up by residency, I didn’t think I was able to read that much in 2017. However, it turns out there’s a decent number on the list. If you’re looking for some inspiration of what to put on your reading queue, check this out. <a href="/articles/books-i-read-in-2017">[Read More]</a></div>, post:
+	<div>
+	<img src="/images/reading2017.jpg" alt="Reading 2017" />
+	<p>Reading is an activity that has remained dormant in my life for many years. Growing up, I always had stacks of books on the docket to read. I would read in the car on road trips (luckily didn’t get car sick), and relied on the headlights from cars behind me once the sun went down. In college, there was too much going on around me to re-engage in reading. Pharmacy school was the same, and residency thereafter. I always thought it was merely an excuse to be “too busy” to read but now that I’m finished with my official training, I realize there is a lot of be said about being stretched to the limits. Now, I have the autonomy and space to make the choice to read again.</p>
+	<p>I’ve finally gotten back into the habit of reading. It’s what I do on the train and a little bit right when I get home so I don’t succumb to the black hole that is evening news until I’ve at least finished an extra chapter. I really enjoy the quiet mindfulness that reading affords me. Since half of this year was taken up by residency, I didn’t think I was able to read that much in 2017; however when I looked at my shelf there were a few I managed to squeeze in, mostly thanks to the New York City move.</p>
+	<p>1. <b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/1422186431/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1422186431&linkCode=as2&tag=offeeeetsolis-20&linkId=578a078d3d2aa94a845d7bb85f4f8fd2">Leading Change</a> by John Kotter.</b> This was a required reading in seminar for one of my MS courses this year. We read it in sections each week and presented them throughout the semester in a divide-and-conquer approach. This was of particular interest to me because I believe mastering the change process is one of the most important and foundational skills as a leader. This book goes into objective steps to take and mindsets to foster within teams to promote successful and sustaining change.</p>
+	<p>2. <b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/081298840X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=081298840X&linkCode=as2&tag=offeeeetsolis-20&linkId=c9aa9cb4cd56867f0df164b566115409">When Breath Becomes Air</a> by Paul Kalanithi.</b> This was a requirement in my residency when we had a guest presenter. It was a quick read, able to finish in one sitting. The author provides an incredible story of going from health care professional to patient, and how to come to grips with the reality of how evidence-based medicine applies when you’re facing death. It will change your life forever.</p>
+	<p>3. <b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/0312430000/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0312430000&linkCode=as2&tag=offeeeetsolis-20&linkId=d01ba2ca18dffa9013f2d6fa0c21498a">The Checklist Manifesto: How to Get Things Right</a> by Atul Gawande.</b> This was a book that was recommended by one of my residency preceptors. I didn’t end up reading it until after residency was over, but it was one that I’m glad I did. It walks us through the value of a simple checklist for the most complex of tasks. After reading this, I’m encouraged to maintain checklists for tasks in my own life.</p>
+	<p>4. <b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/0307352153/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307352153&linkCode=as2&tag=offeeeetsolis-20&linkId=28392165222937cc7dd5b5d8e46fada4">Quiet: The Power of Introverts in a World That Can't Stop Talking</a> by Susan Cain.</b> Reading this book was like reading my autobiography. Not only did I learn a lot more about introversion (and extroversion), but I learned the facets of me I thought needed to be “fixed” were actually introvert traits that the dominant culture around me is still trying to figure out how to integrate for success. I will forever refer to parts of this book when explaining parts of my identity and encourage both introverts and extroverts to read it. Introverts, to feel more confident in our own skin; and extroverts, to help be change agents in cultivating strengths of introverts.</p>
+	<p>5. <b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/1422188612/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1422188612&linkCode=as2&tag=offeeeetsolis-20&linkId=4bbf9874e9f167cf2fbe5ac88f01a802">The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter</a> by Michael Watkins.</b> I’ve talked about this book briefly when I wrote about <a href="https://coffeemeetspolished.com/articles/10-tips-for-orienting-yourself-to-a-new-job" target="_blank" rel="noopener noreferrer">orienting to a new job</a> and <a href="https://coffeemeetspolished.com/articles/orienting-yourself-to-a-new-job-90-day-update" target="_blank" rel="noopener noreferrer">the 90-day orientation update</a>. I read this during my time off between residency and my first job here in New York City. When I went to manager orientation at work, one of the activities was preparing for orientation. I said I read this book and they were so impressed I knew about it. It’s definitely a staple for any career transition.</p>
+	<p>6. <b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/0062282719/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062282719&linkCode=as2&tag=offeeeetsolis-20&linkId=1cf4fa6a48127ed660261704f6f5ab9d">Bad Feminist: Essays</a> by Roxane Gay.</b> This was my first book written with a focus on feminism and women’s rights. I chose this one out of the many out there after reading the description in my local bookstore, <a href="http://www.bookculture.com/" target="_blank" rel="noopener noreferrer">Book Culture</a>. What attracted me was the premise of the writer being a flawed human and flawed feminist, with genuine intentions to fight for what’s right. I love how she can say so much with such few words. And I aspire to embrace my flaws as she does while continuing my quest to fight for what I believe in.</p>
+	<p>7. <b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/0345408160/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0345408160&linkCode=as2&tag=offeeeetsolis-20&linkId=f08cc9205c46cf09bbfebceadb5b73ac">My Life on the Road</a> by Gloria Steinem.</b> This was next on my list of feminist books because I have only recently learned about <a href="http://www.gloriasteinem.com/" target="_blank" rel="noopener noreferrer">Gloria Steinem</a> and her impact as an women’s rights organizer. As I delve into history to improve my feminism literacy, she is one of the many essential figures to learn from in order to grow as an informed, balanced, and strong activist. In her latest book, she describes traveling as the essential thread to her resilience, hope, and open-mindedness. This certainly speaks to this Millenial feminist's wanderlust heart.</p>
+	<p>8. <b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/006226835X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=006226835X&linkCode=as2&tag=offeeeetsolis-20&linkId=e0d0015a246cb54e6f145dc8c5da7d8b">Yes Please</a> by Amy Poehler</b> (via audiobook). Amy’s book was my first dabble into the audiobook world, and I think it was the perfect choice to do so. It was basically storytime with Amy Poehler. And who doesn’t love that? It was funny, insightful, and had a lot of great guest readers like her parents and Seth Meyers.</p>
+	<p>9. <b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/0307886271/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307886271&linkCode=as2&tag=offeeeetsolis-20&linkId=d6e3b0f18909fddbe30c640c918ff22a">Is Everyone Hanging Out Without Me? (And Other Concerns)</a> by Mindy Kaling</b> (via audiobook). Once I finished Amy Poehler’s audiobook, I knew I had to listen to Mindy Kaling’s next. It was a little more relatable because of the parents-of-immigrants factor we both share. Plus, who doesn’t love The Office?</p>
+	<p>10. <b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/1501117203/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1501117203&linkCode=as2&tag=offeeeetsolis-20&linkId=2322fc3a69a3787f2662dc7718bd05a7">Scrappy Little Nobody</a> by Anna Kendrick</b> (via audiobook). This was my last audiobook of the year, and my favorite I think of the three. I related to Anna Kendrick the most and found her wit and humor the most realistic to my age group. I finished this one just in time to watch Pitch Perfect 3.</p>
+	<p>I recommend all of the books I read this year. They’ve each served a different purpose in my journey to learn more about myself and the world around me. Now that I’ve learned I can indeed finish a book again, I’m working on my [much longer] list of books for 2018.</p>
+		<br></br>
+		<h4>❖❖❖</h4>
+		<br></br>
+		<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+	</div>
+	},
+
+{id: "my-family-planning-journey", title: <a href="/articles/my-family-planning-journey">My Family Planning Journey</a>, date: "December 22, 2017", category: "Activism", photo: "/images/familyplanningpreview.png",  description: <div>Today, I share my contraceptive journey with you on my one-year anniversary of my intrauterine device  (IUD) and at the end of a year filled with the <a href="https://www.nytimes.com/2017/10/05/us/politics/trump-birth-control.html" target="_blank" rel="noopener noreferrer">government moving backwards</a> by reducing birth control access and family planning resources for women. A woman’s choice and access to family planning means the choice of family and career. It’s not easy to make these choices with or without government- and culture-imposed barriers. Until ALL women have the choices they need, the decision between family and career (and as a result, financial independence) will continue to be a gap in this country. <a href="/articles/my-family-planning-journey">[Read More]</a></div>, post:
+	<div>
+	<img src="/images/familyplanning.jpg" alt="Family Planning" />
+	<p>Today, I share my contraceptive journey with you on the one-year anniversary of my intrauterine device  (IUD) and at the end of a year filled with the <a href="https://www.nytimes.com/2017/10/05/us/politics/trump-birth-control.html" target="_blank" rel="noopener noreferrer">government moving backwards</a> by reducing birth control access and family planning resources for women.</p>
+	<h4><b>the why.</b></h4>
+	<p>I’ve been one some form of contraception since I was 17 years old (now I’m 28). For many years while I was on my parent’s insurance, I was able to pick up my oral contraceptives (OCP’s) with a low co-pay, and sometimes without any co-pay. Now that I’m on my own insurance, and not having to pay for contraception each month thanks to the IUD, I am even more grateful for prescription/medical benefits. When I think about the women who desire access to family planning and then the government instills beliefs based on religion to prevent this access, I find myself frustrated to say the least. But I also find myself empowered to fight for women to have the same privileges as me. And by the way, having access to family planning should not be a privilege, it is be a right.</p>
+	<p>It’s my hope that sharing my journey will inspire others to do the same. By sharing my story, I want other women to know that you’re not alone in their frustrations in finding the right medications and methods. You’re not alone in feeling confused and overwhelmed with all of the options that are out there, and worried you may not be able to afford or even get the resources you need for contraception.</p>
+	<p>For my male readers, I hope this gives you some insight into the complexities of what seems simple on the outside. This is not intended to claim that men don’t attempt to understand what women go through, but rather a pragmatic “you just have to be there” approach. Unfortunately, I believe that until biology changes for men to have the same emotional, financial, physical concerns of getting pregnant, empathy has its limitations. Which is a big thing for me to say because I have quite the capacity for empathy. I'll make the bold statement of speaking on behalf of women and say that the way men can help women with family planning is to stay out of our way. And to know that sex isn't just for you.</p>
+	<p>We need to raise awareness of the emotional, financial, and physical sacrifices and obstacles women face every day to ensure we have the choice to have children if and when we desire. Women need to feel comfortable discussing sexual health and safe sex practices for ourselves. Here’s my contribution to the conversation.</p>
+	<h4><b>physical barrier contraception.</b></h4>
+	<p>Condoms, condoms, condoms. The rubber we're taught to apply in high school, and taught in pharmacy school to counsel others to do the same. There’s a lot of pressure from men/boys not to wear them. And when I was a teenager and in my early 20's, I felt guilty that it "didn't feel as good" for guys to wear it. Now that I'm 28, I wish I could teach my younger self to teach these guys a lesson and stop enabling this controlling behavior. But alas, hormones and the need to check off "losing virginity" off the list and desire for companionship, or whatever other fantasy exists of being an "adult", takes over. In time, I decided to take it into my own hands and take oral contraceptives. As  young as I was, I should have been empowered to make stronger stances on their use. But we all learn in one way or another.</p>
+	<h4><b>plan b.</b></h4>
+	<p>I wonder if there's a survey published to compare the slut-shaming severity between a woman's number of sexual partners vs. number of times a woman has used Plan B. Ladies and gentlemen, I've used this method more than once. I've used it with people I wasn't in a relationship with, and ones that I was. Sometimes I told them so they could split the bill with me, and sometimes I didn't because I didn't want to tell them I wasn't on OCP's at the time. I feel lucky that I became sexually active when Plan B became over the counter and the age of restriction was expanded/lifted.</p>
+	<p>The reality is, buying this product isn't fun. The first time, I did it by myself and paced around the pharmacy for what felt life forever before purchasing it. And even then, I couldn't look the pharmacist in the eye. Women should not feel this way when purchasing anything unless it is financial irresponsible or damaging to others. When I think about it, it's amazing that women have been conditioned to feel this way when people purchase guns don't.</p>
+	<h4><b>oral hormonal contraception.</b></h4>
+	<p>I wasn’t very good at taking these. I set alarms, and would snooze them, and then forget. I would double up a lot. In hindsight, I should have switched to other forms like the patch, depo shot, or Nuvaring but I liked the idea of having the physical act of taking the pill. It wasn’t an easy journey to find my right hormone combination. There were times I thought, “Why do I have to be the one to take this?”, “Why do I have to be the one to pay for this instead of my partner?”, and “I don’t want to take this, but I don’t trust him to do what needs to be done so I want to be in control of it.”</p>
+	<p>I went through a total of three different pills before finding the one with the financial, emotional, and physical fit. I also learned how sensitive you can be between generics of the same medicine. As a pharmacist, I found this fascinating. As a woman, I found this extremely frustrating:</p>
+	<p>➢ <b>Apri</b>: This one was cash only because I didn’t want to put it on my parent’s insurance at first. It was recommended by the student health clinic in college because it had the cheapest cash price. I used it for multiple months and along the way I found myself not feeling myself. I was feeling sad and crying all the time, to the point where I couldn’t talk myself out of it and wanted to see a therapist. It was then one of my friends suggested it might be my birth control. Also along this timeline, I decided that I was going to get prescriptions with my parent’s insurance to have different options and once I told student health about my symptoms, we tried a different one.</p>
+	<p>➢ <b>Lutera</b>: This one did not affect my mood, but it did give me insanely painful cramps during my period. We’re talking crouching in the shower in pain because of my midsection being exposed to cold air. I dealt with it for months thinking it would go away. But it didn’t. So this time I went to my family physician in my hometown.</p>
+	<p>➢ <b>Ocella</b>: My family physician was able to identify that the ratio of hormones in the Lutera can cause the symptoms I was experiencing, so he prescribed me Ocella. This was the Goldilocks moment I was waiting for. I had no physical symptoms of cramps, not did I experience the mood changes that were noticeable/unbearable. I was on this one for years, throughout pharmacy school and residency.</p>
+	<p>➢ <b>Different generic to Ocella (forgot the name)</b>: In November 2016, my pharmacy changed my Ocella to a different generic with the same hormonal ratio, known as a “generic-to-generic substitution” which is automatically allowed at the pharmacy. I was on it for a few weeks and my mood changed almost immediately. Even in the toughest parts of residency, the change Ocella to a different generic was the saddest I had been in that mentally difficult two years. I was disinterested, hopeless, and my confidence was non-existent. The timing was tough as it was at the start of job-hunting season. Once I got off of this to pursue the IUD (see below), it felt like a ton of weight lifted off my shoulders and dark clouds became replaced with sunlight in my mind.</p>
+	<p>The advice I would give is that if you’re feeling different than usual, consider your birth control. I’ve not met a person who found the right fit with the first try. Listen to your body, listen to your mind, and keep yourself accountable by asking questions of any changes to your baseline function.</p>
+	<h4><b>intrauterine devices.</b></h4>
+	<p>In December, 2016, when I went into clinic for a renewal I told them about my migraines with aura and realized I shouldn’t have been on estrogen-containing contraceptives at all because of the increased risk for stroke. This came at a surprise that shouldn’t have been, which goes to show that even as a pharmacist it’s hard to take care of yourself without the help of others. I was presented with intrauterine device (IUD) options and discussed them with my boyfriend. I wanted to include him in the conversation in order to update him on why the changes were made, and what it would mean for our family planning future. This was the official end of the oral contraceptive pill portion of my contraceptive journey.</p>
+	<p>I quickly got an appointment for the <a href="https://www.mirena-us.com/" target="_blank" rel="noopener noreferrer">Mirena ® IUD</a> (a progestin product) and was told to take ibuprofen 800 mg the morning of the outpatient procedure. I followed this, but it was not enough. It was incredibly painful, an internal pain that I’d not experienced before. I clenched my sheets on the clinic bed until it was over. What I also didn’t realize was how painful the cramps would be afterwards. I made it to my car and my boyfriend had to pick me up (we would get my car later that day) as I laid in the back seat in fetal position. I subsequently laid in bed trying not to move for a couple of hours so as to not induce more cramps inadvertently. I recall telling my boyfriend, “I don’t think I ever want kids if it’s worse than this.”</p>
+	<p>If you’re considering the IUD, I’m not trying scare you away from it but rather trying to be honest and transparent. As rough as it was, now I know I could have had some muscle relaxants to help with the subsequent cramps so make sure you ask! And now that I’ve had it for one year, I wouldn’t go back to anything else. It’s too easy to forget pills (I proved this multiple times), <a href="https://www.nuvaring.com/" target="_blank" rel="noopener noreferrer"> the Nuvaring</a> could fall out, and the <a href="https://www.plannedparenthood.org/learn/birth-control/birth-control-shot" target="_blank" rel="noopener noreferrer">Depo-Provera</a> intramuscular shot makes you gain weight. I like the idea that the IUD lasts years and is immediately reversible without ingesting hormones. And as a plus, most people stop having their period after ~6 months (this has happened to me, too).</p>
+	<p>As another side benefit, going on the IUD is actually what sparked my interest in skin care this year. When I was on OCP’s, my skin was clear. And I knew that if I went off, my breakouts would come back. So as a result, I embarked on a journey to take better care of my skin for long term benefits and a new mindfulness activity.</p>
+	<h4><b>family planning resources.</b></h4>
+	<p>It doesn’t matter what your political or cultural/religious affiliations are, Planned Parenthood has a ton of great information and resources for women on sexual health topics including abortion, birth control, emergency contraception, cancer, pregnancy, sexually transmitted infections (STI’s), and more. You can learn more about the <a href="https://www.plannedparenthood.org/learn/birth-control" target="_blank" rel="noopener noreferrer">different categories of contraception</a> on the Planned Parenthood website.</p>
+	<p>Other resources:</p>
+	<p className="tabbed">➢ <a href="https://www.reproductiveaccess.org/wp-content/uploads/2014/06/contra_choices.pdf" target="_blank" rel="noopener noreferrer">Table given to me by a family medicine physician</a>.<br></br>
+	➢ <a href="https://secure.ppaction.org/site/Advocacy?cmd=display&page=UserAction&id=21938" target="_blank" rel="noopener noreferrer">Here’s a link to sign a petition to make your opinion heard</a>.<br></br> 
+	➢ <a href="https://itunes.apple.com/us/app/id1039914781?mt=8 " target="_blank" rel="noopener noreferrer">An app called “Spot On”</a> that allows you to track your period and birth control with reminds to stay on top of your birth control method and track your cycle.</p>
+	<h4><b>the bottom line.</b></h4>
+	<p>A woman’s choice and access to family planning means the choice of family and career. Individual institutions and states are progressing forward with resources like paid family leave, paternity leave, and more. Massachusetts recently became the first state to <a href= "https://www.npr.org/2017/11/20/565430858/massachusetts-set-to-approve-law-protecting-access-to-birth-control" target="_blank" rel="noopener noreferrer">guarantee free access to birth control</a> for all. But until ALL women have the choices they need, the decision between family and career (and as a result, financial independence) will continue to be a gap in this country.</p>
+	<p>It’s not easy to make these choices with or without government- and culture-imposed barriers. Why make it harder for women to make independent choices? When will the woman’s body cease to be a political and cultural punching bag? Until I no longer need to ask these questions, I will continue to try and shift the conversation and fight for the women who continue to lose out.</p>
+		<br></br>
+		<h4>❖❖❖</h4>
+		<br></br>
+		<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+			<h4>YOU MIGHT ALSO LIKE:</h4>
+		    <a className="three-up" href="/articles/Topics to Normalize in 2018:PERIODS">
+		        <img src="/images/normalizedconvoperiods.png" alt="Topics to Normalize in 2018:PERIODS" />
+		        <p className="centered">Topics to Normalize in 2018:PERIODS</p>
+		    </a>
+		    <a className="three-up" href="/articles/10-places-to-start-to-improve-your-feminism-literacy">
+		        <img src="/images/feminismliteracy-preview.png" alt="10 Places to Start to Improve Your Feminism Literacy" />
+		        <p className="centered">10 Places to Start to Improve Your Feminism Literacy</p>
+		    </a>
+		    <a className="three-up" href="/articles/feminist-book-list-winter-edition">
+		        <img src="/images/feministbooklistwinter-preview.png" alt="Feminist Book List: The Winter Edition" />
+		        <p className="centered">Feminist Book List: The Winter Edition</p>
+		    </a>
+	</div>
+	},
 
 {id: "taste-of-microadventures-vol-4", title: <a href="/articles/taste-of-microadventures-vol-4">Taste of Microadventures Vol. 4</a>, date: "December 18, 2017", category: "Life", photo: "/images/snowday.png",  description: <div>There’s truly no shortage of adventures to be had here in New York City. Even if you pass the same places each day, different windows catch your attention depending on the speed at which you’re walking or even where you decide to look in that moment. Here’s my latest compilation of microadventures since Volume 3. Some of these were planned, and some where spontaneous. Either way, I’ve loved keeping an open mind to plans (or lack thereof) and seeing where life takes me. <a href="/articles/taste-of-microadventures-vol-4">[Read More]</a></div>, post:
-<div>
-<p>There’s truly no shortage of adventures to be had here in New York City. Even if you pass the same places each day, different windows catch your attention depending on the speed at which you’re walking or even where you decide to look in that moment. Here’s my latest compilation of microadventures since Volume 3. Some of these were planned, and some where spontaneous. Either way, I’ve loved keeping an open mind to plans (or lack thereof) and seeing where life takes me.</p>
-<h4><b>snow day in central park.</b></h4>
-<img src="/images/snowday.png" alt="Central Park Snow Day" />
-<p>The first snow day of the season, and since my move to New York City, arrived earlier this month. It lasted most of the day and was fluffy, perfect for snow balls I quickly learned. I just as quickly established the Anywhere-But-The-Face Rule. The fluff was also perfect for snowmen and snowwomen (see what I did there?). We recently busted out the GoPro and I was able to record the glorious beauty of Central Park as a winter wonderland. It was better and much more magical than I imagined it would be.</p>
-<img src="/images/teenvogue.jpg" alt="Teen Vogue" />
-<p>Teen Vogue has been transforming its content since the 2016 Presidential Election. It’s “woken up”, as some might describe. I saw on Instagram that one of their final printed publications was guest-edited by Hillary Clinton so I decided to get it for collector’s sake. Upon reading the articles inside I’m so glad I did. There’s even an article written by Roxane Gay! </p>
-<h4><b>glow recipe glow studio warehouse sale.</b></h4>
-<img src="/images/glowrecipe.jpg" alt="Glow Recipe" />
-<p>I learned about Glow Recipe for the first time meeting Ingrid Nilson, one of my favorite lifestyle YouTubers and activists. As I mentioned multiple times in this blog already, this came at a perfect time when I was just discovering the addition of certain skincare steps to my regimen. Their pop up shop in Henri Bendel was coming to a close and they hosted a huge blowout sale to celebrate! I’ll post a haul soon, but it was an awesome experience. I was able to get full-size products of sample-size ones I got at Ingrid’s meet up, and then got to try some new products that I was researching in the meantime!</p>
-<h4><b>foodventures at the doughnut project.</b></h4>
-<img src="/images/doughnutproject.jpg" alt="Doughnut Project" />
-<p>My boyfriend and I have gotten to a point where we have some of our favorite regular spots in our 10 block radius. Every now and then, we’ll venture to different neighborhoods. One of these times we discovered a place for dessert in Greenwich Village called <a href="http://www.thedoughnutproject.com/" target="_blank" rel="noopener noreferrer">The Doughnut Project</a>. It had a really cool vibe inside and unique types of doughnuts. We got there too late in the day to have any of the maple bacon bars, but tried Black Gold, Texas Tea (extra dark chocolate with house made dark chocolate cookie crumble and a touch of sea salt); Plain Glaze (Plain Glaze, simple, with a kiss of vanilla); and Lemon Love Letter (Fresh Lemon glaze with a kiss of sea salt and lemon zest) instead. My favorite of the three was the Lemon Love Letter because I don’t have much of a sweet tooth and the lemon was a nice balance to the sweet. I'll definitely go again sometime to try the others when I'm back in that neighborhood.</p>
-<h4><b>classy night at the met opera.</b></h4>
-<img src="/images/magicflute.jpg" alt="Magic Flute" />
-<p>It takes a little bit more research and savvy to affordably quench my thirst for classical arts. There are pay-as-you-wish museum entries here and there, and free orchestral performances all the time. The operas and musicals are a bit more scarce for deals that fit my financial limitations. The Metropolitan Opera had a deal for Magic Flute that my boyfriend jumped on! We got a private balcony spot at a discount because of obstructed views, but you can see that we were able to see just fine. It was a great, affordable, classy date night. Just watch out for the uber expensive service fees upon ticket purchase.</p>
-<h4><b>margaret mead film festival.</b></h4>
-<iframe title="Gulistan, Land of Roses" width="560" height="315" src="https://www.youtube.com/embed/2yrOcxyd2Eo" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-<p>One of my boyfriend’s hometown friends is now in the City studying film and let us know about this event which was conveniently walking distance from our house. The <a href="https://www.amnh.org/explore/margaret-mead-film-festival" target="_blank" rel="noopener noreferrer">Margaret Mead Film Festival</a> is hosted each year to “increase our understanding of the complexity and diversity of the peoples and cultures that populate our planet.” Upon researching the films, Gulîstan, Land of Roses stood out. The description states, “In the mountains of Kurdistan, an all-female military regiment works to keep its territory safe from ISIS.” It was an inspiring documentary about strong women, and what was even more significant was the discussion afterwards with the director. She was able to provide us with even more context with the women featured and updates on their lives now. I’m so excited to check out more of these next year. </p>
-<h4><b>fidi exploration.</b></h4>
-<img src="/images/oneworldtrade.jpg" alt="One World Trade" />
-<p>I explored a new neighborhood, the Financial District (apparently FiDi for short) recently when one of my boyfriend’s friends invited us to their place for some grilled burgers. We took the opportunity while we were down there to visit the 9/11 Memorial. It was my first time seeing it in person, and having the chance to be there at night where there were barely any people was pretty surreal. Looking upwards while we were up against the One World Trade Center, it looked as if the building was infinite as it approached the clouds.</p>
-<h4><b>reclaiming our time at strand bookstore.</b></h4>
-<img src="/images/reclaimingourtime.jpg" alt="Reclaiming Our Time" />
-<p>I’m not a cool literary person [yet] and just learned about how infamous <a href="http://www.strandbooks.com/" target="_blank" rel="noopener noreferrer">Strand Bookstore</a> is. But thanks to Facebook events seeing how I’ve attended other feminist events, this one popped up for me. It was at the Strand called Reclaiming Our Time, a feminist retrospective of the year in partnership with <a href="https://www.youtube.com/watch?v=6_uDLeRN8-s&t=1410s" target="_blank" rel="noopener noreferrer">PEN America</a>. I’m on pace to go to one feminist event per month in this city, and I’m really happy about it. This panel was diverse in race, age, and literary genre, with a transcending theme of intersectional empowerment and resistance against the current presidential administration and other evils. Overall it was a great event and I’m really excited to read some of their books:</p>
-<p className="tabbed">➢ Carmen Maria Machado, whose debut short story collection <b>Her Body and Other Parties</b> is a finalist for the 2017 National Book Award and Kirkus Prize<br></br>
-➢ Min Jin Lee, whose historic novel <b>Pachinko</b> is also a finalist for the 2017 National Book Award<br></br>
-➢ Morgan Jerkins, whose essay collection <b>This Will be My Undoing</b> comes out in January 2018<br></br>
-➢ Sanhita Mukhopadhyay (Moderator), co-editor of <b>Nasty Women: Feminism, Resistance and Revolution in Trump’s America</b></p>
-<p><iframe title="PEN Out Loud: Reclaiming Our Time" width="560" height="315" src="https://www.youtube.com/embed/6_uDLeRN8-s" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></p>
-	<br></br>
-	<h4>❖❖❖</h4>
-	<br></br>
-	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
-	<br></br>
-</div>
-},
+	<div>
+	<p>There’s truly no shortage of adventures to be had here in New York City. Even if you pass the same places each day, different windows catch your attention depending on the speed at which you’re walking or even where you decide to look in that moment. Here’s my latest compilation of microadventures since Volume 3. Some of these were planned, and some where spontaneous. Either way, I’ve loved keeping an open mind to plans (or lack thereof) and seeing where life takes me.</p>
+	<h4><b>snow day in central park.</b></h4>
+	<img src="/images/snowday.png" alt="Central Park Snow Day" />
+	<p>The first snow day of the season, and since my move to New York City, arrived earlier this month. It lasted most of the day and was fluffy, perfect for snow balls I quickly learned. I just as quickly established the Anywhere-But-The-Face Rule. The fluff was also perfect for snowmen and snowwomen (see what I did there?). We recently busted out the GoPro and I was able to record the glorious beauty of Central Park as a winter wonderland. It was better and much more magical than I imagined it would be.</p>
+	<img src="/images/teenvogue.jpg" alt="Teen Vogue" />
+	<p>Teen Vogue has been transforming its content since the 2016 Presidential Election. It’s “woken up”, as some might describe. I saw on Instagram that one of their final printed publications was guest-edited by Hillary Clinton so I decided to get it for collector’s sake. Upon reading the articles inside I’m so glad I did. There’s even an article written by Roxane Gay! </p>
+	<h4><b>glow recipe glow studio warehouse sale.</b></h4>
+	<img src="/images/glowrecipe.jpg" alt="Glow Recipe" />
+	<p>I learned about Glow Recipe for the first time meeting Ingrid Nilson, one of my favorite lifestyle YouTubers and activists. As I mentioned multiple times in this blog already, this came at a perfect time when I was just discovering the addition of certain skincare steps to my regimen. Their pop up shop in Henri Bendel was coming to a close and they hosted a huge blowout sale to celebrate! I’ll post a haul soon, but it was an awesome experience. I was able to get full-size products of sample-size ones I got at Ingrid’s meet up, and then got to try some new products that I was researching in the meantime!</p>
+	<h4><b>foodventures at the doughnut project.</b></h4>
+	<img src="/images/doughnutproject.jpg" alt="Doughnut Project" />
+	<p>My boyfriend and I have gotten to a point where we have some of our favorite regular spots in our 10 block radius. Every now and then, we’ll venture to different neighborhoods. One of these times we discovered a place for dessert in Greenwich Village called <a href="http://www.thedoughnutproject.com/" target="_blank" rel="noopener noreferrer">The Doughnut Project</a>. It had a really cool vibe inside and unique types of doughnuts. We got there too late in the day to have any of the maple bacon bars, but tried Black Gold, Texas Tea (extra dark chocolate with house made dark chocolate cookie crumble and a touch of sea salt); Plain Glaze (Plain Glaze, simple, with a kiss of vanilla); and Lemon Love Letter (Fresh Lemon glaze with a kiss of sea salt and lemon zest) instead. My favorite of the three was the Lemon Love Letter because I don’t have much of a sweet tooth and the lemon was a nice balance to the sweet. I'll definitely go again sometime to try the others when I'm back in that neighborhood.</p>
+	<h4><b>classy night at the met opera.</b></h4>
+	<img src="/images/magicflute.jpg" alt="Magic Flute" />
+	<p>It takes a little bit more research and savvy to affordably quench my thirst for classical arts. There are pay-as-you-wish museum entries here and there, and free orchestral performances all the time. The operas and musicals are a bit more scarce for deals that fit my financial limitations. The Metropolitan Opera had a deal for Magic Flute that my boyfriend jumped on! We got a private balcony spot at a discount because of obstructed views, but you can see that we were able to see just fine. It was a great, affordable, classy date night. Just watch out for the uber expensive service fees upon ticket purchase.</p>
+	<h4><b>margaret mead film festival.</b></h4>
+	<iframe title="Gulistan, Land of Roses" width="560" height="315" src="https://www.youtube.com/embed/2yrOcxyd2Eo" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+	<p>One of my boyfriend’s hometown friends is now in the City studying film and let us know about this event which was conveniently walking distance from our house. The <a href="https://www.amnh.org/explore/margaret-mead-film-festival" target="_blank" rel="noopener noreferrer">Margaret Mead Film Festival</a> is hosted each year to “increase our understanding of the complexity and diversity of the peoples and cultures that populate our planet.” Upon researching the films, Gulîstan, Land of Roses stood out. The description states, “In the mountains of Kurdistan, an all-female military regiment works to keep its territory safe from ISIS.” It was an inspiring documentary about strong women, and what was even more significant was the discussion afterwards with the director. She was able to provide us with even more context with the women featured and updates on their lives now. I’m so excited to check out more of these next year. </p>
+	<h4><b>fidi exploration.</b></h4>
+	<img src="/images/oneworldtrade.jpg" alt="One World Trade" />
+	<p>I explored a new neighborhood, the Financial District (apparently FiDi for short) recently when one of my boyfriend’s friends invited us to their place for some grilled burgers. We took the opportunity while we were down there to visit the 9/11 Memorial. It was my first time seeing it in person, and having the chance to be there at night where there were barely any people was pretty surreal. Looking upwards while we were up against the One World Trade Center, it looked as if the building was infinite as it approached the clouds.</p>
+	<h4><b>reclaiming our time at strand bookstore.</b></h4>
+	<img src="/images/reclaimingourtime.jpg" alt="Reclaiming Our Time" />
+	<p>I’m not a cool literary person [yet] and just learned about how infamous <a href="http://www.strandbooks.com/" target="_blank" rel="noopener noreferrer">Strand Bookstore</a> is. But thanks to Facebook events seeing how I’ve attended other feminist events, this one popped up for me. It was at the Strand called Reclaiming Our Time, a feminist retrospective of the year in partnership with <a href="https://www.youtube.com/watch?v=6_uDLeRN8-s&t=1410s" target="_blank" rel="noopener noreferrer">PEN America</a>. I’m on pace to go to one feminist event per month in this city, and I’m really happy about it. This panel was diverse in race, age, and literary genre, with a transcending theme of intersectional empowerment and resistance against the current presidential administration and other evils. Overall it was a great event and I’m really excited to read some of their books:</p>
+	<p className="tabbed">➢ Carmen Maria Machado, whose debut short story collection <b>Her Body and Other Parties</b> is a finalist for the 2017 National Book Award and Kirkus Prize<br></br>
+	➢ Min Jin Lee, whose historic novel <b>Pachinko</b> is also a finalist for the 2017 National Book Award<br></br>
+	➢ Morgan Jerkins, whose essay collection <b>This Will be My Undoing</b> comes out in January 2018<br></br>
+	➢ Sanhita Mukhopadhyay (Moderator), co-editor of <b>Nasty Women: Feminism, Resistance and Revolution in Trump’s America</b></p>
+	<p><iframe title="PEN Out Loud: Reclaiming Our Time" width="560" height="315" src="https://www.youtube.com/embed/6_uDLeRN8-s" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></p>
+		<br></br>
+		<h4>❖❖❖</h4>
+		<br></br>
+		<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+	</div>
+	},
 
 {id: "nyc-holiday-microadventures-macys-thanksgiving-day-parade-2017", title: <a href="/articles/nyc-holiday-microadventures-macys-thanksgiving-day-parade-2017">NYC Holiday Microadventures: Macy’s Thanksgiving Day Parade</a>, date: "December 4, 2017", category: "Life", photo: "/images/macysparade.jpg",  description: <div>This year was my first Thanksgiving in New York City. I mentioned in one of the things I loved in November that step ladders were the way to go for viewing. I was able to get a lot of <a href="https://www.youtube.com/watch?v=-O3aThlPpRQ&t=6s" target="_blank" rel="noopener noreferrer">good shots</a> of the balloons, and saw Jimmy Fallon! In today’s post you’ll find a video collage of the pics and videos I took, things I learned, what I would/wouldn’t do again, and other random thoughts about the event. Of note, these are if you plan to view in the along Central Park West before Columbus Circle. <a href="/articles/nyc-holiday-microadventures-macys-thanksgiving-day-parade-2017">[Read More]</a></div>, post:
-<div>
-<p><iframe title="Macy's Thanksgiving Day Parade" width="560" height="315" src="https://www.youtube.com/embed/-O3aThlPpRQ" frameborder="0" allowfullscreen></iframe></p>
-<p>This year was my first Thanksgiving in New York City. I mentioned in one of the <a href="https://coffeemeetspolished.com/articles/5-things-i-loved-in-november-2017" target="_blank" rel="noopener noreferrer">things I loved in November</a> that step ladders were the way to go for viewing. I was able to get a lot of good shots of the balloons, and saw Jimmy Fallon! Below you’ll find my timeline, things I learned, what I would/wouldn’t do again, and other random thoughts about the event. Of note, these are if you plan to view in the along Central Park West before Columbus Circle.</p>
-<p className="tabbed">➢I woke up ~7AM, layered up (temperature was in the low 40’s Fahrenheit) and arrived to Central Park West at 7:45AM. By this time the street was about 10 rows deep of people and I subsequently went back home to grab the step ladder. Mine was one of three ladders out that day.</p>
-<p className="tabbed">➢If you’re going to bring a ladder, make sure you go up against a wall or building so the people behind you can see around you.</p>
-<p className="tabbed">➢Bring a coffee with you and get out early. It’ll keep your hands warm and wake you up while you wait.</p>
-<p className="tabbed">➢No one will be performing right at the start of the parade where I was. The way I saw it was I saw most of the balloons and walked back home in time to watch the performances in front of Macy’s at Herald Square on TV while I thawed.</p>
-<p className="tabbed">➢You’ll see stadium seats set up along one side of Central Park West. I can’t confirm but I saw in a newsletter that these seats are for Macy’s employees family members and other VIP’s.</p>
-<p className="tabbed">➢Would I do it again? <b>Yes!</b></p>
-<p className="tabbed">➢Obviously unless you live here you may not be able to bring a step ladder. One of my co-workers took a train early (~7AM) to 72nd Street Station and got a spot around West 70th St. and Central Park West with good viewing along the street.</p>
-<p className="tabbed">➢If you’re mainly interested in the balloons, check out the Upper West Side for viewing. If you want to see the performances, they likely would start closer to Columbus Circle where the parade turns. I was perfectly happy watching the performances from the comfort of my own home.</p>
-<p>I hope you all had a great Thanksgiving! There’s a lot to be grateful for. Next year, maybe better post punctuality will be one for me.</p>
-	<br></br>
-	<h4>❖❖❖</h4>
-	<br></br>
-	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
-	<br></br>
-</div>
-},
+	<div>
+	<p><iframe title="Macy's Thanksgiving Day Parade" width="560" height="315" src="https://www.youtube.com/embed/-O3aThlPpRQ" frameborder="0" allowfullscreen></iframe></p>
+	<p>This year was my first Thanksgiving in New York City. I mentioned in one of the <a href="https://coffeemeetspolished.com/articles/5-things-i-loved-in-november-2017" target="_blank" rel="noopener noreferrer">things I loved in November</a> that step ladders were the way to go for viewing. I was able to get a lot of good shots of the balloons, and saw Jimmy Fallon! Below you’ll find my timeline, things I learned, what I would/wouldn’t do again, and other random thoughts about the event. Of note, these are if you plan to view in the along Central Park West before Columbus Circle.</p>
+	<p className="tabbed">➢I woke up ~7AM, layered up (temperature was in the low 40’s Fahrenheit) and arrived to Central Park West at 7:45AM. By this time the street was about 10 rows deep of people and I subsequently went back home to grab the step ladder. Mine was one of three ladders out that day.</p>
+	<p className="tabbed">➢If you’re going to bring a ladder, make sure you go up against a wall or building so the people behind you can see around you.</p>
+	<p className="tabbed">➢Bring a coffee with you and get out early. It’ll keep your hands warm and wake you up while you wait.</p>
+	<p className="tabbed">➢No one will be performing right at the start of the parade where I was. The way I saw it was I saw most of the balloons and walked back home in time to watch the performances in front of Macy’s at Herald Square on TV while I thawed.</p>
+	<p className="tabbed">➢You’ll see stadium seats set up along one side of Central Park West. I can’t confirm but I saw in a newsletter that these seats are for Macy’s employees family members and other VIP’s.</p>
+	<p className="tabbed">➢Would I do it again? <b>Yes!</b></p>
+	<p className="tabbed">➢Obviously unless you live here you may not be able to bring a step ladder. One of my co-workers took a train early (~7AM) to 72nd Street Station and got a spot around West 70th St. and Central Park West with good viewing along the street.</p>
+	<p className="tabbed">➢If you’re mainly interested in the balloons, check out the Upper West Side for viewing. If you want to see the performances, they likely would start closer to Columbus Circle where the parade turns. I was perfectly happy watching the performances from the comfort of my own home.</p>
+	<p>I hope you all had a great Thanksgiving! There’s a lot to be grateful for. Next year, maybe better post punctuality will be one for me.</p>
+		<br></br>
+		<h4>❖❖❖</h4>
+		<br></br>
+		<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+	</div>
+	},
 
 {id: "world-aids-day-2017", title: <a href="/articles/world-aids-day-2017">World AIDS Day</a>, date: "December 1, 2017", category: "Activism", photo: "/images/whoaidsday.jpg",  description: <div>World AIDS Day serves to raise awareness for the risk factors of transmission and advancing treatments for those diagnosed with HIV/AIDS. One of the best ways to improve the stigma around HIV/AIDS is to learn about it. Those diagnosed with HIV/AIDS live longer and healthier lives thanks to the advancement of and access to antiretroviral therapy (ART). ART also has been shown to prevent onward transmission of HIV. Today I’ll share important facts about the disease, risk factors for transmission, tests available, and where you can get tested. <a href="/articles/world-aids-day-2017">[Read More]</a></div>, post:
-<div>
-<img src="/images/whoaidsday.jpg" alt="WHO AIDS Day" />
-<p>Disclaimer: Information in this post has been reproduced in part from the World Health Organization (WHO) <a href="http://www.who.int/campaigns/aids-day/2017/en/" target="_blank" rel="noopener noreferrer">website</a> and Centers for Disease Control and Prevention (CDC) <a href="https://www.cdc.gov/hiv/default.html" target="_blank" rel="noopener noreferrer">website</a> in order to provide the most accurate information as possible. For full details, please see their website directly.</p>
-<p>Those diagnosed with HIV/AIDS live longer and healthier lives thanks to the advancement of and access to antiretroviral therapy (ART). ART also has been shown to prevent onward transmission of HIV. The World Health Organization uses the slogan “Everybody counts,” to advocate for access to safe, effective, quality and affordable HIV services, medicines, and diagnostics for all people who needs them.</p>
-<iframe title="President Barack Obama on the Fight Against AIDS" width="560" height="315" src="https://www.youtube.com/embed/eoqYd39wkZs" frameborder="0" allowfullscreen></iframe>
-<h4><b>facts to know.</b></h4> 
-<p>➢There is no cure for HIV infection. However, effective antiretroviral (ARV) drugs can control the virus and help prevent transmission so that people with HIV, and those at substantial risk, can enjoy healthy, long and productive lives.</p>
-<p>➢There were 36.7 million people living with HIV at the end of 2016.</p>
-<p>➢As of 2016, 20.9 million people are receiving antiretroviral treatment worldwide.</p>
-<p>➢54% of adults and 43% of children living with HIV are currently receiving lifelong antiretroviral therapy (ART).</p>
-<p>➢7 out of 10 pregnant women living with HIV received antiretroviral treatment.</p>
-<p>➢The WHO African Region is the most affected region, with 25.6 million people living with HIV in 2016. The African region also accounts for almost two thirds of the global total of new HIV infections.</p>
-<p>➢Between 2000 and 2016, new HIV infections fell by 39%, and HIV-related deaths fell by one third with 13.1 million lives saved due to ART in the same period. This achievement was the result of great efforts by national HIV programs supported by civil society and a range of development partners.</p>
-<h4><b>risk factors.</b></h4> 
-<p>It's important to be aware of the risk factors of being diagnosed with HIV. This helps us take steps to be safe from transmission and transmission of others, while also helping to improve the stigma surrounding HIV. Risk factors include:</p>
-<p className="tabbed">➢having unprotected anal or vaginal sex;<br></br>
-➢having another sexually transmitted infection such as syphilis, herpes, chlamydia, gonorrhoea, and bacterial vaginosis;<br></br>
-➢sharing contaminated needles, syringes and other injecting equipment and drug solutions when injecting drugs;<br></br>
-➢receiving unsafe injections, blood transfusions, tissue transplantation, medical procedures that involve unsterile cutting or piercing; and<br></br>
-➢experiencing accidental needle stick injuries, including among health workers.</p>
-<h4><b>know your status.</b></h4>
-<p>It is estimated that currently only 70% of people with HIV know their status. The CDC recommends that everyone between the ages of 13 and 64 get tested for HIV at least once as part of routine health care. If you have specific risk factors (listed below), the CDC recommends getting tested once per year. </p>
-<p>If you’re concerned about privacy about knowing your status. There are standards to HIV testing services. All HIV testing services must follow the 5 Cs principles recommended by WHO:</p>
-<p className="tabbed">➢informed Consent<br></br>
-➢Confidentiality<br></br>
-➢Counselling<br></br>
-➢Correct test results<br></br>
-➢Connection (linkage to care, treatment and other services).</p>
-<p>Here's a great website from the CDC where you can search for testing centers by your zip code: <a href="https://gettested.cdc.gov/" target="_blank" rel="noopener noreferrer">GetTested</a></p>
-<h4><b>types of screening and diagnosis.</b></h4>
-<p>HIV tests are accurate, but do not work immediately after infection. There are three different types of tests:</p>
-<p className="tabbed"><b>➢Nucleic acid tests (NATs).</b> This test looks for the actual virus in the blood. It is costly and not routinely used unless you are high-risk for exposure or showing early symptoms of HIV infection.<br></br>
-<b>➢Antigen/antibody tests.</b> This test looks for both HIV antibodies and antigens (specifically antigen called p24). Tests that detect both antigens and antibodies are recommended in labs.<br></br>
-<b>➢Antibody tests.</b> This test detects the presence of antibodies. Most rapid and home tests are antibody tests.</p>
-<p>There are different <a href="https://www.cdc.gov/hiv/testing/laboratorytests.html" target="_blank" rel="noopener noreferrer">laboratory tests</a> and <a href="https://www.cdc.gov/hiv/testing/hometests.html" target="_blank" rel="noopener noreferrer">home tests</a> available. It’s important to use ones that are FDA-approved if you want to do tests at home. Currently, only two tests are FDA-approved: <b>Home Access HIV-1 Test System</b> and <b>OraQuick In-Home HIV Test</b>.</p>
-<h4><b>preventing transmission.</b></h4>
-<p>We can all limit exposure to risk factors for HIV transmission. Considerations include:</p>
-<p className="tabbed">➢Male and female condom use<br></br>
-➢Testing and counselling for HIV and STI’s<br></br>
-➢Linking to tuberculosis care<br></br>
-➢Voluntary medical male circumcision<br></br>
-➢Antiretroviral drug use for prevention<br></br>
-➢Harm reduction for people who inject and use drugs<br></br>
-➢Elimination of mother-to-child transmission of HIV</p>
-<p>Together we can raise awareness and fight stigma about HIV. People diagnosed with HIV/AIDS can live the lives they desire with the proper treatment and self-care. They’re living longer and healthier thanks to advancement in treatments, and their HIV is being treated the same as any other chronic disease.</p>
-	<br></br>
-	<h4>❖❖❖</h4>
-	<br></br>
-	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
-	<br></br>
-</div>
-},
+	<div>
+	<img src="/images/whoaidsday.jpg" alt="WHO AIDS Day" />
+	<p>Disclaimer: Information in this post has been reproduced in part from the World Health Organization (WHO) <a href="http://www.who.int/campaigns/aids-day/2017/en/" target="_blank" rel="noopener noreferrer">website</a> and Centers for Disease Control and Prevention (CDC) <a href="https://www.cdc.gov/hiv/default.html" target="_blank" rel="noopener noreferrer">website</a> in order to provide the most accurate information as possible. For full details, please see their website directly.</p>
+	<p>Those diagnosed with HIV/AIDS live longer and healthier lives thanks to the advancement of and access to antiretroviral therapy (ART). ART also has been shown to prevent onward transmission of HIV. The World Health Organization uses the slogan “Everybody counts,” to advocate for access to safe, effective, quality and affordable HIV services, medicines, and diagnostics for all people who needs them.</p>
+	<iframe title="President Barack Obama on the Fight Against AIDS" width="560" height="315" src="https://www.youtube.com/embed/eoqYd39wkZs" frameborder="0" allowfullscreen></iframe>
+	<h4><b>facts to know.</b></h4> 
+	<p>➢There is no cure for HIV infection. However, effective antiretroviral (ARV) drugs can control the virus and help prevent transmission so that people with HIV, and those at substantial risk, can enjoy healthy, long and productive lives.</p>
+	<p>➢There were 36.7 million people living with HIV at the end of 2016.</p>
+	<p>➢As of 2016, 20.9 million people are receiving antiretroviral treatment worldwide.</p>
+	<p>➢54% of adults and 43% of children living with HIV are currently receiving lifelong antiretroviral therapy (ART).</p>
+	<p>➢7 out of 10 pregnant women living with HIV received antiretroviral treatment.</p>
+	<p>➢The WHO African Region is the most affected region, with 25.6 million people living with HIV in 2016. The African region also accounts for almost two thirds of the global total of new HIV infections.</p>
+	<p>➢Between 2000 and 2016, new HIV infections fell by 39%, and HIV-related deaths fell by one third with 13.1 million lives saved due to ART in the same period. This achievement was the result of great efforts by national HIV programs supported by civil society and a range of development partners.</p>
+	<h4><b>risk factors.</b></h4> 
+	<p>It's important to be aware of the risk factors of being diagnosed with HIV. This helps us take steps to be safe from transmission and transmission of others, while also helping to improve the stigma surrounding HIV. Risk factors include:</p>
+	<p className="tabbed">➢having unprotected anal or vaginal sex;<br></br>
+	➢having another sexually transmitted infection such as syphilis, herpes, chlamydia, gonorrhoea, and bacterial vaginosis;<br></br>
+	➢sharing contaminated needles, syringes and other injecting equipment and drug solutions when injecting drugs;<br></br>
+	➢receiving unsafe injections, blood transfusions, tissue transplantation, medical procedures that involve unsterile cutting or piercing; and<br></br>
+	➢experiencing accidental needle stick injuries, including among health workers.</p>
+	<h4><b>know your status.</b></h4>
+	<p>It is estimated that currently only 70% of people with HIV know their status. The CDC recommends that everyone between the ages of 13 and 64 get tested for HIV at least once as part of routine health care. If you have specific risk factors (listed below), the CDC recommends getting tested once per year. </p>
+	<p>If you’re concerned about privacy about knowing your status. There are standards to HIV testing services. All HIV testing services must follow the 5 Cs principles recommended by WHO:</p>
+	<p className="tabbed">➢informed Consent<br></br>
+	➢Confidentiality<br></br>
+	➢Counselling<br></br>
+	➢Correct test results<br></br>
+	➢Connection (linkage to care, treatment and other services).</p>
+	<p>Here's a great website from the CDC where you can search for testing centers by your zip code: <a href="https://gettested.cdc.gov/" target="_blank" rel="noopener noreferrer">GetTested</a></p>
+	<h4><b>types of screening and diagnosis.</b></h4>
+	<p>HIV tests are accurate, but do not work immediately after infection. There are three different types of tests:</p>
+	<p className="tabbed"><b>➢Nucleic acid tests (NATs).</b> This test looks for the actual virus in the blood. It is costly and not routinely used unless you are high-risk for exposure or showing early symptoms of HIV infection.<br></br>
+	<b>➢Antigen/antibody tests.</b> This test looks for both HIV antibodies and antigens (specifically antigen called p24). Tests that detect both antigens and antibodies are recommended in labs.<br></br>
+	<b>➢Antibody tests.</b> This test detects the presence of antibodies. Most rapid and home tests are antibody tests.</p>
+	<p>There are different <a href="https://www.cdc.gov/hiv/testing/laboratorytests.html" target="_blank" rel="noopener noreferrer">laboratory tests</a> and <a href="https://www.cdc.gov/hiv/testing/hometests.html" target="_blank" rel="noopener noreferrer">home tests</a> available. It’s important to use ones that are FDA-approved if you want to do tests at home. Currently, only two tests are FDA-approved: <b>Home Access HIV-1 Test System</b> and <b>OraQuick In-Home HIV Test</b>.</p>
+	<h4><b>preventing transmission.</b></h4>
+	<p>We can all limit exposure to risk factors for HIV transmission. Considerations include:</p>
+	<p className="tabbed">➢Male and female condom use<br></br>
+	➢Testing and counselling for HIV and STI’s<br></br>
+	➢Linking to tuberculosis care<br></br>
+	➢Voluntary medical male circumcision<br></br>
+	➢Antiretroviral drug use for prevention<br></br>
+	➢Harm reduction for people who inject and use drugs<br></br>
+	➢Elimination of mother-to-child transmission of HIV</p>
+	<p>Together we can raise awareness and fight stigma about HIV. People diagnosed with HIV/AIDS can live the lives they desire with the proper treatment and self-care. They’re living longer and healthier thanks to advancement in treatments, and their HIV is being treated the same as any other chronic disease.</p>
+		<br></br>
+		<h4>❖❖❖</h4>
+		<br></br>
+		<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+	</div>
+	},
 
 {id: "5-things-i-loved-in-november-2017", title: <a href="/articles/5-things-i-loved-in-november-2017">5 Things I Loved in November</a>, date: "November 30, 2017", category: "Life", photo: "/images/babyshower.jpg",  description: <div><p>Insert statement about how time flies here. We’ve reached the end of the 11th month of 2017, and it was filled with travel, guests, and celebrations. What were your favorites this November?</p> <a href="/articles/5-things-i-loved-in-november-2017">[Read More]</a></div>, post:
-<div>
-<p>Once again I find myself at the end of another month in awe at how time flies. Each weekend this month was filled with some sort of travel, celebration, or guests visiting from out of town. While it was exhausting, it was a happy exhaustion that was as fulfilling as it was filling (celebrations always equals lots of food).</p>
-<h4><b> baby shower.</b></h4>
-<img src="/images/babyshower.jpg" alt="Baby Shower" />
-<p> I have a nephew on the way! My little sister and her boyfriend are having a son and I’m so excited to have a new addition to the family. This month, I traveled home to help host their baby shower themed with whales and sea creatures. It was very Pinterest-esque and fun to be surrounded by old family friends again.</p>
-<h4><b>birthday brunch.</b></h4>
-<img src="/images/birthdaybrunch.jpg" alt="Birthday Brunch" />
-<p>My boyfriend’s 29th birthday was this month and we went to our favorite brunch spot, <a href="https://coffeemeetspolished.com/articles/4-considerations-for-picking-weekend-brunch" target="_blank" rel="noopener noreferrer">Ella Kitchen & Bar</a>. Of course, I had to get the unlimited Mimosa/Bellini/Bloody Mary/Cava special with Smoked Salmon Baked Eggs. This was the perfect start to a great day filled with a stroll through Central Park, the Metropolitan Museum, and <a href="https://westsidecomedyclub.com/" target="_blank" rel="noopener noreferrer">West Side Comedy Club</a>.</p>
-<h4><b>bad feminist.</b></h4>
-<img src="/images/badfeminist.jpg" alt="Bad Feminist" />
-<p>I finished reading my first feminist book this month, <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/0062282719/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062282719&linkCode=as2&tag=offeeeetsolis-20&linkId=1cf4fa6a48127ed660261704f6f5ab9d">Bad Feminist: Essays</a>, and I’m totally inspired to keep reading more about women’s rights (or lack thereof). I also plan to read more of <a href="http://www.roxanegay.com/" target="_blank" rel="noopener noreferrer">Roxane Gay</a> in 2018. This book is a collection of some of her already published essays, and has been a great introduction for me to her writing. I also got her to sign my copy at an event here in the City! Her website also has links to her essays in their various websites throughout the internet. One of my favorites, is entitled <a href="https://www.buzzfeed.com/roxanegay/not-here-to-make-friends-unlikable?utm_term=.cpwjOWR6K5#.wp5wLP1gpD" target="_blank" rel="noopener noreferrer">Not Here to Make Friends</a>, on the importance of unlikable female protagonists. After you read that I have no doubts you’ll want to read more.</p>
-<h4><b>unlimited metro passes.</b></h4>
-<img src="/images/unlimitedmetropass.jpg" alt="Unlimited Metro Pass" />
-<p>This is a total repeat from my August favorites, but for good reason. Now that I’ve had it for multiple months I’m realizing how much of a relief it is to have. It saves cents per ride but it adds up. And having it be pre-tax through FSA accounts makes it another ~30% savings on top of that. I love not having to worry about re-filling the card and spending extra for a microadventure trip.</p>
-<h4><b>step ladders.</b></h4>
-<img src="/images/stepladder.jpg" alt="Step Ladder" />
-<p>The Macy’s Thanksgiving Day Parade is on my New York City Winter Holiday Bucket List, and I was able to do it! Because it was along my home street, I was able to follow through comfortably with my plan to bring a step ladder and see above the crowds. I still got there about an hour before it started, but got a spot against the side of a building so no one behind me would be overshadowed. Highly recommended prop for parade viewing, if possible.</p>
-<p>We’ve officially reached the final month of the year, but before we prepare for 2018 I’m still happy with how great November was. And I’m determined to end this year on a great note.</p>
-	<br></br>
-	<h4>❖❖❖</h4>
-	<br></br>
-	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
-	<br></br>
-</div>
-},
+	<div>
+	<p>Once again I find myself at the end of another month in awe at how time flies. Each weekend this month was filled with some sort of travel, celebration, or guests visiting from out of town. While it was exhausting, it was a happy exhaustion that was as fulfilling as it was filling (celebrations always equals lots of food).</p>
+	<h4><b> baby shower.</b></h4>
+	<img src="/images/babyshower.jpg" alt="Baby Shower" />
+	<p> I have a nephew on the way! My little sister and her boyfriend are having a son and I’m so excited to have a new addition to the family. This month, I traveled home to help host their baby shower themed with whales and sea creatures. It was very Pinterest-esque and fun to be surrounded by old family friends again.</p>
+	<h4><b>birthday brunch.</b></h4>
+	<img src="/images/birthdaybrunch.jpg" alt="Birthday Brunch" />
+	<p>My boyfriend’s 29th birthday was this month and we went to our favorite brunch spot, <a href="https://coffeemeetspolished.com/articles/4-considerations-for-picking-weekend-brunch" target="_blank" rel="noopener noreferrer">Ella Kitchen & Bar</a>. Of course, I had to get the unlimited Mimosa/Bellini/Bloody Mary/Cava special with Smoked Salmon Baked Eggs. This was the perfect start to a great day filled with a stroll through Central Park, the Metropolitan Museum, and <a href="https://westsidecomedyclub.com/" target="_blank" rel="noopener noreferrer">West Side Comedy Club</a>.</p>
+	<h4><b>bad feminist.</b></h4>
+	<img src="/images/badfeminist.jpg" alt="Bad Feminist" />
+	<p>I finished reading my first feminist book this month, <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/0062282719/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062282719&linkCode=as2&tag=offeeeetsolis-20&linkId=1cf4fa6a48127ed660261704f6f5ab9d">Bad Feminist: Essays</a>, and I’m totally inspired to keep reading more about women’s rights (or lack thereof). I also plan to read more of <a href="http://www.roxanegay.com/" target="_blank" rel="noopener noreferrer">Roxane Gay</a> in 2018. This book is a collection of some of her already published essays, and has been a great introduction for me to her writing. I also got her to sign my copy at an event here in the City! Her website also has links to her essays in their various websites throughout the internet. One of my favorites, is entitled <a href="https://www.buzzfeed.com/roxanegay/not-here-to-make-friends-unlikable?utm_term=.cpwjOWR6K5#.wp5wLP1gpD" target="_blank" rel="noopener noreferrer">Not Here to Make Friends</a>, on the importance of unlikable female protagonists. After you read that I have no doubts you’ll want to read more.</p>
+	<h4><b>unlimited metro passes.</b></h4>
+	<img src="/images/unlimitedmetropass.jpg" alt="Unlimited Metro Pass" />
+	<p>This is a total repeat from my August favorites, but for good reason. Now that I’ve had it for multiple months I’m realizing how much of a relief it is to have. It saves cents per ride but it adds up. And having it be pre-tax through FSA accounts makes it another ~30% savings on top of that. I love not having to worry about re-filling the card and spending extra for a microadventure trip.</p>
+	<h4><b>step ladders.</b></h4>
+	<img src="/images/stepladder.jpg" alt="Step Ladder" />
+	<p>The Macy’s Thanksgiving Day Parade is on my New York City Winter Holiday Bucket List, and I was able to do it! Because it was along my home street, I was able to follow through comfortably with my plan to bring a step ladder and see above the crowds. I still got there about an hour before it started, but got a spot against the side of a building so no one behind me would be overshadowed. Highly recommended prop for parade viewing, if possible.</p>
+	<p>We’ve officially reached the final month of the year, but before we prepare for 2018 I’m still happy with how great November was. And I’m determined to end this year on a great note.</p>
+		<br></br>
+		<h4>❖❖❖</h4>
+		<br></br>
+		<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+	</div>
+	},
 
 {id: "10-tips-to-navigating-a-pharmacy-residency-fellowship-showcase", title: <a href="/articles/10-tips-to-navigating-a-pharmacy-residency-fellowship-showcase">10 Tips to Navigating a Pharmacy Residency/Fellowship Showcase</a>, date: "November 28, 2017", category: "Career", photo: "/images/residencyshowcasepreview.png",  description: <div>‘Tis the season for post-graduate planning for pharmacy residency, fellowship, and more. At most conferences there is a showcase for residencies, fellowships, and jobs after you graduate. If you’re trying to map out your plans to meet all the people you need for your choice programs, this post is for you. I’ve got all the info you need to survive and thrive the hustle and bustle of these showcases! <a href="/articles/10-tips-to-navigating-a-pharmacy-residency-fellowship-showcase">[Read More]</a></div>, post:
-<div>
-<img src="/images/residencyshowcase.jpg" alt="Residency Showcase" />
-<p>‘Tis the season for post-graduate planning for pharmacy residency, fellowship, and more. Next week is the <a href="https://midyear17.ashp.org/" target="_blank" rel="noopener noreferrer">ASHP Midyear Clinical Meeting</a>, but there are also a number of state-sponsored showcases and other national pharmacy organizations that will begin recruitment this month if they haven’t already.</p>
-<p>The showcase should be primarily for you to gather information. When I mentor others going through showcase preparation, I tell them to be selfish (while not lingering). Get the information you need to make informed decisions. The next steps are expensive and exhausting and you want to be sure you pursue places that are worth your precious time and student budgets. Best of luck with your post-graduate program search!</p>
-<p>The dreaded program showcase is as stressful for the programs as it is for the recruits, I promise. As an introvert, it feels infinitely more exhausting despite my ability to network and work a conversation. With my multiple years of experience both as a student seeking positions and as a recruiter for my own residency program, I’ve got lots of tips to come out with a successful showcase experience.</p>
-<p>1. <b>Do your research.</b> Researching programs is a triple threat. You understand better what you want to get out of programs. You know the questions to ask. You look prepared and interested to the programs you’re speaking with. As beneficial as research is, it’s more punishing if you don’t. Programs don’t like to answer questions that are on their websites because it wastes their time.</p>
-<p>2. <b>Map out your path.</b> This piggy backs off your research. If you know where your programs are, you can make an efficient path from booth to booth. You can also map out where the water fountains and bathrooms are to take breaks.</p>
-<p>3. <b>Do a practice run.</b> If you’re nervous about how to handle your top choice programs, check out a booth that does not have a lot of people and have a conversation with them. This will help ease your stress about what to say, give you practice, and you may also find a new program you never thought you would be interested in!</p>
-<p>4. <b>Figure out your approach. </b>There are multiple ways you can engage in a booth, and it all depends on the situation. There are programs that are less busy so you can see people standing alone. There are also programs that will always look packed. With these it may seem even more intimidating, however what you should look to do is join a group of people already speaking. Find a space within their circle, introduce yourself briefly and ask if you can join (it’s a courtesy question - of course you can!). Listen first to the question being answered, and adjust your questions from there.</p>
-<p>5. <b>Don’t linger.</b> Don’t spend too long in one place. It’s a delicate balance of showing genuine interest in a program without taking time from the program to meet as many recruits as they can. I like to recommend asking <b>one question if part of a group</b>, or <b>up to three questions if one-on-one</b>. These are merely initial structure and you can adapt as you feel appropriate. One sign that a conversation may be ready to conclude is that business cards are pulled out.</p>
-<p>6. <b>Get and give business cards.</b> Take business cards from the people you speak with. It will help you remember the programs you spoke with and be another layer of name recognition for you. Additionally, make sure you provide places you spoke with your own business card so they can remember you when your application comes along.</p>
-<p>7. <b>Keep snacks in your bag.</b> I can’t get anything done if I have low blood sugar. And a lot of times I don’t realize I need it until it’s too late and there’s no food in sight. I keep quick fixes like chocolates but also longer-lasting snacks like granola bars in my bag. These have saved me in a lot of high-adrenaline, stressful, exhausting situations like these showcases.</p>
-<p>8. <b>Drink water.</b> Showcases require a LOT of talking. If you have multiple showcases in a day, or across multiple days, your voice will get hoarse. At the very least it’s incredibly loud and you have to speak over all of the thousands of people speaking in the building. Stay hydrated for your voice and your mind.</p>
-<p>9. <b>Write notes.</b> After each program, find a table to briefly write notes about what you discussed and learned. You could write it on your own notebook, but also on the back of the business cards you received. My preference is the latter because it helps with follow up emails afterwards.</p>
-<p>10. <b>Send follow up emails.</b> This is helpful for next steps. If you decide to pursue a program with an application after the showcase, send a follow up email to the people you spoke with. You can keep it short and sweet, but thank them for their time and that you look forward to the application and interview process. It helps for the program to know you’re interested and have name recognition when your application arrives.</p>
-<p>Those who are recruiting for spaces with their programs want you as much as you want them. Be yourself, take care of yourself, and trust the process.</p>
-	<br></br>
-	<h4>❖❖❖</h4>
-	<br></br>
-	<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
-	<br></br>
-</div>
-},
+	<div>
+	<img src="/images/residencyshowcase.jpg" alt="Residency Showcase" />
+	<p>‘Tis the season for post-graduate planning for pharmacy residency, fellowship, and more. Next week is the <a href="https://midyear17.ashp.org/" target="_blank" rel="noopener noreferrer">ASHP Midyear Clinical Meeting</a>, but there are also a number of state-sponsored showcases and other national pharmacy organizations that will begin recruitment this month if they haven’t already.</p>
+	<p>The showcase should be primarily for you to gather information. When I mentor others going through showcase preparation, I tell them to be selfish (while not lingering). Get the information you need to make informed decisions. The next steps are expensive and exhausting and you want to be sure you pursue places that are worth your precious time and student budgets. Best of luck with your post-graduate program search!</p>
+	<p>The dreaded program showcase is as stressful for the programs as it is for the recruits, I promise. As an introvert, it feels infinitely more exhausting despite my ability to network and work a conversation. With my multiple years of experience both as a student seeking positions and as a recruiter for my own residency program, I’ve got lots of tips to come out with a successful showcase experience.</p>
+	<p>1. <b>Do your research.</b> Researching programs is a triple threat. You understand better what you want to get out of programs. You know the questions to ask. You look prepared and interested to the programs you’re speaking with. As beneficial as research is, it’s more punishing if you don’t. Programs don’t like to answer questions that are on their websites because it wastes their time.</p>
+	<p>2. <b>Map out your path.</b> This piggy backs off your research. If you know where your programs are, you can make an efficient path from booth to booth. You can also map out where the water fountains and bathrooms are to take breaks.</p>
+	<p>3. <b>Do a practice run.</b> If you’re nervous about how to handle your top choice programs, check out a booth that does not have a lot of people and have a conversation with them. This will help ease your stress about what to say, give you practice, and you may also find a new program you never thought you would be interested in!</p>
+	<p>4. <b>Figure out your approach. </b>There are multiple ways you can engage in a booth, and it all depends on the situation. There are programs that are less busy so you can see people standing alone. There are also programs that will always look packed. With these it may seem even more intimidating, however what you should look to do is join a group of people already speaking. Find a space within their circle, introduce yourself briefly and ask if you can join (it’s a courtesy question - of course you can!). Listen first to the question being answered, and adjust your questions from there.</p>
+	<p>5. <b>Don’t linger.</b> Don’t spend too long in one place. It’s a delicate balance of showing genuine interest in a program without taking time from the program to meet as many recruits as they can. I like to recommend asking <b>one question if part of a group</b>, or <b>up to three questions if one-on-one</b>. These are merely initial structure and you can adapt as you feel appropriate. One sign that a conversation may be ready to conclude is that business cards are pulled out.</p>
+	<p>6. <b>Get and give business cards.</b> Take business cards from the people you speak with. It will help you remember the programs you spoke with and be another layer of name recognition for you. Additionally, make sure you provide places you spoke with your own business card so they can remember you when your application comes along.</p>
+	<p>7. <b>Keep snacks in your bag.</b> I can’t get anything done if I have low blood sugar. And a lot of times I don’t realize I need it until it’s too late and there’s no food in sight. I keep quick fixes like chocolates but also longer-lasting snacks like granola bars in my bag. These have saved me in a lot of high-adrenaline, stressful, exhausting situations like these showcases.</p>
+	<p>8. <b>Drink water.</b> Showcases require a LOT of talking. If you have multiple showcases in a day, or across multiple days, your voice will get hoarse. At the very least it’s incredibly loud and you have to speak over all of the thousands of people speaking in the building. Stay hydrated for your voice and your mind.</p>
+	<p>9. <b>Write notes.</b> After each program, find a table to briefly write notes about what you discussed and learned. You could write it on your own notebook, but also on the back of the business cards you received. My preference is the latter because it helps with follow up emails afterwards.</p>
+	<p>10. <b>Send follow up emails.</b> This is helpful for next steps. If you decide to pursue a program with an application after the showcase, send a follow up email to the people you spoke with. You can keep it short and sweet, but thank them for their time and that you look forward to the application and interview process. It helps for the program to know you’re interested and have name recognition when your application arrives.</p>
+	<p>Those who are recruiting for spaces with their programs want you as much as you want them. Be yourself, take care of yourself, and trust the process.</p>
+		<br></br>
+		<h4>❖❖❖</h4>
+		<br></br>
+		<h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+		<br></br>
+	</div>
+	},
 
 {id: "my-free-nyc-winter-holiday-bucket-list", title: <a href="/articles/my-free-nyc-winter-holiday-bucket-list">My [free] NYC Winter Holiday Bucket List</a>, date: "November 22, 2017", category: "Life", photo: "/images/nycholiday-preview.png",  description: <div>Since moving to New York City, I’ve found it difficult to pace myself with all the opportunity to things all over the place. And holiday season is no exception. I’m getting Facebook events galore coming through my feed that I’m determined to attend. Here’s a collection of some of the events I’m hoping to make to this winter holiday season. And as a bonus - they’re all free! <a href="/articles/my-free-nyc-winter-holiday-bucket-list">[Read More]</a></div>, post:
 <div>
