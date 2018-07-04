@@ -51,7 +51,7 @@ post:
         <img src="/images/american6.jpg" alt="I Am American Guest Post" />
     <br></br>
 <p>I have lived in this country more than I lived in my country of birth. I have worked with people from different ethnicities with no problem all these years. I have lived here long enough to have known some of the kindest and most generous people out there. Two of my best friends are a proud Tennessee native and Iranian-American, and we have been friends for over 21 years. I have also seen first hand how everyone here rallies together to help other countries or our own neighbors after natural disasters.</p>
-<p>My husband and I founded a small Filipino-American organization, <a target="_blank" rel="noopener noreferrer" href="http://www.sanlahi.org/">Sanlahi, Inc.</a> One of our goals is to foster unity between cultures.  We are celebrating the 10th year anniversary for the organization next year.</p>
+<p>My husband and I, together with American and Filipino-American friends, founded a Filipino-American organization, <a target="_blank" rel="noopener noreferrer" href="http://www.sanlahi.org/">Sanlahi, Inc.</a> One of our goals is to foster unity between cultures.  We are celebrating the 10th year anniversary for the organization next year.</p>
 <p>Writing this post reminded me that the America I know has a good heart.  We have to work with others who share the same belief that who believe that we are already a great country. I will do my part to make sure that everyone who is here, no matter their religion or country of origin, is treated with dignity and respect.  I will continue to stand up for equality for women, for freedom of the press and for the protection of the environment.</p>
     <br></br>
     <h4>❖❖❖</h4>
