@@ -1,6 +1,89 @@
 import React from 'react';
 
 const ARTICLES = [
+{id: "i-am-american-guest-post", title: <a href="/articles/i-am-american-guest-post">I Am American [GUEST POST]</a>, date: "July 4, 2018", category: "Activism", photo: "/images/american-preview.png",  description: <div><p>It's Independence Day here in the United States of America! For today's post I knew I wanted it to be about what it means to be an American. Then I realized with the political and cultural climate here these days that I wanted to highlight a very special story of someone who spent over a decade in the US before deciding to become a US citizen. Today, I share the story of my very own mom. </p> <a href="/articles/i-am-american-guest-post">[Read more]</a></div>,
+post: 
+    <div>
+        <img src="/images/american1.jpg" alt="I Am American Guest Post" />
+    <br></br>
+<p><b>*Content for this article is written from the perspective of the guest writer.*</b></p>
+<p>On this day in 2004, I took the <a target="_blank" rel="noopener noreferrer" href="https://www.uscis.gov/us-citizenship/naturalization-test/naturalization-oath-allegiance-united-states-america">Oath of Citizenship</a> and became a <a target="_blank" rel="noopener noreferrer" href="https://www.uscis.gov/sites/default/files/files/article/chapter5.pdf">naturalized citizen</a> of the United States of America (USA). It was a day of mixed emotions of both happiness and sadness after living in the USA for 17 years. I felt happy that I was about to become an American citizen after living here for so long, and to join my family in common citizenship. However, I also felt sad because I was about to “absolutely and entirely renounce and abjure all allegiance and fidelity” to my country of birth: the Philippines.</p>
+<p>When I was asked to write about what it means to me to be an American, a lot went through my mind. To dig into it, I have to share how I came to the United States, the process it took to be able to stay and later decide to pursue citizenship, and the bumps along the way that ultimately led to that “American Dream”. But with the climate in this country as it stands today, I’ve started questioning what this means on a new level I’ve never experienced before.</p>
+   <br></br>
+<h4><b>coming to a new country.</b></h4>
+        <img src="/images/american2.jpg" alt="I Am American Guest Post" />
+    <br></br>
+<p>I immigrated to the US in November 1987. I was only 21 years old and only 4 months married to my husband, Ralph. Ralph was accepted to pursue his Doctor of Philosophy (PhD) degree in Puerto Rico after completing his Master of Science degree in Rhode Island a month before our wedding. He came on a nonimmigrant, <a target="_blank" rel="noopener noreferrer" href="https://www.uscis.gov/working-united-states/students-and-exchange-visitors">Student Visa (F1)</a> and I was able to join him as a Spouse of a student on an F2 visa.  At the time I left on that intercontinental flight from the Philippines, I didn’t think I would be staying here for good.</p>
+<p>That was 31 years ago.</p>
+   <br></br>
+<h4><b>becoming a permanent resident.</b></h4>
+        <img src="/images/american3.jpg" alt="I Am American Guest Post" />
+    <br></br>
+<p>Our transition from nonimmigrant status to Permanent Residents, and later to US citizens was not easy nor was it quick. There was a period of 11 years that we didn’t see our families in the Philippines because we didn’t want to risk visiting and not being able to come back to the US. </p>
+<p>While we were in graduate school, one of our friends had changed status from a <a target="_blank" rel="noopener noreferrer" href="https://www.uscis.gov/working-united-states/students-and-exchange-visitors">Student (F1)</a> to a <a target="_blank" rel="noopener noreferrer" href="https://en.wikipedia.org/wiki/H-1B_visa">Working (H1) visa</a> after he was employed by a company in Puerto Rico.  He brought his family for a visit to Mexico and their application for a change in status was denied at the US Embassy in Mexico.  You see, changing one nonimmigrant status to another is acceptable within the US.  However, one's status does not change in the eyes of the US Embassy when you <b>leave</b> the country.  In order for you to return to the US with the new status, you have to apply for the Visa at US Embassy.  Since the Consular offices are autonomous units from the Immigration and Naturalization Services in the country, they can either deny or approve your application.</p>
+<p>As an F2 visa holder, I was not eligible to work.  We were living on $500 a month for the first year and that was a struggle.  I also was not covered by Ralph's student health insurance. It was then I realized the only option was for me to go to graduate school as well.  A year after I arrived, I was in graduated school for a Master’s Degree in Marine Sciences.</p>
+<p>During this time, I also became pregnant with our first daughter, Erin. It was a scary period because we were far from our families in a different country where we didn’t speak the primary language (Spanish). This was when we were introduced to the amazing social programs afforded to American citizens. Even though I only had a Student Visa, I became eligible to receive Medicaid and <a target="_blank" rel="noopener noreferrer" href="https://www.fns.usda.gov/wic/women-infants-and-children-wic">Special Supplemental Nutrition Program for Woman, Infant and Children (WIC)</a> because I was carrying a soon-to-be American citizen. That such an enormous help for us who were living on graduate assistantships since this was the only way I could earn an income (working outside the university was prohibited). That was the first and last time we received welfare from the government, and we will always be grateful for this to get us through those tough times.</p>
+    <br></br>
+        <img src="/images/american5.jpg" alt="I Am American Guest Post" />
+    <br></br>
+<p>After we both finished our degrees, I expected that we would move back to the Philippines. But alas, an amazing opportunity came for Ralph and we moved to Tallahassee, FL where Ralph did his post-doctoral training at the Florida State University. Florida has been home since 1995. In 2000, my husband and I became Permanent Residents, also known as <a target="_blank" rel="noopener noreferrer" href="https://www.uscis.gov/greencard">Green Card holders</a>. As a Permanent Resident, we were eligible to all entitlements such as Food Stamps and Medicaid but were not eligible to vote. We also still carried Philippine passports, so should we travel outside the country and conflict ensues, we would not have been able to seek help or shelter in a US Embassy.</p>
+   <br></br>
+<h4><b>path to citizenship.</b></h4>
+<p>Five years after having Permanent Resident status, we became eligible to apply for US citizenship. Ralph immediately applied for citizenship so he could easily travel overseas for work without having to apply for a visa to other countries. As a US citizen he could also vote. At this time, I decided to wait. Honestly, I didn’t feel that I needed to. I was not interested in voting for President, and I wasn’t traveling overseas except to the Philippines. Lastly, and at the time, most importantly, I could not get myself to “renounce all allegiance” to the Philippines. So, I was the only non-US passport holder in the family for a few years.</p>
+<p>When we finally traveled to the Philippines after 11 years of absence, I had to line up on the non-US citizens line at Immigration even when I was pushing my daughter in a stroller who was only 1 year old then and an American citizen. I had to go through the US citizen line for her and lined up in the Non-US one for me. In 2002, we took a road trip up to Niagara Falls. We didn’t go to the Canadian side because we were not sure I could cross the border without a Canadian visa since I was not a US citizen.</p>
+<p>I had a great life in this country as a Permanent Resident from 1996-2004. Ralph and I made a home for our two daughters, Erin and Megan. My husband has been a university professor and I have been a high school science teacher. Our girls attended public schools, played in the school orchestra and both were active in the Student Government.</p>
+<p>We were living the quintessential American dream. This was home.</p>
+        <img src="/images/american4.jpg" alt="I Am American Guest Post" />
+    <br></br>
+<p>Then came September 11, 2001. For the first time, I felt some anti-immigrant sentiment even though it definitely was not directed towards Filipinos. It concerned me that I might get separated from my family since I was not a US citizen. So after all those years as a Permanent Resident, I decided that it was time to work on <a target="_blank" rel="noopener noreferrer" href="https://www.usa.gov/become-us-citizen">becoming a US Citizen</a>.  The <a target="_blank" rel="noopener noreferrer" href="https://www.uscis.gov/citizenship/learners/apply-citizenship">initial application</a> is followed by a complete background check and a Medical check up with an INS approved medical doctor. The doctor we were assigned practiced in Jacksonville, hours from where we live! As soon as both of these checked out, I had to take and pass the  <a target="_blank" rel="noopener noreferrer" href="https://my.uscis.gov/prep/test/civics">Citizenship test</a>.</p>
+<p>I was one of at least 50 other Permanent Residents who took the Oath on a hot morning at <a target="_blank" rel="noopener noreferrer" href="https://disneyworld.disney.go.com/destinations/epcot/">Epcot in Walt Disney World</a>. After the we took the Oath of Citizenship and recited the Pledge of Allegiance, we were warmly welcomed by a video message by then President George W. Bush. After the ceremony, we had the option to change our names. I decided to keep mine.</p>
+<p>From the moment I arrived in the US, I have always felt welcomed. In Puerto Rico on a Student Visa able to use welfare for my daughter, as a Permanent Resident for over a decade in Florida, and finally as a US Citizen for over a decade.</p>
+<p>This feeling all changed after the 2016 election.</p>
+<h4><b>everything changed.</b></h4>
+        <img src="/images/american7.jpg" alt="I Am American Guest Post" />
+    <br></br>
+<p>Since the election, for the first time, I started to feel different or “foreign” in my adopted country that was supposed to welcome and thrive under its diversity. The anti-immigrant rhetoric that then candidate Donald Trump professed, albeit towards citizens such of the border and Muslim countries, has made me feel self-conscious about my ethnicity. It doesn’t help that my skin color is the same as the group that he has shown much contempt for. When I used to proudly show off my tan skin color, now I feel so visibly different. I even find myself wondering what the white people I meet might be thinking. Are they thinking that I am illegal here?</p>
+<p>I have begun to question the actions of others towards me as well. Did the rude attitude of that store clerk happen only because she was having a bad day or because of my skin color and where I must be from? When the group of two white couples who came after us at a restaurant take the table that we were clearly waiting to sit at do so because we looked different? We were not even given the courtesy of asking if we were waiting for the table to be cleared.</p>
+<p>What’s more is now I am even scared to do anything wrong like forget to push a shopping cart away in the parking lot lest I be looked down on for not doing the right thing because we are brown skinned.</p>
+<p>Have we really come to this?  Have we gone back to the 60s and segregation?  Sad, but this is now my reality as a Filipino-American in America today.</p>
+   <br></br>
+<h4><b>i am american.</b></h4>
+        <img src="/images/american6.jpg" alt="I Am American Guest Post" />
+    <br></br>
+<p>I have lived in this country more than I lived in my country of birth. I have worked with people from different ethnicities with no problem. I have lived here long enough to have known some of the kindest and most generous people out there. Two of my best friends are a Caucasian and Iranian-American, and we have been friends for over 21 years. I have also seen first hand how everyone here rallies together to help other countries or our own neighbors after natural disasters.</p>
+<p>My husband and I founded a small Filipino-American organization, <a target="_blank" rel="noopener noreferrer" href="http://www.sanlahi.org/">Sanlahi, Inc.</a> One of our goals is to foster unity between cultures.  We are celebrating the 10th year anniversary for the organization next year.</p>
+<p>Writing this post reminded me that the America I know has a good heart.  We have to work with others who share the same belief that who believe that we are already a great country. I will do my part to make sure that everyone who is here, no matter their religion or country of origin, is treated with dignity and respect.  I will continue to stand up for equality for women, for freedom of the press and for the protection of the environment.</p>
+    <br></br>
+    <h4>❖❖❖</h4>
+    <br></br>
+    <img className="portrait" src="/images/joy.jpg" alt="Joy" />
+    <br></br>
+<p>Joy currently resides in Melbourne with her husband, Ralph. By day, she works from home as a Biology instructor for the Florida Virtual School. By night she is an avid hobbyist - she is a crafter, knitter, runner, furniture rehabber, home decorator, multi-level marketer, cultural dancer, <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/user/tchrspet2001">You-tuber</a>, foodie, event planner, florist, wanna be minimalist and travel planner.  She writes about all these “hobbies in her blog, <a target="_blank" rel="noopener noreferrer" href="http://www.joyousserendipity.com">Joyous Serendipity</a>.  A life long Catholic, she is currently walking with her husband in formation for the Permanent Diaconate.  At the end of the day, she is really just happy being grandma to her new grandson, Zeke.</p>
+        <br></br>
+    <h4>❖❖❖</h4>
+        <br></br>
+    <h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+        <br></br>
+    <h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+        <br></br>
+    <h4>❖❖❖</h4>
+        <br></br>
+    <h4>YOU MIGHT ALSO LIKE:</h4>
+    <a className="three-up" href="/articles/what-you-dont-expect-when-youre-expecting">
+        <img src="/images/guestpost-ppd-preview.png" alt="What You Don't Expect When You're Expecting" />
+        <p className="centered">What You Don't Expect When You're Expecting [GUEST POST]</p>
+    </a>
+    <a className="three-up" href="/articles/growing-up-asian-american-tag">
+        <img src="/images/growing-up-aa-tag-preview.png" alt="Growing Up Asian American Tag" />
+        <p className="centered">Growing Up Asian American Tag</p>
+    </a>
+        <a className="three-up" href="/articles/favorite-podcasts-to-stay-informed">
+            <img src="/images/podcastsinformed-preview.png" alt="Favorite Podcasts to Stay Informed" />
+            <p className="centered">Favorite Podcasts to Stay Informed</p>
+        </a>
+    </div>
+    },
+
 {id: "favorite-podcasts-to-stay-informed", title: <a href="/articles/favorite-podcasts-to-stay-informed">Favorite Podcasts to Stay Informed</a>, date: "June 18, 2018", category: "Activism", photo: "/images/podcastsinformed-preview.png",  description: <div><p>Listening to podcasts has started to replace a lot of my usual TV watching and music listening. Since I listen to them hours per day I thought I'd share some of my favorites in particular categories. <b>Next up: podcasts to keep up with current events around the world.</b> </p> <a href="/articles/favorite-podcasts-to-stay-informed">[Read more]</a></div>,
 post: 
 	<div>
