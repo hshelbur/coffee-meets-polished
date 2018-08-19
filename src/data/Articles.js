@@ -1,6 +1,111 @@
 import React from 'react';
 
 const ARTICLES = [
+{id: "10-things-i-loved-in-june-and-july", title: <a href="/articles/10-things-i-loved-in-june-and-july">10 Things I Loved in June and July</a>, date: "July 30, 2018", category: "Life", photo: "/images/10-things-i-loved-in-june-and-july-preview.png",  description: <div><p>New York City in the summer is an amazing thing. So many microadventures and guests staying on our futon - which has been AWESOME but also means my content creation has been on hold. For the first time I'll be combining two months in one, with a combined list of 10 things I've loved across June and July. What are some things you've loved this summer? </p> <a href="/articles/10-things-i-loved-in-june-and-july">[Read more]</a></div>,
+post: 
+    <div>
+        <img src="/images/10-things-i-loved-in-june-and-july-preview.png" alt="10 Things I Loved in June and July" />
+        <br></br>
+    <p>New York City in the summer is an amazing thing. So many microadventures and guests staying on our futon - which has been AWESOME but also means my content creation has been on hold. For the first time I'll be combining two months in one, with a combined list of 10 things I've loved across June and July. What are some things you've loved this summer? </p>
+        <br></br>
+    <p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2KwUgtX">5 Things I Loved in May</a></b></p>
+        <br></br>
+    <h4><b>wireless headphones.</b></h4>
+    <p><img src="/images/wirelessheadphones.jpg" alt="Wireless Headphones Smartomi" /></p>
+        <br></br>
+    <p>For my birthday in May, one of my closest friends got me <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Completely-Headphones-Cancelling-Hands-free-Smartphones/dp/B06XL11BJY/">Smartomi Q5 wireless headphones</a>. I'd never even told her about how much I hated detangling my headphones every time I get on the train. How much I hated holding my phone in my hand when I had no pockets (very common for women's clothing). She lives all the way in North Carolina and somehow she felt my frustrations from there. Needless to say, I use it every day and has increased my podcast-listening immensely.</p>
+        <br></br>
+    <p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2soh3AG">5 Things I Loved in May</a></b></p>
+        <br></br>
+    <h4><b>matcha.</b></h4>
+    <p><img className="portrait" src="/images/matcha.jpg" alt="Matcha" /></p>
+        <br></br>
+    <p>After attending <a target="_blank" rel="noopener noreferrer" href="http://candicekumai.com/">Candice Kumai's</a> matcha master class at the Wing, I decided to get my own tools and give it a go. I was already down to just one cup of coffee per day and was hoping to take advantage of the antioxidants in the matcha tea. So I made this switch. The first week I tried it, was after a lot of guests in town so I probably needed the coffee in the first place, but I was really tired. I was wondering if it was really doing anything but I was starting out with a small scoop with my bamboo spoon. Now I'm at a full-fledged spoonful dose and I'm really happy with it. The mindful act of making the tea, whisking it, adding collagen powder and almond milk, is a great start to the day. I don't feel any of the jitters or the low blood sugar feeling when it wears off. There are still some days I'll have coffee when I know I'll have a really long day or coming after a night of not sleeping very well, but that comes now only every few weeks.  </p>
+    <p>Do you enjoy matcha tea or a different drink each morning? Share them in the comments below!</p>
+        <br></br>
+    <h4>crazy ex-girlfriend.</h4>
+    <p><img src="/images/CrazyExGirlfriend.jpg" alt="Crazy Ex-Girlfriend" /></p>
+    <p>Image Source: <a target="_blank" rel="noopener noreferrer" href="https://www.vox.com/culture/2018/1/19/16885806/crazy-ex-girlfriend-songs-ranked-listVox">Vox</a></p>
+        <br></br>
+    <p>I was invited to a conference dedicated to Filipino entrepreneurs, <a target="_blank" rel="noopener noreferrer" href="http://www.phtimeisnow.com/">PH Time is Now</a>, and one of the panelists was Vincent Rodriguez III, one of the co-stars of <a target="_blank" rel="noopener noreferrer" href="http://www.cwtv.com/shows/crazy-ex-girlfriend/">Crazy Ex-Girlfriend</a>. I'd never heard of it but when he spoke of the representation of Filipino culture in the show, I had to check it out. My partner and I sped through all 3 seasons in a matter of weeks. It not only was infused with Filipino culture, but it also touches on feminism, mental health, challenges cultural taboos, all in the context of musical television. I'm sad we have to wait so long for the [final] season 4. But it's not one of my life goals to see Rachel Bloom do <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=Ax8tEEgAxUM">standup comedy live</a>. </p>
+        <br></br>
+    <p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2r7hlxE">Being "Not That" Asian</a></b></p>
+        <br></br>
+    <p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2s2wcqK">Growing Up Asian American Tag</a></b></p>
+        <br></br>
+    <h4><b>races i didn't run.</b></h4>
+    <p><img src="/images/achilles4miler.jpg" alt="NYRR Achilles 4 Miler" /></p>
+        <br></br>
+    <p>June was a big month for races I didn't run, but documented. My partner is training for the New York City Marathon and happened to sign up for a few races through New York Road Runners, especially ones that had finishing medals. It gave me the chance to practice vlogging with my Canon EOS M50 and then also with my video editing skills. You can check out some of them here for the <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=TfoKwE3YbOw">Queens10K</a> and <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=bHGf1HHX7kk&t=21s">Italy Run 5 Miler</a>.</p>
+        <br></br>
+    <p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2Ec42NK">10 Lessons For Your First Skiing Experience</a></b></p>
+        <br></br>
+    <h4><b>rooftops.</b></h4>
+    <p><img className="portrait" src="/images/rooftop.jpg" alt="Wing Rooftop" /></p>
+        <br></br>
+    <p>There were lots of days in June where the weather was absolutely perfect. Sunny, not humid, and in the 70's. For many of these days, I was able to go to <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/the.wing/">the Wing</a> after work and relax on the rooftop. I mean, you see the picture. Need I say more? </p>
+        <br></br>
+    <h4><b>ozyfest 2018.</b></h4>
+    <img className="two-up" src="/images/OzyFest1.jpg" alt="Ozy Fest 1" />
+    <img className="two-up" src="/images/OzyFest2.jpg" alt="Ozy Fest 2 Michelle Wolf" />
+           <br></br>
+    <p><a target="_blank" rel="noopener noreferrer" href="https://www.ozy.com/ozyfest">OZY Fest</a> was something I learned about just a week before it was scheduled and once my partner saw the line up in an ad on social media, he immediately bought tickets for us. This was its third year in production. Line up included Hilary Clinton, Michelle Wolf, Malcolm Gladwell, Roxane Gay, Chelsea Handler, Kristen Gillebrand, Marcus Samuelsson, Grouplove, Common, Jemele Hill, Hasan Minahj, and so much more. It was marketed as part TED Talks, part music festival, part food fair and I can see that. To be able to go from a political/cultural discussion, to a food demonstration, to a book signing, to a comedy show, to a concert was the most unique events I've experienced in a very long time. AND it was in Central Park!? I can't wait for 2019! </p>
+        <br></br>
+    <p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2t4FlQy">Favorite Podcasts to Stay Informed</a></b></p>
+        <br></br>
+    <h4><b>the magicians.</b></h4>
+    <p><img src="/images/themagicians.jpg" alt="The Magicians" /></p>
+    <p>Image source: <a target="_blank" rel="noopener noreferrer" href="https://www.wired.com/2017/01/magicians-season-2-review/">Wired</a></p>
+        <br></br>
+    <p>After I finished Crazy Ex-Girlfriend, I was in search for a new episode and it was recommended that I watch the Magicians. I was told it was like Harry Potter in New York City, combined with Chronicles of Narnia, with feminist writers and a diverse cast. After watching, all of the description was totally accurate and more. I watched all three seasons in the matter of a couple of weeks, looking forward to the marathon sessions after work each night. The writing in Season 1 is a little choppy and you're not sure who you can root for, but the subsequent seasons the writing became incredibly deep and complex. I have to wait until 2019 for Season 4 now?! So sad. </p>
+        <br></br>
+    <h4><b>shine happy hour.</b></h4>
+    <p><img className="portrait" src="/images/Shine.jpg" alt="Shine Text" /></p>
+        <br></br>
+    <p>I've been part of the Shine community since 2015. In October 2017, I even wrote an article all about signing up. When I started Coffee Meets Polished, I had a list of business I would love to work with someday, and Shine is first on that list. A couple of weeks ago on International Self-Care Day, I was invited to the Shine Headquarters in Midtown Manhattan for Happy Hour with Shine staff and other NYC-based members. It was such an amazing time and a great opportunity for my experience to come full circle! I was even given some sweet Shine swag with a bottle and tote bag that I love sporting around now. And to make the day even more special, I was gifted a complimentary <a target="_blank" rel="noopener noreferrer" href="https://dreamerybycasper.com/">Casper nap</a> experience at my leisure. I haven't booked it yet, but I will definitely be doing it soon!</p>
+    <p>If you're interested in signing up for Shine texts (it's free!), you can use my referral link <a target="_blank" rel="noopener noreferrer" href="www.shinetext.com/?r=88DMj2b">HERE</a>.</p>
+        <br></br>
+    <p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2njynUl">Embracing the Shine</a></b></p>
+        <br></br>
+    <h4><b>friend-ventures.</b></h4>
+    <p><img className="portrait" src="/images/taiyaki.jpg" alt="Taiyaki" /></p>
+        <br></br>
+    <p>When I was preparing to live in NYC, I was warned that friends would start wanting to visit. That has turned out to be very true, and I'm glad we invested in our own bedroom and a futon in anticipation. That being said, getting to spend weekends with old friends and showing them my favorite ways to experience New York City has been such a privilege. In June and July, I had multiple different guests throughout the different weekends and it was so much fun getting to be a tourist along with them and have microadventure after microadventure. It's easy to get into routine with your home and work commute radius, and having friends visits helps you snap out of it.</p>
+        <br></br>
+    <p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2EqkwXH">10 Affordable Date Night Ideas in NYC</a></b></p>
+        <br></br>
+    <h4><b>beauty blender.</b></h4>
+    <p><img className="portrait" src="/images/beautyblender.jpg" alt="Beauty Blender" /></p>
+        <br></br>
+    <p>I purchased a <a target="_blank" rel="noopener noreferrer" href="https://www.sephora.com/product/beautyblender-P228913">Beauty Blender</a> years ago, but never used it. I kept it in my makeup drawers and moved it from place to place without being touched. I was happy with my brushes for a while and felt lazy to get it wet before use, since the bathroom was alllll the way in the other side of my tiny NYC apartment. First world problems, eh? But I finally got over it and started using it, and I don't know how to go back to my brushes. It not only blends my foundation perfectly and smoothly, but it's also like a morning face massage. What better way to start the morning?</p>
+    <p>Side note, I recently listened to an episode of <a target="_blank" rel="noopener noreferrer" href="https://breakingbeautypodcast.com/">Breaking Beauty Podcast</a> that had the <a target="_blank" rel="noopener noreferrer" href="https://breakingbeautypodcast.com/podcast-episodes/2018/7/27/ep-32-beautyblender-founder-rea-ann-silva">Beauty Blender founder, Rea Ann Silva,</a> where I learned all about the start of her business and details behind product development. It gave me a whole new level of appreciation for it!</p>
+        <br></br>
+    <p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2sHyL1x">New Podcast Discoveries with Female Hosts</a></b></p>
+        <br></br>
+    <h4>❖❖❖</h4>
+        <br></br>
+    <h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+        <br></br>
+    <h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+        <br></br>
+    <h4>❖❖❖</h4>
+        <br></br>
+    <h4>YOU MIGHT ALSO LIKE:</h4>
+        <a className="three-up" href="/articles/feminist-book-list-summer-edition">
+            <img src="/images/feministbooklistwinter-preview.png" alt="feminist-book-list-summer-edition" />
+            <p className="centered">Feminist Book List: Summer Edition</p>
+        </a>
+        <a className="three-up" href="/articles/5-things-i-loved-in-may-2018">
+            <img src="/images/5-things-i-loved-in-may-2018.png" alt="5-things-i-loved-in-may-2018" />
+            <p className="centered">5 Things I Loved in May</p>
+        </a>
+        <a className="three-up" href="/articles/when-i-stopped-apologizing-for-needing-solitude">
+            <img src="/images/solitude-preview.png" alt="when-i-stopped-apologizing-for-needing-solitude" />
+            <p className="centered">When I Stopped Apologizing for Needing Solitude</p>
+        </a>
+    </div>
+    },
+
 {id: "i-am-american-guest-post", title: <a href="/articles/i-am-american-guest-post">I Am American [GUEST POST]</a>, date: "July 4, 2018", category: "Activism", photo: "/images/american-preview.png",  description: <div><p>It's Independence Day here in the United States of America! For today's post I knew I wanted it to be about what it means to be an American. Then I realized with the political and cultural climate here these days that I wanted to highlight a very special story of someone who spent over a decade in the US before deciding to become a US citizen. Today, I share the story of my very own mom. </p> <a href="/articles/i-am-american-guest-post">[Read more]</a></div>,
 post: 
     <div>

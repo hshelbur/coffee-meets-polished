@@ -5,6 +5,11 @@ class Archive extends Component {
     return(
         <section className="article">
         <h4><b>Coffee Meets Polished Archives</b></h4>
+          <p><b>JULY 2018</b></p>
+            <p className="tabbed"><a href="https://coffeemeetspolished.com/articles/10-things-i-loved-in-june-and-july" rel="noopener noreferrer">10 Things I Loved in June and July</a>
+              </p> 
+            <p className="tabbed"><a href="https://coffeemeetspolished.com/articles/i-am-american-guest-post" rel="noopener noreferrer">I Am American [GUEST POST]</a>
+              </p> 
           <p><b>JUNE 2018</b></p>
             <p className="tabbed"><a href="https://coffeemeetspolished.com/articles/favorite-podcasts-to-stay-informed" rel="noopener noreferrer">Favorite Podcasts to Stay Informed</a>
               </p> 
