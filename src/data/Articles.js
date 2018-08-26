@@ -1,6 +1,131 @@
 import React from 'react';
 
 const ARTICLES = [
+{id: "new-podcast-discoveries-female-hosts", title: <a href="/articles/new-podcast-discoveries-female-hosts">New Podcast Discoveries: Female Hosts Vol. 2</a>, date: "August 26, 2018", category: "Activism", photo: "/images/newpodcastdiscoveriesfemalehostsvol2-preview.png",  description: <div><p>May was a month of discovery when it came to podcasts. I discovered so many new shows that are quickly becoming some of my favorites and most of them have female hosts! The best part is that each of them are so incredibly different and I love how they highlight nuances of the female experience. Check out my latest favorite discoveries! </p> <a href="/articles/new-podcast-discoveries-female-hosts">[Read more]</a></div>,
+post: 
+    <div>
+        <img src="/images/newpodcastdiscoveriesfemalehostsvol2.jpg" alt="New Podcast Discoveries: Female Hosts Volume 2" />
+    <br></br>
+    <p>A few weeks ago, I went to <a target="_blank" rel="noopener noreferrer" href="https://conferences.blogher.com/">BlogHer18</a> and one of the breakout sessions was about developing your own podcast. The session was hosted by <a target="_blank" rel="noopener noreferrer" href="https://www.kristenmeinzer.com/">Kristen Meinzer</a>, a co-host of Panoply's <a target="_blank" rel="noopener noreferrer" href="https://www.panoply.fm/podcasts/bythebook">By the Book Podcast</a> and the two hosts of <a target="_blank" rel="noopener noreferrer" href="https://betches.com/podcasts/">Betches Podcast</a>. In the session, Kristen pointed out that there will always be those who simply don't want to listen to women's voices.</p>
+    <p>Unfortunately, I agree. However, that only empowers me even more to continue supporting and lift podcasts that are hosted by women.</p>
+    <p>Luckily for us there are SO MANY to advocate for. So many, in fact, that this is the second post I am sharing of my favorite new discoveries. I'm excited about this list because each of them are so different, which goes to show how complex and diverse our experiences and interests are.</p>
+    <p>What are some of your favorite podcasts with female hosts? Share in the comments below! I love to discover new ones every day.</p>
+    <br></br>
+    <h4>❖❖❖</h4>
+    <br></br>
+    <h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.mothersofinvention.online/">Mothers of Invention</a></b></h4>
+    <a target="_blank" rel="noopener noreferrer" href="https://www.mothersofinvention.online/">
+            <img className="portrait" src="/images/mothersofinventionpodcast.jpg" alt="Mothers of Invention Podcast" />
+            </a>
+    <br></br>
+    <p>"Climate change is a man-made problem — with a feminist solution! ​Join former Irish President Mary Robinson and comedian Maeve Higgins in this uplifting new podcast, celebrating amazing women doing remarkable things in pursuit of climate justice. Each episode features the Mothers of Invention driving powerful solutions to climate change – from the grassroots to the court room, the front lines to the board room – all over the world."</p>
+    <p>I first learned of <a target="_blank" rel="noopener noreferrer" href="https://www.maeveinamerica.com/">Maeve</a> when I got an advanced copy of her new book, <a target="_blank" rel="noopener noreferrer" href="https://www.maeveinamerica.com/">Maeve in America</a>. I also recently got her book signed at <a target="_blank" rel="noopener noreferrer" href="https://www.booksaremagic.net/">Books are Magic</a> and she promoted both her book and new podcast, Mothers of Invention! I immediately subscribed and listened to episode 1 the next day. It's such a fresh perspective on climate change and coming from an international point of view has helped me learn a LOT.</p>
+    <br></br>
+    <h4>❖❖❖</h4>
+    <br></br>
+    <h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.panoply.fm/podcasts/bythebook">By the Book</a></b></h4>
+    <a target="_blank" rel="noopener noreferrer" href="https://www.panoply.fm/podcasts/bythebook">
+            <img className="portrait" src="/images/bythebookpodcast.jpg" alt="By the Book Podcast" />
+            </a>
+    <br></br>
+    <p>"By The Book is half reality show, half self-help podcast, and one wild social experiment. Join comedian Jolenta Greenberg and her skeptical friend Kristen Meinzer as they live by the rules of a different self-help book each episode to figure out which ones might actually be life changing."</p>
+    <p>This is one of the coolest podcast structures I listen to. Co-hosts Kristen and Jolenta spend a couple of weeks doing the steps in a book and reflecting on it. They've done books like <a target="_blank" rel="noopener noreferrer" href="https://www.bookculture.com/book/9780062748089">A Girl's Guide to Joining the Resistance</a>, <a target="_blank" rel="noopener noreferrer" href="https://www.bookculture.com/book/9781607749486">The Curated Closet</a>, and <a target="_blank" rel="noopener noreferrer" href="https://www.bookculture.com/book/9780062457714">The Subtle Art of Not Giving a F*ck</a>. They share audio notes of the experience within each episode and give their reviews at the very end. It's amazing to hear the reflections of books that we all read but may not put what we learn into action. After each episode, they have an Epilogue episode that is filled with listener comments and discussions in their Facebook groups. It's awesome that they incorporate even more perspectives too, and I learn so much more.</p>
+    <br></br>
+    <h4>❖❖❖</h4>
+    <br></br>
+    <h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.kcrw.com/news-culture/shows/bodies">Bodies</a></b></h4>
+    <a target="_blank" rel="noopener noreferrer" href="https://www.kcrw.com/news-culture/shows/bodies">
+            <img className="portrait" src="/images/bodiespodcast.png" alt="Bodies Podcast" />
+            </a>
+    <br></br>
+    <p>"Each episode of this intimate, highly-produced documentary program follows one person’s journey to solve a mystery about their body. Bodies explores the forces of history, society and identity that shape women's health and affect the way the medical community treats people. For so long, women’s health has been under-researched and overlooked. So often, our stories have gone untold and our questions have gone unanswered. Bodies is part of a movement to change that."</p>
+    <p>I attended a launch event at The Wing with host <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/albtweetin">Allison Behringer</a>. At first I honestly wasn't sure if I'd be interested but the stories and quality of each show are incredibly crafted. The experiences of the women in these episodes have health mysteries that could affect any of us. And as a healthcare professional I didn't realize how invaluable the personal and emotional impact of diseases can have on women. This has quickly become one of my favorites.</p>
+    <br></br>
+    <h4>❖❖❖</h4>
+    <br></br>
+    <h4><b><a target="_blank" rel="noopener noreferrer" href="https://itunes.apple.com/us/podcast/under-the-hood/id1412425226?mt=2">Under the Hood</a></b></h4>
+    <a target="_blank" rel="noopener noreferrer" href="https://itunes.apple.com/us/podcast/under-the-hood/id1412425226?mt=2">
+            <img className="portrait" src="/images/underthehoodpodcast.jpg" alt="Under the Hood Podcast" />
+            </a>
+    <br></br>
+    <p>"Under the Hood is pulling back the curtain and unpacking the mystery around womanHOOD, sisterHOOD, motherHOOD. Join Patti and Aleks as they take a deep dive into the topics you wish you knew more about, the topics you want to share with your daughters, and the things you want the men in your life to know."</p>
+    <p>I love a podcast that talks about women's sexuality. Under the Hood is so much more than that! It combines experiences with science on topics like women's orgasms and oral contraceptives. It's only two episodes in but I'm completely hooked.</p>
+    <br></br>
+    <h4>❖❖❖</h4>
+    <br></br>
+    <h4><b><a target="_blank" rel="noopener noreferrer" href="https://augustmclaughlin.com/podcast/">Girl Boner Radio</a></b></h4>
+    <a target="_blank" rel="noopener noreferrer" href="https://augustmclaughlin.com/podcast/">
+            <img className="portrait" src="/images/girlbonerradio.jpg" alt="Girl Boner Radio" />
+            </a>
+    <br></br>
+    <p>"A spicy blend of personal stories, in-depth reporting and inspiration, Girl Boner is where good girls go for sexual empowerment. Health and sexuality writer <a target="_blank" rel="noopener noreferrer" href="https://augustmclaughlin.com/">August McLaughlin</a> explores female sexual pleasure like no one else. She’s the fearless sister/girlfriend you’ve always wanted—and she loves to talk sex! Girl Boner Radio is LGBTQIA-friendly and all genders are welcome."</p>
+    <p>Speaking of podcasts about women's sexuality... <a target="_blank" rel="noopener noreferrer" href="https://augustmclaughlin.com/podcast/">Girl Boner Radio</a> is just that. The show touches topics that I wouldn't feel comfortable doing out loud, but I'm trying to work on that. And this podcast helps.</p>
+    <br></br>
+    <h4>❖❖❖</h4>
+    <br></br>
+    <h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.committedpodcast.com/">Committed Podcast</a></b></h4>
+    <a target="_blank" rel="noopener noreferrer" href="https://www.committedpodcast.com/">
+            <img className="portrait" src="/images/committedpodcast.jpg" alt="Committed Podcast" />
+            </a>
+    <br></br>
+    <p>"Host Jo Piazza as she delves into the hilarious, heartbreaking and inspiring stories of couples of all kinds who’ve soldiered through unimaginable circumstances, and after the longest of days, still want to wake up next to one another in the morning."</p>
+    <p>On this podcast, it's incredible to learn about stories of marriages that open my eyes to so many kinds of love between two people. It's refreshing to hear such positivity, happiness, and honesty in relationships that we don't see in mainstream media.</p>
+    <br></br>
+    <h4>❖❖❖</h4>
+    <br></br>
+    <h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.askamanager.org/category/podcast">Ask A Manager Podcast</a></b></h4>
+    <a target="_blank" rel="noopener noreferrer" href="https://www.askamanager.org/category/podcast">
+            <img className="portrait" src="/images/askamanagerpodcast.jpg" alt="Ask A Manager Podcast" />
+            </a>
+    <br></br>
+    <p>"Need expert advice on handling workplace dilemmas and dramas? Alison Green, founder of the popular website AskAManager.org, is here to help you resolve your toughest, most frustrating, or just plain weirdest work predicaments. Each week, she takes calls and talks directly with listeners about how to successfully tackle clueless coworkers, toxic bosses, impossible employees, crazy clients, and much more."</p>
+    <p>I love that this show has a female host to discuss topics where people need help with their career. People call in needing advice about things like having a lazy coworker, wanting more feedback from their boss, feeling burnt out at work, and if they are being a mansplainer. I don't listen to every episode but if one is particularly applicable, I'm all about it. Check out the episode list to see which applies to you!</p>
+    <br></br>
+    <h4>❖❖❖</h4>
+    <br></br>
+    <h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.acast.com/athomewith">At Home With... Podcast</a></b></h4>
+    <a target="_blank" rel="noopener noreferrer" href="https://www.acast.com/athomewith">
+            <img className="portrait" src="/images/athomewithpodcast.jpg" alt="At Home With Podcast" />
+            </a>
+    <br></br>
+    <p>"‘At Home With…’ is the podcast series that’s part ‘Through The Keyhole' and part having a good ol’ catch-up on the sofa with your mates, brought to you by online content creators Lily Pebbles and Anna Newton. The two seasons of their chart-topping podcast see them interview a whole bevy of guests in the comfort of their own home."</p>
+    <p><a target="_blank" rel="noopener noreferrer" href="https://www.lilypebbles.co.uk/">Lily Pebbles</a> and <a target="_blank" rel="noopener noreferrer" href="https://www.theannaedit.com/">Anna Newton</a> are some of my favorite YouTubers and they made a podcast! What's unique about this show is that they go to other creators' homes to discuss their craft and chat about what home means to them. It's a nice escape to listen to how others live and Lily and Anna are always so upbeat that it uplifts my mood every time.</p>
+    <br></br>
+    <h4>❖❖❖</h4>
+    <br></br>
+    <p>The more I dig into the podcast world, the more I realize that this platform is truly special. The ability to get your word out there in the archives is inspiring. Maybe I'll make my own someday... there's a thought! What are some of your favorite podcasts hosted by women? Share in the comments below!</p>
+    <p>You can find my other podcast posts to date here:</p>
+        <p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2t4FlQy">Favorite Podcasts to Stay Informed</a></b></p>
+        <p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2sHyL1x">New Podcast Discoveries: Female Hosts Vol. 1</a></b></p>
+        <p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2GKOMcN">Favorite Podcasts in March 2018</a></b></p>
+        <p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2oFVYiz">Favorite Podcasts in February 2018</a></b></p>
+        <p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2EhLwEL">Favorite Podcasts in January 2018</a></b></p>
+        <p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2FeaPHG">Favorite Podcasts of 2017</a></b></p>
+        <br></br>
+    <h4>❖❖❖</h4>
+        <br></br>
+    <h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+        <br></br>
+    <h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+        <br></br>
+    <h4>❖❖❖</h4>
+        <br></br>
+    <h4>YOU MIGHT ALSO LIKE:</h4>
+        <a className="three-up" href="/articles/new-podcast-discoveries-female-hosts">
+            <img src="/images/newpodcastdiscoveriesfemalehosts-preview.png" alt="New Podcast Discoveries Female Hosts" />
+            <p className="centered">New Podcast Discoveries: Female Hosts Vol. 1</p>
+        </a>
+        <a className="three-up" href="/articles/favorite-podcasts-of-2017">
+            <img src="/images/favoritepodcastsof2017.png" alt="Favorite Podcasts of 2017" />
+            <p className="centered">Favorite Podcasts of 2017</p>
+        </a>
+        <a className="three-up" href="/articles/plane-podcasts-barcelona-edition">
+            <img src="/images/planepodcasts-preview.png" alt="Plane Podcasts: Barcelona Edition" />
+            <p className="centered">Plane Podcasts: Barcelona Edition</p>
+        </a>
+    </div>
+    },
+
 {id: "young-professionals-guide-to-moving-to-nyc", title: <a href="/articles/young-professionals-guide-to-moving-to-nyc">Young Professional's Guide to Moving to NYC</a>, date: "August 13, 2018", category: "Life", photo: "/images/movingtonyc-preview.png",  description: <div><p>I never thought moving to New York City was possible. There's a lot of binary in how people end up here is portrayed in entertainment. You're either already born here with lots of money, or you hustle in a rat-infested studio with $20 in your pocket until you make it. But what if you're a professional who is ready to start life in a new place? Is moving to NYC that unattainable? Here's your detailed guide for how to move here as a professional. </p> <a href="/articles/young-professionals-guide-to-moving-to-nyc">[Read more]</a></div>,
 post: 
     <div>
