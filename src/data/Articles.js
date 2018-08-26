@@ -1,7 +1,7 @@
 import React from 'react';
 
 const ARTICLES = [
-{id: "new-podcast-discoveries-female-hosts", title: <a href="/articles/new-podcast-discoveries-female-hosts">New Podcast Discoveries: Female Hosts Vol. 2</a>, date: "August 26, 2018", category: "Activism", photo: "/images/newpodcastdiscoveriesfemalehostsvol2-preview.png",  description: <div><p>May was a month of discovery when it came to podcasts. I discovered so many new shows that are quickly becoming some of my favorites and most of them have female hosts! The best part is that each of them are so incredibly different and I love how they highlight nuances of the female experience. Check out my latest favorite discoveries! </p> <a href="/articles/new-podcast-discoveries-female-hosts">[Read more]</a></div>,
+{id: "new-podcast-discoveries-female-hosts-vol-2", title: <a href="/articles/new-podcast-discoveries-female-hosts-vol-2">New Podcast Discoveries: Female Hosts Vol. 2</a>, date: "August 26, 2018", category: "Activism", photo: "/images/newpodcastdiscoveriesfemalehostsvol2-preview.png",  description: <div><p>May was a month of discovery when it came to podcasts. I discovered so many new shows that are quickly becoming some of my favorites and most of them have female hosts! The best part is that each of them are so incredibly different and I love how they highlight nuances of the female experience. Check out my latest favorite discoveries! </p> <a href="/articles/new-podcast-discoveries-female-hosts-vol-2">[Read more]</a></div>,
 post: 
     <div>
         <img src="/images/newpodcastdiscoveriesfemalehostsvol2.jpg" alt="New Podcast Discoveries: Female Hosts Volume 2" />
