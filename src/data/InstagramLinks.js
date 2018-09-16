@@ -2,9 +2,9 @@ import React from 'react'
 
 const INSTAGRAM_LINKS = [
 	{id: "subscribe to cmp", title: <a href="http://bit.ly/2ByiGBn">Subscribe to Coffee Meets Polished!</a>},
-	{id: "new-podcast-discoveries-female-hosts-vol-2", title: <a href="/articles/new-podcast-discoveries-female-hosts">New Podcast Discoveries: Female Hosts, Volume 2</a>},	
+	{id: "bossedup podcast live taping", title: <a href="https://generalassemb.ly/education/bossed-up-podcast-live-taping/new-york-city/58997">Bossed Up Podcast LIVE Taping in NYC</a>},
+	{id: "new-podcast-discoveries-female-hosts-vol-2", title: <a href="/articles/new-podcast-discoveries-female-hosts-vol-2">New Podcast Discoveries: Female Hosts, Volume 2</a>},
 	{id: "young-professionals-guide-to-moving-to-nyc", title: <a href="/articles/young-professionals-guide-to-moving-to-nyc">Young Professional's Guide to Moving to NYC</a>},	
-	{id: "10-things-i-loved-in-june-and-july", title: <a href="/articles/10-things-i-loved-in-june-and-july">10 Things I Loved in June and July</a>},	
 	{id: "i-am-american-guest-post", title: <a href="/articles/i-am-american-guest-post">I Am American [GUEST POST]</a>},	
 	{id: "favorite-podcasts-to-stay-informed", title: <a href="/articles/favorite-podcasts-to-stay-informed">Favorite Podcasts to Stay Informed</a>},	
 	{id: "9-mistakes-ive-made-with-my-feminism", title: <a href="/articles/9-mistakes-ive-made-with-my-feminism">9 Mistakes I've Made With My Feminism</a>},

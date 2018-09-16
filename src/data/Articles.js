@@ -1,6 +1,69 @@
 import React from 'react';
 
 const ARTICLES = [
+{id: "5-things-i-loved-in-august-2018", title: <a href="/articles/5-things-i-loved-in-august-2018">5 Things I Loved in August</a>, date: "August 31, 2018", category: "Life", photo: "/images/5-things-i-loved-in-august-2018.png",  description: <div><p>This is the second August where I'm not going back to school - so crazy! It's interesting living in New York where the end of August is a sign that summer is ending, yet it's still in the 90's. Growing up in Florida, I never celebrated the end of summer except for the fact that there was a few weeks I could straighten my hair because it wasn't humid out. Here are my 5 favorites from my 2nd August in New York City.</p> <a href="/articles/5-things-i-loved-in-august-2018">[Read more]</a></div>,
+post: 
+    <div>
+        <img src="/images/5-things-i-loved-in-august-2018.png" alt="5 Things I Loved in August" />
+        <br></br>
+    <p>This is the second August where I'm not going back to school - so crazy! It's interesting living in New York where the end of August is a sign that summer is ending, yet it's still in the 90's. Growing up in Florida, I never celebrated the end of summer except for the fact that there was a few weeks I could straighten my hair because it wasn't humid out. Here are my 5 favorites from my 2nd August in New York City. </p>
+        <br></br>
+    <p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2L6BFny">10 Things I Loved in June and July</a></b></p>
+        <br></br>
+    <h4><b>summer streets.</b></h4>
+    <p><img src="/images/summerstreets2018.jpg" alt="Summer Streets 2018" /></p>
+        <br></br>
+    <p>Last year, one of my favorite micro adventures (LINK A POST) before work started was Summer Streets, hosted by CitiBike. And this year I got to do it again! Biking down Park Avenue with no cars was so much fun and now that I’m more comfortable biking in New York City, I got to enjoy it even more. </p>
+        <br></br>
+        <br></br>
+    <h4><b>waterfronts.</b></h4>
+    <img src="/images/riversidesunset2.jpg" alt="Riverside Sunset 2" />
+        <br></br>
+    <p>Living less than an avenue away from Central Park is absolutely amazing. I feel incredibly lucky to be able to say it's quite literally my backyard. But like anything that becomes routine, it because normalized and you eventually need to change things up. This month I ventured westward down my street and found <a target="_blank" rel="noopener noreferrer" href="https://www.nycgovparks.org/parks/riverside-park">Riverside Park</a>. It felt so local and being along the water was awesome. And the timing was amazing because, SUNSET!</p>
+       <br></br>
+       <br></br>
+    <h4>books are magic.</h4>
+    <p><img src="/images/maeveinamerica.jpg" alt="Maeve in America" /></p>
+        <br></br>
+    <p>This month one of the friends I've made in the City (introvert win!) invited me to a book event at an independent book store in Brooklyn, <a target="_blank" rel="noopener noreferrer" href="https://www.booksaremagic.net/">Books are Magic</a>. It was for the book, <a target="_blank" rel="noopener noreferrer" href="https://www.maevehiggins.com/book">Maeve in America</a>, by <a target="_blank" rel="noopener noreferrer" href="https://www.maevehiggins.com/">Maeve Higgins</a>. I was so excited to see Maeve in person after listening to her podcast, and I learned that she has a brand new one, <a target="_blank" rel="noopener noreferrer" href="https://www.mothersofinvention.online/">Mothers of Invention</a>. Instantly subscribed! Microadventures, for the win. </p>
+        <br></br>
+        <br></br>
+    <h4><b>maharlika.</b></h4>
+    <p><img src="/images/maharlika.jpg" alt="Maharlika" /></p>
+        <br></br>
+    <p>I've said it before, but I can't reiterate enough how much I didn't realize I missed Filipino food until I lived where there were actual restaurants. My family came to visit and we tried one I'd been wanting to try since I moved here, <a target="_blank" rel="noopener noreferrer" href="http://maharlikanyc.com/">Maharlika</a>. Taking my partner there and teaching him about some dishes, and also learning about dishes from my parents that they'd not made me before, was such an incredible experience. The owner, <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/nicoleponseca/">Nicole Ponseca</a>, has a cookbook <a target="_blank" rel="noopener noreferrer" href="http://maharlikanyc.com/cookbook">"I Am Filipino"</a> coming out October 30, 2018. I can't wait for it!!! </p>
+        <br></br>
+        <br></br>
+    <h4><b>anniversary.</b></h4>
+    <p><img src="/images/anniversary2018.jpg" alt="Anniversary" /></p>
+        <br></br>
+    <p>August is anniversary month with my partner. He and I have been together for 3 years now and I couldn't be happier. He is someone who not only empowers me to be my authentic self, but loves it and celebrates it. </p>
+        <br></br>
+        <br></br>
+    <h4>❖❖❖</h4>
+        <br></br>
+    <h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+        <br></br>
+    <h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+        <br></br>
+    <h4>❖❖❖</h4>
+        <br></br>
+    <h4>YOU MIGHT ALSO LIKE:</h4>
+        <a className="three-up" href="/articles/new-podcast-discoveries-female-hosts-vol-2">
+            <img src="/images/newpodcastdiscoveriesfemalehostsvol2-preview.png" alt="New Podcast Discoveries: Female Hosts, Vol. 2" />
+            <p className="centered">New Podcast Discoveries: Female Hosts Vol. 2</p>
+        </a>
+        <a className="three-up" href="/articles/growing-up-asian-american-tag">
+            <img src="/images/growing-up-aa-tag-preview.png" alt="Growing Up Asian American Tag" />
+            <p className="centered">Growing Up Asian American Tag</p>
+        </a>
+        <a className="three-up" href="/articles/young-professionals-guide-to-moving-to-nyc">
+            <img src="/images/movingtonyc-preview.png" alt="Young Professional's Guide to Moving to NYC" />
+            <p className="centered">Young Professional's Guide to Moving to NYC</p>
+        </a>
+    </div>
+    },
+
 {id: "new-podcast-discoveries-female-hosts-vol-2", title: <a href="/articles/new-podcast-discoveries-female-hosts-vol-2">New Podcast Discoveries: Female Hosts Vol. 2</a>, date: "August 26, 2018", category: "Activism", photo: "/images/newpodcastdiscoveriesfemalehostsvol2-preview.png",  description: <div><p>May was a month of discovery when it came to podcasts. I discovered so many new shows that are quickly becoming some of my favorites and most of them have female hosts! The best part is that each of them are so incredibly different and I love how they highlight nuances of the female experience. Check out my latest favorite discoveries! </p> <a href="/articles/new-podcast-discoveries-female-hosts-vol-2">[Read more]</a></div>,
 post: 
     <div>
