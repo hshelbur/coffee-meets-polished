@@ -611,6 +611,84 @@ post:
     </div>
     },
 
+{id: "feminist-book-list-summer-edition", title: <a href="/articles/feminist-book-list-summer-edition">Feminist Book List: Summer Edition</a>, date: "June 25, 2018", category: "Activism", photo: "/images/feministbooklist_summer2018-preview.png",  description: <div><p>Summer is here and the parks are the perfect place to lay out in the grass and enjoy a good book. Here in NYC my favorite spots [in Manhattan] are Central Park and Bryant Park (which is conventiently right next to the New York Public Library!) . Grab yourself a delicious summer drink while your eyes and mind feast on my latest Feminist Book List: Summer Edition. </p> <a href="/articles/feminist-book-list-summer-edition">[Read more]</a></div>,
+post: 
+    <div>
+        <img src="/images/feministbooklist_summer2018-preview.png" alt="Feminist Book List: Summer Edition" />
+    <br></br>
+    <br></br>
+    <h4>❖❖❖</h4>
+    <br></br>
+    <h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Make-Trouble-Standing-Speaking-Lead-My/dp/1501187597/">Make Trouble: Standing Up, Speaking Out, and Finding the Courage to Lead</a></b></h4>
+    <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Make-Trouble-Standing-Speaking-Lead-My/dp/1501187597/">
+            <img className="portrait" src="/images/maketroublebook.jpg" alt="Make Trouble Book" />
+            </a>
+    <br></br>
+    <p>In the past year as I've been expanding my feminist knowledge, I've gotten to know who some of the current feminist icons are and why. One of them I came to learn about was Cecile Richards, an activist who served as the <a target="_blank" rel="noopener noreferrer" href="https://www.plannedparenthood.org/about-us/our-leadership/cecile-richards">president of Planned Parenthood Federation of America</a> starting in 2006 and stepped down this year after 12 years in the role. She came out with Make Trouble to share her lifelong journey of activism and resistance. Getting to see her and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/lcollinsp?lang=en">Lauren Peterson</a> during their book tour was an amazing experience. Reading the book was equally amazing, if not more. </p>
+    <br></br>
+    <h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Kintsugi-Wellness-Japanese-Nourishing-Spirit/dp/0062669850/">Kintsugi Wellness: The Japanese Art of Mind, Body, and Spirit</a></b></h4>
+    <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Kintsugi-Wellness-Japanese-Nourishing-Spirit/dp/0062669850/">
+            <img className="portrait" src="/images/kintsugiwellnessbook.png" alt="Kintsugi Wellness Book" />
+            </a>
+    <br></br>
+    <p>I mentioned Kinstugi Wellness by <a target="_blank" rel="noopener noreferrer" href="http://candicekumai.com/">Candice Kumai</a> in a recent post so I had to list her latest book here. It reads like a memoir of Candice's Japanese culture  in combination with comprehensive wellness. It's filled with recipes and paired with the written passages throughout the pages. The pictures were all designed and taken by Candice and you can tell she poured her entire heart and soul into this work of art. </p>
+    <br></br>
+    <h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Not-That-Bad-Dispatches-Culture/dp/0062413511/">Not That Bad: Dispatches from Rape Culture</a></b></h4>
+    <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Not-That-Bad-Dispatches-Culture/dp/0062413511/">
+            <img className="portrait" src="/images/notthatbadbook.jpg" alt="Not That Bad Book" />
+            </a>
+    <br></br>
+    <p>Not That Bad is a collection of essays that tackle rape, assault, and harassment,  edited and with an introduction by <a target="_blank" rel="noopener noreferrer" href="http://www.roxanegay.com/">Roxane Gay</a>. I've read two of her other books (with many more to catch up on), including <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Bad-Feminist-Essays-Roxane-Gay/dp/006269569X/">Bad Feminist</a> and <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Hunger-Memoir-Body-Roxane-Gay/dp/0062362593/">Hunger</a>. Both were incredibly moving and were true showcases of her craft. If you want to listen to honest and revealing truths, Not That Bad will not disappoint. </p>
+    <br></br>
+    <h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Ask-Me-About-My-Uterus/dp/1568585810/">Ask Me About My Uterus: A Quest to Make Doctors Believe in Women's Pain</a></b></h4>
+    <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Ask-Me-About-My-Uterus/dp/1568585810/">
+            <img className="portrait" src="/images/askmeaboutmyuterusbook.jpg" alt="Ask Me About My Uterus Book" />
+            </a>
+    <br></br>
+    <p>I'm a health care professional and have seen firsthand the value of resources that support women's health. From a cultural and activist perspective, I've also learned about the consequences of not believing women's pain and the effect of this from an individual and societal level. <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Ask-Me-About-My-Uterus/dp/1568585810/">Ask Me About My Uterus</a> by Abby Norman describes her experience of having her pain dismissed and puts them in a sociocultural and political context. </p>
+    <br></br>
+    <h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Girls-Guide-Joining-Resistance-Feminist/dp/0062748084/">A Girl's Guide to Joining the Resistance: A Feminist Handbook on Fighting for Good</a></b></h4>
+    <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Girls-Guide-Joining-Resistance-Feminist/dp/0062748084/">
+            <img className="portrait" src="/images/agirlsguidebook.jpg" alt="A Girl's Guide to Joining the Resistance Book" />
+            </a>
+    <br></br>
+    <p>I've spoken a lot about the International Women's Day event where Emma Gray promoted her book and organized a panel of other feminist icons to join her in a conversation. That book is Girl's Guide to Joining the Resistance: A Feminist Handbook on Fighting for Good and it is filled with <b>actionable</b> steps of getting involved to make change in the world. Inspired by the results of the 2016 presidential election, this book is intersectional, empowering, and focuses on the importance of <b>your</b> story. </p>
+    <br></br>
+    <h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/DIY-Rules-WTF-World-Creative/dp/1538712334/">DIY Rules for a WTF World: How to Speak Up, Get Creative, and Change the World</a></b></h4>
+    <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/DIY-Rules-WTF-World-Creative/dp/1538712334/">
+            <img className="portrait" src="/images/diyrulesbook.jpg" alt="DIY Rules for a WTF World" />
+            </a>
+    <br></br>
+    <p>When I participated in my <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2FVnQr0">first Women's March</a> this year, my mom knitted me a pussy hat. When I came to learn that the creator of the design and movement was an Asian woman I was so excited to hear about her story. Crafting for me during residency was my mindfulness activity and mental health survival. To see how it could be used to create social change with the <a target="_blank" rel="noopener noreferrer" href="https://www.pussyhatproject.com/">Pussyhat Project</a> was absolutely inspiring. </p>
+    <br></br>
+    <br></br>
+    <p>Want more? Check out <a target="_blank" rel="noopener noreferrer" href="https://www.bitchmedia.org/article/bitchreads-june-2018-selections">Bitch Media's list of feminist books</a> that came out (or are coming out) this month. It's full of recommendations that I can't wait to check out!</p>
+    <p>What are you reading this summer? I'd love to know! Share in the comments below and let's have a conversation.</p>
+    <br></br>
+    <h4>❖❖❖</h4>
+    <br></br>
+    <h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+    <br></br>
+    <h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+    <br></br>
+    <h4>❖❖❖</h4>
+    <br></br>
+    <h4>YOU MIGHT ALSO LIKE:</h4>
+    <a className="three-up" href="/articles/feminist-book-list-winter-edition">
+        <img src="/images/feministbooklistwinter-preview.png" alt="Feminist Book List: Winter Edition" />
+        <p className="centered">Feminist Book List: Winter Edition</p>
+    </a>
+        <a className="three-up" href="/articles/new-podcast-discoveries-female-hosts">
+            <img src="/images/favoritepodcastsof2017.png" alt="new-podcast-discoveries-female-hosts" />
+            <p className="centered">New Podcast Discoveries: Female Hosts</p>
+        </a>
+        <a className="three-up" href="/articles/books-i-read-in-2017">
+            <img src="/images/reading2017.jpg" alt="books-i-read-in-2017" />
+            <p className="centered">Books I Read in 2017</p>
+        </a>
+    </div>
+    }, 
+
 {id: "favorite-podcasts-to-stay-informed", title: <a href="/articles/favorite-podcasts-to-stay-informed">Favorite Podcasts to Stay Informed</a>, date: "June 18, 2018", category: "Activism", photo: "/images/podcastsinformed-preview.png",  description: <div><p>Listening to podcasts has started to replace a lot of my usual TV watching and music listening. Since I listen to them hours per day I thought I'd share some of my favorites in particular categories. <b>Next up: podcasts to keep up with current events around the world.</b> </p> <a href="/articles/favorite-podcasts-to-stay-informed">[Read more]</a></div>,
 post: 
 	<div>

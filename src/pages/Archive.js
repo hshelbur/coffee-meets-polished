@@ -24,6 +24,8 @@ class Archive extends Component {
             <p className="tabbed"><a href="https://coffeemeetspolished.com/articles/i-am-american-guest-post" rel="noopener noreferrer">I Am American [GUEST POST]</a>
               </p> 
           <p><b>JUNE 2018</b></p>
+            <p className="tabbed"><a href="https://coffeemeetspolished.com/articles/feminist-book-list-summer-edition" rel="noopener noreferrer">Feminist Book List: Summer Edition</a>
+              </p>           
             <p className="tabbed"><a href="https://coffeemeetspolished.com/articles/favorite-podcasts-to-stay-informed" rel="noopener noreferrer">Favorite Podcasts to Stay Informed</a>
               </p> 
             <p className="tabbed"><a href="https://coffeemeetspolished.com/articles/9-mistakes-ive-made-with-my-feminism" rel="noopener noreferrer">9 Mistakes I've Made with My Feminism</a>
