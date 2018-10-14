@@ -1,6 +1,73 @@
 import React from 'react';
 
 const ARTICLES = [
+{id: "test", title: <a href="/articles/test">Activism Self-Care: Solitude and Sisterhood</a>, date: "October 14, 2018", category: "Activism", photo: "/images/activism self-care-preview.png",  description: <div><p>The week of <a target="_blank" rel="noopener noreferrer" href="http://time.com/5415027/christine-blasey-ford-testimony/"> Dr. Christine Blasey-Ford's testimony</a> and <a target="_blank" rel="noopener noreferrer" href="https://www.theatlantic.com/ideas/archive/2018/10/brett-kavanaugh-and-white-male-rage-thesis/572440/"> Brett Kavanaugh confirmation</a> was an emotional roller coaster. But with solitude, I was able sit with my feelings and process the struggle. Then, I picked myself back up to continue the fight for the marginalized. Thanks to The Wing, I was able to gather with a sisterhood to learn why we must keep fighting, keep resisting not just for the United States, but for the world.</p> <a href="/articles/test">[Read more]</a></div>,
+post: 
+    <div>
+        <img src="/images/activism self-care-preview.png" alt="Activistm Self-Care Preview" />
+        <br></br>
+    <p>The week of <a target="_blank" rel="noopener noreferrer" href="http://time.com/5415027/christine-blasey-ford-testimony/"> Dr. Christine Blasey-Ford's testimony</a> and <a target="_blank" rel="noopener noreferrer" href="https://www.theatlantic.com/ideas/archive/2018/10/brett-kavanaugh-and-white-male-rage-thesis/572440/"> Brett Kavanaugh confirmation</a> was an emotional roller coaster.</p>
+    <p>Hearing her testimony triggered so many women to <a target="_blank" rel="noopener noreferrer" href="https://www.cnn.com/2018/09/27/opinions/how-ford-kavanaugh-hearings-are-triggering-ptsd-danielle-campoamor/index.html"> re-experience their trauma</a>, and <a target="_blank" rel="noopener noreferrer" href="https://www.vox.com/2018/9/27/17910326/blasey-ford-kavanaugh-protests"> empower women to speak their truths and protest</a>.</p>
+    <p>For the first part of the week, I had hope. After her testimony, there were large protests across the country. I participated in the Friday <a target="_blank" rel="noopener noreferrer" href="https://www.womenstrikeus.org/event/oct-4-cancelkavanaugh-at-trump-tower-walkout-and-speakout/"> Walk-Out to protest at Trump Tower</a>. We knew it was an uphill battle, but it didn't mean we should stay quiet. Our government and the world needed to know our voices no matter what the outcome. I had hope in the volume and unity of resistance.</p>
+           <br></br>
+        <p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2FGFL55">10 Essential Tips For Your First Protest</a></b></p>
+            <br></br>
+    <p>Then the <a target="_blank" rel="noopener noreferrer" href="https://www.bbc.com/news/world-us-canada-45693211"> FBI investigation</a> results came in, that didn't corroborate her testimony. And my hope lessened. Then came the <a target="_blank" rel="noopener noreferrer" href="https://www.theguardian.com/us-news/live/2018/oct/05/brett-kavanaugh-vote-latest-live-news-updates-confirmation-supreme-court-christine-blasey-ford-fbi-report"> Senator Collins' decision</a>. And my hope went to the ground.</p>
+        <h4><b>solitude.</b></h4>
+    <p>I lost so much hope in that moment. I turned off my CNN and New York Times notifications so I didn't know exactly when the vote to confirm Brett Kavanaugh's lifetime appointment happened. My energy left, and I felt like the fight meant nothing. Needless to say, <b>I was discouraged</b>.</p>
+    <p>I knew that sitting alone on my futon all day wasn't going to get the job done. But I also knew that during that time, I needed to rest. I needed to recognize the privilege I have to be able to rest, in order to pick the fight back up for those who can't. So that's what I did. I sat, I distracted myself, I indulged in things that I enjoyed - YouTube, podcasts, reading.</p>
+            <br></br>
+        <p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2My6WBO">9 Mistakes I've Made with My Feminism</a></b></p>
+            <br></br>
+    <p>After some solitude and wallowing that weekend, I got exactly what I needed to pick myself back up for the next battle.</p>
+        <h4><b>sisterhood.</b></h4>
+    <p>I attended a panel at <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/the.wing/">The Wing</a> hosted by <a target="_blank" rel="noopener noreferrer" href="https://www.cnn.com/profiles/brooke-baldwin-profile"> CNN's Brooke Baldwin</a>. The event was going a promotion for her show <a target="_blank" rel="noopener noreferrer" href="https://www.cnn.com/interactive/2018/01/entertainment/american-woman/"> American Woman</a>, and we had previews of stories with amazing women running for political office. Not just the well-known names like <a target="_blank" rel="noopener noreferrer" href="https://staceyabrams.com/">Stacey Abrams</a>, but the incredible story of women from Selma, Alabama that were empowered to fight after the <a target="_blank" rel="noopener noreferrer" href="https://www.washingtonpost.com/powerpost/doug-jones-makes-final-push-in-alabama-with-black-voters-in-selma/2017/12/09/33dcf70e-dcec-11e7-a841-2066faf731ef_story.html?noredirect=on&utm_term=.aa1e46f4808f">defeat of Roy Moore for US Senate</a>.</p>
+    <p>The panel included amazing women from both Republican and Democratic parties: <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/ananavarro">Ana Navarro</a>, <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/amanda-carpenter-40b37a5/">Amanda Carpenter</a>, <a target="_blank" rel="noopener noreferrer" href="https://www.emilyslist.org/bios/entry/stephanie-schriock">Stephanie Schriok</a>, <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/slynnyoung/">Stephanie Young</a>, and <a target="_blank" rel="noopener noreferrer" href="https://symonedsanders.com/">Symone Sanders</a>.</p>
+    <p><iframe width="560" height="315" src="https://www.youtube.com/embed/2DFHNPiL-Kc" frameborder="0" allow="autoplay" allowfullscreen></iframe></p>
+    <p>Seeing them come together to have healthy debate, agree to disagree, and also find common ground. That common ground included the belief women must have a seat at the table. Symone Sanders reminded us not to ever forget that those in public office work for us. And if we don't like how they're performing, we can take their jobs away.</p>
+    <p><iframe width="560" height="315" src="https://www.youtube.com/embed/4EJWXZ7dDwQ" frameborder="0" allow="autoplay" allowfullscreen></iframe></p>
+    <p>When it came to the question and answer section, I asked "How do you build your activist resilience?" I got some great responses:</p>
+    <p className="tabbed">"Remember why you're fighting."</p>
+    <p className="tabbed">"Go to a beach and don't tell anyone where you are."</p>
+    <p className="tabbed">"Accept your feelings, but then pick yourself back up."</p>
+    <p className="tabbed">"You may have felt down, but look where you are. You came out here and are among your sisterhood."</p>
+    <p>With the responses and discussion, I was inspired. I was feeling energized and hearing exactly what I needed. Brooke took the last question and was wrapping up, when she said "Want, we have to get one more from the back. I can't deny her enthusiasm!"</p>
+    <p>The woman who spoke is an immigrant from Brazil. She said, we have to keep fighting. Brazil is <a target="_blank" rel="noopener noreferrer" href="https://www.bbc.com/news/world-latin-america-45829440"> going through an election</a> that threatens its already fragile democracy with candidates feeling empowered with Trump in power and becoming front-runners. What happens in the United States is a mirror of what is possible in the rest of the world.</p>
+    <p><b>And if we don't fight, who will?</b></p>
+            <br></br>
+        <h4>❖❖❖</h4>
+            <br></br>
+        <h4><b>never forget.</b></h4>
+    <p><a target="_blank" rel="noopener noreferrer" href="https://www.whenweallvote.org/">VOTE on November 6, 2018</a>.</p>
+    <p>Share in the comments below what your voting plan is for getting to the polls.</p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://www.politico.com/election-results/2018/">Follow the results.</a></p>
+        <br></br>
+    <p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2t4FlQy">Favorite Podcasts to Stay Informed</a></b></p>
+        <br></br>
+    <h4>❖❖❖</h4>
+        <br></br>
+    <h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+        <br></br>
+    <h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+        <br></br>
+    <h4>❖❖❖</h4>
+        <br></br>
+    <h4>YOU MIGHT ALSO LIKE:</h4>
+        <a className="three-up" href="/articles/10-essential-tips-for-your-first-protest">
+            <img src="/images/protest-preview.png" alt="10 Tips for your First Protest" />
+            <p className="centered">10 Essential Tips for Your First Protest</p>
+        </a>
+        <a className="three-up" href="/articles/10-places-to-start-to-improve-your-feminism-literacy">
+            <img src="/images/feminismliteracy-preview.png" alt="10 Places to Start to Improve Your Feminism Literacy" />
+            <p className="centered">10 Places to Start to Improve Your Feminism Literacy</p>
+        </a>
+        <a className="three-up" href="/articles/9-mistakes-ive-made-with-my-feminism">
+            <img src="/images/feminismmistakes-preview.png" alt="feminismmistakes-preview.png" />
+            <p className="centered">9 Mistakes I've Made with My Feminism</p>
+        </a>
+    </div>
+    },
+
 {id: "5-things-i-loved-in-september-2018", title: <a href="/articles/5-things-i-loved-in-september-2018">5 Things I Loved in September</a>, date: "September 30, 2018", category: "Life", photo: "/images/5-things-i-loved-in-september-2018.png",  description: <div><p>September was a tough month. Between guests coming on the weekends, planned microadventures during the week, and a few big projects at work, there wasn't a whole lot of time to do my favorite thing - nothing. But there were so many great things that happened that they absolutely deserve their moment. Check out my 5 favorites in September!</p> <a href="/articles/5-things-i-loved-in-september-2018">[Read more]</a></div>,
 post: 
     <div>
