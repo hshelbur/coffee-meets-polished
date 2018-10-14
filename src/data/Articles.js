@@ -1,6 +1,79 @@
 import React from 'react';
 
 const ARTICLES = [
+{id: "5-things-i-loved-in-september-2018", title: <a href="/articles/5-things-i-loved-in-september-2018">5 Things I Loved in September</a>, date: "September 30, 2018", category: "Life", photo: "/images/5-things-i-loved-in-september-2018.png",  description: <div><p>September was a tough month. Between guests coming on the weekends, planned microadventures during the week, and a few big projects at work, there wasn't a whole lot of time to do my favorite thing - nothing. But there were so many great things that happened that they absolutely deserve their moment. Check out my 5 favorites in September!</p> <a href="/articles/5-things-i-loved-in-september-2018">[Read more]</a></div>,
+post: 
+    <div>
+        <img src="/images/5-things-i-loved-in-september-2018.png" alt="5 Things I Loved in September" />
+        <br></br>
+    <p>September was a tough month. Between guests coming on the weekends, planned microadventures during the week, and a few big projects at work, there wasn't a whole lot of time to do my favorite thing - nothing. But there were so many great things that happened that they absolutely deserve their moment. Check out my 5 favorites in September!</p>
+        <br></br>
+    <p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2QN62TC">5 Things I Loved in August</a></b></p>
+        <br></br>
+    <h4><b>date nights.</b></h4>
+    <p><img src="/images/soccerdates.jpg" alt="Soccer Dates" /></p>
+        <br></br>
+    <p>There were so many planned microadventures this month, including two soccer games in <a target="_blank" rel="noopener noreferrer" href="https://www.metlifestadium.com/">MetLife Stadium</a> in Meadowlands, NJ. My partner is a huuuuge fan of soccer, and loves to get tickets for games when they come through. It's fun to have date nights that are out of the house. Of course, I love hanging out binge watching Netflix, but adventures together are just as great.</p>
+        <br></br>
+    <p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2EqkwXH">10 Affordable Date Night Ideas in NYC</a></b></p>
+        <br></br>
+    <h4><b>rupi kaur.</b></h4>
+    <p><img className="portrait" src="/images/rupikaur.jpg" alt="Rupi Kaur" /></p>
+        <br></br>
+    <p>I've been a fan of <a target="_blank" rel="noopener noreferrer" href="https://rupikaur.com/">Rupi Kaur</a> for the past year when I first read <a target="_blank" rel="noopener noreferrer" href="https://www.indiebound.org/book/9781449474256">milk and honey</a>. Her poetry puts experiences into beautiful and tragic words that helps me feel empowered. And as soon as I saw on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/rupikaur_/">her Instagram</a> that she was doing a USA tour, I immediately got 4 tickets through pre-sale. My partner came with me, and then we each brought a friend who also were fans of hers. Her sold out show was incredible! I haven't yet read her second book, <a target="_blank" rel="noopener noreferrer" href="https://www.indiebound.org/book/9781449486792">the sun and her flowers</a>, and so a lot of the poetry was very new to me. This made the experience all the more special.</p>
+    <p>What's your favorite Rupi piece? Share them in the comments below!</p>
+        <br></br>
+    <p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2mDGOdK">Topics to Normalize in 2018: Periods</a></b></p>
+        <br></br>
+    <p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2My6WBO">9 Mistakes I've Made with My Feminism</a></b></p>
+        <br></br>
+    <h4>podcast recordings.</h4>
+    <p><img src="/images/bcrpodcast.jpg" alt="BCR Podcast" /></p>
+        <br></br>
+    <p>If you couldn't tell already, I'm a fan of podcasts. I love the way we can consume them on-the-go, and it affords creators a way to share information directly with an audience. I'm constantly learning, being entertained, and feeling a sense of community in my ears. This month I actually got to experience the podcast from the RECORDING side!</p>
+    <p>My mom had the amazing opportunity to be part of a recording of <a target="_blank" rel="noopener noreferrer" href="https://barcrawlradio657268108.wordpress.com/2018/09/14/bcr-19-give-u-s-your-huddled-masses-right/">Bar Crawl Radio</a> in the Upper West Side and discuss <a target="_blank" rel="noopener noreferrer" href="https://joyousserendipity.com/2018/10/10/bar-crawl-radio-pod-cast-guest-appearance/">her immigration experience</a>, and how she feels as an naturalized citizen in today's political climate.</p>
+    <p>Secondly, I got to record a LIVE taping of the <a target="_blank" rel="noopener noreferrer" href="https://bossedup.org/episode61/">Bossed Up Podcast</a>! I was part of the <a target="_blank" rel="noopener noreferrer" href="https://bossedup.org/episode61/">Career Conundrum Rapid Fire</a>, the second section of the show after the interview portion with <a target="_blank" rel="noopener noreferrer" href="http://artist-developer.com/">Natalya Shelburne</a>. It was an amazing experience getting to answer career questions from a super engaged audience.</p>
+        <br></br>
+    <p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2Kyp3dP">I Am American [GUEST POST]</a></b></p>
+        <br></br>
+    <p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2GKOMcN">Favorite Podcasts in March 2018</a></b></p>
+        <br></br>
+    <h4><b>staten island ferry.</b></h4>
+    <p><img src="/images/statenislandferry.jpg" alt="Staten Island Ferry" /></p>
+        <br></br>
+    <p>The <a target="_blank" rel="noopener noreferrer" href="https://www.siferry.com/">Staten Island Ferry</a> is the PERFECT thing to do with guests who come to New York City. It's free and has great views of the Financial District skyline. The way I like to time it is to go from Manhattan to Staten Island during sunset, and then you go right back to Manhattan when it's dark to see the lights in the skyscrapers. And both directions, you pass the Statue of Liberty. It's just the refresher needed in today's political and social climate to reconnect with your patriotism.</p>
+        <br></br>
+    <h4><b>crazy rich asians.</b></h4>
+    <p><img src="/images/crazyrichasians.jpg" alt="Crazy Rich Asians" /></p>
+        <br></br>
+    <p><a target="_blank" rel="noopener noreferrer" href="http://www.crazyrichasiansmovie.com/">Crazy Rich Asians</a> didn't come out in September; I watched it quite late. But better late than never! It was just the feel-good moving I needed, and the icing on top was feeling represented not just by Asian characters, but <b>Asian-American</b> characters. It specifically detailed the feelings feeling different in the United States because of outwardly appearing different, but then when arriving in Asia not feeling a sense of belonging there either. The reality is, there is a specific identity in the middle. And I love that this was expressed in a movie seen by so many people.</p>
+        <br></br>
+    <p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2r7hlxE">Being "Not That" Asian</a></b></p>
+        <br></br>
+    <h4>❖❖❖</h4>
+        <br></br>
+    <h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+        <br></br>
+    <h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+        <br></br>
+    <h4>❖❖❖</h4>
+        <br></br>
+    <h4>YOU MIGHT ALSO LIKE:</h4>
+        <a className="three-up" href="/articles/biggest-myths-of-your-20s-to-unlearn">
+            <img src="/images/20smythstounlearn-preview.png" alt="Biggest Myths of Your 20's to Unlearn" />
+            <p className="centered">Biggest Myths of Your 20's to Unlearn</p>
+        </a>
+        <a className="three-up" href="/articles/growing-up-asian-american-tag">
+            <img src="/images/growing-up-aa-tag-preview.png" alt="Growing Up Asian American Tag" />
+            <p className="centered">Growing Up Asian American Tag</p>
+        </a>
+        <a className="three-up" href="/articles/making-the-most-of-your-job-transition">
+            <img src="/images/jobtransition-preview.png" alt="What You Don't Expect When You're Expecting" />
+            <p className="centered">Making the Most of Your Job Transition</p>
+        </a>
+    </div>
+    },
+
 {id: "5-things-i-loved-in-august-2018", title: <a href="/articles/5-things-i-loved-in-august-2018">5 Things I Loved in August</a>, date: "August 31, 2018", category: "Life", photo: "/images/5-things-i-loved-in-august-2018.png",  description: <div><p>This is the second August where I'm not going back to school - so crazy! It's interesting living in New York where the end of August is a sign that summer is ending, yet it's still in the 90's. Growing up in Florida, I never celebrated the end of summer except for the fact that there was a few weeks I could straighten my hair because it wasn't humid out. Here are my 5 favorites from my 2nd August in New York City.</p> <a href="/articles/5-things-i-loved-in-august-2018">[Read more]</a></div>,
 post: 
     <div>

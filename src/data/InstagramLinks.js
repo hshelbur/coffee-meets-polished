@@ -2,7 +2,9 @@ import React from 'react'
 
 const INSTAGRAM_LINKS = [
 	{id: "subscribe to cmp", title: <a href="http://bit.ly/2ByiGBn">Subscribe to Coffee Meets Polished!</a>},
-	{id: "bossedup podcast live taping", title: <a href="https://generalassemb.ly/education/bossed-up-podcast-live-taping/new-york-city/58997">Bossed Up Podcast LIVE Taping in NYC</a>},
+	{id: "My Article Featured on Shine!", title: <a href="https://advice.shinetext.com/articles/6-lessons-i-learned-when-i-stopped-apologizing-for-my-needs/">My Article Featured on Shine!</a>},
+	{id: "bossedup podcast live taping", title: <a href="https://bossedup.org/episode61/">Bossed Up Podcast LIVE Taping in NYC</a>},
+	{id: "5-things-i-loved-in-september-2018", title: <a href="/articles/5-things-i-loved-in-september-2018">5 Things I Loved in September</a>},
 	{id: "new-podcast-discoveries-female-hosts-vol-2", title: <a href="/articles/new-podcast-discoveries-female-hosts-vol-2">New Podcast Discoveries: Female Hosts, Volume 2</a>},
 	{id: "young-professionals-guide-to-moving-to-nyc", title: <a href="/articles/young-professionals-guide-to-moving-to-nyc">Young Professional's Guide to Moving to NYC</a>},	
 	{id: "i-am-american-guest-post", title: <a href="/articles/i-am-american-guest-post">I Am American [GUEST POST]</a>},	

@@ -5,6 +5,9 @@ class Archive extends Component {
     return(
         <section className="article">
         <h4><b>Coffee Meets Polished Archives</b></h4>
+          <p><b>SEPTEMBER 2018</b></p>
+            <p className="tabbed"><a href="https://coffeemeetspolished.com/articles/5-things-i-loved-in-september-2018" rel="noopener noreferrer">5 Things I Loved in September</a>
+              </p>  
           <p><b>AUGUST 2018</b></p>
             <p className="tabbed"><a href="https://coffeemeetspolished.com/articles/5-things-i-loved-in-august-2018" rel="noopener noreferrer">5 Things I Loved in August</a>
               </p>          
