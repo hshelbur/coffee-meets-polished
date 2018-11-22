@@ -1,6 +1,120 @@
 import React from 'react';
 
 const ARTICLES = [
+{id: "feminist-book-list-fall-edition", title: <a href="/articles/feminist-book-list-fall-edition">Feminist Book List: Fall Edition</a>, date: "October 23, 2018", category: "Activism", photo: "/images/feministbooklist_fall2018-preview.png",  description: <div><p>It may have been Fall for a month now, but it hasn't been until this week that it's consistently felt like it. The air is crisp, the windows are open and AC is off. It's actually cold inside the house because the radiators haven't quite triggered on yet, but that's a great excuse to bust out my comfy pajama pants and fluffy socks. With a new season also comes a new wave of books released. In line with my winter and summer editions, here's a new list for fall. There are some great ones here and I'm also excited to see some of these released as they do their book tours!</p> <a href="/articles/feminist-book-list-fall-edition">[Read more]</a></div>,
+post: 
+    <div>
+        <img src="/images/feministbooklist_fall2018-preview.png" alt="Feminist Book List: Fall Edition" />
+    <br></br>
+    <br></br>
+    <h4>❖❖❖</h4>
+    <br></br>
+    <h4><b><a target="_blank" rel="noopener noreferrer" href="https://unladylike.co/book/">Unladylike: A Field Guide to Smashing the Patriarchy and Claiming Your Space</a></b></h4>
+    <a target="_blank" rel="noopener noreferrer" href="https://unladylike.co/book/">
+            <img className="portrait" src="/images/unladylikebook.jpg" alt="Unladylike Book" />
+            </a>
+    <br></br>
+    <p>If you've been here a while, you know that Unladylike is one of my <a target="_blank" rel="noopener noreferrer" href="https://coffeemeetspolished.com/articles/favorite-podcasts-in-march-2018">ALL TIME FAVORITE podcasts</a>. They came out with a book this year and I'm so excited about it. I'm debating getting the hard copy vs. the audio version (or both?!) so I can have a similar podcast-like experience.</p>
+    <p>"<i>Unladylike</i> is a field guide for identifying, understanding, and uprooting the creepy, crawly patriarchal species women and girls encounter throughout society’s ecosystem — and reclaiming the space they take up. Simply put, it’s the guide for women and girls everywhere who are trying to find their way in the world."</p>
+    <br></br>
+    <h4>❖❖❖</h4>
+    <br></br>
+    <h4><b><a target="_blank" rel="noopener noreferrer" href="http://www.simonandschuster.com/books/Good-and-Mad/Rebecca-Traister/9781501181795 ">Good and Mad: The Revolutionary Power of Women's Anger</a></b></h4>
+    <a target="_blank" rel="noopener noreferrer" href="http://www.simonandschuster.com/books/Good-and-Mad/Rebecca-Traister/9781501181795 ">
+            <img className="portrait" src="/images/goodandmadbook.jpg" alt="Good and Mad Book" />
+            </a>
+    <br></br>
+    <p>"From Rebecca Traister, the New York Times bestselling author of ALL OF THE SINGLE LADIES comes a vital, incisive exploration into the transformative power of female anger and its ability to transcend into a political movement. In the year 2018, it seems as if women’s anger has suddenly erupted into the public conversation. But long before Pantsuit Nation, before the Women’s March, and before the #MeToo movement, women’s anger was not only politically catalytic—but politically problematic. The story of female fury and its cultural significance demonstrates the long history of bitter resentment that has enshrouded women’s slow rise to political power in America, as well as the ways that anger is received when it comes from women as opposed to when it comes from men."</p>
+    <br></br>
+    <h4>❖❖❖</h4>
+    <br></br>
+    <h4><b><a target="_blank" rel="noopener noreferrer" href="https://becomingmichelleobama.com/">Becoming (releases November 13, 2018)</a></b></h4>
+    <a target="_blank" rel="noopener noreferrer" href="https://becomingmichelleobama.com/">
+            <img className="portrait" src="/images/becomingbook.jpg" alt="Becoming Book" />
+            </a>
+    <br></br>
+    <p>I mean… of course.</p>
+    <p>"In her memoir, a work of deep reflection and mesmerizing storytelling, Michelle Obama invites readers into her world, chronicling the experiences that have shaped her—from her childhood on the South Side of Chicago to her years as an executive balancing the demands of motherhood and work, to her time spent at the world’s most famous address. With unerring honesty and lively wit, she describes her triumphs and her disappointments, both public and private, telling her full story as she has lived it—in her own words and on her own terms. Warm, wise, and revelatory, <i>Becoming</i> is the deeply personal reckoning of a woman of soul and substance who has steadily defied expectations—and whose story inspires us to do the same."</p>
+    <br></br>
+    <h4>❖❖❖</h4>
+    <br></br>
+    <h4><b><a target="_blank" rel="noopener noreferrer" href="https://nicolechung.net/">All You Can Ever Know</a></b></h4>
+    <a target="_blank" rel="noopener noreferrer" href="https://nicolechung.net/">
+            <img className="portrait" src="/images/allyoucaneverknowbook.jpg" alt="All You Can Ever Know Book" />
+            </a>
+    <br></br>
+    <p>"What does it mean to lose your roots--within your culture, within your family--and what happens when you find them? Nicole Chung was born severely premature, placed for adoption by her Korean parents, and raised by a white family in a sheltered Oregon town. From childhood, she heard the story of her adoption as a comforting, prepackaged myth. She believed that her biological parents had made the ultimate sacrifice in the hope of giving her a better life, that forever feeling slightly out of place was her fate as a transracial adoptee. But as Nicole grew up--facing prejudice her adoptive family couldn't see, finding her identity as an Asian American and as a writer, becoming ever more curious about where she came from--she wondered if the story she'd been told was the whole truth.</p>
+    <p>With warmth, candor, and startling insight, Nicole Chung tells of her search for the people who gave her up, which coincided with the birth of her own child. All You Can Ever Know is a profound, moving chronicle of surprising connections and the repercussions of unearthing painful family secrets--vital reading for anyone who has ever struggled to figure out where they belong."</p>
+    <br></br>
+    <h4>❖❖❖</h4>
+    <br></br>
+    <h4><b><a target="_blank" rel="noopener noreferrer" href="http://www.simonandschuster.com/books/Pure/Linda-Kay-Klein/9781501124815">Pure: Inside the Evangelical Movement That Shamed a Generation of Young Women and How I Broke Free</a></b></h4>
+    <a target="_blank" rel="noopener noreferrer" href="http://www.simonandschuster.com/books/Pure/Linda-Kay-Klein/9781501124815">
+            <img className="portrait" src="/images/purebook.jpg" alt="Pure Book" />
+            </a>
+    <br></br>
+    <p>"Fearing being marked a Jezebel, Klein broke up with her high school boyfriend because she thought God told her to, and took pregnancy tests though she was a virgin, terrified that any sexual activity would be punished with an out-of-wedlock pregnancy. When the youth pastor of her church was convicted of sexual enticement of a twelve-year-old girl, Klein began to question the purity-based sexual ethic. She contacted young women she knew, asking if they were coping with the same shame-induced issues she was. These intimate conversations developed into a twelve-year quest that took her across the country and into the lives of women raised in similar religious communities—a journey that facilitated her own healing and led her to churches that are seeking a new way to reconcile sexuality and spirituality.</p>
+    <p>Sexual shame is by no means confined to evangelical culture; Pure is a powerful wake-up call about our society’s subjugation of women."</p>
+    <br></br>
+    <h4>❖❖❖</h4>
+    <br></br>
+    <h4><b><a target="_blank" rel="noopener noreferrer" href="https://amzn.to/2TzfNH6">Girl Talk: What Science Can Tell Us About Female Friendship (Releases November 13, 2018)</a></b></h4>
+    <a target="_blank" rel="noopener noreferrer" href="https://amzn.to/2TzfNH6">
+            <img className="portrait" src="/images/girltalkbook.jpg" alt="Girl Talk Book Book" />
+            </a>
+    <br></br>
+    <p>In <i>Girl Talk, New York Times</i> science reporter Jacqueline Mroz takes on the science of female friendship--a phenomenon that's as culturally powerful as it is individually mysterious. She examines friendship from a range of angles, from the historical to the experiential, with a scientific analysis that reveals new truths about what leads us to connect and build alliances, and then "break up" when a friendship no longer serves us.</p>
+    <p>Mroz takes a new look at how friendship has evolved throughout history, showing how friends tend to share more genetic commonalities than strangers, and that the more friends we have, the more empathy and pleasure chemicals are present in our brains. Scientists have also reported that friendship directly influences health and longevity; women with solid, supportive friendships experience fewer "fight or flight" impulses and stronger heart function, and women without friendships tend to develop medical challenges on par with those associated with smoking and excessive body weight.</p>
+    <p>With intimate reporting and insightful analysis, Mroz reveals new awareness about the impact of women's friendships, and how they shape our culture at large."</p>
+    <br></br>
+    <h4>❖❖❖</h4>
+    <br></br>
+    <h4><b><a target="_blank" rel="noopener noreferrer" href="https://amzn.to/2TB0hdA">Everything's Trash, But It's Okay</a></b></h4>
+    <a target="_blank" rel="noopener noreferrer" href="https://amzn.to/2TB0hdA">
+            <img className="portrait" src="/images/everythingstrashbook.jpg" alt="Everything's Trash Book" />
+            </a>
+    <br></br>
+    <p>"Written in her trademark unfiltered and witty style, Robinson's latest collection is a call to arms. Outfitted with on-point pop culture references, these essays tackle a wide range of topics: giving feminism a tough-love talk on intersectionality, telling society's beauty standards to kick rocks, and calling foul on our culture's obsession with work. Robinson also gets personal, exploring money problems she's hidden from her parents, how dating is mainly a warmed-over bowl of hot mess, and definitely most important, meeting Bono not once, but twice. She's struggled with being a woman with a political mind and a woman with an ever-changing jeans size. She knows about trash because she sees it every day--and because she's seen roughly one hundred thousand hours of reality TV and zero hours of <i>Schindler's List</i>.</p>
+    <p>With the intimate voice of a new best friend, <i>Everything's Trash, But It's Okay</i> is a candid perspective for a generation that has had the rug pulled out from under it too many times to count."</p>
+    <br></br>
+    <h4>❖❖❖</h4>
+    <br></br>
+    <h4><b><a target="_blank" rel="noopener noreferrer" href="https://amzn.to/2QZJNtW">She Wants It: Desire, Power, and Topping the Patriarcy</a></b></h4>
+    <a target="_blank" rel="noopener noreferrer" href="https://amzn.to/2QZJNtW">
+            <img className="portrait" src="/images/shewantsitbook.jpg" alt="She Wants It Book" />
+            </a>
+    <br></br>
+    <p>"In this poignant memoir of personal transformation, Jill Soloway takes us on a patriarchy-toppling emotional and professional journey. When Jill’s parent came out as transgender, Jill pushed through the male-dominated landscape of Hollywood to create the groundbreaking and award-winning Amazon TV series Transparent. Exploring identity, love, sexuality, and the blurring of boundaries through the dynamics of a complicated and profoundly resonant American family, Transparent gave birth to a new cultural consciousness. While working on the show and exploding mainstream ideas about gender, Jill began to erase the lines on their own map, finding their voice as a director, show creator, and activist.</p>
+    <p><i>She Wants It: Desire, Power, and Toppling the Patriarchy</i> moves with urgent rhythms, wild candor, and razor-edged humor to chart Jill’s evolution from straight, married mother of two to identifying as queer and nonbinary. This intense and revelatory metamorphosis challenges the status quo and reflects the shifting power dynamics that continue to shape our collective worldview. With unbridled insight that offers a rare front seat to the inner workings of the #metoo movement and its aftermath, Jill captures the zeitgeist of a generation with thoughtful and revolutionary ideas about gender, inclusion, desire, and consent."</p>
+    <br></br>
+    <h4>❖❖❖</h4>
+    <br></br>
+    <p>It's an exciting season for feminist books. These are the perfect gift for the upcoming holiday season. What are you reading this winter? I'd love to know in the comments!</p>
+    <br></br>
+    <h4>❖❖❖</h4>
+    <br></br>
+    <h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+    <br></br>
+    <h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+    <br></br>
+    <h4>❖❖❖</h4>
+    <br></br>
+    <h4>YOU MIGHT ALSO LIKE:</h4>
+    <a className="three-up" href="/articles/feminist-book-list-winter-edition">
+        <img src="/images/feministbooklistwinter-preview.png" alt="Feminist Book List: Winter Edition" />
+        <p className="centered">Feminist Book List: Winter Edition 2017</p>
+    </a>
+        <a className="three-up" href="/articles/new-podcast-discoveries-female-hosts">
+            <img src="/images/favoritepodcastsof2017.png" alt="new-podcast-discoveries-female-hosts" />
+            <p className="centered">New Podcast Discoveries: Female Hosts</p>
+        </a>
+        <a className="three-up" href="/articles/feminist-book-list-summer-edition">
+            <img src="/images/feministbooklist_summer2018-preview.png.png" alt="feminist-book-list-summer-edition" />
+            <p className="centered">Feminist Book List: Summer Edition 2018</p>
+        </a>
+    </div>
+    }, 
+
 {id: "activism-self-care-solitude-and-sisterhood", title: <a href="/articles/activism-self-care-solitude-and-sisterhood">Activism Self-Care: Solitude and Sisterhood</a>, date: "October 14, 2018", category: "Activism", photo: "/images/activism self-care-preview.png",  description: <div><p>The week of <a target="_blank" rel="noopener noreferrer" href="http://time.com/5415027/christine-blasey-ford-testimony/"> Dr. Christine Blasey-Ford's testimony</a> and <a target="_blank" rel="noopener noreferrer" href="https://www.theatlantic.com/ideas/archive/2018/10/brett-kavanaugh-and-white-male-rage-thesis/572440/"> Brett Kavanaugh confirmation</a> was an emotional roller coaster. But with solitude, I was able sit with my feelings and process the struggle. Then, I picked myself back up to continue the fight for the marginalized. Thanks to The Wing, I was able to gather with a sisterhood to learn why we must keep fighting, keep resisting not just for the United States, but for the world.</p> <a href="/articles/activism-self-care-solitude-and-sisterhood">[Read more]</a></div>,
 post: 
     <div>
@@ -514,7 +628,7 @@ post:
         <br></br>
     <h4>YOU MIGHT ALSO LIKE:</h4>
         <a className="three-up" href="/articles/feminist-book-list-summer-edition">
-            <img src="/images/feministbooklistwinter-preview.png" alt="feminist-book-list-summer-edition" />
+            <img src="/images/feministbooklist_summer2018-preview.png.png" alt="feminist-book-list-summer-edition" />
             <p className="centered">Feminist Book List: Summer Edition</p>
         </a>
         <a className="three-up" href="/articles/5-things-i-loved-in-may-2018">

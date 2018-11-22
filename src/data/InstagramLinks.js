@@ -4,6 +4,7 @@ const INSTAGRAM_LINKS = [
 	{id: "subscribe to cmp", title: <a href="http://bit.ly/2ByiGBn">Subscribe to Coffee Meets Polished!</a>},
 	{id: "My Article Featured on Shine", title: <a href="https://advice.shinetext.com/articles/6-lessons-i-learned-when-i-stopped-apologizing-for-my-needs/">My Article Featured on Shine</a>},
 	{id: "bossedup podcast live taping", title: <a href="https://bossedup.org/episode61/">Bossed Up Podcast LIVE Taping in NYC</a>},
+	{id: "feminist-book-list-fall-edition", title: <a href="/articles/feminist-book-list-fall-edition">Feminist Book List: Fall Edition</a>},
 	{id: "activism-self-care-solitude-and-sisterhood", title: <a href="/articles/activism-self-care-solitude-and-sisterhood">Activism Self-Care: Solitude and Sisterhood</a>},
 	{id: "5-things-i-loved-in-september-2018", title: <a href="/articles/5-things-i-loved-in-september-2018">5 Things I Loved in September</a>},
 	{id: "new-podcast-discoveries-female-hosts-vol-2", title: <a href="/articles/new-podcast-discoveries-female-hosts-vol-2">New Podcast Discoveries: Female Hosts, Volume 2</a>},
