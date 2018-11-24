@@ -1,6 +1,78 @@
 import React from 'react';
 
 const ARTICLES = [
+{id: "5-things-i-loved-in-october-2018", title: <a href="/articles/5-things-i-loved-in-october-2018">5 Things I Loved in October</a>, date: "October 31, 2018", category: "Life", photo: "/images/5-things-i-loved-in-october-2018.png",  description: <div><p>We're already in the final stretch of 2019; where does time fly? This last quarter is going to be pretty jam-packed as we get into the holiday season. With <a target="_blank" rel="noopener noreferrer" href="https://www.the-wing.com/">Wing</a> events, Halloween, and travel October was one for the history books. Check out my 5 favorites for the month!</p> <a href="/articles/5-things-i-loved-in-october-2018">[Read more]</a></div>,
+post: 
+    <div>
+        <img src="/images/5-things-i-loved-in-october-2018.png" alt="5 Things I Loved in October" />
+        <br></br>
+    <p>We're already in the final stretch of 2019; where does time fly? This last quarter is going to be pretty jam-packed as we get into the holiday season. With <a target="_blank" rel="noopener noreferrer" href="https://www.the-wing.com/">Wing</a> events, Halloween, and travel October was one for the history books. Check out my 5 favorites for the month!</p>
+        <br></br>
+    <p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2RNiG6c">5 Things I Loved in September</a></b></p>
+        <br></br>
+    <h4><b>shine and solitude.</b></h4>
+    <p><img src="/images/shine-solitude.png" alt="Shine and Solitude" /></p>
+        <br></br>
+    <p>I've been subscribed to Shine since the start of pharmacy residency, and I've mentioned before that it helped me get through difficult very difficult times. It also gave me tools to help others through their own struggles with mental health, self-confidence, and more. Earlier this year I was invited to the Shine Headquarters to celebrate their new office in Manhattan. And this month, <a target="_blank" rel="noopener noreferrer" href="https://advice.shinetext.com/articles/6-lessons-i-learned-when-i-stopped-apologizing-for-my-needs/">my very own article</a> was published on the medium! It was incredibly surreal to see my own words in the very website and in my texts that morning out in the world to help others, just as so many had helped me.</p>
+        <br></br>
+    <p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2rffDrS">When I Stopped Apologizing for Needing Solitude</a></b></p>
+        <br></br>
+    <h4><b>midterms on our terms.</b></h4>
+        <img className="two-up" src="/images/brookebaldwin2.jpg" alt="Brooke Baldwin" />
+        <img className="two-up" src="/images/ocasiocortez.jpg" alt="Alexandria Ocasio-Cortez" />
+        <br></br>
+    <p>All throughout October, there were so many incredible events throughout <a target="_blank" rel="noopener noreferrer" href="https://www.the-wing.com/">The Wing</a> that helped us to <a target="_blank" rel="noopener noreferrer" href="https://www.glamour.com/story/how-the-wing-became-a-secret-weapon-for-politicians">engage and VOTE in the midterms</a>. One event was a panel put together by Brooke Baldwin to help promote her series, <a target="_blank" rel="noopener noreferrer" href="https://www.cnn.com/interactive/2018/01/entertainment/american-woman/">American Woman</a>. And another event was with <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/ocasio2018/?hl=en">Alexandria Ocasio-Cortez</a>, and I have no words but to say she's amazing and I am so incredibly grateful for her public service. </p>
+        <br></br>
+    <p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2RKxPFk">Activism and Solitude: Sisterhood Edition</a></b></p>
+        <br></br>
+    <p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2My6WBO">9 Mistakes I've Made with My Feminism</a></b></p>
+        <br></br>
+    <h4>central park woodlands tour.</h4>
+    <p><img src="/images/centralparktour.jpg" alt="Central Park Tour" /></p>
+        <br></br>
+    <p>This month I was invited on a specially organized tour of the northern part of Central Park! It was organized for those who engage with Central Park on social media. I learned so much about the history of Central Park and now have such a deeper appreciation for the design and maintenance of such an iconic landmark. I highly recommend a <a target="_blank" rel="noopener noreferrer" href="http://www.centralparknyc.org/tours/">tour</a> for anyone who comes to visit, or even if you live here in the City. Some fun facts:</p>
+        <p className="tabbed">➢No two arches are the same. When you first  see an arch it is also intentional that you can’t see what’s on the other side until you get up close.</p>
+        <p className="tabbed">➢The needs of park space has evolved from a general gathering space for socializing, to recreation. And because of this the park has invested in a baseball field, swimming pool, tennis courts, and more.</p>
+        <p className="tabbed">➢The Park needs to consider the needs of the birds that fly over the city as they migrate south.</p>
+        <p className="tabbed">➢The levels bodies of water within the park are controlled. This means they don’t Have to worry as much about things like droughts.</p>
+        <br></br>
+    <h4><b>book signings/tours.</b></h4>
+    <p><img src="/images/rebeccatraister.jpg" alt="Rebecca Traister" /></p>
+        <br></br>
+    <p>I’ve gotten a pretty badass shelf collection of books signed by the authors since I moved to NYC in July 2017. It all started with my very first event at the <a target="_blank" rel="noopener noreferrer" href="https://www.albertine.com/events/festival-albertine-2017/">Festival Albertine</a> where I got Roxane Gay and Gloria Steinem to sign Bad Feminist, and Life of the Road signed, respectively. This month was an especially busy one of book signings thanks to great events at <a target="_blank" rel="noopener noreferrer" href="https://www.the-wing.com/">The Wing</a> with launches by Jill Soloway (She Wants It), Busy Philipps (This Will Only Hurt A Little), and Rebecca Traister (Good and Mad).</p>
+    <p></p>
+        <br></br>
+    <p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2DIsOZz">Feminist Book List: Fall Edition</a></b></p>
+        <br></br>
+        <br></br>
+    <h4><b>halloween in the upper west side.</b></h4>
+    <p><img src="/images/halloween2018.jpg" alt="Halloween 2018" /></p>
+        <br></br>
+    <p>When I first moved to New York City, one of the things I wondered was, "How do they do Halloween here?" To my pleasant surprise, they do it pretty big in my neighborhood. Last year we explored the streets to learn that kids dress up and trick-or-treat at designated streets and throughout the businesses along the avenues. This year, we dressed up. My partner went to a thrift shop and found this [extremely comfortable] giraffe costume that I think he secretly hoped would fit him. But alas, he dressed up as a safari explorer to complete our very first couple's costume. It was a super affordable ($10 total) and fun Halloween!</p>
+    <h4>❖❖❖</h4>
+        <br></br>
+    <h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+        <br></br>
+    <h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+        <br></br>
+    <h4>❖❖❖</h4>
+        <br></br>
+    <h4>YOU MIGHT ALSO LIKE:</h4>
+        <a className="three-up" href="/articles/when-i-stopped-apologizing-for-needing-solitude">
+            <img src="/images/solitude-preview.png" alt="When I Stopped Apologizing for Needing Solitude" />
+            <p className="centered">When I Stopped Apologizing for Needing Solitude</p>
+        </a>
+        <a className="three-up" href="/articles/feminist-book-list-fall-edition">
+            <img src="/images/feministbooklist_fall2018-preview.png" alt="Feminist Book List: Fall Edition" />
+            <p className="centered">Feminist Book List: Fall Edition</p>
+        </a>
+        <a className="three-up" href="/articles/9-mistakes-ive-made-with-my-feminism">
+            <img src="/images/feminismmistakes-preview.png" alt="9 Mistakes I've Made with My Feminism" />
+            <p className="centered">9 Mistakes I've Made with My Feminism</p>
+        </a>
+    </div>
+    },
+
 {id: "feminist-book-list-fall-edition", title: <a href="/articles/feminist-book-list-fall-edition">Feminist Book List: Fall Edition</a>, date: "October 23, 2018", category: "Activism", photo: "/images/feministbooklist_fall2018-preview.png",  description: <div><p>It may have been Fall for a month now, but it hasn't been until this week that it's consistently felt like it. The air is crisp, the windows are open and AC is off. It's actually cold inside the house because the radiators haven't quite triggered on yet, but that's a great excuse to bust out my comfy pajama pants and fluffy socks. With a new season also comes a new wave of books released. In line with my winter and summer editions, here's a new list for fall. There are some great ones here and I'm also excited to see some of these released as they do their book tours!</p> <a href="/articles/feminist-book-list-fall-edition">[Read more]</a></div>,
 post: 
     <div>
