@@ -1,6 +1,112 @@
 import React from 'react';
 
 const ARTICLES = [
+{id: "favorite-podcasts-for-career-development", title: <a href="/articles/favorite-podcasts-for-career-development">Favorite Podcasts for Career Development</a>, date: "November 13, 2018", category: "Career", photo: "/images/careerdevelopmentpodcasts-preview.png",  description: <div><p>As I incorporate more and more podcasts into my listening repertoire, I get more and more picky. For career development, that's no exception. As someone who has significant experience being a career mentor for students, residents, etc. when it comes to my own development I expect certain things. I expect actionable items. Specific information. Applicability to the stage in my career. And more than interviews discussing "becoming" stories. Here are some of my favorites.</p> <a href="/articles/favorite-podcasts-for-career-development">[Read more]</a></div>,
+post: 
+    <div>
+        <img src="/images/careerdevelopmentpodcasts-preview.png" alt="Favorite Podcasts for Career Development" />
+        <br></br>
+    <p>As I incorporate more and more podcasts into my listening repertoire, I get more and more picky. For career development, that's no exception. As someone who has significant experience being a career mentor for students, residents, etc. when it comes to my own development I expect certain things. I expect actionable items. Specific information. Applicability to the stage in my career. And more than interviews discussing "becoming" stories. Here are some of my favorites.</p>
+        <br></br>
+        <h4>❖❖❖</h4>
+        <br></br>
+        <h4><b><a target="_blank" rel="noopener noreferrer" href="https://hbr.org/2018/01/podcast-women-at-work">Women at Work</a></b></h4>
+        <a target="_blank" rel="noopener noreferrer" href="https://hbr.org/2018/01/podcast-women-at-work">
+                <img className="portrait" src="/images/womenatworkpodcast.jpg" alt="The Women at Work Podcast" />
+                </a>
+        <br></br>
+    <p>This show is one that I wish I had during residency to work through in an academic setting. When I moved to my new job out of residency, I lost the day-to-day interactions with my female career mentors. Harvard Business Review's <a target="_blank" rel="noopener noreferrer" href="https://hbr.org/2018/01/podcast-women-at-work">Women at Work</a> has been a great substitute while I develop new mentors where I am now. One compoment that makes this show unique are the discussion guides for each episode!</p>
+    <p>Some episodes include:</p>
+    <p className="tabbed">➢<a target="_blank" rel="noopener noreferrer" href="https://hbr.org/podcast/2018/11/sisterhood-is-power">Sisterhood is Power</a></p>
+    <p className="tabbed">➢<a target="_blank" rel="noopener noreferrer" href="https://hbr.org/podcast/2018/10/we-deserve-better-than-attagirl">We Deserve Better Than "Attagirl"</a> [<a target="_blank" rel="noopener noreferrer" href="https://hbr.org/resources/pdfs/podcast-discussion-guides/WAW_DG_S2_E4.pdf">Discussion Guide</a>]</p>
+    <p className="tabbed">➢<a target="_blank" rel="noopener noreferrer" href="https://hbr.org/resources/pdfs/podcast-discussion-guides/WAW_DG_S2_E1.pdf">The Art of Claiming Credit</a> [<a target="_blank" rel="noopener noreferrer" href="https://hbr.org/resources/pdfs/podcast-discussion-guides/WAW_DG_S2_E6.pdf">Discussion Guide</a>]</p>
+    <p className="tabbed">➢<a target="_blank" rel="noopener noreferrer" href="https://hbr.org/podcast/2018/10/making-great-decisions.html">Making Great Decisions</a> [<a target="_blank" rel="noopener noreferrer" href="https://hbr.org/resources/pdfs/podcast-discussion-guides/WAW_DG_S2_E3.pdf">Discussion Guide</a>]</p>
+    <p className="tabbed">➢<a target="_blank" rel="noopener noreferrer" href="https://hbr.org/podcast/2018/09/lets-do-less-dead-end-work.html">Let's Do Less Dead-End Work</a> [<a target="_blank" rel="noopener noreferrer" href="https://hbr.org/resources/pdfs/podcast-discussion-guides/WAW_DG_S2_E1.pdf">Discussion Guide</a>]</p>
+        <br></br>
+        <h4>❖❖❖</h4>
+        <br></br>
+        <h4><b><a target="_blank" rel="noopener noreferrer" href="https://bossedup.org/">Bossed Up</a></b></h4>
+        <a target="_blank" rel="noopener noreferrer" href="https://bossedup.org/podcast/">
+                <img className="portrait" src="/images/bosseduppodcast.jpg" alt="Bossed Up Podcast" />
+                </a>
+
+        <br></br>
+    <p>I've featured the Bossed Up Podcast in past favorites, and it definitely still applies for the career category. This show publishes 2 episodes per week: one with an interview that answers a "Career Conundrum" from a listener (~30-45 minutes) and the second is a quick career/life tip (~5 minutes) from Emilie herself. I've been a fan of Emilie's since she was co-host of Stuff Mom Never Told You, and I had the pleasure of being part of its first ever LIVE episode recording at General Assembly last month.</p>
+    <p>Some episodes include:</p>
+    <p className="tabbed">➢ <a target="_blank" rel="noopener noreferrer" href="https://bossedup.org/episode61/">Career Conundrum Rapid Fire (LIVE Show!)</a></p>
+    <p className="tabbed">➢ <a target="_blank" rel="noopener noreferrer" href="https://bossedup.org/episode60/">Women in STEM (LIVE Show!)</a></p>
+    <p className="tabbed">➢ <a target="_blank" rel="noopener noreferrer" href="https://bossedup.org/episode74/">When You're The Only Woman of Color</a></p>
+    <p className="tabbed">➢ <a target="_blank" rel="noopener noreferrer" href="https://bossedup.org/episode49/">How to Master a Phone Interview</a></p>
+        <br></br>
+        <h4>❖❖❖</h4>
+        <br></br>
+        <h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.askamanager.org/category/podcast">Ask A Manager</a></b></h4>
+        <a target="_blank" rel="noopener noreferrer" href="https://www.askamanager.org/category/podcast">
+                <img className="portrait" src="/images/askamanagerpodcast.jpg" alt="Ask A Manager Podcast" />
+                </a>
+        <br></br>
+    <p>Another repeat from my post on <a target="_blank" rel="noopener noreferrer" href="https://coffeemeetspolished.com/articles/new-podcast-discoveries-female-hosts-vol-2">favorite female hosts</a>, this is a really unique set up because the host walks through a phone call with the person asking for career advice on a particular topic. You get to hear the back and forth from both perspectives, and it feels like you're getting to hold the conversation yourself. The topics are also unique from what I've heard from any other shows.</p>
+    <p>Some episodes include:</p>
+    <p className="tabbed">➢<a target="_blank" rel="noopener noreferrer" href="https://www.askamanager.org/2018/04/what-should-a-salary-negotiation-sound-like.html">What Should Salary Negotiation Sound Like?</a></p>
+    <p className="tabbed">➢<a target="_blank" rel="noopener noreferrer" href="https://www.askamanager.org/2018/04/am-i-a-mansplainer.html">Am I a Mansplainer?</a></p>
+    <p className="tabbed">➢<a target="_blank" rel="noopener noreferrer" href="https://www.askamanager.org/2018/11/my-team-is-overworked-and-im-the-boss.html">My Team is Overworked - and I'm the Boss</a></p>
+    <p className="tabbed">➢<a target="_blank" rel="noopener noreferrer" href="https://www.askamanager.org/2018/10/one-of-our-coworkers-isnt-flushing-the-toilet.html">Toilet Trouble</a></p>
+    <p className="tabbed">➢<a target="_blank" rel="noopener noreferrer" href="https://www.askamanager.org/2018/09/i-dont-have-enough-work-to-keep-me-busy.html">I Don't Have Enough Work</a></p>
+        <br></br>
+        <h4>❖❖❖</h4>
+        <br></br>
+        <h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.careercontessa.com/podcast/">Femails</a></b></h4>
+        <a target="_blank" rel="noopener noreferrer" href="https://www.careercontessa.com/podcast/">
+                <img className="portrait" src="/images/femailspodcast.jpg" alt="The Femails Podcast" />
+                </a>
+        <br></br>
+    <p>I've been following <a target="_blank" rel="noopener noreferrer" href="https://www.careercontessa.com/">Career Contessa</a> for a few years now, from their <a target="_blank" rel="noopener noreferrer" href="https://careercontessa.leadpages.co/subscribe/">email newsletter</a> to their <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/careercontessa/">hilarious Instagram posts</a>. They are now in their first season of a new podcast, Femails! The guests on the show teach me something new every episode, and what I love is that they don't just delve into specific career topics, but they discuss deeper life topics and how they can apply to our careers.</p>
+    <p>Some episodes include:</p>
+    <p className="tabbed">➢Why We Meltdown</p>
+    <p className="tabbed">➢Non-Overnight Success</p>
+    <p className="tabbed">➢Ambition Trap</p>
+    <p className="tabbed">➢Underdogging Your Way To The Top</p>
+    <p className="tabbed">➢Managing Anxiety, Managing Yourself</p>
+    <br></br>
+    <h4>❖❖❖</h4>
+    <br></br>
+    <h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.ellevatenetwork.com/podcasts/">Ellevate</a></b></h4>
+    <a target="_blank" rel="noopener noreferrer" href="https://www.ellevatenetwork.com/podcasts/">
+            <img className="portrait" src="/images/ellevatenetworkpodcast.jpg" alt="Ellevate Network Podcast" />
+            </a>
+    <br></br>
+    <p>This was one of the first times where a podcast helped me discover a new resource, as opposed to the other way around. When perusing the suggestions in iTunes I came across this list of episodes and the topics really brought me in. The <a target="_blank" rel="noopener noreferrer" href="https://www.ellevatenetwork.com/">Ellevate Network</a> is a global community of professional women who create, inspire and lead. You can join the community through paid membership and value diversity, teamwork, gratitude, respect.</p>
+    <p>Some episodes include:</p>
+    <p className="tabbed">➢Driving Diversity and Inclusion</p>
+    <p className="tabbed">➢Giving Women Room to Fail</p>
+    <p className="tabbed">➢Owning Your Influence</p>
+    <p className="tabbed">➢Unpacking Privilege</p>
+    <p className="tabbed">➢Growing with Vision</p>
+    <p>What are some of your favorite podcasts for career development? Share with us in the comments below!</p>
+        <h4>❖❖❖</h4>
+            <br></br>
+        <h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+            <br></br>
+        <h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+            <br></br>
+        <h4>❖❖❖</h4>
+            <br></br>
+        <h4>YOU MIGHT ALSO LIKE:</h4>
+            <a className="three-up" href="/articles/new-podcast-discoveries-female-hosts">
+                <img src="/images/newpodcastdiscoveriesfemalehosts-preview.png" alt="New Podcast Discoveries: Female Hosts" />
+                <p className="centered">New Podcast Discoveries: Female Hosts Vol. 1</p>
+            </a>
+            <a className="three-up" href="/articles/new-podcast-discoveries-female-hosts-vol-2">
+                <img src="/images/newpodcastdiscoveriesfemalehostsvol2-preview.png" alt="New Podcast Discoveries: Female Hosts Vol. 2" />
+                <p className="centered">New Podcast Discoveries: Female Hosts Vol. 2</p>
+            </a>
+            <a className="three-up" href="/articles/favorite-podcasts-to-stay-informed">
+                <img src="/images/podcastsinformed-preview.png" alt="Favorite Podcasts to Stay Informed" />
+                <p className="centered">Favorite Podcasts to Stay Informed</p>
+            </a>
+    </div>
+    },
+
 {id: "5-things-i-loved-in-october-2018", title: <a href="/articles/5-things-i-loved-in-october-2018">5 Things I Loved in October</a>, date: "October 31, 2018", category: "Life", photo: "/images/5-things-i-loved-in-october-2018.png",  description: <div><p>We're already in the final stretch of 2019; where does time fly? This last quarter is going to be pretty jam-packed as we get into the holiday season. With <a target="_blank" rel="noopener noreferrer" href="https://www.the-wing.com/">Wing</a> events, Halloween, and travel October was one for the history books. Check out my 5 favorites for the month!</p> <a href="/articles/5-things-i-loved-in-october-2018">[Read more]</a></div>,
 post: 
     <div>
