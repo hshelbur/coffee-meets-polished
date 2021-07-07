@@ -5,7 +5,34 @@ class Archive extends Component {
     return(
         <section className="article">
         <h4><b>Coffee Meets Polished Archives</b></h4>
+          <p><b>NOVEMBER 2018</b></p>
+            <p className="tabbed"><a href="https://coffeemeetspolished.com/articles/articles/favorite-podcasts-for-career-development" rel="noopener noreferrer">Favorite Podcasts for Career Development</a>
+              </p>  
+          <p><b>OCTOBER 2018</b></p>
+            <p className="tabbed"><a href="https://coffeemeetspolished.com/articles/articles/5-things-i-loved-in-october-2018" rel="noopener noreferrer">5 Things I Loved in October</a>
+              </p>           
+            <p className="tabbed"><a href="https://coffeemeetspolished.com/articles/articles/feminist-book-list-fall-edition" rel="noopener noreferrer">Feminist Book List: Fall Edition</a>
+              </p> 
+            <p className="tabbed"><a href="https://coffeemeetspolished.com/articles/activism-self-care-solitude-and-sisterhood" rel="noopener noreferrer">Activism Self-Care: Solitude and Sisterhood</a>
+              </p>  
+          <p><b>SEPTEMBER 2018</b></p>
+            <p className="tabbed"><a href="https://coffeemeetspolished.com/articles/5-things-i-loved-in-september-2018" rel="noopener noreferrer">5 Things I Loved in September</a>
+              </p>  
+          <p><b>AUGUST 2018</b></p>
+            <p className="tabbed"><a href="https://coffeemeetspolished.com/articles/5-things-i-loved-in-august-2018" rel="noopener noreferrer">5 Things I Loved in August</a>
+              </p>          
+            <p className="tabbed"><a href="https://coffeemeetspolished.com/articles/new-podcast-discoveries-female-hosts-vol-2" rel="noopener noreferrer">New Podcast Discoveries: Female Hosts, Volume 2</a>
+              </p>
+            <p className="tabbed"><a href="https://coffeemeetspolished.com/articles/young-professionals-guide-to-moving-to-nyc" rel="noopener noreferrer">Young Professional's Guide to Moving to NYC</a>
+              </p> 
+          <p><b>JULY 2018</b></p>
+            <p className="tabbed"><a href="https://coffeemeetspolished.com/articles/10-things-i-loved-in-june-and-july" rel="noopener noreferrer">10 Things I Loved in June and July</a>
+              </p> 
+            <p className="tabbed"><a href="https://coffeemeetspolished.com/articles/i-am-american-guest-post" rel="noopener noreferrer">I Am American [GUEST POST]</a>
+              </p> 
           <p><b>JUNE 2018</b></p>
+            <p className="tabbed"><a href="https://coffeemeetspolished.com/articles/feminist-book-list-summer-edition" rel="noopener noreferrer">Feminist Book List: Summer Edition</a>
+              </p>           
             <p className="tabbed"><a href="https://coffeemeetspolished.com/articles/favorite-podcasts-to-stay-informed" rel="noopener noreferrer">Favorite Podcasts to Stay Informed</a>
               </p> 
             <p className="tabbed"><a href="https://coffeemeetspolished.com/articles/9-mistakes-ive-made-with-my-feminism" rel="noopener noreferrer">9 Mistakes I've Made with My Feminism</a>

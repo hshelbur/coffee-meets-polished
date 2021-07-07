@@ -1,6 +1,986 @@
 import React from 'react';
 
 const ARTICLES = [
+{id: "favorite-podcasts-for-career-development", title: <a href="/articles/favorite-podcasts-for-career-development">Favorite Podcasts for Career Development</a>, date: "November 13, 2018", category: "Career", photo: "/images/careerdevelopmentpodcasts-preview.png",  description: <div><p>As I incorporate more and more podcasts into my listening repertoire, I get more and more picky. For career development, that's no exception. As someone who has significant experience being a career mentor for students, residents, etc. when it comes to my own development I expect certain things. I expect actionable items. Specific information. Applicability to the stage in my career. And more than interviews discussing "becoming" stories. Here are some of my favorites.</p> <a href="/articles/favorite-podcasts-for-career-development">[Read more]</a></div>,
+post: 
+    <div>
+        <img src="/images/careerdevelopmentpodcasts-preview.png" alt="Favorite Podcasts for Career Development" />
+        <br></br>
+    <p>As I incorporate more and more podcasts into my listening repertoire, I get more and more picky. For career development, that's no exception. As someone who has significant experience being a career mentor for students, residents, etc. when it comes to my own development I expect certain things. I expect actionable items. Specific information. Applicability to the stage in my career. And more than interviews discussing "becoming" stories. Here are some of my favorites.</p>
+        <br></br>
+        <h4>❖❖❖</h4>
+        <br></br>
+        <h4><b><a target="_blank" rel="noopener noreferrer" href="https://hbr.org/2018/01/podcast-women-at-work">Women at Work</a></b></h4>
+        <a target="_blank" rel="noopener noreferrer" href="https://hbr.org/2018/01/podcast-women-at-work">
+                <img className="portrait" src="/images/womenatworkpodcast.jpg" alt="The Women at Work Podcast" />
+                </a>
+        <br></br>
+    <p>This show is one that I wish I had during residency to work through in an academic setting. When I moved to my new job out of residency, I lost the day-to-day interactions with my female career mentors. Harvard Business Review's <a target="_blank" rel="noopener noreferrer" href="https://hbr.org/2018/01/podcast-women-at-work">Women at Work</a> has been a great substitute while I develop new mentors where I am now. One compoment that makes this show unique are the discussion guides for each episode!</p>
+    <p>Some episodes include:</p>
+    <p className="tabbed">➢<a target="_blank" rel="noopener noreferrer" href="https://hbr.org/podcast/2018/11/sisterhood-is-power">Sisterhood is Power</a></p>
+    <p className="tabbed">➢<a target="_blank" rel="noopener noreferrer" href="https://hbr.org/podcast/2018/10/we-deserve-better-than-attagirl">We Deserve Better Than "Attagirl"</a> [<a target="_blank" rel="noopener noreferrer" href="https://hbr.org/resources/pdfs/podcast-discussion-guides/WAW_DG_S2_E4.pdf">Discussion Guide</a>]</p>
+    <p className="tabbed">➢<a target="_blank" rel="noopener noreferrer" href="https://hbr.org/resources/pdfs/podcast-discussion-guides/WAW_DG_S2_E1.pdf">The Art of Claiming Credit</a> [<a target="_blank" rel="noopener noreferrer" href="https://hbr.org/resources/pdfs/podcast-discussion-guides/WAW_DG_S2_E6.pdf">Discussion Guide</a>]</p>
+    <p className="tabbed">➢<a target="_blank" rel="noopener noreferrer" href="https://hbr.org/podcast/2018/10/making-great-decisions.html">Making Great Decisions</a> [<a target="_blank" rel="noopener noreferrer" href="https://hbr.org/resources/pdfs/podcast-discussion-guides/WAW_DG_S2_E3.pdf">Discussion Guide</a>]</p>
+    <p className="tabbed">➢<a target="_blank" rel="noopener noreferrer" href="https://hbr.org/podcast/2018/09/lets-do-less-dead-end-work.html">Let's Do Less Dead-End Work</a> [<a target="_blank" rel="noopener noreferrer" href="https://hbr.org/resources/pdfs/podcast-discussion-guides/WAW_DG_S2_E1.pdf">Discussion Guide</a>]</p>
+        <br></br>
+        <h4>❖❖❖</h4>
+        <br></br>
+        <h4><b><a target="_blank" rel="noopener noreferrer" href="https://bossedup.org/">Bossed Up</a></b></h4>
+        <a target="_blank" rel="noopener noreferrer" href="https://bossedup.org/podcast/">
+                <img className="portrait" src="/images/bosseduppodcast.jpg" alt="Bossed Up Podcast" />
+                </a>
+
+        <br></br>
+    <p>I've featured the Bossed Up Podcast in past favorites, and it definitely still applies for the career category. This show publishes 2 episodes per week: one with an interview that answers a "Career Conundrum" from a listener (~30-45 minutes) and the second is a quick career/life tip (~5 minutes) from Emilie herself. I've been a fan of Emilie's since she was co-host of Stuff Mom Never Told You, and I had the pleasure of being part of its first ever LIVE episode recording at General Assembly last month.</p>
+    <p>Some episodes include:</p>
+    <p className="tabbed">➢ <a target="_blank" rel="noopener noreferrer" href="https://bossedup.org/episode61/">Career Conundrum Rapid Fire (LIVE Show!)</a></p>
+    <p className="tabbed">➢ <a target="_blank" rel="noopener noreferrer" href="https://bossedup.org/episode60/">Women in STEM (LIVE Show!)</a></p>
+    <p className="tabbed">➢ <a target="_blank" rel="noopener noreferrer" href="https://bossedup.org/episode74/">When You're The Only Woman of Color</a></p>
+    <p className="tabbed">➢ <a target="_blank" rel="noopener noreferrer" href="https://bossedup.org/episode49/">How to Master a Phone Interview</a></p>
+        <br></br>
+        <h4>❖❖❖</h4>
+        <br></br>
+        <h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.askamanager.org/category/podcast">Ask A Manager</a></b></h4>
+        <a target="_blank" rel="noopener noreferrer" href="https://www.askamanager.org/category/podcast">
+                <img className="portrait" src="/images/askamanagerpodcast.jpg" alt="Ask A Manager Podcast" />
+                </a>
+        <br></br>
+    <p>Another repeat from my post on <a target="_blank" rel="noopener noreferrer" href="https://coffeemeetspolished.com/articles/new-podcast-discoveries-female-hosts-vol-2">favorite female hosts</a>, this is a really unique set up because the host walks through a phone call with the person asking for career advice on a particular topic. You get to hear the back and forth from both perspectives, and it feels like you're getting to hold the conversation yourself. The topics are also unique from what I've heard from any other shows.</p>
+    <p>Some episodes include:</p>
+    <p className="tabbed">➢<a target="_blank" rel="noopener noreferrer" href="https://www.askamanager.org/2018/04/what-should-a-salary-negotiation-sound-like.html">What Should Salary Negotiation Sound Like?</a></p>
+    <p className="tabbed">➢<a target="_blank" rel="noopener noreferrer" href="https://www.askamanager.org/2018/04/am-i-a-mansplainer.html">Am I a Mansplainer?</a></p>
+    <p className="tabbed">➢<a target="_blank" rel="noopener noreferrer" href="https://www.askamanager.org/2018/11/my-team-is-overworked-and-im-the-boss.html">My Team is Overworked - and I'm the Boss</a></p>
+    <p className="tabbed">➢<a target="_blank" rel="noopener noreferrer" href="https://www.askamanager.org/2018/10/one-of-our-coworkers-isnt-flushing-the-toilet.html">Toilet Trouble</a></p>
+    <p className="tabbed">➢<a target="_blank" rel="noopener noreferrer" href="https://www.askamanager.org/2018/09/i-dont-have-enough-work-to-keep-me-busy.html">I Don't Have Enough Work</a></p>
+        <br></br>
+        <h4>❖❖❖</h4>
+        <br></br>
+        <h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.careercontessa.com/podcast/">Femails</a></b></h4>
+        <a target="_blank" rel="noopener noreferrer" href="https://www.careercontessa.com/podcast/">
+                <img className="portrait" src="/images/femailspodcast.jpg" alt="The Femails Podcast" />
+                </a>
+        <br></br>
+    <p>I've been following <a target="_blank" rel="noopener noreferrer" href="https://www.careercontessa.com/">Career Contessa</a> for a few years now, from their <a target="_blank" rel="noopener noreferrer" href="https://careercontessa.leadpages.co/subscribe/">email newsletter</a> to their <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/careercontessa/">hilarious Instagram posts</a>. They are now in their first season of a new podcast, Femails! The guests on the show teach me something new every episode, and what I love is that they don't just delve into specific career topics, but they discuss deeper life topics and how they can apply to our careers.</p>
+    <p>Some episodes include:</p>
+    <p className="tabbed">➢Why We Meltdown</p>
+    <p className="tabbed">➢Non-Overnight Success</p>
+    <p className="tabbed">➢Ambition Trap</p>
+    <p className="tabbed">➢Underdogging Your Way To The Top</p>
+    <p className="tabbed">➢Managing Anxiety, Managing Yourself</p>
+    <br></br>
+    <h4>❖❖❖</h4>
+    <br></br>
+    <h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.ellevatenetwork.com/podcasts/">Ellevate</a></b></h4>
+    <a target="_blank" rel="noopener noreferrer" href="https://www.ellevatenetwork.com/podcasts/">
+            <img className="portrait" src="/images/ellevatenetworkpodcast.jpg" alt="Ellevate Network Podcast" />
+            </a>
+    <br></br>
+    <p>This was one of the first times where a podcast helped me discover a new resource, as opposed to the other way around. When perusing the suggestions in iTunes I came across this list of episodes and the topics really brought me in. The <a target="_blank" rel="noopener noreferrer" href="https://www.ellevatenetwork.com/">Ellevate Network</a> is a global community of professional women who create, inspire and lead. You can join the community through paid membership and value diversity, teamwork, gratitude, respect.</p>
+    <p>Some episodes include:</p>
+    <p className="tabbed">➢Driving Diversity and Inclusion</p>
+    <p className="tabbed">➢Giving Women Room to Fail</p>
+    <p className="tabbed">➢Owning Your Influence</p>
+    <p className="tabbed">➢Unpacking Privilege</p>
+    <p className="tabbed">➢Growing with Vision</p>
+    <p>What are some of your favorite podcasts for career development? Share with us in the comments below!</p>
+        <h4>❖❖❖</h4>
+            <br></br>
+        <h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+            <br></br>
+        <h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+            <br></br>
+        <h4>❖❖❖</h4>
+            <br></br>
+        <h4>YOU MIGHT ALSO LIKE:</h4>
+            <a className="three-up" href="/articles/new-podcast-discoveries-female-hosts">
+                <img src="/images/newpodcastdiscoveriesfemalehosts-preview.png" alt="New Podcast Discoveries: Female Hosts" />
+                <p className="centered">New Podcast Discoveries: Female Hosts Vol. 1</p>
+            </a>
+            <a className="three-up" href="/articles/new-podcast-discoveries-female-hosts-vol-2">
+                <img src="/images/newpodcastdiscoveriesfemalehostsvol2-preview.png" alt="New Podcast Discoveries: Female Hosts Vol. 2" />
+                <p className="centered">New Podcast Discoveries: Female Hosts Vol. 2</p>
+            </a>
+            <a className="three-up" href="/articles/favorite-podcasts-to-stay-informed">
+                <img src="/images/podcastsinformed-preview.png" alt="Favorite Podcasts to Stay Informed" />
+                <p className="centered">Favorite Podcasts to Stay Informed</p>
+            </a>
+    </div>
+    },
+
+{id: "5-things-i-loved-in-october-2018", title: <a href="/articles/5-things-i-loved-in-october-2018">5 Things I Loved in October</a>, date: "October 31, 2018", category: "Life", photo: "/images/5-things-i-loved-in-october-2018.png",  description: <div><p>We're already in the final stretch of 2019; where does time fly? This last quarter is going to be pretty jam-packed as we get into the holiday season. With <a target="_blank" rel="noopener noreferrer" href="https://www.the-wing.com/">Wing</a> events, Halloween, and travel October was one for the history books. Check out my 5 favorites for the month!</p> <a href="/articles/5-things-i-loved-in-october-2018">[Read more]</a></div>,
+post: 
+    <div>
+        <img src="/images/5-things-i-loved-in-october-2018.png" alt="5 Things I Loved in October" />
+        <br></br>
+    <p>We're already in the final stretch of 2019; where does time fly? This last quarter is going to be pretty jam-packed as we get into the holiday season. With <a target="_blank" rel="noopener noreferrer" href="https://www.the-wing.com/">Wing</a> events, Halloween, and travel October was one for the history books. Check out my 5 favorites for the month!</p>
+        <br></br>
+    <p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2RNiG6c">5 Things I Loved in September</a></b></p>
+        <br></br>
+    <h4><b>shine and solitude.</b></h4>
+    <p><img src="/images/shine-solitude.png" alt="Shine and Solitude" /></p>
+        <br></br>
+    <p>I've been subscribed to Shine since the start of pharmacy residency, and I've mentioned before that it helped me get through difficult very difficult times. It also gave me tools to help others through their own struggles with mental health, self-confidence, and more. Earlier this year I was invited to the Shine Headquarters to celebrate their new office in Manhattan. And this month, <a target="_blank" rel="noopener noreferrer" href="https://advice.shinetext.com/articles/6-lessons-i-learned-when-i-stopped-apologizing-for-my-needs/">my very own article</a> was published on the medium! It was incredibly surreal to see my own words in the very website and in my texts that morning out in the world to help others, just as so many had helped me.</p>
+        <br></br>
+    <p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2rffDrS">When I Stopped Apologizing for Needing Solitude</a></b></p>
+        <br></br>
+    <h4><b>midterms on our terms.</b></h4>
+        <img className="two-up" src="/images/brookebaldwin2.jpg" alt="Brooke Baldwin" />
+        <img className="two-up" src="/images/ocasiocortez.jpg" alt="Alexandria Ocasio-Cortez" />
+        <br></br>
+    <p>All throughout October, there were so many incredible events throughout <a target="_blank" rel="noopener noreferrer" href="https://www.the-wing.com/">The Wing</a> that helped us to <a target="_blank" rel="noopener noreferrer" href="https://www.glamour.com/story/how-the-wing-became-a-secret-weapon-for-politicians">engage and VOTE in the midterms</a>. One event was a panel put together by Brooke Baldwin to help promote her series, <a target="_blank" rel="noopener noreferrer" href="https://www.cnn.com/interactive/2018/01/entertainment/american-woman/">American Woman</a>. And another event was with <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/ocasio2018/?hl=en">Alexandria Ocasio-Cortez</a>, and I have no words but to say she's amazing and I am so incredibly grateful for her public service. </p>
+        <br></br>
+    <p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2RKxPFk">Activism and Solitude: Sisterhood Edition</a></b></p>
+        <br></br>
+    <p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2My6WBO">9 Mistakes I've Made with My Feminism</a></b></p>
+        <br></br>
+    <h4>central park woodlands tour.</h4>
+    <p><img src="/images/centralparktour.jpg" alt="Central Park Tour" /></p>
+        <br></br>
+    <p>This month I was invited on a specially organized tour of the northern part of Central Park! It was organized for those who engage with Central Park on social media. I learned so much about the history of Central Park and now have such a deeper appreciation for the design and maintenance of such an iconic landmark. I highly recommend a <a target="_blank" rel="noopener noreferrer" href="http://www.centralparknyc.org/tours/">tour</a> for anyone who comes to visit, or even if you live here in the City. Some fun facts:</p>
+        <p className="tabbed">➢No two arches are the same. When you first  see an arch it is also intentional that you can’t see what’s on the other side until you get up close.</p>
+        <p className="tabbed">➢The needs of park space has evolved from a general gathering space for socializing, to recreation. And because of this the park has invested in a baseball field, swimming pool, tennis courts, and more.</p>
+        <p className="tabbed">➢The Park needs to consider the needs of the birds that fly over the city as they migrate south.</p>
+        <p className="tabbed">➢The levels bodies of water within the park are controlled. This means they don’t Have to worry as much about things like droughts.</p>
+        <br></br>
+    <h4><b>book signings/tours.</b></h4>
+    <p><img src="/images/rebeccatraister.jpg" alt="Rebecca Traister" /></p>
+        <br></br>
+    <p>I’ve gotten a pretty badass shelf collection of books signed by the authors since I moved to NYC in July 2017. It all started with my very first event at the <a target="_blank" rel="noopener noreferrer" href="https://www.albertine.com/events/festival-albertine-2017/">Festival Albertine</a> where I got Roxane Gay and Gloria Steinem to sign Bad Feminist, and Life of the Road signed, respectively. This month was an especially busy one of book signings thanks to great events at <a target="_blank" rel="noopener noreferrer" href="https://www.the-wing.com/">The Wing</a> with launches by Jill Soloway (She Wants It), Busy Philipps (This Will Only Hurt A Little), and Rebecca Traister (Good and Mad).</p>
+    <p></p>
+        <br></br>
+    <p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2DIsOZz">Feminist Book List: Fall Edition</a></b></p>
+        <br></br>
+        <br></br>
+    <h4><b>halloween in the upper west side.</b></h4>
+    <p><img src="/images/halloween2018.jpg" alt="Halloween 2018" /></p>
+        <br></br>
+    <p>When I first moved to New York City, one of the things I wondered was, "How do they do Halloween here?" To my pleasant surprise, they do it pretty big in my neighborhood. Last year we explored the streets to learn that kids dress up and trick-or-treat at designated streets and throughout the businesses along the avenues. This year, we dressed up. My partner went to a thrift shop and found this [extremely comfortable] giraffe costume that I think he secretly hoped would fit him. But alas, he dressed up as a safari explorer to complete our very first couple's costume. It was a super affordable ($10 total) and fun Halloween!</p>
+    <h4>❖❖❖</h4>
+        <br></br>
+    <h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+        <br></br>
+    <h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+        <br></br>
+    <h4>❖❖❖</h4>
+        <br></br>
+    <h4>YOU MIGHT ALSO LIKE:</h4>
+        <a className="three-up" href="/articles/when-i-stopped-apologizing-for-needing-solitude">
+            <img src="/images/solitude-preview.png" alt="When I Stopped Apologizing for Needing Solitude" />
+            <p className="centered">When I Stopped Apologizing for Needing Solitude</p>
+        </a>
+        <a className="three-up" href="/articles/feminist-book-list-fall-edition">
+            <img src="/images/feministbooklist_fall2018-preview.png" alt="Feminist Book List: Fall Edition" />
+            <p className="centered">Feminist Book List: Fall Edition</p>
+        </a>
+        <a className="three-up" href="/articles/9-mistakes-ive-made-with-my-feminism">
+            <img src="/images/feminismmistakes-preview.png" alt="9 Mistakes I've Made with My Feminism" />
+            <p className="centered">9 Mistakes I've Made with My Feminism</p>
+        </a>
+    </div>
+    },
+
+{id: "feminist-book-list-fall-edition", title: <a href="/articles/feminist-book-list-fall-edition">Feminist Book List: Fall Edition</a>, date: "October 23, 2018", category: "Activism", photo: "/images/feministbooklist_fall2018-preview.png",  description: <div><p>It may have been Fall for a month now, but it hasn't been until this week that it's consistently felt like it. The air is crisp, the windows are open and AC is off. It's actually cold inside the house because the radiators haven't quite triggered on yet, but that's a great excuse to bust out my comfy pajama pants and fluffy socks. With a new season also comes a new wave of books released. In line with my winter and summer editions, here's a new list for fall. There are some great ones here and I'm also excited to see some of these released as they do their book tours!</p> <a href="/articles/feminist-book-list-fall-edition">[Read more]</a></div>,
+post: 
+    <div>
+        <img src="/images/feministbooklist_fall2018-preview.png" alt="Feminist Book List: Fall Edition" />
+    <br></br>
+    <br></br>
+    <h4>❖❖❖</h4>
+    <br></br>
+    <h4><b><a target="_blank" rel="noopener noreferrer" href="https://unladylike.co/book/">Unladylike: A Field Guide to Smashing the Patriarchy and Claiming Your Space</a></b></h4>
+    <a target="_blank" rel="noopener noreferrer" href="https://unladylike.co/book/">
+            <img className="portrait" src="/images/unladylikebook.jpg" alt="Unladylike Book" />
+            </a>
+    <br></br>
+    <p>If you've been here a while, you know that Unladylike is one of my <a target="_blank" rel="noopener noreferrer" href="https://coffeemeetspolished.com/articles/favorite-podcasts-in-march-2018">ALL TIME FAVORITE podcasts</a>. They came out with a book this year and I'm so excited about it. I'm debating getting the hard copy vs. the audio version (or both?!) so I can have a similar podcast-like experience.</p>
+    <p>"<i>Unladylike</i> is a field guide for identifying, understanding, and uprooting the creepy, crawly patriarchal species women and girls encounter throughout society’s ecosystem — and reclaiming the space they take up. Simply put, it’s the guide for women and girls everywhere who are trying to find their way in the world."</p>
+    <br></br>
+    <h4>❖❖❖</h4>
+    <br></br>
+    <h4><b><a target="_blank" rel="noopener noreferrer" href="http://www.simonandschuster.com/books/Good-and-Mad/Rebecca-Traister/9781501181795 ">Good and Mad: The Revolutionary Power of Women's Anger</a></b></h4>
+    <a target="_blank" rel="noopener noreferrer" href="http://www.simonandschuster.com/books/Good-and-Mad/Rebecca-Traister/9781501181795 ">
+            <img className="portrait" src="/images/goodandmadbook.jpg" alt="Good and Mad Book" />
+            </a>
+    <br></br>
+    <p>"From Rebecca Traister, the New York Times bestselling author of ALL OF THE SINGLE LADIES comes a vital, incisive exploration into the transformative power of female anger and its ability to transcend into a political movement. In the year 2018, it seems as if women’s anger has suddenly erupted into the public conversation. But long before Pantsuit Nation, before the Women’s March, and before the #MeToo movement, women’s anger was not only politically catalytic—but politically problematic. The story of female fury and its cultural significance demonstrates the long history of bitter resentment that has enshrouded women’s slow rise to political power in America, as well as the ways that anger is received when it comes from women as opposed to when it comes from men."</p>
+    <br></br>
+    <h4>❖❖❖</h4>
+    <br></br>
+    <h4><b><a target="_blank" rel="noopener noreferrer" href="https://becomingmichelleobama.com/">Becoming (releases November 13, 2018)</a></b></h4>
+    <a target="_blank" rel="noopener noreferrer" href="https://becomingmichelleobama.com/">
+            <img className="portrait" src="/images/becomingbook.jpg" alt="Becoming Book" />
+            </a>
+    <br></br>
+    <p>I mean… of course.</p>
+    <p>"In her memoir, a work of deep reflection and mesmerizing storytelling, Michelle Obama invites readers into her world, chronicling the experiences that have shaped her—from her childhood on the South Side of Chicago to her years as an executive balancing the demands of motherhood and work, to her time spent at the world’s most famous address. With unerring honesty and lively wit, she describes her triumphs and her disappointments, both public and private, telling her full story as she has lived it—in her own words and on her own terms. Warm, wise, and revelatory, <i>Becoming</i> is the deeply personal reckoning of a woman of soul and substance who has steadily defied expectations—and whose story inspires us to do the same."</p>
+    <br></br>
+    <h4>❖❖❖</h4>
+    <br></br>
+    <h4><b><a target="_blank" rel="noopener noreferrer" href="https://nicolechung.net/">All You Can Ever Know</a></b></h4>
+    <a target="_blank" rel="noopener noreferrer" href="https://nicolechung.net/">
+            <img className="portrait" src="/images/allyoucaneverknowbook.jpg" alt="All You Can Ever Know Book" />
+            </a>
+    <br></br>
+    <p>"What does it mean to lose your roots--within your culture, within your family--and what happens when you find them? Nicole Chung was born severely premature, placed for adoption by her Korean parents, and raised by a white family in a sheltered Oregon town. From childhood, she heard the story of her adoption as a comforting, prepackaged myth. She believed that her biological parents had made the ultimate sacrifice in the hope of giving her a better life, that forever feeling slightly out of place was her fate as a transracial adoptee. But as Nicole grew up--facing prejudice her adoptive family couldn't see, finding her identity as an Asian American and as a writer, becoming ever more curious about where she came from--she wondered if the story she'd been told was the whole truth.</p>
+    <p>With warmth, candor, and startling insight, Nicole Chung tells of her search for the people who gave her up, which coincided with the birth of her own child. All You Can Ever Know is a profound, moving chronicle of surprising connections and the repercussions of unearthing painful family secrets--vital reading for anyone who has ever struggled to figure out where they belong."</p>
+    <br></br>
+    <h4>❖❖❖</h4>
+    <br></br>
+    <h4><b><a target="_blank" rel="noopener noreferrer" href="http://www.simonandschuster.com/books/Pure/Linda-Kay-Klein/9781501124815">Pure: Inside the Evangelical Movement That Shamed a Generation of Young Women and How I Broke Free</a></b></h4>
+    <a target="_blank" rel="noopener noreferrer" href="http://www.simonandschuster.com/books/Pure/Linda-Kay-Klein/9781501124815">
+            <img className="portrait" src="/images/purebook.jpg" alt="Pure Book" />
+            </a>
+    <br></br>
+    <p>"Fearing being marked a Jezebel, Klein broke up with her high school boyfriend because she thought God told her to, and took pregnancy tests though she was a virgin, terrified that any sexual activity would be punished with an out-of-wedlock pregnancy. When the youth pastor of her church was convicted of sexual enticement of a twelve-year-old girl, Klein began to question the purity-based sexual ethic. She contacted young women she knew, asking if they were coping with the same shame-induced issues she was. These intimate conversations developed into a twelve-year quest that took her across the country and into the lives of women raised in similar religious communities—a journey that facilitated her own healing and led her to churches that are seeking a new way to reconcile sexuality and spirituality.</p>
+    <p>Sexual shame is by no means confined to evangelical culture; Pure is a powerful wake-up call about our society’s subjugation of women."</p>
+    <br></br>
+    <h4>❖❖❖</h4>
+    <br></br>
+    <h4><b><a target="_blank" rel="noopener noreferrer" href="https://amzn.to/2TzfNH6">Girl Talk: What Science Can Tell Us About Female Friendship (Releases November 13, 2018)</a></b></h4>
+    <a target="_blank" rel="noopener noreferrer" href="https://amzn.to/2TzfNH6">
+            <img className="portrait" src="/images/girltalkbook.jpg" alt="Girl Talk Book Book" />
+            </a>
+    <br></br>
+    <p>In <i>Girl Talk, New York Times</i> science reporter Jacqueline Mroz takes on the science of female friendship--a phenomenon that's as culturally powerful as it is individually mysterious. She examines friendship from a range of angles, from the historical to the experiential, with a scientific analysis that reveals new truths about what leads us to connect and build alliances, and then "break up" when a friendship no longer serves us.</p>
+    <p>Mroz takes a new look at how friendship has evolved throughout history, showing how friends tend to share more genetic commonalities than strangers, and that the more friends we have, the more empathy and pleasure chemicals are present in our brains. Scientists have also reported that friendship directly influences health and longevity; women with solid, supportive friendships experience fewer "fight or flight" impulses and stronger heart function, and women without friendships tend to develop medical challenges on par with those associated with smoking and excessive body weight.</p>
+    <p>With intimate reporting and insightful analysis, Mroz reveals new awareness about the impact of women's friendships, and how they shape our culture at large."</p>
+    <br></br>
+    <h4>❖❖❖</h4>
+    <br></br>
+    <h4><b><a target="_blank" rel="noopener noreferrer" href="https://amzn.to/2TB0hdA">Everything's Trash, But It's Okay</a></b></h4>
+    <a target="_blank" rel="noopener noreferrer" href="https://amzn.to/2TB0hdA">
+            <img className="portrait" src="/images/everythingstrashbook.jpg" alt="Everything's Trash Book" />
+            </a>
+    <br></br>
+    <p>"Written in her trademark unfiltered and witty style, Robinson's latest collection is a call to arms. Outfitted with on-point pop culture references, these essays tackle a wide range of topics: giving feminism a tough-love talk on intersectionality, telling society's beauty standards to kick rocks, and calling foul on our culture's obsession with work. Robinson also gets personal, exploring money problems she's hidden from her parents, how dating is mainly a warmed-over bowl of hot mess, and definitely most important, meeting Bono not once, but twice. She's struggled with being a woman with a political mind and a woman with an ever-changing jeans size. She knows about trash because she sees it every day--and because she's seen roughly one hundred thousand hours of reality TV and zero hours of <i>Schindler's List</i>.</p>
+    <p>With the intimate voice of a new best friend, <i>Everything's Trash, But It's Okay</i> is a candid perspective for a generation that has had the rug pulled out from under it too many times to count."</p>
+    <br></br>
+    <h4>❖❖❖</h4>
+    <br></br>
+    <h4><b><a target="_blank" rel="noopener noreferrer" href="https://amzn.to/2QZJNtW">She Wants It: Desire, Power, and Topping the Patriarcy</a></b></h4>
+    <a target="_blank" rel="noopener noreferrer" href="https://amzn.to/2QZJNtW">
+            <img className="portrait" src="/images/shewantsitbook.jpg" alt="She Wants It Book" />
+            </a>
+    <br></br>
+    <p>"In this poignant memoir of personal transformation, Jill Soloway takes us on a patriarchy-toppling emotional and professional journey. When Jill’s parent came out as transgender, Jill pushed through the male-dominated landscape of Hollywood to create the groundbreaking and award-winning Amazon TV series Transparent. Exploring identity, love, sexuality, and the blurring of boundaries through the dynamics of a complicated and profoundly resonant American family, Transparent gave birth to a new cultural consciousness. While working on the show and exploding mainstream ideas about gender, Jill began to erase the lines on their own map, finding their voice as a director, show creator, and activist.</p>
+    <p><i>She Wants It: Desire, Power, and Toppling the Patriarchy</i> moves with urgent rhythms, wild candor, and razor-edged humor to chart Jill’s evolution from straight, married mother of two to identifying as queer and nonbinary. This intense and revelatory metamorphosis challenges the status quo and reflects the shifting power dynamics that continue to shape our collective worldview. With unbridled insight that offers a rare front seat to the inner workings of the #metoo movement and its aftermath, Jill captures the zeitgeist of a generation with thoughtful and revolutionary ideas about gender, inclusion, desire, and consent."</p>
+    <br></br>
+    <h4>❖❖❖</h4>
+    <br></br>
+    <p>It's an exciting season for feminist books. These are the perfect gift for the upcoming holiday season. What are you reading this winter? I'd love to know in the comments!</p>
+    <br></br>
+    <h4>❖❖❖</h4>
+    <br></br>
+    <h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+    <br></br>
+    <h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+    <br></br>
+    <h4>❖❖❖</h4>
+    <br></br>
+    <h4>YOU MIGHT ALSO LIKE:</h4>
+    <a className="three-up" href="/articles/feminist-book-list-winter-edition">
+        <img src="/images/feministbooklistwinter-preview.png" alt="Feminist Book List: Winter Edition" />
+        <p className="centered">Feminist Book List: Winter Edition 2017</p>
+    </a>
+        <a className="three-up" href="/articles/new-podcast-discoveries-female-hosts">
+            <img src="/images/favoritepodcastsof2017.png" alt="new-podcast-discoveries-female-hosts" />
+            <p className="centered">New Podcast Discoveries: Female Hosts</p>
+        </a>
+        <a className="three-up" href="/articles/feminist-book-list-summer-edition">
+            <img src="/images/feministbooklist_summer2018-preview.png.png" alt="feminist-book-list-summer-edition" />
+            <p className="centered">Feminist Book List: Summer Edition 2018</p>
+        </a>
+    </div>
+    }, 
+
+{id: "activism-self-care-solitude-and-sisterhood", title: <a href="/articles/activism-self-care-solitude-and-sisterhood">Activism Self-Care: Solitude and Sisterhood</a>, date: "October 14, 2018", category: "Activism", photo: "/images/activism self-care-preview.png",  description: <div><p>The week of <a target="_blank" rel="noopener noreferrer" href="http://time.com/5415027/christine-blasey-ford-testimony/"> Dr. Christine Blasey-Ford's testimony</a> and <a target="_blank" rel="noopener noreferrer" href="https://www.theatlantic.com/ideas/archive/2018/10/brett-kavanaugh-and-white-male-rage-thesis/572440/"> Brett Kavanaugh confirmation</a> was an emotional roller coaster. But with solitude, I was able sit with my feelings and process the struggle. Then, I picked myself back up to continue the fight for the marginalized. Thanks to The Wing, I was able to gather with a sisterhood to learn why we must keep fighting, keep resisting not just for the United States, but for the world.</p> <a href="/articles/activism-self-care-solitude-and-sisterhood">[Read more]</a></div>,
+post: 
+    <div>
+        <img src="/images/activism self-care-preview.png" alt="Activism Self-Care Preview" />
+        <br></br>
+    <p>The week of <a target="_blank" rel="noopener noreferrer" href="http://time.com/5415027/christine-blasey-ford-testimony/"> Dr. Christine Blasey-Ford's testimony</a> and <a target="_blank" rel="noopener noreferrer" href="https://www.theatlantic.com/ideas/archive/2018/10/brett-kavanaugh-and-white-male-rage-thesis/572440/"> Brett Kavanaugh confirmation</a> was an emotional roller coaster.</p>
+    <p>Hearing her testimony triggered so many women to <a target="_blank" rel="noopener noreferrer" href="https://www.cnn.com/2018/09/27/opinions/how-ford-kavanaugh-hearings-are-triggering-ptsd-danielle-campoamor/index.html"> re-experience their trauma</a>, and <a target="_blank" rel="noopener noreferrer" href="https://www.vox.com/2018/9/27/17910326/blasey-ford-kavanaugh-protests"> empower women to speak their truths and protest</a>.</p>
+    <p>For the first part of the week, I had hope. After her testimony, there were large protests across the country. I participated in the Friday <a target="_blank" rel="noopener noreferrer" href="https://www.womenstrikeus.org/event/oct-4-cancelkavanaugh-at-trump-tower-walkout-and-speakout/"> Walk-Out to protest at Trump Tower</a>. We knew it was an uphill battle, but it didn't mean we should stay quiet. Our government and the world needed to know our voices no matter what the outcome. I had hope in the volume and unity of resistance.</p>
+    <p><img className="portrait" src="/images/blaseyfordwalkout.jpg" alt="Blasey-Ford Walkout" /></p>
+           <br></br>
+        <p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2FGFL55">10 Essential Tips For Your First Protest</a></b></p>
+            <br></br>
+    <p>Then the <a target="_blank" rel="noopener noreferrer" href="https://www.bbc.com/news/world-us-canada-45693211"> FBI investigation</a> results came in, that didn't corroborate her testimony. And my hope lessened. Then came the <a target="_blank" rel="noopener noreferrer" href="https://www.theguardian.com/us-news/live/2018/oct/05/brett-kavanaugh-vote-latest-live-news-updates-confirmation-supreme-court-christine-blasey-ford-fbi-report"> Senator Collins' decision</a>. And my hope went to the ground.</p>
+            <br></br>
+        <h4><b>solitude.</b></h4>
+    <p>I lost so much hope in that moment. I turned off my CNN and New York Times notifications so I didn't know exactly when the vote to confirm Brett Kavanaugh's lifetime appointment happened. My energy left, and I felt like the fight meant nothing. Needless to say, <b>I was discouraged</b>.</p>
+    <p>I knew that sitting alone on my futon all day wasn't going to get the job done. But I also knew that during that time, I needed to rest. I needed to recognize the privilege I have that I can rest, and pick the fight back up for those who can't. So that's what I did. I sat, I distracted myself, I indulged in things that I enjoyed - YouTube, podcasts, reading.</p>
+            <br></br>
+        <p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2My6WBO">9 Mistakes I've Made with My Feminism</a></b></p>
+            <br></br>
+    <p>After some solitude and wallowing that weekend, I got exactly what I needed to pick myself back up for the next battle.</p>
+            <br></br>
+        <h4><b>sisterhood.</b></h4>
+    <p>I attended a panel at <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/the.wing/">The Wing</a> hosted by <a target="_blank" rel="noopener noreferrer" href="https://www.cnn.com/profiles/brooke-baldwin-profile"> CNN's Brooke Baldwin</a>. The event was also a promotion for her show <a target="_blank" rel="noopener noreferrer" href="https://www.cnn.com/interactive/2018/01/entertainment/american-woman/"> American Woman</a>, and we had previews of stories with amazing women running for political office. Not just the well-known names like <a target="_blank" rel="noopener noreferrer" href="https://staceyabrams.com/">Stacey Abrams</a>, but the incredible story of women from Selma, Alabama that were empowered to fight after the <a target="_blank" rel="noopener noreferrer" href="https://www.washingtonpost.com/powerpost/doug-jones-makes-final-push-in-alabama-with-black-voters-in-selma/2017/12/09/33dcf70e-dcec-11e7-a841-2066faf731ef_story.html?noredirect=on&utm_term=.aa1e46f4808f">defeat of Roy Moore for US Senate</a>.</p>
+    <p><img className="portrait" src="/images/brookebaldwin1.jpg" alt="Brooke Baldwin 1" /></p>
+    <p>The panel included amazing women from both Republican and Democratic parties: <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/ananavarro">Ana Navarro</a>, <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/amanda-carpenter-40b37a5/">Amanda Carpenter</a>, <a target="_blank" rel="noopener noreferrer" href="https://www.emilyslist.org/bios/entry/stephanie-schriock">Stephanie Schriok</a>, <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/slynnyoung/">Stephanie Young</a>, and <a target="_blank" rel="noopener noreferrer" href="https://symonedsanders.com/">Symone Sanders</a>.</p>
+    <h4><iframe width="560" height="315" src="https://www.youtube.com/embed/2DFHNPiL-Kc" frameborder="0" allow="autoplay" allowfullscreen></iframe></h4>
+    <p>Seeing them come together to have healthy debate and also find common ground. That common ground included the belief women must have a seat at the table. Symone Sanders reminded us not to ever forget that those in public office work for us. And if we don't like how they're performing, <b>we can take their jobs away</b>.</p>
+    <h4><iframe width="560" height="315" src="https://www.youtube.com/embed/4EJWXZ7dDwQ" frameborder="0" allow="autoplay" allowfullscreen></iframe></h4>
+    <p>When it came to the question and answer section, I asked "How do you build your activist resilience?" I got some great responses:</p>
+    <p className="tabbed">"Remember why you're fighting."</p>
+    <p className="tabbed">"Go to a beach and don't tell anyone where you are."</p>
+    <p className="tabbed">"Accept your feelings, but then pick yourself back up."</p>
+    <p className="tabbed">"You may have felt down, but look where you are. You came out here and are among your sisterhood."</p>
+    <p>With the responses and discussion, I was inspired. I was feeling energized and hearing exactly what I needed. Brooke took the last question and was wrapping up, when she said "Want, we have to get one more from the back. I can't deny her enthusiasm!"</p>
+    <p>The woman who spoke is an immigrant from Brazil. She said, we have to keep fighting. Brazil is <a target="_blank" rel="noopener noreferrer" href="https://www.bbc.com/news/world-latin-america-45829440"> going through an election</a> that threatens its already fragile democracy with candidates feeling empowered with Trump in power and becoming front-runners. What happens in the United States is a mirror of what is possible in the rest of the world.</p>
+    <p><b>And if we don't fight, who will?</b></p>
+    <img src="/images/brookebaldwin2.jpg" alt="Brooke Baldwin 2" />
+            <br></br>
+        <h4>❖❖❖</h4>
+            <br></br>
+        <h4><b>never forget.</b></h4>
+    <p><a target="_blank" rel="noopener noreferrer" href="https://www.whenweallvote.org/">VOTE on November 6, 2018</a>.</p>
+    <p>Share in the comments below what your voting plan is for getting to the polls.</p>
+    <p><a target="_blank" rel="noopener noreferrer" href="https://www.politico.com/election-results/2018/">Follow the results.</a></p>
+        <br></br>
+    <p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2t4FlQy">Favorite Podcasts to Stay Informed</a></b></p>
+        <br></br>
+    <h4>❖❖❖</h4>
+        <br></br>
+    <h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+        <br></br>
+    <h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+        <br></br>
+    <h4>❖❖❖</h4>
+        <br></br>
+    <h4>YOU MIGHT ALSO LIKE:</h4>
+        <a className="three-up" href="/articles/10-essential-tips-for-your-first-protest">
+            <img src="/images/protest-preview.png" alt="10 Tips for your First Protest" />
+            <p className="centered">10 Essential Tips for Your First Protest</p>
+        </a>
+        <a className="three-up" href="/articles/10-places-to-start-to-improve-your-feminism-literacy">
+            <img src="/images/feminismliteracy-preview.png" alt="10 Places to Start to Improve Your Feminism Literacy" />
+            <p className="centered">10 Places to Start to Improve Your Feminism Literacy</p>
+        </a>
+        <a className="three-up" href="/articles/9-mistakes-ive-made-with-my-feminism">
+            <img src="/images/feminismmistakes-preview.png" alt="feminismmistakes-preview.png" />
+            <p className="centered">9 Mistakes I've Made with My Feminism</p>
+        </a>
+    </div>
+    },
+
+{id: "5-things-i-loved-in-september-2018", title: <a href="/articles/5-things-i-loved-in-september-2018">5 Things I Loved in September</a>, date: "September 30, 2018", category: "Life", photo: "/images/5-things-i-loved-in-september-2018.png",  description: <div><p>September was a tough month. Between guests coming on the weekends, planned microadventures during the week, and a few big projects at work, there wasn't a whole lot of time to do my favorite thing - nothing. But there were so many great things that happened that they absolutely deserve their moment. Check out my 5 favorites in September!</p> <a href="/articles/5-things-i-loved-in-september-2018">[Read more]</a></div>,
+post: 
+    <div>
+        <img src="/images/5-things-i-loved-in-september-2018.png" alt="5 Things I Loved in September" />
+        <br></br>
+    <p>September was a tough month. Between guests coming on the weekends, planned microadventures during the week, and a few big projects at work, there wasn't a whole lot of time to do my favorite thing - nothing. But there were so many great things that happened that they absolutely deserve their moment. Check out my 5 favorites in September!</p>
+        <br></br>
+    <p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2QN62TC">5 Things I Loved in August</a></b></p>
+        <br></br>
+    <h4><b>date nights.</b></h4>
+    <p><img src="/images/soccerdates.jpg" alt="Soccer Dates" /></p>
+        <br></br>
+    <p>There were so many planned microadventures this month, including two soccer games in <a target="_blank" rel="noopener noreferrer" href="https://www.metlifestadium.com/">MetLife Stadium</a> in Meadowlands, NJ. My partner is a huuuuge fan of soccer, and loves to get tickets for games when they come through. It's fun to have date nights that are out of the house. Of course, I love hanging out binge watching Netflix, but adventures together are just as great.</p>
+        <br></br>
+    <p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2EqkwXH">10 Affordable Date Night Ideas in NYC</a></b></p>
+        <br></br>
+    <h4><b>rupi kaur.</b></h4>
+    <p><img className="portrait" src="/images/rupikaur.jpg" alt="Rupi Kaur" /></p>
+        <br></br>
+    <p>I've been a fan of <a target="_blank" rel="noopener noreferrer" href="https://rupikaur.com/">Rupi Kaur</a> for the past year when I first read <a target="_blank" rel="noopener noreferrer" href="https://www.indiebound.org/book/9781449474256">milk and honey</a>. Her poetry puts experiences into beautiful and tragic words that helps me feel empowered. And as soon as I saw on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/rupikaur_/">her Instagram</a> that she was doing a USA tour, I immediately got 4 tickets through pre-sale. My partner came with me, and then we each brought a friend who also were fans of hers. Her sold out show was incredible! I haven't yet read her second book, <a target="_blank" rel="noopener noreferrer" href="https://www.indiebound.org/book/9781449486792">the sun and her flowers</a>, and so a lot of the poetry was very new to me. This made the experience all the more special.</p>
+    <p>What's your favorite Rupi piece? Share them in the comments below!</p>
+        <br></br>
+    <p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2mDGOdK">Topics to Normalize in 2018: Periods</a></b></p>
+        <br></br>
+    <p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2My6WBO">9 Mistakes I've Made with My Feminism</a></b></p>
+        <br></br>
+    <h4>podcast recordings.</h4>
+    <p><img src="/images/bcrpodcast.jpg" alt="BCR Podcast" /></p>
+        <br></br>
+    <p>If you couldn't tell already, I'm a fan of podcasts. I love the way we can consume them on-the-go, and it affords creators a way to share information directly with an audience. I'm constantly learning, being entertained, and feeling a sense of community in my ears. This month I actually got to experience the podcast from the RECORDING side!</p>
+    <p>My mom had the amazing opportunity to be part of a recording of <a target="_blank" rel="noopener noreferrer" href="https://barcrawlradio657268108.wordpress.com/2018/09/14/bcr-19-give-u-s-your-huddled-masses-right/">Bar Crawl Radio</a> in the Upper West Side and discuss <a target="_blank" rel="noopener noreferrer" href="https://joyousserendipity.com/2018/10/10/bar-crawl-radio-pod-cast-guest-appearance/">her immigration experience</a>, and how she feels as an naturalized citizen in today's political climate.</p>
+    <p>Secondly, I got to record a LIVE taping of the <a target="_blank" rel="noopener noreferrer" href="https://bossedup.org/episode61/">Bossed Up Podcast</a>! I was part of the <a target="_blank" rel="noopener noreferrer" href="https://bossedup.org/episode61/">Career Conundrum Rapid Fire</a>, the second section of the show after the interview portion with <a target="_blank" rel="noopener noreferrer" href="http://artist-developer.com/">Natalya Shelburne</a>. It was an amazing experience getting to answer career questions from a super engaged audience.</p>
+        <br></br>
+    <p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2Kyp3dP">I Am American [GUEST POST]</a></b></p>
+        <br></br>
+    <p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2GKOMcN">Favorite Podcasts in March 2018</a></b></p>
+        <br></br>
+    <h4><b>staten island ferry.</b></h4>
+    <p><img src="/images/statenislandferry.jpg" alt="Staten Island Ferry" /></p>
+        <br></br>
+    <p>The <a target="_blank" rel="noopener noreferrer" href="https://www.siferry.com/">Staten Island Ferry</a> is the PERFECT thing to do with guests who come to New York City. It's free and has great views of the Financial District skyline. The way I like to time it is to go from Manhattan to Staten Island during sunset, and then you go right back to Manhattan when it's dark to see the lights in the skyscrapers. And both directions, you pass the Statue of Liberty. It's just the refresher needed in today's political and social climate to reconnect with your patriotism.</p>
+        <br></br>
+    <h4><b>crazy rich asians.</b></h4>
+    <p><img src="/images/crazyrichasians.jpg" alt="Crazy Rich Asians" /></p>
+        <br></br>
+    <p><a target="_blank" rel="noopener noreferrer" href="http://www.crazyrichasiansmovie.com/">Crazy Rich Asians</a> didn't come out in September; I watched it quite late. But better late than never! It was just the feel-good moving I needed, and the icing on top was feeling represented not just by Asian characters, but <b>Asian-American</b> characters. It specifically detailed the feelings feeling different in the United States because of outwardly appearing different, but then when arriving in Asia not feeling a sense of belonging there either. The reality is, there is a specific identity in the middle. And I love that this was expressed in a movie seen by so many people.</p>
+        <br></br>
+    <p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2r7hlxE">Being "Not That" Asian</a></b></p>
+        <br></br>
+    <h4>❖❖❖</h4>
+        <br></br>
+    <h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+        <br></br>
+    <h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+        <br></br>
+    <h4>❖❖❖</h4>
+        <br></br>
+    <h4>YOU MIGHT ALSO LIKE:</h4>
+        <a className="three-up" href="/articles/biggest-myths-of-your-20s-to-unlearn">
+            <img src="/images/20smythstounlearn-preview.png" alt="Biggest Myths of Your 20's to Unlearn" />
+            <p className="centered">Biggest Myths of Your 20's to Unlearn</p>
+        </a>
+        <a className="three-up" href="/articles/growing-up-asian-american-tag">
+            <img src="/images/growing-up-aa-tag-preview.png" alt="Growing Up Asian American Tag" />
+            <p className="centered">Growing Up Asian American Tag</p>
+        </a>
+        <a className="three-up" href="/articles/making-the-most-of-your-job-transition">
+            <img src="/images/jobtransition-preview.png" alt="What You Don't Expect When You're Expecting" />
+            <p className="centered">Making the Most of Your Job Transition</p>
+        </a>
+    </div>
+    },
+
+{id: "5-things-i-loved-in-august-2018", title: <a href="/articles/5-things-i-loved-in-august-2018">5 Things I Loved in August</a>, date: "August 31, 2018", category: "Life", photo: "/images/5-things-i-loved-in-august-2018.png",  description: <div><p>This is the second August where I'm not going back to school - so crazy! It's interesting living in New York where the end of August is a sign that summer is ending, yet it's still in the 90's. Growing up in Florida, I never celebrated the end of summer except for the fact that there was a few weeks I could straighten my hair because it wasn't humid out. Here are my 5 favorites from my 2nd August in New York City.</p> <a href="/articles/5-things-i-loved-in-august-2018">[Read more]</a></div>,
+post: 
+    <div>
+        <img src="/images/5-things-i-loved-in-august-2018.png" alt="5 Things I Loved in August" />
+        <br></br>
+    <p>This is the second August where I'm not going back to school - so crazy! It's interesting living in New York where the end of August is a sign that summer is ending, yet it's still in the 90's. Growing up in Florida, I never celebrated the end of summer except for the fact that there was a few weeks I could straighten my hair because it wasn't humid out. Here are my 5 favorites from my 2nd August in New York City. </p>
+        <br></br>
+    <p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2L6BFny">10 Things I Loved in June and July</a></b></p>
+        <br></br>
+    <h4><b>summer streets.</b></h4>
+    <p><img src="/images/summerstreets2018.jpg" alt="Summer Streets 2018" /></p>
+        <br></br>
+    <p>Last year, one of my favorite micro adventures (LINK A POST) before work started was Summer Streets, hosted by CitiBike. And this year I got to do it again! Biking down Park Avenue with no cars was so much fun and now that I’m more comfortable biking in New York City, I got to enjoy it even more. </p>
+        <br></br>
+        <br></br>
+    <h4><b>waterfronts.</b></h4>
+    <img src="/images/riversidesunset2.jpg" alt="Riverside Sunset 2" />
+        <br></br>
+    <p>Living less than an avenue away from Central Park is absolutely amazing. I feel incredibly lucky to be able to say it's quite literally my backyard. But like anything that becomes routine, it because normalized and you eventually need to change things up. This month I ventured westward down my street and found <a target="_blank" rel="noopener noreferrer" href="https://www.nycgovparks.org/parks/riverside-park">Riverside Park</a>. It felt so local and being along the water was awesome. And the timing was amazing because, SUNSET!</p>
+       <br></br>
+       <br></br>
+    <h4>books are magic.</h4>
+    <p><img src="/images/maeveinamerica.jpg" alt="Maeve in America" /></p>
+        <br></br>
+    <p>This month one of the friends I've made in the City (introvert win!) invited me to a book event at an independent book store in Brooklyn, <a target="_blank" rel="noopener noreferrer" href="https://www.booksaremagic.net/">Books are Magic</a>. It was for the book, <a target="_blank" rel="noopener noreferrer" href="https://www.maevehiggins.com/book">Maeve in America</a>, by <a target="_blank" rel="noopener noreferrer" href="https://www.maevehiggins.com/">Maeve Higgins</a>. I was so excited to see Maeve in person after listening to her podcast, and I learned that she has a brand new one, <a target="_blank" rel="noopener noreferrer" href="https://www.mothersofinvention.online/">Mothers of Invention</a>. Instantly subscribed! Microadventures, for the win. </p>
+        <br></br>
+        <br></br>
+    <h4><b>maharlika.</b></h4>
+    <p><img src="/images/maharlika.jpg" alt="Maharlika" /></p>
+        <br></br>
+    <p>I've said it before, but I can't reiterate enough how much I didn't realize I missed Filipino food until I lived where there were actual restaurants. My family came to visit and we tried one I'd been wanting to try since I moved here, <a target="_blank" rel="noopener noreferrer" href="http://maharlikanyc.com/">Maharlika</a>. Taking my partner there and teaching him about some dishes, and also learning about dishes from my parents that they'd not made me before, was such an incredible experience. The owner, <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/nicoleponseca/">Nicole Ponseca</a>, has a cookbook <a target="_blank" rel="noopener noreferrer" href="http://maharlikanyc.com/cookbook">"I Am Filipino"</a> coming out October 30, 2018. I can't wait for it!!! </p>
+        <br></br>
+        <br></br>
+    <h4><b>anniversary.</b></h4>
+    <p><img src="/images/anniversary2018.jpg" alt="Anniversary" /></p>
+        <br></br>
+    <p>August is anniversary month with my partner. He and I have been together for 3 years now and I couldn't be happier. He is someone who not only empowers me to be my authentic self, but loves it and celebrates it. </p>
+        <br></br>
+        <br></br>
+    <h4>❖❖❖</h4>
+        <br></br>
+    <h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+        <br></br>
+    <h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+        <br></br>
+    <h4>❖❖❖</h4>
+        <br></br>
+    <h4>YOU MIGHT ALSO LIKE:</h4>
+        <a className="three-up" href="/articles/new-podcast-discoveries-female-hosts-vol-2">
+            <img src="/images/newpodcastdiscoveriesfemalehostsvol2-preview.png" alt="New Podcast Discoveries: Female Hosts, Vol. 2" />
+            <p className="centered">New Podcast Discoveries: Female Hosts Vol. 2</p>
+        </a>
+        <a className="three-up" href="/articles/growing-up-asian-american-tag">
+            <img src="/images/growing-up-aa-tag-preview.png" alt="Growing Up Asian American Tag" />
+            <p className="centered">Growing Up Asian American Tag</p>
+        </a>
+        <a className="three-up" href="/articles/young-professionals-guide-to-moving-to-nyc">
+            <img src="/images/movingtonyc-preview.png" alt="Young Professional's Guide to Moving to NYC" />
+            <p className="centered">Young Professional's Guide to Moving to NYC</p>
+        </a>
+    </div>
+    },
+
+{id: "new-podcast-discoveries-female-hosts-vol-2", title: <a href="/articles/new-podcast-discoveries-female-hosts-vol-2">New Podcast Discoveries: Female Hosts Vol. 2</a>, date: "August 26, 2018", category: "Activism", photo: "/images/newpodcastdiscoveriesfemalehostsvol2-preview.png",  description: <div><p>May was a month of discovery when it came to podcasts. I discovered so many new shows that are quickly becoming some of my favorites and most of them have female hosts! The best part is that each of them are so incredibly different and I love how they highlight nuances of the female experience. Check out my latest favorite discoveries! </p> <a href="/articles/new-podcast-discoveries-female-hosts-vol-2">[Read more]</a></div>,
+post: 
+    <div>
+        <img src="/images/newpodcastdiscoveriesfemalehostsvol2.jpg" alt="New Podcast Discoveries: Female Hosts Volume 2" />
+    <br></br>
+    <p>A few weeks ago, I went to <a target="_blank" rel="noopener noreferrer" href="https://conferences.blogher.com/">BlogHer18</a> and one of the breakout sessions was about developing your own podcast. The session was hosted by <a target="_blank" rel="noopener noreferrer" href="https://www.kristenmeinzer.com/">Kristen Meinzer</a>, a co-host of Panoply's <a target="_blank" rel="noopener noreferrer" href="https://www.panoply.fm/podcasts/bythebook">By the Book Podcast</a> and the two hosts of <a target="_blank" rel="noopener noreferrer" href="https://betches.com/podcasts/">Betches Podcast</a>. In the session, Kristen pointed out that there will always be those who simply don't want to listen to women's voices.</p>
+    <p>Unfortunately, I agree. However, that only empowers me even more to continue supporting and lift podcasts that are hosted by women.</p>
+    <p>Luckily for us there are SO MANY to advocate for. So many, in fact, that this is the second post I am sharing of my favorite new discoveries. I'm excited about this list because each of them are so different, which goes to show how complex and diverse our experiences and interests are.</p>
+    <p>What are some of your favorite podcasts with female hosts? Share in the comments below! I love to discover new ones every day.</p>
+    <br></br>
+    <h4>❖❖❖</h4>
+    <br></br>
+    <h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.mothersofinvention.online/">Mothers of Invention</a></b></h4>
+    <a target="_blank" rel="noopener noreferrer" href="https://www.mothersofinvention.online/">
+            <img className="portrait" src="/images/mothersofinventionpodcast.jpg" alt="Mothers of Invention Podcast" />
+            </a>
+    <br></br>
+    <p>"Climate change is a man-made problem — with a feminist solution! ​Join former Irish President Mary Robinson and comedian Maeve Higgins in this uplifting new podcast, celebrating amazing women doing remarkable things in pursuit of climate justice. Each episode features the Mothers of Invention driving powerful solutions to climate change – from the grassroots to the court room, the front lines to the board room – all over the world."</p>
+    <p>I first learned of <a target="_blank" rel="noopener noreferrer" href="https://www.maeveinamerica.com/">Maeve</a> when I got an advanced copy of her new book, <a target="_blank" rel="noopener noreferrer" href="https://www.maeveinamerica.com/">Maeve in America</a>. I also recently got her book signed at <a target="_blank" rel="noopener noreferrer" href="https://www.booksaremagic.net/">Books are Magic</a> and she promoted both her book and new podcast, Mothers of Invention! I immediately subscribed and listened to episode 1 the next day. It's such a fresh perspective on climate change and coming from an international point of view has helped me learn a LOT.</p>
+    <br></br>
+    <h4>❖❖❖</h4>
+    <br></br>
+    <h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.panoply.fm/podcasts/bythebook">By the Book</a></b></h4>
+    <a target="_blank" rel="noopener noreferrer" href="https://www.panoply.fm/podcasts/bythebook">
+            <img className="portrait" src="/images/bythebookpodcast.jpg" alt="By the Book Podcast" />
+            </a>
+    <br></br>
+    <p>"By The Book is half reality show, half self-help podcast, and one wild social experiment. Join comedian Jolenta Greenberg and her skeptical friend Kristen Meinzer as they live by the rules of a different self-help book each episode to figure out which ones might actually be life changing."</p>
+    <p>This is one of the coolest podcast structures I listen to. Co-hosts Kristen and Jolenta spend a couple of weeks doing the steps in a book and reflecting on it. They've done books like <a target="_blank" rel="noopener noreferrer" href="https://www.bookculture.com/book/9780062748089">A Girl's Guide to Joining the Resistance</a>, <a target="_blank" rel="noopener noreferrer" href="https://www.bookculture.com/book/9781607749486">The Curated Closet</a>, and <a target="_blank" rel="noopener noreferrer" href="https://www.bookculture.com/book/9780062457714">The Subtle Art of Not Giving a F*ck</a>. They share audio notes of the experience within each episode and give their reviews at the very end. It's amazing to hear the reflections of books that we all read but may not put what we learn into action. After each episode, they have an Epilogue episode that is filled with listener comments and discussions in their Facebook groups. It's awesome that they incorporate even more perspectives too, and I learn so much more.</p>
+    <br></br>
+    <h4>❖❖❖</h4>
+    <br></br>
+    <h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.kcrw.com/news-culture/shows/bodies">Bodies</a></b></h4>
+    <a target="_blank" rel="noopener noreferrer" href="https://www.kcrw.com/news-culture/shows/bodies">
+            <img className="portrait" src="/images/bodiespodcast.png" alt="Bodies Podcast" />
+            </a>
+    <br></br>
+    <p>"Each episode of this intimate, highly-produced documentary program follows one person’s journey to solve a mystery about their body. Bodies explores the forces of history, society and identity that shape women's health and affect the way the medical community treats people. For so long, women’s health has been under-researched and overlooked. So often, our stories have gone untold and our questions have gone unanswered. Bodies is part of a movement to change that."</p>
+    <p>I attended a launch event at The Wing with host <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/albtweetin">Allison Behringer</a>. At first I honestly wasn't sure if I'd be interested but the stories and quality of each show are incredibly crafted. The experiences of the women in these episodes have health mysteries that could affect any of us. And as a healthcare professional I didn't realize how invaluable the personal and emotional impact of diseases can have on women. This has quickly become one of my favorites.</p>
+    <br></br>
+    <h4>❖❖❖</h4>
+    <br></br>
+    <h4><b><a target="_blank" rel="noopener noreferrer" href="https://itunes.apple.com/us/podcast/under-the-hood/id1412425226?mt=2">Under the Hood</a></b></h4>
+    <a target="_blank" rel="noopener noreferrer" href="https://itunes.apple.com/us/podcast/under-the-hood/id1412425226?mt=2">
+            <img className="portrait" src="/images/underthehoodpodcast.jpg" alt="Under the Hood Podcast" />
+            </a>
+    <br></br>
+    <p>"Under the Hood is pulling back the curtain and unpacking the mystery around womanHOOD, sisterHOOD, motherHOOD. Join Patti and Aleks as they take a deep dive into the topics you wish you knew more about, the topics you want to share with your daughters, and the things you want the men in your life to know."</p>
+    <p>I love a podcast that talks about women's sexuality. Under the Hood is so much more than that! It combines experiences with science on topics like women's orgasms and oral contraceptives. It's only two episodes in but I'm completely hooked.</p>
+    <br></br>
+    <h4>❖❖❖</h4>
+    <br></br>
+    <h4><b><a target="_blank" rel="noopener noreferrer" href="https://augustmclaughlin.com/podcast/">Girl Boner Radio</a></b></h4>
+    <a target="_blank" rel="noopener noreferrer" href="https://augustmclaughlin.com/podcast/">
+            <img className="portrait" src="/images/girlbonerradio.jpg" alt="Girl Boner Radio" />
+            </a>
+    <br></br>
+    <p>"A spicy blend of personal stories, in-depth reporting and inspiration, Girl Boner is where good girls go for sexual empowerment. Health and sexuality writer <a target="_blank" rel="noopener noreferrer" href="https://augustmclaughlin.com/">August McLaughlin</a> explores female sexual pleasure like no one else. She’s the fearless sister/girlfriend you’ve always wanted—and she loves to talk sex! Girl Boner Radio is LGBTQIA-friendly and all genders are welcome."</p>
+    <p>Speaking of podcasts about women's sexuality... <a target="_blank" rel="noopener noreferrer" href="https://augustmclaughlin.com/podcast/">Girl Boner Radio</a> is just that. The show touches topics that I wouldn't feel comfortable doing out loud, but I'm trying to work on that. And this podcast helps.</p>
+    <br></br>
+    <h4>❖❖❖</h4>
+    <br></br>
+    <h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.committedpodcast.com/">Committed Podcast</a></b></h4>
+    <a target="_blank" rel="noopener noreferrer" href="https://www.committedpodcast.com/">
+            <img className="portrait" src="/images/committedpodcast.jpg" alt="Committed Podcast" />
+            </a>
+    <br></br>
+    <p>"Host Jo Piazza as she delves into the hilarious, heartbreaking and inspiring stories of couples of all kinds who’ve soldiered through unimaginable circumstances, and after the longest of days, still want to wake up next to one another in the morning."</p>
+    <p>On this podcast, it's incredible to learn about stories of marriages that open my eyes to so many kinds of love between two people. It's refreshing to hear such positivity, happiness, and honesty in relationships that we don't see in mainstream media.</p>
+    <br></br>
+    <h4>❖❖❖</h4>
+    <br></br>
+    <h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.askamanager.org/category/podcast">Ask A Manager Podcast</a></b></h4>
+    <a target="_blank" rel="noopener noreferrer" href="https://www.askamanager.org/category/podcast">
+            <img className="portrait" src="/images/askamanagerpodcast.jpg" alt="Ask A Manager Podcast" />
+            </a>
+    <br></br>
+    <p>"Need expert advice on handling workplace dilemmas and dramas? Alison Green, founder of the popular website AskAManager.org, is here to help you resolve your toughest, most frustrating, or just plain weirdest work predicaments. Each week, she takes calls and talks directly with listeners about how to successfully tackle clueless coworkers, toxic bosses, impossible employees, crazy clients, and much more."</p>
+    <p>I love that this show has a female host to discuss topics where people need help with their career. People call in needing advice about things like having a lazy coworker, wanting more feedback from their boss, feeling burnt out at work, and if they are being a mansplainer. I don't listen to every episode but if one is particularly applicable, I'm all about it. Check out the episode list to see which applies to you!</p>
+    <br></br>
+    <h4>❖❖❖</h4>
+    <br></br>
+    <h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.acast.com/athomewith">At Home With... Podcast</a></b></h4>
+    <a target="_blank" rel="noopener noreferrer" href="https://www.acast.com/athomewith">
+            <img className="portrait" src="/images/athomewithpodcast.jpg" alt="At Home With Podcast" />
+            </a>
+    <br></br>
+    <p>"‘At Home With…’ is the podcast series that’s part ‘Through The Keyhole' and part having a good ol’ catch-up on the sofa with your mates, brought to you by online content creators Lily Pebbles and Anna Newton. The two seasons of their chart-topping podcast see them interview a whole bevy of guests in the comfort of their own home."</p>
+    <p><a target="_blank" rel="noopener noreferrer" href="https://www.lilypebbles.co.uk/">Lily Pebbles</a> and <a target="_blank" rel="noopener noreferrer" href="https://www.theannaedit.com/">Anna Newton</a> are some of my favorite YouTubers and they made a podcast! What's unique about this show is that they go to other creators' homes to discuss their craft and chat about what home means to them. It's a nice escape to listen to how others live and Lily and Anna are always so upbeat that it uplifts my mood every time.</p>
+    <br></br>
+    <h4>❖❖❖</h4>
+    <br></br>
+    <p>The more I dig into the podcast world, the more I realize that this platform is truly special. The ability to get your word out there in the archives is inspiring. Maybe I'll make my own someday... there's a thought! What are some of your favorite podcasts hosted by women? Share in the comments below!</p>
+    <p>You can find my other podcast posts to date here:</p>
+        <p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2t4FlQy">Favorite Podcasts to Stay Informed</a></b></p>
+        <p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2sHyL1x">New Podcast Discoveries: Female Hosts Vol. 1</a></b></p>
+        <p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2GKOMcN">Favorite Podcasts in March 2018</a></b></p>
+        <p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2oFVYiz">Favorite Podcasts in February 2018</a></b></p>
+        <p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2EhLwEL">Favorite Podcasts in January 2018</a></b></p>
+        <p className="tabbed"><b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2FeaPHG">Favorite Podcasts of 2017</a></b></p>
+        <br></br>
+    <h4>❖❖❖</h4>
+        <br></br>
+    <h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+        <br></br>
+    <h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+        <br></br>
+    <h4>❖❖❖</h4>
+        <br></br>
+    <h4>YOU MIGHT ALSO LIKE:</h4>
+        <a className="three-up" href="/articles/new-podcast-discoveries-female-hosts">
+            <img src="/images/newpodcastdiscoveriesfemalehosts-preview.png" alt="New Podcast Discoveries Female Hosts" />
+            <p className="centered">New Podcast Discoveries: Female Hosts Vol. 1</p>
+        </a>
+        <a className="three-up" href="/articles/favorite-podcasts-of-2017">
+            <img src="/images/favoritepodcastsof2017.png" alt="Favorite Podcasts of 2017" />
+            <p className="centered">Favorite Podcasts of 2017</p>
+        </a>
+        <a className="three-up" href="/articles/plane-podcasts-barcelona-edition">
+            <img src="/images/planepodcasts-preview.png" alt="Plane Podcasts: Barcelona Edition" />
+            <p className="centered">Plane Podcasts: Barcelona Edition</p>
+        </a>
+    </div>
+    },
+
+{id: "young-professionals-guide-to-moving-to-nyc", title: <a href="/articles/young-professionals-guide-to-moving-to-nyc">Young Professional's Guide to Moving to NYC</a>, date: "August 13, 2018", category: "Life", photo: "/images/movingtonyc-preview.png",  description: <div><p>I never thought moving to New York City was possible. There's a lot of binary in how people end up here is portrayed in entertainment. You're either already born here with lots of money, or you hustle in a rat-infested studio with $20 in your pocket until you make it. But what if you're a professional who is ready to start life in a new place? Is moving to NYC that unattainable? Here's your detailed guide for how to move here as a professional. </p> <a href="/articles/young-professionals-guide-to-moving-to-nyc">[Read more]</a></div>,
+post: 
+    <div>
+        <img src="/images/nycmove.jpg" alt="NYC Move Times Square" />
+    <br></br>
+    <p>During the final year of my long pharmacy training journey, it was time to figure out where to actually work. I was reckoning with the fact that the world was my oyster for the first time. For most of my life I thought that I would follow some man I was in a relationship and my job would fit into it somehow. But when the time came, it was a co-decision based on MY tangible job prospects. What?!</p>
+    <p>I never thought New York City was even in the realm of possibilities. There is a lot of binary in how people end up here is portrayed in entertainment. You either grew up here already, or you came here with $20 in your pocket and started hustling while living in a rat-infested studio until right place, right time came knocking. Maybe you even tried it and ended up having to leave because the City was hard on you and practically it wasn't going to work out.</p>
+    <p>It was rare for me to find an example where you're able to move here like any other place. I guess it's not juicy enough for books and movies. But the reality is, yes there are <b>very</b> NYC-specific t's to cross and i's to dot to move here, but it is also <b>very</b> possible.</p>
+    <p>As a young professional with a ton of student loan debt and no savings, we relied on my partner for a lot of the upfront costs. I've also heard of others who borrowed from family during this transition time. Not everyone has these privileges, so please consider this. With any move, you are required some security deposits and initial month's rents. In NYC, if you're using a broker, that adds potentially thousands of dollars more.</p>
+    <p>Today I'll be sharing some of the nitty gritty of how to move here based on my experience and the insane research I did to try to make it smooth. We still met bumps in the road too, so <b>please learn from our mistakes</b>!</p>
+    <p>Any other tips you have? Share them in the comments below!</p>
+        <br></br>
+    <h4><b>land the job.</b></h4>
+    <p>Too obvious? Well, finding a job here wasn't as easy coming from the pharmacy field so I share this with the possibility that it may apply for you. A lot of the pharmacy jobs in the state of New York is a matter of already being here. I was told it's a lot easier to get hired if you're already in the state and licensed because there's a lot less patience to wait for you to take your exams, move here, etc.</p>
+    <p><b>➢Flex your network.</b>I didn't have this as much, except the fact that my current boss went to the same pharmacy school as me. I knew no one who worked in NYC, but the fact that we had that common bond in our training, she had a window into my capabilities so she took a chance on me.</p>
+    <p><b>➢Cold emails:</b> I was looking into an urban environment to move to, not just NYC. I did cold emails to directors and managers in hospitals in Chicago and Boston too. I got some responses and set up phone calls for potential job opportunities. Most of them had jobs "in the pipeline" or "being reviewed by human resources" but not actually available for application. But at the very least created that communication bridge where they continued reaching out to me for updates on those positions. The timing didn't work out for me, but these became essential backup plans.</p>
+    <p><b>➢Job forums:</b> Websites like <a target="_blank" rel="noopener noreferrer" href="https://www.indeed.com/">Indeed</a>, <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com">LinkedIn</a>, <a target="_blank" rel="noopener noreferrer" href="https://www.monster.com/">Monster</a>, etc. are there for a reason. USE THEM. Send in your application and see what happens. One tip coming from the administration world, you can consider reaching out to the hiring manager directly if you can figure out who it is. When you send applications it likely first gets filtered through a human resources department and the hiring manager may not even know about your application. If you reach out, then the hiring manager may be able to find your application themselves. </p>
+        <br></br>
+    <h4><b>find your hood.</b></h4>
+    <img className="portrait" src="/images/nycmove5.jpg" alt="NYC Move Central Park" />
+    <p>There are so many neighborhoods within the 5 boroughs of New York City. We decided early on that we wanted to be in Manhattan at least for the first year to get to know the City and that's where my job was. We decided to live anywhere along a direct line to my workplace because I valued direct lines that take longer over relying on a train transfer. We also wanted to have a separate bedroom knowing that my partner and I can have different sleep schedules and that many people would likely want to visit (this ended up being VERY true). And finally, we decided on the budget based on calculating how much you are going to make, subtract other bills and savings, and decide what you're willing to commit to with what's left over.</p>
+    <p>For little details, I used <a target="_blank" rel="noopener noreferrer" href="https://streeteasy.com/"> StreetEasy</a> to go "shopping" and figure out a lot of specific characteristics we wanted in an apartment. Here's are some descriptions directly from emails to our broker:</p>
+    <p className="tabbed">"Good price, good proximity to C line and 2 line to Trader Joe's and Central Park, nice kitchen, sunlight, small balcony. Different area from the rest, and open to looking around this area."</p>
+    <p className="tabbed">"Great location! Ceiling fans/lights, open kitchen/living room, bedroom can fit additional furniture"</p>
+    <p className="tabbed">"Ceiling fan, open floor plan"</p>
+    <p className="tabbed">"Upgraded kitchen, hardwood floors, great sunlight"</p>
+    <p className="tabbed">"Perfect location (proximity to Trader Joe's, Central Park, and metro lines to work)"</p>
+        <br></br>
+    <h4><b>the boring essentials.</b></h4>
+    <p><b>➢Get your paperwork together.</b> Streeteasy has a really great guide that shows what paperwork to bring. If you work with TripleMint, they also have a checklist of things to bring. We prepared things like letters of recommendation from our landlord at the time, tax returns, bank statements, and a letter from my employer on official letterhead stating my salary to ensure I made enough (40x the monthly rent) to qualify for the rent price.</p>
+    <p><b>➢Prepare your finances.</b> Finances are a big one, because you have to shell out quite a bit of money. Make sure you tell your bank that you plan to make large deposits in NYC and find out what your daily withdrawal limit is (and potentially increase it if possible). Find out from your broker if you'll be able to use a personal check vs. needing to get cashier's checks. We made the mistake of not bringing a cashier's check or finding out the daily bank withdrawal limit. That caused a lot of stress that could have been prevented, so learn from our mistakes!</p>
+        <br></br>
+    <h4><b>fly home.</b></h4>
+    <img className="portrait" src="/images/nycmove2.jpg" alt="NYC Move Apartment" />
+    <p><b>➢To broker or not?</b> Landing your dream apartment is a different experience in NYC compared to anyone else. We decided to use a broker because we were on a time crunch for our search time and didn't have the contacts within the city to set up appointments with locations. Once you decide to go with a broker, the timing is also important I tried reach out to brokers to start relationships as soon as I accepted my job and they essentially said it was too early. You can't really know what will truly be available except within a month of you moving. For those planners out there, that could be really stressful for you, but that's where the broker comes in.</p>
+    <p>The broker we used was <a target="_blank" rel="noopener noreferrer" href="https://www.triplemint.com/">TripleMint</a> and it was the best decision we made. We were able to start communications with our broker months before our tour dates. While it was too early to see which exact locations would be available, I was able to do research and show her places I liked and why. She was able to take this data to curate a tour that was the highest yield for us. After reaching out to multiple brokers, the experience with TripleMint from start to finish was the best one we came across.</p>
+    <p><b>➢The apartment tour.</b> When the day comes to see apartments it's quite a whirlwind. You'll see lots of places in a short amount of time so be prepared with walking shoes and potentially a metro card to get from place to place. Your broker will have different places booked to see ideally all in a row. You and your broker will meet with the broker for the place you are seeing (it sounds confusing but it's not in person) and they'll try to do their pitch for you. They may even try to ask if you want to see some of their other places that aren't on the market yet, or give some sort of "exclusive" access. Don't feel pressured to say yes if it's not in your budget. We said yes to some, and no to others based on our own personal criteria.</p>
+    <p>I took pictures of every place and then our broker kept a running rank list of the first couple on our list. After each location, we would compare it to our top choices and if it didn't compare, we erased it from our memory. The places quickly get mixed up especially when you see as many as 10 in a few hours. But once you find what you like, it's easy to tell with the next one how it compares. We ended up seeing about 10 locations and went with the 2nd one we saw. You'll never know which is the one!</p>
+    <p>Once you decide to rent a place, it's not necessarily guaranteed. There could be others who are also interested and you have to wait to see if they go with certain offers, they have to go through your application and finances, etc. We didn't need to do any negotiating but I have heard stories about it happening.</p>
+    <p><b>➢Before you leave.</b> TAKE MEASUREMENTS. It's no lie that the NYC apartments are a lot smaller than you may have experienced previously. You don't want to have to bring unnecessary items up multiple floors that won't even fit. Measure the rooms so you know what size AC unit to get if your place doesn't come with one. Measure counter surface area and cabinet spaces to know if your kitchen appliances will even fit.</p>
+        <br></br>
+    <h4><b>do the thing.</b></h4>
+    <img className="portrait" src="/images/nycmove1.jpg" alt="NYC Move UHaul" />
+    <p><b>➢Moving trucks.</b> If you get a place like ours, it's multiple flights up with no elevator. Granted, there are plenty of places with elevators. But still, the biggest tip I have here is to <b>get rid of as much as you can</b>. Now that you know the space you're going to be moving into (because you took measurements!), TRY to get rid of too much. Embrace minimalism, thank the objects that once gave you happiness but now are collecting dust, then say goodbye.</p>
+    <p>We took at least a dozen trips to the local thrift store to donate. We used Facebook groups to sell to local university students. We threw away what wasn't able to be sold or donated. And you know what? We don't remember anything we got rid of.</p>
+    <p><b>➢AC units.</b> If you move into a space without central air conditioning and it won't have a window unit already there, BRING ONE WITH YOU. You will want to have AC for your first night if you are moving in the warmer seasons. And make sure you <a target="_blank" rel="noopener noreferrer" href="https://www.homedepot.com/c/air_conditioners_HT_BG_AP"> research what size to get</a> based on the room measurements you took previously.</p>
+    <p><b>➢Getting the keys.</b> Depending on whether you are going to an independently owned walk-up or a building with a door man, there are different methods to getting keys to your apartment. For my walk-up, my key was stored in a lockbox within a random store in my neighborhood so I had to make sure I made it to New York with the moving truck in time before the store closed. It actually came pretty close because of underestimated traffic so luckily we had family in town who could get the key for us. Phew! Make sure you have a plan B. </p>
+    <p><b>➢Bribe friends.</b> We didn't hire movers but we did know some friends and family in the area that were willing to help. It was amazing (although next move we likely will hire movers), but I wasn't the one carrying a queen-sized mattress up 4 flights of stairs. The great thing about moving to NYC is that everyone who currently lives there knows the struggle, and will be there to support you. Thank them and pay it forward for the next batch of people coming to down!</p>
+    <p><b>➢Everything else.</b> Don't forget the other responsible things to do, because you're an adult.</p>
+    <p className="tabbed"> <a target="_blank" rel="noopener noreferrer" href="https://moversguide.usps.com/mgo/disclaimer?referral=ICOARedirectV2">Change your address through USPS</a></p>
+    <p className="tabbed"> <a target="_blank" rel="noopener noreferrer" href="https://www1.nyc.gov/site/idnyc/index.page">Get your FREE New York City ID card</a></p>
+    <p className="tabbed"> <a target="_blank" rel="noopener noreferrer" href="https://dmv.ny.gov/more-info/electronic-voter-registration-application"> REGISTER TO VOTE</a></p>
+        <br></br>
+    <h4><b>save hard, play hard.</b></h4>
+    <img className="portrait" src="/images/nycmove4.jpg" alt="NYC Move Comedy Show" />
+    <p>You just spent a LOT of money to lease an apartment and to make the actual move. Let it be known that there are LOTS of ways to spend even more money now. But when you wiped out your bank account with apartment deposits, how can you enjoy your new hometown?</p>
+    <p><b>Borrow now, pay later…</b>If you're like me and had over a month lapse before my first paycheck, the money was tight. I took out a credit card that had no interest accrue for the first 12 months. I'm not saying everyone should do this but it was an idea posed by some of my mentors and it got me through the time period with no income <b>because I knew I would be able to pay it off</b> (this is key when making this decision).</p>
+    <p><b>➢Ways to save.</b> Can't take out a credit card, or really don't want to? No worries! There are also lots of FREE things to do! One of my favorite recommendations when moving here was signing up for <a target="_blank" rel="noopener noreferrer" href="https://theskint.com/">The Skint</a>. It's a daily newsletter that shows the free and discounted things to do in the City that day, and during the upcoming days. Other ways to save include:</p>
+    <p className="tabbed"><b>Parks:</b> There are <a target="_blank" rel="noopener noreferrer" href="https://www.nycgovparks.org/events"> free things to do in all of the different parks</a>. Last year I saw <a target="_blank" rel="noopener noreferrer" href="http://www.laughterinthepark.org/">comedy shows in Washington Square Park</a>, <a target="_blank" rel="noopener noreferrer" href="https://www.centralpark.com/things-to-do/attractions/naumburg-bandshell/">orchestra concerts in Central Park</a>, <a target="_blank" rel="noopener noreferrer" href="https://www.timeout.com/newyork/theater/broadway-in-bryant-park">Broadway in Bryant Park</a>, and so much more.</p>
+    <p className="tabbed"><b>Museums:</b> There are <a target="_blank" rel="noopener noreferrer" href="https://www.nyc-arts.org/collections/35/free-museum-days-or-pay-what-you-wish">certain days where museums will have free entry</a> (in addition to the museums that are "pay what you want".</p>
+    <p className="tabbed"><b>Broadway:</b> Wanting to do a Broadway show? Try entering a <a target="_blank" rel="noopener noreferrer" href="https://lottery.broadwaydirect.com/">lottery</a>, or lining up at <a target="_blank" rel="noopener noreferrer" href="https://www.tdf.org/nyc/7/TKTS-ticket-booths">TKTS locations</a>.</p>
+    <p className="tabbed"><b>Drinks:</b> Happy hours are the only time I go out for those now.</p>
+    <p className="tabbed"><b>Meals:</b> And as much as I can, I go to Trader Joe's for and cook meals at home. The more you save, the more you can spend doing the things you really want to #treatyoself with.</p>
+    <p>As you can see, there's no shortage of tricks to make this play more affordable or offset the expenses that you have. It takes a lot of trial and error, and while the net is a higher cost of living, what you get out of it in my opinion is so much more than your bank account could ever understand.</p> 
+        <br></br>
+    <h4>❖❖❖</h4>
+        <br></br>
+    <h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+        <br></br>
+    <h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+        <br></br>
+    <h4>❖❖❖</h4>
+        <br></br>
+    <h4>YOU MIGHT ALSO LIKE:</h4>
+        <a className="three-up" href="/articles/my-free-nyc-winter-holiday-bucket-list">
+            <img src="/images/nycholiday-preview.png" alt="My Free NYC Winter Holiday Bucket List" />
+            <p className="centered">My Free NYC Winter Holiday Bucket List</p>
+        </a>
+    <a className="three-up" href="/articles/10-tips-for-orienting-yourself-to-a-new-job">
+        <img src="/images/orienting-yourself.jpg" alt="10 Tips for Orienting Yourself to a New Job" />
+        <p className="centered">10 Tips for Orienting Yourself to a New Job</p>
+    </a>
+        <a className="three-up" href="/articles/10-affordable-date-night-ideas-in-nyc">
+            <img src="/images/affordabledatenight-preview.png" alt="10 Affordable Date Night Ideas in NYC" />
+            <p className="centered">10 Affordable Date Night Ideas in NYC</p>
+        </a>
+    </div>
+    },
+
+{id: "10-things-i-loved-in-june-and-july", title: <a href="/articles/10-things-i-loved-in-june-and-july">10 Things I Loved in June and July</a>, date: "July 30, 2018", category: "Life", photo: "/images/10-things-i-loved-in-june-and-july-preview.png",  description: <div><p>New York City in the summer is an amazing thing. So many microadventures and guests staying on our futon - which has been AWESOME but also means my content creation has been on hold. For the first time I'll be combining two months in one, with a combined list of 10 things I've loved across June and July. What are some things you've loved this summer? </p> <a href="/articles/10-things-i-loved-in-june-and-july">[Read more]</a></div>,
+post: 
+    <div>
+        <img src="/images/10-things-i-loved-in-june-and-july-preview.png" alt="10 Things I Loved in June and July" />
+        <br></br>
+    <p>New York City in the summer is an amazing thing. So many microadventures and guests staying on our futon - which has been AWESOME but also means my content creation has been on hold. For the first time I'll be combining two months in one, with a combined list of 10 things I've loved across June and July. What are some things you've loved this summer? </p>
+        <br></br>
+    <p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2KwUgtX">5 Things I Loved in May</a></b></p>
+        <br></br>
+    <h4><b>wireless headphones.</b></h4>
+    <p><img src="/images/wirelessheadphones.jpg" alt="Wireless Headphones Smartomi" /></p>
+        <br></br>
+    <p>For my birthday in May, one of my closest friends got me <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Completely-Headphones-Cancelling-Hands-free-Smartphones/dp/B06XL11BJY/">Smartomi Q5 wireless headphones</a>. I'd never even told her about how much I hated detangling my headphones every time I get on the train. How much I hated holding my phone in my hand when I had no pockets (very common for women's clothing). She lives all the way in North Carolina and somehow she felt my frustrations from there. Needless to say, I use it every day and has increased my podcast-listening immensely.</p>
+        <br></br>
+    <p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2soh3AG">5 Things I Loved in May</a></b></p>
+        <br></br>
+    <h4><b>matcha.</b></h4>
+    <p><img className="portrait" src="/images/matcha.jpg" alt="Matcha" /></p>
+        <br></br>
+    <p>After attending <a target="_blank" rel="noopener noreferrer" href="http://candicekumai.com/">Candice Kumai's</a> matcha master class at the Wing, I decided to get my own tools and give it a go. I was already down to just one cup of coffee per day and was hoping to take advantage of the antioxidants in the matcha tea. So I made this switch. The first week I tried it, was after a lot of guests in town so I probably needed the coffee in the first place, but I was really tired. I was wondering if it was really doing anything but I was starting out with a small scoop with my bamboo spoon. Now I'm at a full-fledged spoonful dose and I'm really happy with it. The mindful act of making the tea, whisking it, adding collagen powder and almond milk, is a great start to the day. I don't feel any of the jitters or the low blood sugar feeling when it wears off. There are still some days I'll have coffee when I know I'll have a really long day or coming after a night of not sleeping very well, but that comes now only every few weeks.  </p>
+    <p>Do you enjoy matcha tea or a different drink each morning? Share them in the comments below!</p>
+        <br></br>
+    <h4>crazy ex-girlfriend.</h4>
+    <p><img src="/images/CrazyExGirlfriend.jpg" alt="Crazy Ex-Girlfriend" /></p>
+    <p>Image Source: <a target="_blank" rel="noopener noreferrer" href="https://www.vox.com/culture/2018/1/19/16885806/crazy-ex-girlfriend-songs-ranked-listVox">Vox</a></p>
+        <br></br>
+    <p>I was invited to a conference dedicated to Filipino entrepreneurs, <a target="_blank" rel="noopener noreferrer" href="http://www.phtimeisnow.com/">PH Time is Now</a>, and one of the panelists was Vincent Rodriguez III, one of the co-stars of <a target="_blank" rel="noopener noreferrer" href="http://www.cwtv.com/shows/crazy-ex-girlfriend/">Crazy Ex-Girlfriend</a>. I'd never heard of it but when he spoke of the representation of Filipino culture in the show, I had to check it out. My partner and I sped through all 3 seasons in a matter of weeks. It not only was infused with Filipino culture, but it also touches on feminism, mental health, challenges cultural taboos, all in the context of musical television. I'm sad we have to wait so long for the [final] season 4. But it's not one of my life goals to see Rachel Bloom do <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=Ax8tEEgAxUM">standup comedy live</a>. </p>
+        <br></br>
+    <p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2r7hlxE">Being "Not That" Asian</a></b></p>
+        <br></br>
+    <p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2s2wcqK">Growing Up Asian American Tag</a></b></p>
+        <br></br>
+    <h4><b>races i didn't run.</b></h4>
+    <p><img src="/images/achilles4miler.jpg" alt="NYRR Achilles 4 Miler" /></p>
+        <br></br>
+    <p>June was a big month for races I didn't run, but documented. My partner is training for the New York City Marathon and happened to sign up for a few races through New York Road Runners, especially ones that had finishing medals. It gave me the chance to practice vlogging with my Canon EOS M50 and then also with my video editing skills. You can check out some of them here for the <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=TfoKwE3YbOw">Queens10K</a> and <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=bHGf1HHX7kk&t=21s">Italy Run 5 Miler</a>.</p>
+        <br></br>
+    <p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2Ec42NK">10 Lessons For Your First Skiing Experience</a></b></p>
+        <br></br>
+    <h4><b>rooftops.</b></h4>
+    <p><img className="portrait" src="/images/rooftop.jpg" alt="Wing Rooftop" /></p>
+        <br></br>
+    <p>There were lots of days in June where the weather was absolutely perfect. Sunny, not humid, and in the 70's. For many of these days, I was able to go to <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/the.wing/">the Wing</a> after work and relax on the rooftop. I mean, you see the picture. Need I say more? </p>
+        <br></br>
+    <h4><b>ozyfest 2018.</b></h4>
+    <img className="two-up" src="/images/OzyFest1.jpg" alt="Ozy Fest 1" />
+    <img className="two-up" src="/images/OzyFest2.jpg" alt="Ozy Fest 2 Michelle Wolf" />
+           <br></br>
+    <p><a target="_blank" rel="noopener noreferrer" href="https://www.ozy.com/ozyfest">OZY Fest</a> was something I learned about just a week before it was scheduled and once my partner saw the line up in an ad on social media, he immediately bought tickets for us. This was its third year in production. Line up included Hilary Clinton, Michelle Wolf, Malcolm Gladwell, Roxane Gay, Chelsea Handler, Kristen Gillebrand, Marcus Samuelsson, Grouplove, Common, Jemele Hill, Hasan Minahj, and so much more. It was marketed as part TED Talks, part music festival, part food fair and I can see that. To be able to go from a political/cultural discussion, to a food demonstration, to a book signing, to a comedy show, to a concert was the most unique events I've experienced in a very long time. AND it was in Central Park!? I can't wait for 2019! </p>
+        <br></br>
+    <p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2t4FlQy">Favorite Podcasts to Stay Informed</a></b></p>
+        <br></br>
+    <h4><b>the magicians.</b></h4>
+    <p><img src="/images/themagicians.jpg" alt="The Magicians" /></p>
+    <p>Image source: <a target="_blank" rel="noopener noreferrer" href="https://www.wired.com/2017/01/magicians-season-2-review/">Wired</a></p>
+        <br></br>
+    <p>After I finished Crazy Ex-Girlfriend, I was in search for a new episode and it was recommended that I watch the Magicians. I was told it was like Harry Potter in New York City, combined with Chronicles of Narnia, with feminist writers and a diverse cast. After watching, all of the description was totally accurate and more. I watched all three seasons in the matter of a couple of weeks, looking forward to the marathon sessions after work each night. The writing in Season 1 is a little choppy and you're not sure who you can root for, but the subsequent seasons the writing became incredibly deep and complex. I have to wait until 2019 for Season 4 now?! So sad. </p>
+        <br></br>
+    <h4><b>shine happy hour.</b></h4>
+    <p><img className="portrait" src="/images/Shine.jpg" alt="Shine Text" /></p>
+        <br></br>
+    <p>I've been part of the Shine community since 2015. In October 2017, I even wrote an article all about signing up. When I started Coffee Meets Polished, I had a list of business I would love to work with someday, and Shine is first on that list. A couple of weeks ago on International Self-Care Day, I was invited to the Shine Headquarters in Midtown Manhattan for Happy Hour with Shine staff and other NYC-based members. It was such an amazing time and a great opportunity for my experience to come full circle! I was even given some sweet Shine swag with a bottle and tote bag that I love sporting around now. And to make the day even more special, I was gifted a complimentary <a target="_blank" rel="noopener noreferrer" href="https://dreamerybycasper.com/">Casper nap</a> experience at my leisure. I haven't booked it yet, but I will definitely be doing it soon!</p>
+    <p>If you're interested in signing up for Shine texts (it's free!), you can use my referral link <a target="_blank" rel="noopener noreferrer" href="www.shinetext.com/?r=88DMj2b">HERE</a>.</p>
+        <br></br>
+    <p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2njynUl">Embracing the Shine</a></b></p>
+        <br></br>
+    <h4><b>friend-ventures.</b></h4>
+    <p><img className="portrait" src="/images/taiyaki.jpg" alt="Taiyaki" /></p>
+        <br></br>
+    <p>When I was preparing to live in NYC, I was warned that friends would start wanting to visit. That has turned out to be very true, and I'm glad we invested in our own bedroom and a futon in anticipation. That being said, getting to spend weekends with old friends and showing them my favorite ways to experience New York City has been such a privilege. In June and July, I had multiple different guests throughout the different weekends and it was so much fun getting to be a tourist along with them and have microadventure after microadventure. It's easy to get into routine with your home and work commute radius, and having friends visits helps you snap out of it.</p>
+        <br></br>
+    <p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2EqkwXH">10 Affordable Date Night Ideas in NYC</a></b></p>
+        <br></br>
+    <h4><b>beauty blender.</b></h4>
+    <p><img className="portrait" src="/images/beautyblender.jpg" alt="Beauty Blender" /></p>
+        <br></br>
+    <p>I purchased a <a target="_blank" rel="noopener noreferrer" href="https://www.sephora.com/product/beautyblender-P228913">Beauty Blender</a> years ago, but never used it. I kept it in my makeup drawers and moved it from place to place without being touched. I was happy with my brushes for a while and felt lazy to get it wet before use, since the bathroom was alllll the way in the other side of my tiny NYC apartment. First world problems, eh? But I finally got over it and started using it, and I don't know how to go back to my brushes. It not only blends my foundation perfectly and smoothly, but it's also like a morning face massage. What better way to start the morning?</p>
+    <p>Side note, I recently listened to an episode of <a target="_blank" rel="noopener noreferrer" href="https://breakingbeautypodcast.com/">Breaking Beauty Podcast</a> that had the <a target="_blank" rel="noopener noreferrer" href="https://breakingbeautypodcast.com/podcast-episodes/2018/7/27/ep-32-beautyblender-founder-rea-ann-silva">Beauty Blender founder, Rea Ann Silva,</a> where I learned all about the start of her business and details behind product development. It gave me a whole new level of appreciation for it!</p>
+        <br></br>
+    <p>[RELATED] <b><a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2sHyL1x">New Podcast Discoveries with Female Hosts</a></b></p>
+        <br></br>
+    <h4>❖❖❖</h4>
+        <br></br>
+    <h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+        <br></br>
+    <h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+        <br></br>
+    <h4>❖❖❖</h4>
+        <br></br>
+    <h4>YOU MIGHT ALSO LIKE:</h4>
+        <a className="three-up" href="/articles/feminist-book-list-summer-edition">
+            <img src="/images/feministbooklist_summer2018-preview.png.png" alt="feminist-book-list-summer-edition" />
+            <p className="centered">Feminist Book List: Summer Edition</p>
+        </a>
+        <a className="three-up" href="/articles/5-things-i-loved-in-may-2018">
+            <img src="/images/5-things-i-loved-in-may-2018.png" alt="5-things-i-loved-in-may-2018" />
+            <p className="centered">5 Things I Loved in May</p>
+        </a>
+        <a className="three-up" href="/articles/when-i-stopped-apologizing-for-needing-solitude">
+            <img src="/images/solitude-preview.png" alt="when-i-stopped-apologizing-for-needing-solitude" />
+            <p className="centered">When I Stopped Apologizing for Needing Solitude</p>
+        </a>
+    </div>
+    },
+
+{id: "i-am-american-guest-post", title: <a href="/articles/i-am-american-guest-post">I Am American [GUEST POST]</a>, date: "July 4, 2018", category: "Activism", photo: "/images/american-preview.png",  description: <div><p>It's Independence Day here in the United States of America! For today's post I knew I wanted it to be about what it means to be an American. Then I realized with the political and cultural climate here these days that I wanted to highlight a very special story of someone who spent over a decade in the US before deciding to become a US citizen. Today, I share the story of my very own mom. </p> <a href="/articles/i-am-american-guest-post">[Read more]</a></div>,
+post: 
+    <div>
+        <img src="/images/american1.jpg" alt="I Am American Guest Post" />
+    <br></br>
+<p><b>*Content for this article is written from the perspective of the guest writer.*</b></p>
+<p>On this day in 2004, I took the <a target="_blank" rel="noopener noreferrer" href="https://www.uscis.gov/us-citizenship/naturalization-test/naturalization-oath-allegiance-united-states-america">Oath of Citizenship</a> and became a <a target="_blank" rel="noopener noreferrer" href="https://www.uscis.gov/sites/default/files/files/article/chapter5.pdf">naturalized citizen</a> of the United States of America (USA). It was a day of mixed emotions of both happiness and sadness after living in the USA for 17 years. I felt happy that I was about to become an American citizen after living here for so long, and to join my family in common citizenship. However, I also felt sad because I was about to “absolutely and entirely renounce and abjure all allegiance and fidelity” to my country of birth: the Philippines.</p>
+<p>When I was asked to write about what it means to me to be an American, a lot went through my mind. To dig into it, I have to share how I came to the United States, the process it took to be able to stay and later decide to pursue citizenship, and the bumps along the way that ultimately led to that “American Dream”. But with the climate in this country as it stands today, I’ve started questioning what this means on a new level I’ve never experienced before.</p>
+   <br></br>
+<h4><b>coming to a new country.</b></h4>
+        <img src="/images/american2.jpg" alt="I Am American Guest Post" />
+    <br></br>
+<p>I immigrated to the US in November 1987. I was only 21 years old and only 4 months married to my husband, Ralph. Ralph was accepted to pursue his Doctor of Philosophy (PhD) degree in Puerto Rico after completing his Master of Science degree in Rhode Island a month before our wedding. He came on a nonimmigrant, <a target="_blank" rel="noopener noreferrer" href="https://www.uscis.gov/working-united-states/students-and-exchange-visitors">Student Visa (F1)</a> and I was able to join him as a Spouse of a student on an F2 visa.  At the time I left on that intercontinental flight from the Philippines, I didn’t think I would be staying here for good.</p>
+<p>That was 31 years ago.</p>
+   <br></br>
+<h4><b>becoming a permanent resident.</b></h4>
+        <img src="/images/american3.jpg" alt="I Am American Guest Post" />
+    <br></br>
+<p>Our transition from nonimmigrant status to Permanent Residents, and later to US citizens was not easy nor was it quick. There was a period of 11 years that we didn’t see our families in the Philippines because we didn’t want to risk visiting and not being able to come back to the US. </p>
+<p>While we were in graduate school, one of our friends had changed status from a <a target="_blank" rel="noopener noreferrer" href="https://www.uscis.gov/working-united-states/students-and-exchange-visitors">Student (F1)</a> to a <a target="_blank" rel="noopener noreferrer" href="https://en.wikipedia.org/wiki/H-1B_visa">Working (H-1B) visa</a> after he was employed by a company in Puerto Rico.  He brought his family for a visit to Mexico and their application for a change in status was denied at the US Embassy in Mexico.  You see, changing one nonimmigrant status to another is acceptable within the US.  However, one's status does not change in the eyes of the US Embassy when you <b>leave</b> the country.  In order for you to return to the US with the new status, you have to apply for the visa at US Embassy.  Since the Consular offices are autonomous units from the Immigration and Naturalization Services in the country, they can either deny or approve your application.</p>
+<p>As an F2 visa holder, I was not eligible to work.  We were living on $500 a month for the first year and that was a struggle.  I also was not covered by Ralph's student health insurance. It was then I realized the only option was for me to go to graduate school as well.  A year after I arrived, I was in graduate school for a Master’s Degree in Marine Sciences.</p>
+<p>During this time, I also became pregnant with our first daughter, Erin. It was a scary period because we were far from our families in a different country where we didn’t speak the primary language (Spanish). This was when we were introduced to the amazing social programs afforded to American citizens. Even though I only had a Student Visa, I became eligible to receive Medicaid and <a target="_blank" rel="noopener noreferrer" href="https://www.fns.usda.gov/wic/women-infants-and-children-wic">Special Supplemental Nutrition Program for Woman, Infant and Children (WIC)</a> because I was carrying a soon-to-be American citizen. That such an enormous help for us who were living on graduate assistantships since this was the only way I could earn an income (working outside the university was prohibited). That was the first and last time we received welfare from the government, and we will always be grateful for this to get us through those tough times.</p>
+    <br></br>
+        <img src="/images/american5.jpg" alt="I Am American Guest Post" />
+    <br></br>
+<p>After we both finished our degrees, I expected that we would move back to the Philippines. But alas, an amazing opportunity came for Ralph and we moved to Tallahassee, FL instead where Ralph did his post-doctoral training at Florida State University. Florida has been home since 1995. In 2000, my husband and I became Permanent Residents, also known as <a target="_blank" rel="noopener noreferrer" href="https://www.uscis.gov/greencard">Green Card holders</a>. As a Permanent Resident, we were eligible to all entitlements such as Food Stamps and Medicaid but were not eligible to vote. We also still carried Philippine passports, so should we travel outside the country and conflict ensues, we would not have been able to seek help or shelter in a US Embassy.</p>
+   <br></br>
+<h4><b>path to citizenship.</b></h4>
+<p>Five years after having Permanent Resident status, we became eligible to apply for US citizenship. Ralph immediately applied for citizenship so he could easily travel overseas for work without having to apply for a visa to other countries. As a US citizen he could also vote. At this time, I decided to wait. Honestly, I didn’t feel that I needed to. I was not interested in voting for President, and I wasn’t traveling overseas except to the Philippines. Lastly, and at the time, most importantly, I could not get myself to “renounce all allegiance” to the Philippines. So, I was the only non-US passport holder in the family for a few years.</p>
+<p>When we finally traveled to the Philippines after 11 years of absence, I had to line up on the non-US citizens line at Immigration even when I pushed my daughter in a stroller who was only 1 year old then and an American citizen. I had to go through the US citizen line for her and lined up in the Non-US one for me. In 2002, we took a road trip up to Niagara Falls. We didn’t go to the Canadian side because we were not sure I could cross the border without a Canadian visa since I was not a US citizen.</p>
+<p>I had a great life in this country as a Permanent Resident from 1996-2004. Ralph was doing great as a University professor and I had just started my career as a high school teacher. We also purchased our new home and drove new cars. Our two daughters, Erin and Megan, attended public schools, played in the school orchestra and both were active in the Student Government.</p>
+<p>We were living the quintessential American dream. This was home.</p>
+        <img src="/images/american4.jpg" alt="I Am American Guest Post" />
+    <br></br>
+<p>Then came September 11, 2001. For the first time, I felt some anti-immigrant sentiment even though it definitely was not directed towards Filipinos. It concerned me that I might get separated from my family since I was not a US citizen. So after all those years as a Permanent Resident, I decided that it was time to work on <a target="_blank" rel="noopener noreferrer" href="https://www.usa.gov/become-us-citizen">becoming a US Citizen</a>.  The <a target="_blank" rel="noopener noreferrer" href="https://www.uscis.gov/citizenship/learners/apply-citizenship">initial application</a> is followed by a complete background check and a Medical check up with an INS approved medical doctor. The doctor we were assigned practiced in Jacksonville, hours from where we live! As soon as both of these checked out, I had to take and pass the  <a target="_blank" rel="noopener noreferrer" href="https://my.uscis.gov/prep/test/civics">Citizenship test</a>.</p>
+<p>I was one of at least 50 other Permanent Residents who took the Oath on a hot July morning at <a target="_blank" rel="noopener noreferrer" href="https://disneyworld.disney.go.com/destinations/epcot/">Epcot in Walt Disney World</a>. After the we took the Oath of Citizenship and recited the Pledge of Allegiance, we were warmly welcomed by a video message by then President George W. Bush. After the ceremony, we had the option to change our names. I decided to keep mine.</p>
+<p>From the moment I arrived in the US, I have always felt welcomed. In Puerto Rico on a Student Visa being able to use welfare for my daughter, as a Permanent Resident for over a decade in Florida, and finally as a US Citizen for over a decade.</p>
+<p>This feeling all changed after the 2016 election.</p>
+<h4><b>everything changed.</b></h4>
+        <img src="/images/american7.jpg" alt="I Am American Guest Post" />
+    <br></br>
+<p>Since the election, and for the first time since I immigrated to the US, I started to feel different or “foreign” in my adopted country that was supposed to welcome and thrive under its diversity. The anti-immigrant rhetoric that then candidate Donald Trump professed, albeit towards citizens south of the border and Muslim countries, has made me feel self-conscious about my ethnicity. It doesn’t help that my skin color is the same as the group that he has shown much contempt for. When I used to proudly show off my tan skin color, now I feel so visibly different. I even find myself wondering what the white people I meet might be thinking. Are they thinking that I am illegal here?</p>
+<p>I have begun to question the actions of others towards me as well. Did the rude attitude of that store clerk happen only because she was having a bad day or because of my skin color and where I must be from? When the group of two white couples who came after us at a restaurant take the table that we were clearly waiting to sit at do so because we looked different? We were not even given the courtesy of being asked if we were waiting for the table to be cleared.</p>
+<p>What’s more is now I am even scared to do anything wrong such as something as mundane as pushing a shopping cart into the cart parking at our local supermarket lest I be looked down on for not doing the right thing because we are brown skinned.</p>
+<p>Have we really come to this?  Have we gone back to the 60s and segregation?  Sad, but this is now my reality as a Filipino-American in America today.</p>
+   <br></br>
+<h4><b>i am american.</b></h4>
+        <img src="/images/american6.jpg" alt="I Am American Guest Post" />
+    <br></br>
+<p>I have lived in this country more than I lived in my country of birth. I have worked with people from different ethnicities with no problem all these years. I have lived here long enough to have known some of the kindest and most generous people out there. Two of my best friends are a proud Tennessee native and Iranian-American, and we have been friends for over 21 years. I have also seen first hand how everyone here rallies together to help other countries or our own neighbors after natural disasters.</p>
+<p>My husband and I, together with American and Filipino-American friends, founded a Filipino-American organization, <a target="_blank" rel="noopener noreferrer" href="http://www.sanlahi.org/">Sanlahi, Inc.</a> One of our goals is to foster unity between cultures.  We are celebrating the 10th year anniversary for the organization next year.</p>
+<p>Writing this post reminded me that the America I know has a good heart.  We have to work with others who share the same belief that who believe that we are already a great country. I will do my part to make sure that everyone who is here, no matter their religion or country of origin, is treated with dignity and respect.  I will continue to stand up for equality for women, for freedom of the press and for the protection of the environment.</p>
+    <br></br>
+    <h4>❖❖❖</h4>
+    <br></br>
+    <img className="portrait" src="/images/joy.jpg" alt="Joy" />
+    <br></br>
+<p>Joy currently resides in Melbourne with her husband, Ralph. By day, she works from home as a Biology instructor for the Florida Virtual School. By night she is an avid hobbyist - she is a crafter, knitter, runner, furniture rehabber, home decorator, multi-level marketer, cultural dancer, <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/user/tchrspet2001">You-tuber</a>, foodie, event planner, florist, wanna be minimalist and travel planner.  She writes about all these “hobbies in her blog, <a target="_blank" rel="noopener noreferrer" href="http://www.joyousserendipity.com">Joyous Serendipity</a>.  A life long Catholic, she is currently walking with her husband in formation for the Permanent Diaconate.  At the end of the day, she is really just happy being grandma to her new grandson, Zeke.</p>
+        <br></br>
+    <h4>❖❖❖</h4>
+        <br></br>
+    <h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+        <br></br>
+    <h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+        <br></br>
+    <h4>❖❖❖</h4>
+        <br></br>
+    <h4>YOU MIGHT ALSO LIKE:</h4>
+    <a className="three-up" href="/articles/what-you-dont-expect-when-youre-expecting">
+        <img src="/images/guestpost-ppd-preview.png" alt="What You Don't Expect When You're Expecting" />
+        <p className="centered">What You Don't Expect When You're Expecting [GUEST POST]</p>
+    </a>
+    <a className="three-up" href="/articles/growing-up-asian-american-tag">
+        <img src="/images/growing-up-aa-tag-preview.png" alt="Growing Up Asian American Tag" />
+        <p className="centered">Growing Up Asian American Tag</p>
+    </a>
+        <a className="three-up" href="/articles/favorite-podcasts-to-stay-informed">
+            <img src="/images/podcastsinformed-preview.png" alt="Favorite Podcasts to Stay Informed" />
+            <p className="centered">Favorite Podcasts to Stay Informed</p>
+        </a>
+    </div>
+    },
+
+{id: "feminist-book-list-summer-edition", title: <a href="/articles/feminist-book-list-summer-edition">Feminist Book List: Summer Edition</a>, date: "June 25, 2018", category: "Activism", photo: "/images/feministbooklist_summer2018-preview.png",  description: <div><p>Summer is here and the parks are the perfect place to lay out in the grass and enjoy a good book. Here in NYC my favorite spots [in Manhattan] are Central Park and Bryant Park (which is conventiently right next to the New York Public Library!) . Grab yourself a delicious summer drink while your eyes and mind feast on my latest Feminist Book List: Summer Edition. </p> <a href="/articles/feminist-book-list-summer-edition">[Read more]</a></div>,
+post: 
+    <div>
+        <img src="/images/feministbooklist_summer2018-preview.png" alt="Feminist Book List: Summer Edition" />
+    <br></br>
+    <br></br>
+    <h4>❖❖❖</h4>
+    <br></br>
+    <h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Make-Trouble-Standing-Speaking-Lead-My/dp/1501187597/">Make Trouble: Standing Up, Speaking Out, and Finding the Courage to Lead</a></b></h4>
+    <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Make-Trouble-Standing-Speaking-Lead-My/dp/1501187597/">
+            <img className="portrait" src="/images/maketroublebook.jpg" alt="Make Trouble Book" />
+            </a>
+    <br></br>
+    <p>In the past year as I've been expanding my feminist knowledge, I've gotten to know who some of the current feminist icons are and why. One of them I came to learn about was Cecile Richards, an activist who served as the <a target="_blank" rel="noopener noreferrer" href="https://www.plannedparenthood.org/about-us/our-leadership/cecile-richards">president of Planned Parenthood Federation of America</a> starting in 2006 and stepped down this year after 12 years in the role. She came out with Make Trouble to share her lifelong journey of activism and resistance. Getting to see her and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/lcollinsp?lang=en">Lauren Peterson</a> during their book tour was an amazing experience. Reading the book was equally amazing, if not more. </p>
+    <br></br>
+    <h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Kintsugi-Wellness-Japanese-Nourishing-Spirit/dp/0062669850/">Kintsugi Wellness: The Japanese Art of Mind, Body, and Spirit</a></b></h4>
+    <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Kintsugi-Wellness-Japanese-Nourishing-Spirit/dp/0062669850/">
+            <img className="portrait" src="/images/kintsugiwellnessbook.png" alt="Kintsugi Wellness Book" />
+            </a>
+    <br></br>
+    <p>I mentioned Kinstugi Wellness by <a target="_blank" rel="noopener noreferrer" href="http://candicekumai.com/">Candice Kumai</a> in a recent post so I had to list her latest book here. It reads like a memoir of Candice's Japanese culture  in combination with comprehensive wellness. It's filled with recipes and paired with the written passages throughout the pages. The pictures were all designed and taken by Candice and you can tell she poured her entire heart and soul into this work of art. </p>
+    <br></br>
+    <h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Not-That-Bad-Dispatches-Culture/dp/0062413511/">Not That Bad: Dispatches from Rape Culture</a></b></h4>
+    <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Not-That-Bad-Dispatches-Culture/dp/0062413511/">
+            <img className="portrait" src="/images/notthatbadbook.jpg" alt="Not That Bad Book" />
+            </a>
+    <br></br>
+    <p>Not That Bad is a collection of essays that tackle rape, assault, and harassment,  edited and with an introduction by <a target="_blank" rel="noopener noreferrer" href="http://www.roxanegay.com/">Roxane Gay</a>. I've read two of her other books (with many more to catch up on), including <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Bad-Feminist-Essays-Roxane-Gay/dp/006269569X/">Bad Feminist</a> and <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Hunger-Memoir-Body-Roxane-Gay/dp/0062362593/">Hunger</a>. Both were incredibly moving and were true showcases of her craft. If you want to listen to honest and revealing truths, Not That Bad will not disappoint. </p>
+    <br></br>
+    <h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Ask-Me-About-My-Uterus/dp/1568585810/">Ask Me About My Uterus: A Quest to Make Doctors Believe in Women's Pain</a></b></h4>
+    <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Ask-Me-About-My-Uterus/dp/1568585810/">
+            <img className="portrait" src="/images/askmeaboutmyuterusbook.jpg" alt="Ask Me About My Uterus Book" />
+            </a>
+    <br></br>
+    <p>I'm a health care professional and have seen firsthand the value of resources that support women's health. From a cultural and activist perspective, I've also learned about the consequences of not believing women's pain and the effect of this from an individual and societal level. <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Ask-Me-About-My-Uterus/dp/1568585810/">Ask Me About My Uterus</a> by Abby Norman describes her experience of having her pain dismissed and puts them in a sociocultural and political context. </p>
+    <br></br>
+    <h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Girls-Guide-Joining-Resistance-Feminist/dp/0062748084/">A Girl's Guide to Joining the Resistance: A Feminist Handbook on Fighting for Good</a></b></h4>
+    <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Girls-Guide-Joining-Resistance-Feminist/dp/0062748084/">
+            <img className="portrait" src="/images/agirlsguidebook.jpg" alt="A Girl's Guide to Joining the Resistance Book" />
+            </a>
+    <br></br>
+    <p>I've spoken a lot about the International Women's Day event where Emma Gray promoted her book and organized a panel of other feminist icons to join her in a conversation. That book is Girl's Guide to Joining the Resistance: A Feminist Handbook on Fighting for Good and it is filled with <b>actionable</b> steps of getting involved to make change in the world. Inspired by the results of the 2016 presidential election, this book is intersectional, empowering, and focuses on the importance of <b>your</b> story. </p>
+    <br></br>
+    <h4><b><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/DIY-Rules-WTF-World-Creative/dp/1538712334/">DIY Rules for a WTF World: How to Speak Up, Get Creative, and Change the World</a></b></h4>
+    <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/DIY-Rules-WTF-World-Creative/dp/1538712334/">
+            <img className="portrait" src="/images/diyrulesbook.jpg" alt="DIY Rules for a WTF World" />
+            </a>
+    <br></br>
+    <p>When I participated in my <a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2FVnQr0">first Women's March</a> this year, my mom knitted me a pussy hat. When I came to learn that the creator of the design and movement was an Asian woman I was so excited to hear about her story. Crafting for me during residency was my mindfulness activity and mental health survival. To see how it could be used to create social change with the <a target="_blank" rel="noopener noreferrer" href="https://www.pussyhatproject.com/">Pussyhat Project</a> was absolutely inspiring. </p>
+    <br></br>
+    <br></br>
+    <p>Want more? Check out <a target="_blank" rel="noopener noreferrer" href="https://www.bitchmedia.org/article/bitchreads-june-2018-selections">Bitch Media's list of feminist books</a> that came out (or are coming out) this month. It's full of recommendations that I can't wait to check out!</p>
+    <p>What are you reading this summer? I'd love to know! Share in the comments below and let's have a conversation.</p>
+    <br></br>
+    <h4>❖❖❖</h4>
+    <br></br>
+    <h4>Like what you read?  Never miss an article and ☞ <a href="http://coffeemeetspolished.us16.list-manage.com/subscribe/post?u=1242ec8cf431dc6b8e8ddb9dc&id=256c307a06" target="_blank" rel="noopener noreferrer">SUBSCRIBE</a>!</h4>
+    <br></br>
+    <h4>Follow Coffee Meets Polished on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/coffeemeetspolished/">Instagram</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/coffeeMpolished">Twitter</a> too!</h4>
+    <br></br>
+    <h4>❖❖❖</h4>
+    <br></br>
+    <h4>YOU MIGHT ALSO LIKE:</h4>
+    <a className="three-up" href="/articles/feminist-book-list-winter-edition">
+        <img src="/images/feministbooklistwinter-preview.png" alt="Feminist Book List: Winter Edition" />
+        <p className="centered">Feminist Book List: Winter Edition</p>
+    </a>
+        <a className="three-up" href="/articles/new-podcast-discoveries-female-hosts">
+            <img src="/images/favoritepodcastsof2017.png" alt="new-podcast-discoveries-female-hosts" />
+            <p className="centered">New Podcast Discoveries: Female Hosts</p>
+        </a>
+        <a className="three-up" href="/articles/books-i-read-in-2017">
+            <img src="/images/reading2017.jpg" alt="books-i-read-in-2017" />
+            <p className="centered">Books I Read in 2017</p>
+        </a>
+    </div>
+    }, 
+
 {id: "favorite-podcasts-to-stay-informed", title: <a href="/articles/favorite-podcasts-to-stay-informed">Favorite Podcasts to Stay Informed</a>, date: "June 18, 2018", category: "Activism", photo: "/images/podcastsinformed-preview.png",  description: <div><p>Listening to podcasts has started to replace a lot of my usual TV watching and music listening. Since I listen to them hours per day I thought I'd share some of my favorites in particular categories. <b>Next up: podcasts to keep up with current events around the world.</b> </p> <a href="/articles/favorite-podcasts-to-stay-informed">[Read more]</a></div>,
 post: 
 	<div>
